@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<title>mohsin ali</title>
+<meta charset="utf-8" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div>
+		<h1>IVF rate using the 4/2/1 rule</h1>
+		<p>How many times maintenance?</p>
+		<input type="text" id="times" value="1">
+		<br>
+		<br>
+		<p>Enter weight (kg):</p>
+		<input type="text" id="wt">
+		<br>
+		<br>
+		<button onclick="ivf()">Calculate</button>
+		<p id="answer"></p>
+
+   <script>
+    	function ivf() {
+	    	var wt = document.getElementById("wt").value;
+	    	var i = parseFloat(wt)
+
+	    	var times = document.getElementById("times").value;
+	    	var multiplier = parseFloat(times);
+
+	    	if (0 <= i && i <= 10) result = i * 4 * multiplier;
+	    	else if (10 < i && i <= 20) result = ((i - 10) * 2 + 40) * multiplier;
+	    	else if (20 < i && i <= 60) result = (i + 40) * multiplier;
+	    	else if (60 < i) result = 100 * multiplier;
+	    	else result = NaN;
+
+	    	if(!isNaN(result) && multiplier > 0) document.getElementById("answer").innerHTML="The IVF rate is "+result+" ml/hr.";
+	    	else document.getElementById("answer").innerHTML="Hmm, did you put in proper numbers?";
+    	}
+    </script>
+</div>
+</body>
+</html>
