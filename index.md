@@ -63,12 +63,12 @@ VPNs:
 ### Resources:
 
 - [BMC NB Board](files/bmc-ward-board.jpeg)
-- [CHPCC Vaccines & Screening Board] (files/chpcc-clinic-board.jpg)
-- [DKA 2-bag Method Calculator (VPN/Intranet only)] (http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
-- [Jia's Quick Hits] (https://www.dropbox.com/sh/0ch5lfyelxu2v8r/AAAs4bK_pqlr0FpEw8LoC4dCa?dl=0&lst=)
-- [Ladd or Gross?] (files/ladd-gross.jpeg)
-- [Lac Repair Guide] (files/laceration-repair-guide.pdf)
-- [New England Consortium] (https://newenglandconsortium.org/for-professionals)
-- [Rick Malley's antibiotic charts] (https://static1.squarespace.com/static/55c666c9e4b08b99adb9cf05/t/59242fadbe6594d8a0b3825c/1495543725984/Antibiotic+Coverage+Charts.pdf)
+- [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
+- [DKA 2-bag Method Calculator (VPN/Intranet only)](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
+- [Jia's Quick Hits](https://www.dropbox.com/sh/0ch5lfyelxu2v8r/AAAs4bK_pqlr0FpEw8LoC4dCa?dl=0&lst=)
+- [Ladd or Gross?](files/ladd-gross.jpeg)
+- [Lac Repair Guide](files/laceration-repair-guide.pdf)
+- [New England Consortium](https://newenglandconsortium.org/for-professionals)
+- [Rick Malley's antibiotic charts](https://static1.squarespace.com/static/55c666c9e4b08b99adb9cf05/t/59242fadbe6594d8a0b3825c/1495543725984/Antibiotic+Coverage+Charts.pdf)
 
 Thank you for visiting!
