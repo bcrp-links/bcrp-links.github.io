@@ -7,12 +7,11 @@
 ### Virtual rounding resources
 
 - [BCH Zoom Resources & Bedside Numbers](http://web2.tch.harvard.edu/champs/mainpageS2745P83.html)
-(intranet/VPN only)
 - [Bedside Numbers and Zoom Letter](https://docs.google.com/document/d/1eZf04_Ab5LJzAUF_icibPcpI8ElCuMkbqwejOhnAtkY/edit?usp=sharing)
 
 ### Note templates
 
-Please feel free to add/edit.
+*Please feel free to add/edit*
 
 - [Admission](https://bit.ly/bcrpadmission)
 - [Discharge](https://bit.ly/bcrpdischarge)
@@ -31,9 +30,9 @@ Please feel free to add/edit.
 
 ### Links
 
-- [BCH Antibiogram](https://bchfit.tch.harvard.edu/)(intranet/VPN only)
-- [BCH Clinical Pathways](https://bchfit.tch.harvard.edu/clinical-pathways/www/index.html#/home) (intranet/VPN only)
-- [BCH Isolation Precautions by Disease](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/refipc/refipc/ref_ic_prec_by_disease.doc) intranet/VPN only
+- [BCH Antibiogram](https://bchfit.tch.harvard.edu/)
+- [BCH Clinical Pathways](https://bchfit.tch.harvard.edu/clinical-pathways/www/index.html#/home)
+- [BCH Isolation Precautions by Disease](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/refipc/refipc/ref_ic_prec_by_disease.doc)
 - [Connect Messenger](https://communication.careawareconnect.com)
 
 Emails:
@@ -60,7 +59,7 @@ VPNs:
 
 - [BMC NB Board](files/bmc-ward-board.jpeg)
 - [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
-- [DKA 2-bag Method Calculator (VPN/Intranet only)](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
+- [DKA 2-bag Method Calculator](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
 - [Jia's Quick Hits](https://www.dropbox.com/sh/0ch5lfyelxu2v8r/AAAs4bK_pqlr0FpEw8LoC4dCa?dl=0&lst=)
 - [Ladd or Gross?](files/ladd-gross.jpeg)
 - [Lac Repair Guide](files/laceration-repair-guide.pdf)
