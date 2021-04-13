@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<title>mohsin ali</title>
+<meta charset="utf-8" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div>
+		<h1>QTc (for HR <60 or >100)</h1>
+		<p>Small boxes for R-R?</p>
+		<input type="text" id="rr">
+		<br>
+		<br>
+		<p>Small boxes for Q-T?</p>
+		<input type="text" id="qt">
+		<br>
+		<br>
+		<button onclick="qtc()">Calculate</button>
+		<p id="answer"></p>
+
+   <script>
+    	function qtc() {
+	    	var qt  = parseFloat(document.getElementById("qt").value);
+	    	var rr = parseFloat(document.getElementById("rr").value);
+
+	    	if(qt > 0 && rr > 0) {
+			result = ( (qt*0.04) / Math.sqrt(rr*0.04) ) * 1000;
+			result = Math.round(result);
+			document.getElementById("answer").innerHTML="The QTc is "+result+" ms.";
+		}
+	    	else document.getElementById("answer").innerHTML="Hmm, did you put in proper numbers?";
+    	}
+    </script>
+</div>
+</body>
+</html>

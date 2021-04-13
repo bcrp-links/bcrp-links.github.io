@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<title>mohsin ali</title>
+<meta charset="utf-8" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div>
+		<h1>Frequency of PCA boluses</h1>
+		<p>Total amount received (mg)...</p>
+		<input type="text" id="total">
+		<br>
+		<br>
+		<p>...over how many hours?</p>
+		<input type="text" id="hrs">
+		<br>
+		<br>
+		<p>What was the basal rate (mg/hr)?</p>
+		<input type="text" id="rate">
+		<br>
+		<br>
+		<p>What was the PCA dose (mg/bolus)?</p>
+		<input type="text" id="pca">
+		<br>
+		<br>
+		<button onclick="pca()">Calculate</button>
+		<p id="answer"></p>
+
+   <script>
+    	function pca() {
+	    	var rate = parseFloat(document.getElementById("rate").value);
+	    	var pca = parseFloat(document.getElementById("pca").value);
+	    	var total = parseFloat(document.getElementById("total").value);
+	    	var hrs = parseFloat(document.getElementById("hrs").value);
+
+	    	if ( rate > 0 && pca > 0 && total > 0 && hrs > 0 && (rate * hrs) <= total ) {
+				var n = ( (total - (rate * hrs) ) / pca ).toFixed(1);
+				var prop = ( (total - (rate * hrs) ) / total * 100 ).toFixed(1);
+				document.getElementById("answer").innerHTML=`Received ${total} mg over ${hrs} hours, of which ${prop}% was via PCA (${n} boluses)`;
+			}
+	    	else document.getElementById("answer").innerHTML="Hmm, did you put in proper numbers?";
+    	}
+    </script>
+</div>
+</body>
+</html>
