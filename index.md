@@ -1,3 +1,5 @@
+[Got a suggestion? Drop a comment!](https://forms.gle/cCPaitdskAdVLr1P8)
+
 [BCRP Handbook](files/bcrp-handbook-2019.pdf)
 
 [BCH, what's for lunch? 🍔](https://docs.google.com/spreadsheets/d/1Mx2bvaAADLV-5KPglnapgfTnoKmagDnbf0alMfsj1wA/)
