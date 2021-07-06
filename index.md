@@ -1,4 +1,4 @@
-[Got a suggestion for this site? Drop a comment!](https://forms.gle/cCPaitdskAdVLr1P8)
+[**Got a suggestion for this site? Drop a comment!**](https://forms.gle/cCPaitdskAdVLr1P8)
 
 [BCRP Handbook](files/bcrp-handbook-2019.pdf)
 
@@ -66,7 +66,7 @@ VPNs:
 - [Jia's Quick Hits](https://www.dropbox.com/sh/0ch5lfyelxu2v8r/AAAs4bK_pqlr0FpEw8LoC4dCa?dl=0&lst=)
 - [Ladd or Gross?](files/ladd-gross.jpeg)
 - [Lac Repair Guide](files/laceration-repair-guide.pdf)
-- [New England Consortium](https://newenglandconsortium.org/for-professionals)
+- [New England Consortium (Metabolic Crises Resource)](https://newenglandconsortium.org/for-professionals)
 - [Rick Malley's antibiotic charts](https://static1.squarespace.com/static/55c666c9e4b08b99adb9cf05/t/59242fadbe6594d8a0b3825c/1495543725984/Antibiotic+Coverage+Charts.pdf)
 
 Thank you for visiting!
