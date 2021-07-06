@@ -59,6 +59,7 @@ VPNs:
 
 ### Resources:
 
+- [ExTrip Toxicology Overdose Recommendations](https://www.extrip-workgroup.org/)
 - [BMC NB Board](files/bmc-ward-board.jpeg)
 - [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
 - [DKA 2-bag Method Calculator](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
