@@ -1,4 +1,4 @@
-[**Got a suggestion for this site? Drop a comment!**](https://forms.gle/cCPaitdskAdVLr1P8)
+[Got a suggestion for this site? Drop a comment!](https://forms.gle/cCPaitdskAdVLr1P8)
 
 [BCRP Handbook](files/bcrp-handbook-2019.pdf)
 
