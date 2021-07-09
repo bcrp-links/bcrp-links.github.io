@@ -8,9 +8,9 @@
 
 ### Phone Directories
 
-[BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
+- [BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
 
-[***NEW*** BCH Phone Directory (searchable)](phone/BCHPhone.html)
+- [***NEW*** BCH Phone Directory (searchable)](phone/BCHPhone.html)
 
 ### Virtual rounding resources
 
