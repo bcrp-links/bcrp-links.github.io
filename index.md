@@ -6,6 +6,8 @@
 
 [BCRP Noon Conference](https://bostonchildrens.zoom.us/j/95976278771?pwd=VWZRYmhQeUJRdERGbmxXVVNmYW9Ydz09)
 
+[BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
+
 ### Virtual rounding resources
 
 - [BCH Zoom Resources & Bedside Numbers](http://web2.tch.harvard.edu/champs/mainpageS2745P83.html)
