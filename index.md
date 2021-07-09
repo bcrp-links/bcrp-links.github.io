@@ -6,7 +6,11 @@
 
 [BCRP Noon Conference](https://bostonchildrens.zoom.us/j/95976278771?pwd=VWZRYmhQeUJRdERGbmxXVVNmYW9Ydz09)
 
+###Phone Directories
+
 [BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
+
+[NEW - BCH Phone Directory (searchable)](phone/BCHphone.html)
 
 ### Virtual rounding resources
 
