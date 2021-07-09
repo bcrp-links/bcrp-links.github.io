@@ -1,48 +1,44 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        * {
-            box-sizing: border-box;
-        }
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-        #myInput {
-            background-image: url('/css/searchicon.png');
-            background-position: 10px 12px;
-            background-repeat: no-repeat;
-            width: 100%;
-            font-size: 16px;
-            padding: 12px 20px 12px 40px;
-            border: 1px solid #ddd;
-            margin-bottom: 12px;
-        }
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
 
-        #myUL {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
 
-        #myUL li {
-            border: 1px solid #ddd;
-            margin-top: -1px;
-            /* Prevent double borders */
-            background-color: #f6f6f6;
-            padding: 12px;
-            text-decoration: none;
-            font-size: 18px;
-            color: black;
-            display: block
-        }
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
 
-        #myUL li a:hover:not(.header) {
-            background-color: #eee;
-        }
-    </style>
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
 </head>
-
 <body>
 
     <h2>BMC Phone Directory</h2>
@@ -52,143 +48,425 @@
     <li>p-**** is PAGER# **** </li>
     <br>
 
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Type in a name">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for.." title="Type in a name">
 
-    <ul id="myUL">
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Service</th>
+    <th style="width:40%;">Number</th>
+  </tr>
+ <tr>
+	<td>Page Operator</td>
+	<td>8-7243</td>
+</tr>
+<tr>
+	<td>East Newton Operator</td>
+	<td>8-8000</td>
+</tr>
+<tr>
+	<td>Main Pharmacy</td>
+	<td>4-7687</td>
+</tr>
+<tr>
+	<td>Pedi Satellite Pharmacy</td>
+	<td>4-5605</td>
+</tr>
+<tr>
+	<td>Main Outpt Pharmacy</td>
+	<td>4-4883</td>
+</tr>
+<tr>
+	<td>Pedi Outpt Pharmacy</td>
+	<td>4-7625</td>
+</tr>
+<tr>
+	<td>Admitting Office</td>
+	<td>4-4128</td>
+</tr>
+<tr>
+	<td>CIR Union</td>
+	<td>4-5301</td>
+</tr>
+<tr>
+	<td>Help Desk</td>
+	<td>4-4500</td>
+</tr>
+<tr>
+	<td>Housekeeping</td>
+	<td>p5183</td>
+</tr>
+<tr>
+	<td>Medical Records</td>
+	<td>4-4213</td>
+</tr>
+<tr>
+	<td>MLP</td>
+	<td>617-630-1700</td>
+</tr>
+<tr>
+	<td>Security</td>
+	<td>4-4444</td>
+</tr>
+<tr>
+	<td>Transport</td>
+	<td>4-5835</td>
+</tr>
+<tr>
+	<td>Main Interpreter Services</td>
+	<td>4-5549</td>
+</tr>
+<tr>
+	<td>Spanish Interpreter Services</td>
+	<td>p1313</td>
+</tr>
+<tr>
+	<td>Haitian Interpreter Services</td>
+	<td>p1288</td>
+</tr>
+<tr>
+	<td>French Creole Interpreter Services</td>
+	<td>p1288</td>
+</tr>
+<tr>
+	<td>Portuguese Interpreter Services</td>
+	<td>p1310</td>
+</tr>
+<tr>
+	<td>Cape Verdean Interpreter Services</td>
+	<td>p1310</td>
+</tr>
+<tr>
+	<td>Portuguese Creole Interpreter Services</td>
+	<td>p1310</td>
+</tr>
+<tr>
+	<td>Phone Interpreter Services (24/7)</td>
+	<td>7-5757</td>
+</tr>
+<tr>
+	<td>Weekend Interpreter Services</td>
+	<td>8-5788 or 7-8787</td>
+</tr>
+<tr>
+	<td>Blood Bank (Labs)</td>
+	<td>4-4141</td>
+</tr>
+<tr>
+	<td>Blood Gas (Labs)</td>
+	<td>4-4069</td>
+</tr>
+<tr>
+	<td>Chemistry (Labs)</td>
+	<td>4-5136</td>
+</tr>
+<tr>
+	<td>Hematology (Labs)</td>
+	<td>8-7805</td>
+</tr>
+<tr>
+	<td>Main Lab (Labs)</td>
+	<td>4-4060</td>
+</tr>
+<tr>
+	<td>Microbiology (Labs)</td>
+	<td>8-7890</td>
+</tr>
+<tr>
+	<td>Phlebotomy (Labs)</td>
+	<td>p4671</td>
+</tr>
+<tr>
+	<td>EEG (Tests)</td>
+	<td>8-7979</td>
+</tr>
+<tr>
+	<td>PFTs (Tests)</td>
+	<td>8-6177</td>
+</tr>
+<tr>
+	<td>NBS Office</td>
+	<td>617-983-6300</td>
+</tr>
+<tr>
+	<td>Radiology Main---- 4-3892</td>
+</tr>
+<tr>
+	<td>Radiology Main Scheduling---- 4-9729</td>
+</tr>
+<tr>
+	<td>Radiology Pedi Scheduling---- 4-4525</td>
+</tr>
+<tr>
+	<td>Radiology After Hour Sched---- 4-2779</td>
+</tr>
+<tr>
+	<td>Radiology XR Tech---- 4-7635</td>
+</tr>
+<tr>
+	<td>Radiology CT Tech---- 4-7631</td>
+</tr>
+<tr>
+	<td>Radiology MR Tech---- 4-6410</td>
+</tr>
+<tr>
+	<td>Radiology US Tech---- 4-2734</td>
+</tr>
+<tr>
+	<td>Radiology Pedi Read Room---- 4-4079</td>
+</tr>
+<tr>
+	<td>Radiology After Hours Read---- 4-2779</td>
+</tr>
+<tr>
+	<td>Radiology Nuclear Med Scheduling---- 4-6440</td>
+</tr>
+<tr>
+	<td>Radiology Nuclear Med Read---- 4-6451</td>
+</tr>
+<tr>
+	<td>Radiology IR Scheduling -------- 4-3910</td>
+</tr>
+<tr>
+	<td>Sedation -------- 4-4523</td>
+</tr>
+<tr>
+	<td>Anesthesia - Consults---- p0216</td>
+</tr>
+<tr>
+	<td>Audiology/BAER - Consults---- p6690</td>
+</tr>
+<tr>
+	<td>BEST</td>
+	<td>4-4931</td>
+</tr>
+<tr>
+	<td>Cards (Pedi)</td>
+	<td>Check Website </td>
+</tr>
+<tr>
+	<td>Case Manager - Consults---- p7788</td>
+</tr>
+<tr>
+	<td>Child---- protection - Consults---- p7336</td>
+</tr>
+<tr>
+	<td>Circumcision - Consults---- p4242</td>
+</tr>
+<tr>
+	<td>Dermatology - Consults---- p0378</td>
+</tr>
+<tr>
+	<td>Endo (Pedi) - Consults---- p7202</td>
+</tr>
+<tr>
+	<td>ENT - Consults---- p4433</td>
+</tr>
+<tr>
+	<td>Genetics - Consults---- p3163</td>
+</tr>
+<tr>
+	<td>GI (Pedi)</td>
+	<td>Check Website</td>
+</tr>
+<tr>
+	<td>GYN - Consults---- p3030</td>
+</tr>
+<tr>
+	<td>Heme (Pedi) - Consults---- p5731</td>
+</tr>
+<tr>
+	<td>Heart Station 4-3450</td>
+</tr>
+<tr>
+	<td>ID (Pedi) - Consults---- p9200</td>
+</tr>
+<tr>
+	<td>Neuro (Pedi) - Consults---- p7666</td>
+</tr>
+<tr>
+	<td>Neurosurgery - Consults---- p7000</td>
+</tr>
+<tr>
+	<td>Nutrition - Consults---- p4580/-------- p1999</td>
+</tr>
+<tr>
+	<td>Ophthalmology - Consults---- p9495</td>
+</tr>
+<tr>
+	<td>OMFS - Consults---- p7637</td>
+</tr>
+<tr>
+	<td>Orthopedics - Consults---- p4200</td>
+</tr>
+<tr>
+	<td>OT - Consults---- p9679</td>
+</tr>
+<tr>
+	<td>PICC Nurse - Consults---- p7070</td>
+</tr>
+<tr>
+	<td>Psychiatry - Consults 8-8670</td>
+</tr>
+<tr>
+	<td>Pulm (Pedi)</td>
+	<td>Check Website</td>
+</tr>
+<tr>
+	<td>Renal - Consults---- p0266</td>
+</tr>
+<tr>
+	<td>Respiratory - Consults---- p1551/4-5775</td>
+</tr>
+<tr>
+	<td>Sedation RN - Consults---- p2334</td>
+</tr>
+<tr>
+	<td>Social Work - Consults---- p6733</td>
+</tr>
+<tr>
+	<td>After Hours SW - Consults---- p3119</td>
+</tr>
+<tr>
+	<td>Surgery (Pedi) - Consults -------- p7337</td>
+</tr>
+<tr>
+	<td>Admitting Resident</td>
+	<td>p4958</td>
+</tr>
+<tr>
+	<td>PICU Resident</td>
+	<td>p6789</td>
+</tr>
+<tr>
+	<td>Delivery Pager</td>
+	<td>p9977</td>
+</tr>
+<tr>
+	<td>NICU Resident</td>
+	<td>p3445</td>
+</tr>
+<tr>
+	<td>Nursery Resident</td>
+	<td>p0202</td>
+</tr>
+<tr>
+	<td>Family Med Attending</td>
+	<td>p6094</td>
+</tr>
+<tr>
+	<td>Inpatient Ward (4E) Main</td>
+	<td>4-4511</td>
+</tr>
+<tr>
+	<td>4E Resident Back Room</td>
+	<td>4-8925/4-8924/4-8928</td>
+</tr>
+<tr>
+	<td>4E Fax</td>
+	<td>4-3171</td>
+</tr>
+<tr>
+	<td>Nurse Manager</td>
+	<td>p3814/4-4507</td>
+</tr>
+<tr>
+	<td>Ward Assistant</td>
+	<td>4-3621</td>
+</tr>
+<tr>
+	<td>Emergency Room Main</td>
+	<td>4-4991</td>
+</tr>
+<tr>
+	<td>Emergency Room Fax</td>
+	<td>4-4999</td>
+</tr>
+<tr>
+	<td>PICU Main</td>
+	<td>4-4513</td>
+</tr>
+<tr>
+	<td>PICU Fax</td>
+	<td>4-3951</td>
+</tr>
+<tr>
+	<td>PICU Resident Back Room</td>
+	<td>4-3229</td>
+</tr>
+<tr>
+	<td>NICU Main</td>
+	<td>4-4359/4360</td>
+</tr>
+<tr>
+	<td>NICU Resident Back Room</td>
+	<td>4-4369</td>
+</tr>
+<tr>
+	<td>NICU Fax</td>
+	<td>4-4361</td>
+</tr>
+<tr>
+	<td>NICU Attending Pager</td>
+	<td>p5000</td>
+</tr>
+<tr>
+	<td>NICU Nurse Manager</td>
+	<td>4-4507</td>
+</tr>
+<tr>
+	<td>L&D</td>
+	<td>4-4364</td>
+</tr>
+<tr>
+	<td>NICU Social Work</td>
+	<td>p7416</td>
+</tr>
+<tr>
+	<td>NICU Case Manager</td>
+	<td>p0724</td>
+</tr>
+<tr>
+	<td>NURSERY Main</td>
+	<td>4-5840</td>
+</tr>
+<tr>
+	<td>NURSERY Resident Desks</td>
+	<td>4-4358/5838</td>
+</tr>
+<tr>
+	<td>NURSERY Fax</td>
+	<td>4-5807</td>
+</tr>
+<tr>
+	<td>Lactation</td>
+	<td>p6455</td>
+</tr>
+<tr>
+	<td>Circumcision Pager</td>
+	<td>p4242</td>
+</tr>
+</table>
 
-        <li><a>Page Operator ---- 8-7243</a></li>
-            <li><a>East Newton Operator ---- 8-8000</a></li>
-            <li><a>Main Pharmacy ---- 4-7687</a></li>
-            <li><a>Pedi Satellite Pharmacy ---- 4-5605</a></li>
-            <li><a>Main Outpt Pharmacy ---- 4-4883</a></li>
-            <li><a>Pedi Outpt Pharmacy ---- 4-7625</a></li>
-            <li><a>Admitting Office ---- 4-4128</a></li>
-            <li><a>CIR Union ---- 4-5301</a></li>
-            <li><a>Help Desk ---- 4-4500</a></li>
-            <li><a>Housekeeping ---- p5183</a></li>
-            <li><a>Medical Records ---- 4-4213</a></li>
-            <li><a>MLP ---- 617-630-1700</a></li>
-            <li><a>Security ---- 4-4444</a></li>
-            <li><a>Transport ---- 4-5835</a></li>
-            <li><a>Main Interpreter Services ---- 4-5549</a></li>
-            <li><a>Spanish Interpreter Services ---- p1313</a></li>
-            <li><a>Haitian Interpreter Services ---- p1288</a></li>
-            <li><a>French Creole Interpreter Services ---- p1288</a></li>
-            <li><a>Portuguese Interpreter Services ---- p1310</a></li>
-            <li><a>Cape Verdean Interpreter Services ---- p1310</a></li>
-            <li><a>Portuguese Creole Interpreter Services ---- p1310</a></li>
-            <li><a>Phone Interpreter Services (24/7) ---- 7-5757</a></li>
-            <li><a>Weekend Interpreter Services ---- 8-5788 or 7-8787</a></li>
-            <li><a>Blood Bank (Labs) ---- 4-4141</a></li>
-            <li><a>Blood Gas (Labs) ---- 4-4069</a></li>
-            <li><a>Chemistry (Labs) ---- 4-5136</a></li>
-            <li><a>Hematology (Labs) ---- 8-7805</a></li>
-            <li><a>Main Lab (Labs) ---- 4-4060</a></li>
-            <li><a>Microbiology (Labs) ---- 8-7890</a></li>
-            <li><a>Phlebotomy (Labs) ---- p4671</a></li>
-            <li><a>EEG (Tests) ---- 8-7979</a></li>
-            <li><a>PFTs (Tests) ---- 8-6177</a></li>
-            <li><a>NBS Office ---- 617-983-6300</a></li>
-            <li><a>Radiology Main---- 4-3892</a></li>
-            <li><a>Radiology Main Scheduling---- 4-9729</a></li>
-            <li><a>Radiology Pedi Scheduling---- 4-4525</a></li>
-            <li><a>Radiology After Hour Sched---- 4-2779</a></li>
-            <li><a>Radiology XR Tech---- 4-7635</a></li>
-            <li><a>Radiology CT Tech---- 4-7631</a></li>
-            <li><a>Radiology MR Tech---- 4-6410</a></li>
-            <li><a>Radiology US Tech---- 4-2734</a></li>
-            <li><a>Radiology Pedi Read Room---- 4-4079</a></li>
-            <li><a>Radiology After Hours Read---- 4-2779</a></li>
-            <li><a>Radiology Nuclear Med Scheduling---- 4-6440</a></li>
-            <li><a>Radiology Nuclear Med Read---- 4-6451</a></li>
-            <li><a>Radiology IR Scheduling -------- 4-3910</a></li>
-            <li><a>Sedation -------- 4-4523</a></li>
-            <li><a>Anesthesia - Consults---- p0216</a></li>
-            <li><a>Audiology/BAER - Consults---- p6690</a></li>
-            <li><a>BEST ---- 4-4931</a></li>
-            <li><a>Cards (Pedi) ---- Check Website </a></li>
-            <li><a>Case Manager - Consults---- p7788</a></li>
-            <li><a>Child---- protection - Consults---- p7336</a></li>
-            <li><a>Circumcision - Consults---- p4242</a></li>
-            <li><a>Dermatology - Consults---- p0378</a></li>
-            <li><a>Endo (Pedi) - Consults---- p7202</a></li>
-            <li><a>ENT - Consults---- p4433</a></li>
-            <li><a>Genetics - Consults---- p3163</a></li>
-            <li><a>GI (Pedi) ---- Check Website</a></li>
-            <li><a>GYN - Consults---- p3030</a></li>
-            <li><a>Heme (Pedi) - Consults---- p5731</a></li>
-            <li><a>Heart Station 4-3450</a></li>
-            <li><a>ID (Pedi) - Consults---- p9200</a></li>
-            <li><a>Neuro (Pedi) - Consults---- p7666</a></li>
-            <li><a>Neurosurgery - Consults---- p7000</a></li>
-            <li><a>Nutrition - Consults---- p4580/-------- p1999</a></li>
-            <li><a>Ophthalmology - Consults---- p9495</a></li>
-            <li><a>OMFS - Consults---- p7637</a></li>
-            <li><a>Orthopedics - Consults---- p4200</a></li>
-            <li><a>OT - Consults---- p9679</a></li>
-            <li><a>PICC Nurse - Consults---- p7070</a></li>
-            <li><a>Psychiatry - Consults 8-8670</a></li>
-            <li><a>Pulm (Pedi) ---- Check Website</a></li>
-            <li><a>Renal - Consults---- p0266</a></li>
-            <li><a>Respiratory - Consults---- p1551/4-5775</a></li>
-            <li><a>Sedation RN - Consults---- p2334</a></li>
-            <li><a>Social Work - Consults---- p6733</a></li>
-            <li><a>After Hours SW - Consults---- p3119</a></li>
-            <li><a>Surgery (Pedi) - Consults -------- p7337</a></li>
-            <li><a>Admitting Resident ---- p4958</a></li>
-            <li><a>PICU Resident ---- p6789</a></li>
-            <li><a>Delivery Pager ---- p9977</a></li>
-            <li><a>NICU Resident ---- p3445</a></li>
-            <li><a>Nursery Resident ---- p0202</a></li>
-            <li><a>Family Med Attending ---- p6094</a></li>
-            <li><a>Inpatient Ward (4E) Main ---- 4-4511</a></li>
-            <li><a>4E Resident Back Room ---- 4-8925/4-8924/4-8928</a></li>
-            <li><a>4E Fax ---- 4-3171</a></li>
-            <li><a>Nurse Manager ---- p3814/4-4507</a></li>
-            <li><a>Ward Assistant ---- 4-3621</a></li>
-            <li><a>Emergency Room Main ---- 4-4991</a></li>
-            <li><a>Emergency Room Fax ---- 4-4999</a></li>
-            <li><a>PICU Main ---- 4-4513</a></li>
-            <li><a>PICU Fax ---- 4-3951</a></li>
-            <li><a>PICU Resident Back Room ---- 4-3229</a></li>
-            <li><a>NICU Main ---- 4-4359/4360</a></li>
-            <li><a>NICU Resident Back Room ---- 4-4369</a></li>
-            <li><a>NICU Fax ---- 4-4361</a></li>
-            <li><a>NICU Attending Pager ---- p5000</a></li>
-            <li><a>NICU Nurse Manager ---- 4-4507</a></li>
-            <li><a>L&D ---- 4-4364</a></li>
-            <li><a>NICU Social Work ---- p7416</a></li>
-            <li><a>NICU Case Manager ---- p0724</a></li>
-            <li><a>NURSERY Main ---- 4-5840</a></li>
-            <li><a>NURSERY Resident Desks ---- 4-4358/5838</a></li>
-            <li><a>NURSERY Fax ---- 4-5807</a></li>
-            <li><a>Lactation ---- p6455</a></li>
-            <li><a>Circumcision Pager ---- p4242</a></li>
-    </ul>
-
-    <script>
-        function myFunction(defVar) {
-            var input, filter, ul, li, a, i, txtValue;
-            if (defVar === undefined){
-                input = document.getElementById("myInput");
-            } else {
-                input = defVar;
-            }
-            
-            filter = input.value.toUpperCase();
-            ul = document.getElementById("myUL");
-            li = ul.getElementsByTagName("li");
-            for (i = 0; i < li.length; i++) {
-                a = li[i].getElementsByTagName("a")[0];
-                txtValue = a.textContent || a.innerText;
-                if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                    li[i].style.display = "";
-                } else {
-                    li[i].style.display = "none";
-                }
-            }
-        }
-    </script>
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
 
 </body>
 </html>
