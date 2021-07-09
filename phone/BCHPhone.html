@@ -1,84 +1,44 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        * {
-            box-sizing: border-box;
-        }
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-        #myInput {
-            background-image: url('/css/searchicon.png');
-            background-position: 10px 12px;
-            background-repeat: no-repeat;
-            width: 100%;
-            font-size: 16px;
-            padding: 12px 20px 12px 40px;
-            border: 1px solid #ddd;
-            margin-bottom: 12px;
-        }
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
 
-        #myUL {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
 
-        #myUL li {
-            border: 1px solid #ddd;
-            margin-top: -1px;
-            /* Prevent double borders */
-            background-color: #f6f6f6;
-            padding: 12px;
-            text-decoration: none;
-            font-size: 18px;
-            color: black;
-            display: block
-        }
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
 
-        #myUL li a:hover:not(.header) {
-            background-color: #eee;
-        }
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
 
-        /*.button {
-            border: none;
-            color: white;
-            padding: 16px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            transition-duration: 0.4s;
-            cursor: pointer;
-            border-radius: 10px;
-            }
-
-        .button1 {
-            background-color: white;
-            color: black;
-            border: 2px solid #4CAF50;
-            }
-
-        .button1:hover {
-            background-color: #4CAF50;
-            color: white;
-            }
-
-        .button2 {
-            background-color: white;
-            color: black;
-            border: 2px solid #008CBA;
-            }
-
-        .button2:hover {
-            background-color: #008CBA;
-            color: white;
-            }<button class="button button1" onclick="myFunction('labs')">Labs</button>*/
-    </style>
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
 </head>
-
 <body>
 
     <h2>BCH Phone Directory</h2>
@@ -87,163 +47,540 @@
     <li>4-yyyy is 617-919-yyyy</li>
     <li>8-zzz is 857-218-zzzz</li>
     <br>
+    
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for.." title="Type in a name">
 
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Type in a name">
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Service</th>
+    <th style="width:40%;">Number</th>
+  </tr>
+  <tr>
+	<td>Bacteriology (Labs)</td>
+	<td>5-7485</td>
+</tr>
+<tr>
+	<td>Blood Bank (Labs)</td>
+	<td>5-6260</td>
+</tr>
+<tr>
+	<td>Blood Gas (Labs)</td>
+	<td>5-7838</td>
+</tr>
+<tr>
+	<td>Chemistry (Labs)</td>
+	<td>5-7122</td>
+</tr>
+<tr>
+	<td>Endocrine (Labs)</td>
+	<td>5-7376</td>
+</tr>
+<tr>
+	<td>Genetics (Labs)</td>
+	<td>617-553-5880</td>
+</tr>
+<tr>
+	<td>Hematology (Labs)</td>
+	<td>5-6732</td>
+</tr>
+<tr>
+	<td>Immunology (Labs)</td>
+	<td>5-7620</td>
+</tr>
+<tr>
+	<td>Lab Control (Labs)</td>
+	<td>5-6351</td>
+</tr>
+<tr>
+	<td>Pathology (Labs)</td>
+	<td>5-7431</td>
+</tr>
+<tr>
+	<td>Virology (Labs)</td>
+	<td>5-7624</td>
+</tr>
+<tr>
+	<td>CT (Tests)</td>
+	<td>5-6308</td>
+</tr>
+<tr>
+	<td>ECHO (Tests)</td>
+	<td>5-8686</td>
+</tr>
+<tr>
+	<td>EEG (Tests)</td>
+	<td>5-7970</td>
+</tr>
+<tr>
+	<td>EKG (Tests)</td>
+	<td>5-5626</td>
+</tr>
+<tr>
+	<td>IR (Tests)</td>
+	<td>5-6579</td>
+</tr>
+<tr>
+	<td>MRI (Tests)</td>
+	<td>5-6300</td>
+</tr>
+<tr>
+	<td>Nuclear Med (Tests)</td>
+	<td>5-7010</td>
+</tr>
+<tr>
+	<td>PFTs (Tests)</td>
+	<td>5-7510</td>
+</tr>
+<tr>
+	<td>Radiology (Tests)</td>
+	<td>5-6286</td>
+</tr>
+<tr>
+	<td>Sleep Study (Tests)</td>
+	<td>5-7148</td>
+</tr>
+<tr>
+	<td>Sweat Test (Tests)</td>
+	<td>5-7022</td>
+</tr>
+<tr>
+	<td>Ultrasound (Tests)</td>
+	<td>5-7840</td>
+</tr>
+<tr>
+	<td>Computer Help (Misc)</td>
+	<td>5-HELP</td>
+</tr>
+<tr>
+	<td>COPP (Misc)</td>
+	<td>5-0000</td>
+</tr>
+<tr>
+	<td>CPT (Misc)</td>
+	<td>5-7979</td>
+</tr>
+<tr>
+	<td>CVS @ BCH (Misc)</td>
+	<td>617-975-3500</td>
+</tr>
+<tr>
+	<td>DCF (51A) (Misc)</td>
+	<td>800-792-5200</td>
+</tr>
+<tr>
+	<td>Dictation (Misc)</td>
+	<td>5-6600</td>
+</tr>
+<tr>
+	<td>Infection Control (Misc)</td>
+	<td>5-6932</td>
+</tr>
+<tr>
+	<td>Interpreters (Misc)</td>
+	<td>5-7198</td>
+</tr>
+<tr>
+	<td>Library (Misc)</td>
+	<td>5-7232</td>
+</tr>
+<tr>
+	<td>Medical Record (Misc)</td>
+	<td>5-7546</td>
+</tr>
+<tr>
+	<td>NBS Office (Misc) 617-983-6300 OR</td>
+</tr>
+<tr>
+	<td>Desk (Misc)</td>
+	<td>5-7731</td>
+</tr>
+<tr>
+	<td>Pharmacy (Misc)</td>
+	<td>5-6807</td>
+</tr>
+<tr>
+	<td>Psych Consult (Misc)</td>
+	<td>5-8606</td>
+</tr>
+<tr>
+	<td>Poison Ctr (Misc) 800-222-1222</td>
+</tr>
+<tr>
+	<td>Security (Misc)</td>
+	<td>5-6121</td>
+</tr>
+<tr>
+	<td>Social Services (Misc)</td>
+	<td>5-7965</td>
+</tr>
+<tr>
+	<td>TPN Pharmacy (Misc)</td>
+	<td>5-5523</td>
+</tr>
+<tr>
+	<td>Dana Farber</td>
+	<td>617-632-xxxx</td>
+</tr>
+<tr>
+	<td>Dana Farber Lab Control</td>
+	<td>2-3265</td>
+</tr>
+<tr>
+	<td>Dana Farber Jimmy Fund</td>
+	<td>2-3270</td>
+</tr>
+<tr>
+	<td>Brigham</td>
+	<td>617-732-xxxx</td>
+</tr>
+<tr>
+	<td>Brigham Operators</td>
+	<td>2-5500</td>
+</tr>
+<tr>
+	<td>Brigham NICU</td>
+	<td>2-5420</td>
+</tr>
+<tr>
+	<td>Brigham NICU A</td>
+	<td>2-5739</td>
+</tr>
+<tr>
+	<td>Brigham NICU B</td>
+	<td>2-8319</td>
+</tr>
+<tr>
+	<td>Brigham NICU C</td>
+	<td>2-8351</td>
+</tr>
+<tr>
+	<td>Brigham NICU D</td>
+	<td>2-8341</td>
+</tr>
+<tr>
+	<td>Brigham CWN 9</td>
+	<td>2-7595</td>
+</tr>
+<tr>
+	<td>Brigham CWN 10</td>
+	<td>2-6873</td>
+</tr>
+<tr>
+	<td>Brigham Page</td>
+	<td>2-5656</td>
+</tr>
+<tr>
+	<td>Brigham Lab Control</td>
+	<td>2-7415</td>
+</tr>
+<tr>
+	<td>Brigham Help Desk</td>
+	<td>2-5927</td>
+</tr>
+<tr>
+	<td>Beverly Hospital</td>
+	<td>978-922-3000</td>
+</tr>
+<tr>
+	<td>BI Hospital</td>
+	<td>617-632-6000</td>
+</tr>
+<tr>
+	<td>Brockton Hospital</td>
+	<td>508-941-7000</td>
+</tr>
+<tr>
+	<td>Cambridge Hospital</td>
+	<td>617-655-1000</td>
+</tr>
+<tr>
+	<td>MGH Hospital</td>
+	<td>617-726-2000</td>
+</tr>
+<tr>
+	<td>South Shore Hospital</td>
+	<td>781-624-8000</td>
+</tr>
+<tr>
+	<td>Winchester Hospital</td>
+	<td>781-729-9000</td>
+</tr>
+<tr>
+	<td>BCH Interpreter Services</td>
+	<td>5-7198</td>
+</tr>
+<tr>
+	<td>BCH Spanish Interpreter</td>
+	<td>pg1313</td>
+</tr>
+<tr>
+	<td>Arabic Interpreter</td>
+	<td>pg3457</td>
+</tr>
+<tr>
+	<td>All other Interpreter</td>
+	<td>pg0120</td>
+</tr>
+<tr>
+	<td>Phone Interpreter (24/7)</td>
+	<td>877-237-4933</td>
+</tr>
+<tr>
+	<td>Clinic - Adolescent</td>
+	<td>57181</td>
+</tr>
+<tr>
+	<td>Clinic - Allergy/Immunology</td>
+	<td>56117</td>
+</tr>
+<tr>
+	<td>Clinic - Audiology</td>
+	<td>56461</td>
+</tr>
+<tr>
+	<td>Clinic - Cardiology</td>
+	<td>54278</td>
+</tr>
+<tr>
+	<td>Clinic - CCS</td>
+	<td>56162</td>
+</tr>
+<tr>
+	<td>Clinic - Child Protection Team</td>
+	<td>57979</td>
+</tr>
+<tr>
+	<td>Clinic - CHPCC</td>
+	<td>57701/57702</td>
+</tr>
+<tr>
+	<td>Clinic - CHPCC Back Room</td>
+	<td>55157/53306</td>
+</tr>
+<tr>
+	<td>Clinic - CHPCC Charge RN</td>
+	<td>84706</td>
+</tr>
+<tr>
+	<td>Clinic - Dental</td>
+	<td>56571</td>
+</tr>
+<tr>
+	<td>Clinic - Dermatology</td>
+	<td>56117</td>
+</tr>
+<tr>
+	<td>Clinic - Developmental Eval Center</td>
+	<td>57025</td>
+</tr>
+<tr>
+	<td>Clinic - Endocrinology</td>
+	<td>57476</td>
+</tr>
+<tr>
+	<td>Clinic - Environmental Health</td>
+	<td>58177</td>
+</tr>
+<tr>
+	<td>Clinic - Feeding Team (Jennifer Perez)</td>
+	<td>57727</td>
+</tr>
+<tr>
+	<td>Clinic - Genetics/Metabolism</td>
+	<td>56394</td>
+</tr>
+<tr>
+	<td>Clinic - General Surgery</td>
+	<td>57800</td>
+</tr>
+<tr>
+	<td>Clinic - GI</td>
+	<td>56058</td>
+</tr>
+<tr>
+	<td>Clinic - Gynecology</td>
+	<td>57648</td>
+</tr>
+<tr>
+	<td>Clinic - Hematology</td>
+	<td>58246</td>
+</tr>
+<tr>
+	<td>Clinic - ID</td>
+	<td>56832</td>
+</tr>
+<tr>
+	<td>Clinic - MEHC</td>
+	<td>617-971-2100</td>
+</tr>
+<tr>
+	<td>Clinic - Nephrology</td>
+	<td>56129</td>
+</tr>
+<tr>
+	<td>Clinic - Neurology</td>
+	<td>56388</td>
+</tr>
+<tr>
+	<td>Clinic - Neurosurgery</td>
+	<td>56009</td>
+</tr>
+<tr>
+	<td>Clinic - Nutrition</td>
+	<td>56058</td>
+</tr>
+<tr>
+	<td>Clinic - Ophthalmology</td>
+	<td>56401</td>
+</tr>
+<tr>
+	<td>Clinic - ORL</td>
+	<td>56462</td>
+</tr>
+<tr>
+	<td>Clinic - Orthopedics</td>
+	<td>56021</td>
+</tr>
+<tr>
+	<td>Clinic - Physical Therapy</td>
+	<td>57212</td>
+</tr>
+<tr>
+	<td>Clinic - Plastic & Oral Surgery</td>
+	<td>57252</td>
+</tr>
+<tr>
+	<td>Clinic - Pulmonary/CF</td>
+	<td>51900</td>
+</tr>
+<tr>
+	<td>Clinic - Rheumatology</td>
+	<td>56117</td>
+</tr>
+<tr>
+	<td>Clinic - Sports Medicine</td>
+	<td>56028</td>
+</tr>
+<tr>
+	<td>Clinic - Urology</td>
+	<td>57796 </td>
+</tr>
+<tr>
+	<td>Batphone 6E-Subs Intern</td>
+	<td>8-3967</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds C Intern</td>
+	<td>5-0016</td>
+</tr>
+<tr>
+	<td>Batphone 7W-Subs Intern</td>
+	<td>5-2643</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds A Intern</td>
+	<td>5-0014</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds B Intern</td>
+	<td>5-0022</td>
+</tr>
+<tr>
+	<td>Batphone ICP Intern #1</td>
+	<td>5-0807</td>
+</tr>
+<tr>
+	<td>Batphone ICP Intern #2</td>
+	<td>5-3637</td>
+</tr>
+<tr>
+	<td>Batphone Pulmonary</td>
+	<td>5-0018</td>
+</tr>
+<tr>
+	<td>Batphone Cardiology</td>
+	<td>5-0640</td>
+</tr>
+<tr>
+	<td>Batphone GI</td>
+	<td>5-0017</td>
+</tr>
+<tr>
+	<td>Batphone CCS</td>
+	<td>5-0015</td>
+</tr>
+<tr>
+	<td>Batphone MSICU (7S)</td>
+	<td>5-1955</td>
+</tr>
+<tr>
+	<td>Batphone Onc Heme Mag</td>
+	<td>5-0023</td>
+</tr>
+<tr>
+	<td>Batphone Onc Solid Tumor 8-6047</td>
+</tr>
+<tr>
+	<td>Batphone Seniors</td>
+</tr>
+<tr>
+	<td>Batphone MICU (11S)</td>
+	<td>5-2559</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds A Supervisor</td>
+	<td>5-0012</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds B Supervisor</td>
+	<td>5-4617</td>
+</tr>
+<tr>
+	<td>Batphone Gen Peds C Supervisor</td>
+	<td>5-0013</td>
+</tr>
+<tr>
+	<td>Batphone 7W-Subs Supervisor</td>
+	<td>5-2603</td>
+</tr>
+<tr>
+	<td>Batphone 6E-Subs Supervisor</td>
+	<td>5-4616</td>
+</tr>
+<tr>
+	<td>Batphone ICP Supervisor #1</td>
+	<td>5-0020</td>
+</tr>
+<tr>
+	<td>Batphone ICP Supervisor #2</td>
+	<td>5-0025</td>
+</tr>
+<tr>
+	<td>Batphone Admit</td>
+	<td>5-6851</td>
+</tr>
+</table>
 
-    <ul id="myUL">
-        <li><a>Bacteriology (Labs) ---- 5-7485</a></li>
-        <li><a>Blood Bank (Labs) ---- 5-6260</a></li>
-        <li><a>Blood Gas (Labs) ---- 5-7838</a></li>
-        <li><a>Chemistry (Labs) ---- 5-7122</a></li>
-        <li><a>Endocrine (Labs) ---- 5-7376</a></li>
-        <li><a>Genetics (Labs) ---- 617-553-5880</a></li>
-        <li><a>Hematology (Labs) ---- 5-6732</a></li>
-        <li><a>Immunology (Labs) ---- 5-7620</a></li>
-        <li><a>Lab Control (Labs) ---- 5-6351</a></li>
-        <li><a>Pathology (Labs) ---- 5-7431</a></li>
-        <li><a>Virology (Labs) ---- 5-7624</a></li>
-        <li><a>CT (Tests) ---- 5-6308</a></li>
-        <li><a>ECHO (Tests) ---- 5-8686</a></li>
-        <li><a>EEG (Tests) ---- 5-7970</a></li>
-        <li><a>EKG (Tests) ---- 5-5626</a></li>
-        <li><a>IR (Tests) ---- 5-6579</a></li>
-        <li><a>MRI (Tests) ---- 5-6300</a></li>
-        <li><a>Nuclear Med (Tests) ---- 5-7010</a></li>
-        <li><a>PFTs (Tests) ---- 5-7510</a></li>
-        <li><a>Radiology (Tests) ---- 5-6286</a></li>
-        <li><a>Sleep Study (Tests) ---- 5-7148</a></li>
-        <li><a>Sweat Test (Tests) ---- 5-7022</a></li>
-        <li><a>Ultrasound (Tests) ---- 5-7840</a></li>
-        <li><a>Computer Help (Misc) ---- 5-HELP</a></li>
-        <li><a>COPP (Misc) ---- 5-0000</a></li>
-        <li><a>CPT (Misc) ---- 5-7979</a></li>
-        <li><a>CVS @ BCH (Misc) ---- 617-975-3500</a></li>
-        <li><a>DCF (51A) (Misc) ---- 800-792-5200</a></li>
-        <li><a>Dictation (Misc) ---- 5-6600</a></li>
-        <li><a>Infection Control (Misc) ---- 5-6932</a></li>
-        <li><a>Interpreters (Misc) ---- 5-7198</a></li>
-        <li><a>Library (Misc) ---- 5-7232</a></li>
-        <li><a>Medical Record (Misc) ---- 5-7546</a></li>
-        <li><a>NBS Office (Misc) 617-983-6300 OR</a></li>
-        <li><a>Desk (Misc) ---- 5-7731</a></li>
-        <li><a>Pharmacy (Misc) ---- 5-6807</a></li>
-        <li><a>Psych Consult (Misc) ---- 5-8606</a></li>
-        <li><a>Poison Ctr (Misc) 800-222-1222</a></li>
-        <li><a>Security (Misc) ---- 5-6121</a></li>
-        <li><a>Social Services (Misc) ---- 5-7965</a></li>
-        <li><a>TPN Pharmacy (Misc) ---- 5-5523</a></li>
-        <li><a>Dana Farber ---- 617-632-xxxx</a></li>
-        <li><a>Dana Farber Lab Control ---- 2-3265</a></li>
-        <li><a>Dana Farber Jimmy Fund ---- 2-3270</a></li>
-        <li><a>Brigham ---- 617-732-xxxx</a></li>
-        <li><a>Brigham Operators ---- 2-5500</a></li>
-        <li><a>Brigham NICU ---- 2-5420</a></li>
-        <li><a>Brigham NICU A ---- 2-5739</a></li>
-        <li><a>Brigham NICU B ---- 2-8319</a></li>
-        <li><a>Brigham NICU C ---- 2-8351</a></li>
-        <li><a>Brigham NICU D ---- 2-8341</a></li>
-        <li><a>Brigham CWN 9 ---- 2-7595</a></li>
-        <li><a>Brigham CWN 10 ---- 2-6873</a></li>
-        <li><a>Brigham Page ---- 2-5656</a></li>
-        <li><a>Brigham Lab Control ---- 2-7415</a></li>
-        <li><a>Brigham Help Desk ---- 2-5927</a></li>
-        <li><a>Beverly Hospital ---- 978-922-3000</a></li>
-        <li><a>BI Hospital ---- 617-632-6000</a></li>
-        <li><a>Brockton Hospital ---- 508-941-7000</a></li>
-        <li><a>Cambridge Hospital ---- 617-655-1000</a></li>
-        <li><a>MGH Hospital ---- 617-726-2000</a></li>
-        <li><a>South Shore Hospital ---- 781-624-8000</a></li>
-        <li><a>Winchester Hospital ---- 781-729-9000</a></li>
-        <li><a>BCH Interpreter Services ---- 5-7198</a></li>
-        <li><a>BCH Spanish Interpreter ---- pg1313</a></li>
-        <li><a>Arabic Interpreter ---- pg3457</a></li>
-        <li><a>All other Interpreter ---- pg0120</a></li>
-        <li><a>Phone Interpreter (24/7) ---- 877-237-4933</a></li>
-        <li><a>Clinic - Adolescent ---- 57181</a></li>
-        <li><a>Clinic - Allergy/Immunology ---- 56117</a></li>
-        <li><a>Clinic - Audiology ---- 56461</a></li>
-        <li><a>Clinic - Cardiology ---- 54278</a></li>
-        <li><a>Clinic - CCS ---- 56162</a></li>
-        <li><a>Clinic - Child Protection Team ---- 57979</a></li>
-        <li><a>Clinic - CHPCC ---- 57701/57702</a></li>
-        <li><a>Clinic - CHPCC Back Room ---- 55157/53306</a></li>
-        <li><a>Clinic - CHPCC Charge RN ---- 84706</a></li>
-        <li><a>Clinic - Dental ---- 56571</a></li>
-        <li><a>Clinic - Dermatology ---- 56117</a></li>
-        <li><a>Clinic - Developmental Eval Center ---- 57025</a></li>
-        <li><a>Clinic - Endocrinology ---- 57476</a></li>
-        <li><a>Clinic - Environmental Health ---- 58177</a></li>
-        <li><a>Clinic - Feeding Team (Jennifer Perez) ---- 57727</a></li>
-        <li><a>Clinic - Genetics/Metabolism ---- 56394</a></li>
-        <li><a>Clinic - General Surgery ---- 57800</a></li>
-        <li><a>Clinic - GI ---- 56058</a></li>
-        <li><a>Clinic - Gynecology ---- 57648</a></li>
-        <li><a>Clinic - Hematology ---- 58246</a></li>
-        <li><a>Clinic - ID ---- 56832</a></li>
-        <li><a>Clinic - MEHC ---- 617-971-2100</a></li>
-        <li><a>Clinic - Nephrology ---- 56129</a></li>
-        <li><a>Clinic - Neurology ---- 56388</a></li>
-        <li><a>Clinic - Neurosurgery ---- 56009</a></li>
-        <li><a>Clinic - Nutrition ---- 56058</a></li>
-        <li><a>Clinic - Ophthalmology ---- 56401</a></li>
-        <li><a>Clinic - ORL ---- 56462</a></li>
-        <li><a>Clinic - Orthopedics ---- 56021</a></li>
-        <li><a>Clinic - Physical Therapy ---- 57212</a></li>
-        <li><a>Clinic - Plastic & Oral Surgery ---- 57252</a></li>
-        <li><a>Clinic - Pulmonary/CF ---- 51900</a></li>
-        <li><a>Clinic - Rheumatology ---- 56117</a></li>
-        <li><a>Clinic - Sports Medicine ---- 56028</a></li>
-        <li><a>Clinic - Urology ---- 57796 </a></li>
-        <li><a>Batphone 6E-Subs Intern ---- 8-3967</a></li>
-        <li><a>Batphone Gen Peds C Intern ---- 5-0016</a></li>
-        <li><a>Batphone 7W-Subs Intern ---- 5-2643</a></li>
-        <li><a>Batphone Gen Peds A Intern ---- 5-0014</a></li>
-        <li><a>Batphone Gen Peds B Intern ---- 5-0022</a></li>
-        <li><a>Batphone ICP Intern #1 ---- 5-0807</a></li>
-        <li><a>Batphone ICP Intern #2 ---- 5-3637</a></li>
-        <li><a>Batphone Pulmonary ---- 5-0018</a></li>
-        <li><a>Batphone Cardiology ---- 5-0640</a></li>
-        <li><a>Batphone GI ---- 5-0017</a></li>
-        <li><a>Batphone CCS ---- 5-0015</a></li>
-        <li><a>Batphone MSICU (7S) ---- 5-1955</a></li>
-        <li><a>Batphone Onc Heme Mag ---- 5-0023</a></li>
-        <li><a>Batphone Onc Solid Tumor 8-6047</a></li>
-        <li><a>Batphone Seniors</a></li>
-        <li><a>Batphone MICU (11S) ---- 5-2559</a></li>
-        <li><a>Batphone Gen Peds A Supervisor ---- 5-0012</a></li>
-        <li><a>Batphone Gen Peds B Supervisor ---- 5-4617</a></li>
-        <li><a>Batphone Gen Peds C Supervisor ---- 5-0013</a></li>
-        <li><a>Batphone 7W-Subs Supervisor ---- 5-2603</a></li>
-        <li><a>Batphone 6E-Subs Supervisor ---- 5-4616</a></li>
-        <li><a>Batphone ICP Supervisor #1 ---- 5-0020</a></li>
-        <li><a>Batphone ICP Supervisor #2 ---- 5-0025</a></li>
-        <li><a>Batphone Admit ---- 5-6851
-
-    </ul>
-
-    <script>
-        function myFunction(defVar) {
-            var input, filter, ul, li, a, i, txtValue;
-            if (defVar === undefined){
-                input = document.getElementById("myInput");
-            } else {
-                input = defVar;
-            }
-            
-            filter = input.value.toUpperCase();
-            ul = document.getElementById("myUL");
-            li = ul.getElementsByTagName("li");
-            for (i = 0; i < li.length; i++) {
-                a = li[i].getElementsByTagName("a")[0];
-                txtValue = a.textContent || a.innerText;
-                if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                    li[i].style.display = "";
-                } else {
-                    li[i].style.display = "none";
-                }
-            }
-        }
-    </script>
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
 
 </body>
 </html>
