@@ -10,7 +10,7 @@
 
 [BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
 
-[NEW - BCH Phone Directory (searchable)](phone/BCHphone.html)
+[***NEW*** BCH Phone Directory (searchable)](phone/BCHPhone.html)
 
 ### Virtual rounding resources
 
