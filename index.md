@@ -12,6 +12,8 @@
 
 - [***NEW*** BCH Phone Directory (searchable)](phone/BCHPhone.html)
 
+- [***NEW*** BMC Phone Directory (searchable)](phone/BMCPhone.html)
+
 ### Virtual rounding resources
 
 - [BCH Zoom Resources & Bedside Numbers](http://web2.tch.harvard.edu/champs/mainpageS2745P83.html)
