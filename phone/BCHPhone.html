@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        #myInput {
+            background-image: url('/css/searchicon.png');
+            background-position: 10px 12px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
+
+        #myUL {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #myUL li {
+            border: 1px solid #ddd;
+            margin-top: -1px;
+            /* Prevent double borders */
+            background-color: #f6f6f6;
+            padding: 12px;
+            text-decoration: none;
+            font-size: 18px;
+            color: black;
+            display: block
+        }
+
+        #myUL li a:hover:not(.header) {
+            background-color: #eee;
+        }
+
+        /*.button {
+            border: none;
+            color: white;
+            padding: 16px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            border-radius: 10px;
+            }
+
+        .button1 {
+            background-color: white;
+            color: black;
+            border: 2px solid #4CAF50;
+            }
+
+        .button1:hover {
+            background-color: #4CAF50;
+            color: white;
+            }
+
+        .button2 {
+            background-color: white;
+            color: black;
+            border: 2px solid #008CBA;
+            }
+
+        .button2:hover {
+            background-color: #008CBA;
+            color: white;
+            }<button class="button button1" onclick="myFunction('labs')">Labs</button>*/
+    </style>
+</head>
+
+<body>
+
+    <h2>BCH Phone Directory</h2>
+    <h3>If calling from an outside line:</h3>
+    <li>5-xxxx is 617-355-xxxx</li>
+    <li>4-yyyy is 617-919-yyyy</li>
+    <li>8-zzz is 857-218-zzzz</li>
+    <br>
+
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Type in a name">
+
+    <ul id="myUL">
+        <li><a>Bacteriology (Labs) ---- 5-7485</a></li>
+        <li><a>Blood Bank (Labs) ---- 5-6260</a></li>
+        <li><a>Blood Gas (Labs) ---- 5-7838</a></li>
+        <li><a>Chemistry (Labs) ---- 5-7122</a></li>
+        <li><a>Endocrine (Labs) ---- 5-7376</a></li>
+        <li><a>Genetics (Labs) ---- 617-553-5880</a></li>
+        <li><a>Hematology (Labs) ---- 5-6732</a></li>
+        <li><a>Immunology (Labs) ---- 5-7620</a></li>
+        <li><a>Lab Control (Labs) ---- 5-6351</a></li>
+        <li><a>Pathology (Labs) ---- 5-7431</a></li>
+        <li><a>Virology (Labs) ---- 5-7624</a></li>
+        <li><a>CT (Tests) ---- 5-6308</a></li>
+        <li><a>ECHO (Tests) ---- 5-8686</a></li>
+        <li><a>EEG (Tests) ---- 5-7970</a></li>
+        <li><a>EKG (Tests) ---- 5-5626</a></li>
+        <li><a>IR (Tests) ---- 5-6579</a></li>
+        <li><a>MRI (Tests) ---- 5-6300</a></li>
+        <li><a>Nuclear Med (Tests) ---- 5-7010</a></li>
+        <li><a>PFTs (Tests) ---- 5-7510</a></li>
+        <li><a>Radiology (Tests) ---- 5-6286</a></li>
+        <li><a>Sleep Study (Tests) ---- 5-7148</a></li>
+        <li><a>Sweat Test (Tests) ---- 5-7022</a></li>
+        <li><a>Ultrasound (Tests) ---- 5-7840</a></li>
+        <li><a>Computer Help (Misc) ---- 5-HELP</a></li>
+        <li><a>COPP (Misc) ---- 5-0000</a></li>
+        <li><a>CPT (Misc) ---- 5-7979</a></li>
+        <li><a>CVS @ BCH (Misc) ---- 617-975-3500</a></li>
+        <li><a>DCF (51A) (Misc) ---- 800-792-5200</a></li>
+        <li><a>Dictation (Misc) ---- 5-6600</a></li>
+        <li><a>Infection Control (Misc) ---- 5-6932</a></li>
+        <li><a>Interpreters (Misc) ---- 5-7198</a></li>
+        <li><a>Library (Misc) ---- 5-7232</a></li>
+        <li><a>Medical Record (Misc) ---- 5-7546</a></li>
+        <li><a>NBS Office (Misc) 617-983-6300 OR</a></li>
+        <li><a>Desk (Misc) ---- 5-7731</a></li>
+        <li><a>Pharmacy (Misc) ---- 5-6807</a></li>
+        <li><a>Psych Consult (Misc) ---- 5-8606</a></li>
+        <li><a>Poison Ctr (Misc) 800-222-1222</a></li>
+        <li><a>Security (Misc) ---- 5-6121</a></li>
+        <li><a>Social Services (Misc) ---- 5-7965</a></li>
+        <li><a>TPN Pharmacy (Misc) ---- 5-5523</a></li>
+        <li><a>Dana Farber ---- 617-632-xxxx</a></li>
+        <li><a>Dana Farber Lab Control ---- 2-3265</a></li>
+        <li><a>Dana Farber Jimmy Fund ---- 2-3270</a></li>
+        <li><a>Brigham ---- 617-732-xxxx</a></li>
+        <li><a>Brigham Operators ---- 2-5500</a></li>
+        <li><a>Brigham NICU ---- 2-5420</a></li>
+        <li><a>Brigham NICU A ---- 2-5739</a></li>
+        <li><a>Brigham NICU B ---- 2-8319</a></li>
+        <li><a>Brigham NICU C ---- 2-8351</a></li>
+        <li><a>Brigham NICU D ---- 2-8341</a></li>
+        <li><a>Brigham CWN 9 ---- 2-7595</a></li>
+        <li><a>Brigham CWN 10 ---- 2-6873</a></li>
+        <li><a>Brigham Page ---- 2-5656</a></li>
+        <li><a>Brigham Lab Control ---- 2-7415</a></li>
+        <li><a>Brigham Help Desk ---- 2-5927</a></li>
+        <li><a>Beverly Hospital ---- 978-922-3000</a></li>
+        <li><a>BI Hospital ---- 617-632-6000</a></li>
+        <li><a>Brockton Hospital ---- 508-941-7000</a></li>
+        <li><a>Cambridge Hospital ---- 617-655-1000</a></li>
+        <li><a>MGH Hospital ---- 617-726-2000</a></li>
+        <li><a>South Shore Hospital ---- 781-624-8000</a></li>
+        <li><a>Winchester Hospital ---- 781-729-9000</a></li>
+        <li><a>BCH Interpreter Services ---- 5-7198</a></li>
+        <li><a>BCH Spanish Interpreter ---- pg1313</a></li>
+        <li><a>Arabic Interpreter ---- pg3457</a></li>
+        <li><a>All other Interpreter ---- pg0120</a></li>
+        <li><a>Phone Interpreter (24/7) ---- 877-237-4933</a></li>
+        <li><a>Clinic - Adolescent ---- 57181</a></li>
+        <li><a>Clinic - Allergy/Immunology ---- 56117</a></li>
+        <li><a>Clinic - Audiology ---- 56461</a></li>
+        <li><a>Clinic - Cardiology ---- 54278</a></li>
+        <li><a>Clinic - CCS ---- 56162</a></li>
+        <li><a>Clinic - Child Protection Team ---- 57979</a></li>
+        <li><a>Clinic - CHPCC ---- 57701/57702</a></li>
+        <li><a>Clinic - CHPCC Back Room ---- 55157/53306</a></li>
+        <li><a>Clinic - CHPCC Charge RN ---- 84706</a></li>
+        <li><a>Clinic - Dental ---- 56571</a></li>
+        <li><a>Clinic - Dermatology ---- 56117</a></li>
+        <li><a>Clinic - Developmental Eval Center ---- 57025</a></li>
+        <li><a>Clinic - Endocrinology ---- 57476</a></li>
+        <li><a>Clinic - Environmental Health ---- 58177</a></li>
+        <li><a>Clinic - Feeding Team (Jennifer Perez) ---- 57727</a></li>
+        <li><a>Clinic - Genetics/Metabolism ---- 56394</a></li>
+        <li><a>Clinic - General Surgery ---- 57800</a></li>
+        <li><a>Clinic - GI ---- 56058</a></li>
+        <li><a>Clinic - Gynecology ---- 57648</a></li>
+        <li><a>Clinic - Hematology ---- 58246</a></li>
+        <li><a>Clinic - ID ---- 56832</a></li>
+        <li><a>Clinic - MEHC ---- 617-971-2100</a></li>
+        <li><a>Clinic - Nephrology ---- 56129</a></li>
+        <li><a>Clinic - Neurology ---- 56388</a></li>
+        <li><a>Clinic - Neurosurgery ---- 56009</a></li>
+        <li><a>Clinic - Nutrition ---- 56058</a></li>
+        <li><a>Clinic - Ophthalmology ---- 56401</a></li>
+        <li><a>Clinic - ORL ---- 56462</a></li>
+        <li><a>Clinic - Orthopedics ---- 56021</a></li>
+        <li><a>Clinic - Physical Therapy ---- 57212</a></li>
+        <li><a>Clinic - Plastic & Oral Surgery ---- 57252</a></li>
+        <li><a>Clinic - Pulmonary/CF ---- 51900</a></li>
+        <li><a>Clinic - Rheumatology ---- 56117</a></li>
+        <li><a>Clinic - Sports Medicine ---- 56028</a></li>
+        <li><a>Clinic - Urology ---- 57796 </a></li>
+        <li><a>Batphone 6E-Subs Intern ---- 8-3967</a></li>
+        <li><a>Batphone Gen Peds C Intern ---- 5-0016</a></li>
+        <li><a>Batphone 7W-Subs Intern ---- 5-2643</a></li>
+        <li><a>Batphone Gen Peds A Intern ---- 5-0014</a></li>
+        <li><a>Batphone Gen Peds B Intern ---- 5-0022</a></li>
+        <li><a>Batphone ICP Intern #1 ---- 5-0807</a></li>
+        <li><a>Batphone ICP Intern #2 ---- 5-3637</a></li>
+        <li><a>Batphone Pulmonary ---- 5-0018</a></li>
+        <li><a>Batphone Cardiology ---- 5-0640</a></li>
+        <li><a>Batphone GI ---- 5-0017</a></li>
+        <li><a>Batphone CCS ---- 5-0015</a></li>
+        <li><a>Batphone MSICU (7S) ---- 5-1955</a></li>
+        <li><a>Batphone Onc Heme Mag ---- 5-0023</a></li>
+        <li><a>Batphone Onc Solid Tumor 8-6047</a></li>
+        <li><a>Batphone Seniors</a></li>
+        <li><a>Batphone MICU (11S) ---- 5-2559</a></li>
+        <li><a>Batphone Gen Peds A Supervisor ---- 5-0012</a></li>
+        <li><a>Batphone Gen Peds B Supervisor ---- 5-4617</a></li>
+        <li><a>Batphone Gen Peds C Supervisor ---- 5-0013</a></li>
+        <li><a>Batphone 7W-Subs Supervisor ---- 5-2603</a></li>
+        <li><a>Batphone 6E-Subs Supervisor ---- 5-4616</a></li>
+        <li><a>Batphone ICP Supervisor #1 ---- 5-0020</a></li>
+        <li><a>Batphone ICP Supervisor #2 ---- 5-0025</a></li>
+        <li><a>Batphone Admit ---- 5-6851
+
+    </ul>
+
+    <script>
+        function myFunction(defVar) {
+            var input, filter, ul, li, a, i, txtValue;
+            if (defVar === undefined){
+                input = document.getElementById("myInput");
+            } else {
+                input = defVar;
+            }
+            
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myUL");
+            li = ul.getElementsByTagName("li");
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("a")[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
