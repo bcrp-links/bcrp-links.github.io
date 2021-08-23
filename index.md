@@ -24,9 +24,9 @@
 *Please feel free to add/edit*
 
 - [Admission](https://bit.ly/bcrpadmission)
-- [Admission (browser friendly test - new!](templates/InptAdmission.html)
+- [Admission (browser friendly test - ***new!***)](templates/InptAdmission.html)
 - [Discharge](https://bit.ly/bcrpdischarge)
-- [Discharge (browser friendly test - new!](templates/InptDischarge.html)
+- [Discharge (browser friendly test - ***new!***)](templates/InptDischarge.html)
 - [DME Scripts](https://bit.ly/bcrpdme)
 - [ED & Urgent Care](https://bit.ly/bcrpedurgent)
 - [WCC](https://bit.ly/bcrpwcc)
