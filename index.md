@@ -24,9 +24,9 @@
 *Please feel free to add/edit*
 
 - [Admission](https://bit.ly/bcrpadmission)
-- [Admission (browser friendly test - ***new!***)](templates/InptAdmission.html)
+- [Admission (browser friendly - ***new!***)](templates/InptAdmission.html)
 - [Discharge](https://bit.ly/bcrpdischarge)
-- [Discharge (browser friendly test - ***new!***)](templates/InptDischarge.html)
+- [Discharge (browser friendly - ***new!***)](templates/InptDischarge.html)
 - [DME Scripts](https://bit.ly/bcrpdme)
 - [ED & Urgent Care](https://bit.ly/bcrpedurgent)
 - [WCC](https://bit.ly/bcrpwcc)
@@ -69,6 +69,7 @@ VPNs:
 
 ### Resources:
 
+- [BMC Clinic Resources - ***new***](https://docs.google.com/document/d/1fKMJqRPYKDcch9WPT2txDJf1stmheE13dhnxrd0CMlY/edit?usp=sharing)
 - [ExTrip Toxicology Overdose Recommendations](https://www.extrip-workgroup.org/)
 - [BMC NB Board](files/bmc-ward-board.jpeg)
 - [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
