@@ -69,7 +69,8 @@ VPNs:
 
 ### Resources:
 
-- [BMC Clinic Resources - ***new***](https://docs.google.com/document/d/1fKMJqRPYKDcch9WPT2txDJf1stmheE13dhnxrd0CMlY/edit?usp=sharing)
+- [BCRP Pediatrics Virtual Guide - ***new***] (https://docs.google.com/document/d/13Havj_UIoQzBl0G_e2WRiDuZpCVIfpZAq0P-vN5E7iU/edit)
+- [BMC Clinic Resources](https://docs.google.com/document/d/1fKMJqRPYKDcch9WPT2txDJf1stmheE13dhnxrd0CMlY/edit?usp=sharing)
 - [ExTrip Toxicology Overdose Recommendations](https://www.extrip-workgroup.org/)
 - [BMC NB Board](files/bmc-ward-board.jpeg)
 - [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
