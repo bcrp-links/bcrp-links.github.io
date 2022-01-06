@@ -1,0 +1,599 @@
+# Psychiatry
+
+## Consulting Psych
+- Place “Psychiatry Consult” order in PowerChart. Will allow you to select an indication (including Agitation plan, Psychiatric Disposition, etc). What you write in Order Comments = what Psych uses to prioritize urgency and assign consult. Must obtain patient/guardian consent prior to placing consult.
+- If patient seen in ER by Psych SW and officially boarding for inpatient LOC, as of Sept 2020 this is a new option to select on consult order
+- Reasons to page Psych on-call on nights/wknd: Severe agitation, active SI w/ plan/intent, psychosis, behavior interfering w/ essential medical care
+
+## A/P Template for Patients Awaiting Inpatient Psych Placement
+**Use the Behavioral Healthy Safety Plan order set!**
+
+Assessment: _ is a _ y/o M/F w/ PMH __ who presents w/ concerning __ SI that makes him/her unsafe for discharge home. S/He has been medically cleared and is awaiting placement at an inpatient psychiatric facility. We will continue to provide a safe environment and follow along w/ Psychiatry.
+
+Plan:
+
+-- Medical clearance
+- Utox, urine HCG
+- EKG (document baseline QTc)
+
+-- Behavioral plan
+- Supervision: 1:1 sitter vs. security, safety tray, safety check prior to any room changes
+- Activity level: Start w/ confined to room (Psych will decide when out-of-room privileges are ok, e.g. supervised walks around unit or visit to playroom at RN’s discretion
+- Electronics: Start w/ no phone or internet (Psych will decide if/when permitted and w/ what level of supervision/restrictions)
+
+-- Agitation plan, per Psychiatry on [date]
+- Mild agitation: Utilize behavioral strategies
+- Moderate agitation: Ativan OR Haldol , ALWAYS WITH Benadryl . Call BRT to help prevent further escalation to severe agitation.
+- Severe agitation: Olanzapine PO/IM (Zydis ODT for PO) OR Haldol PO/IM , ALWAYS WITH Benadryl PO/IM PRN. Call 5-5555 to activate Behavioral Rapid Response (summons Psych, BRT, Security). Call on-call Psych if requires IM or if not responding within 20-30min or if need further guidance.
+- If administering antipsychotics, daily EKG to monitor QTc (target < 450)
+- PO’s should be ordered as PRNs, IM must be one-time in the moment and can only be ordered by PGY2 or higher
+
+-- Dispo: pending placement to inpatient psych when available bed identified
+
+**Note: dosing for agitation meds is written as  __ mg q_ NTE __ from all sources in 24hrs. Dosing recommendations per table below:**
+
+## Agitation
+
+### Identifying Agitation
+Mild: Pacing, worrying, agitated but cooperative
+Moderate: Swearing, threatening, yelling, screaming, clenching fists, pacing, superficial self-injury, request for meds
+Severe: Imminent risk of harm to self or others, aggression to others/self, destruction of property
+
+### Non-Pharm Management
+BRT is your best friend!
+
+#### Prevention
+Identifying triggers:
+
+- Stimuli that trigger upsetting feelings or problematic behaviors (precipitant to behavior)
+
+- Environmental or emotional
+
+Patients at risk: ASD, developmental delay, trauma
+
+Think about the 4 functions of any behavior: Attention, escape, sensory, tangibles/access
+
+#### Ways to respond
+Recognize and respond to initial signs of agitation or inappropriate behavior w/ redirection. Avoid using the word “no.”
+Avoid non-specific comments such as “behave” or “calm down”
+
+Ignore behavior that is disruptive, but not harmful. Make a blank non-smiling face, avoid eye contact and turn away. As soon as the child stops the unwanted behavior, smile and make eye contact.
+Give the child a space - somewhere calm and safe - where they can go when they feel overwhelmed.
+Do not simply react; try to understand the reasons behind the behavior.
+
+#### Managing the situation
+Managing the situation
+Start by asking “what do you want?”
+Try the SAVE mnemonic: Support ”Let’s work together…”, Acknowledge "I see this has been hard for you.”, Validate ”I'd probably be reacting the same way if I was in your shoes.”, Emotion naming ”You seem upset.” or similar communication efforts when talking with the patient.
+
+Strategies will differ based on degree of agitation:
+
+**Mild**
+
+- Listen, validate, problem-solve
+- Stay w/ the patient, have them sit w/ you
+- Maintain calm demeanor
+- Eliminate distractions
+- Empathetic listening
+- Utilize supportive eye and verbal communication, gestures, posture, and facial expressions
+- Utilize preferred activities (eg music)
+
+**Moderate**
+
+- Redirect, problem-solve
+- Allow individual to vent
+- Validate feelings
+
+**Severe**
+
+- Direct, clear communication
+- Call 5-5555 to activate Behavioral Rapid Response (summons Psych, BRT, Security)
+- Maintain safe distance (4ft); intervene if danger is imminent
+- Interrupt individual’s focus
+- Body language techniques
+- Positive verbal command
+- Throwing/dropping an object
+- Moving as an escape technique
+- Medications (PO vs. IM), potential need for restraint.
+
+### Restraints
+Ordering restraints for violent or self-destructive/injurious behavior:
+
+- **CANNOT** be written PRN! Appropriate restraint order must be placed immediately upon initiation of restraint.
+
+- Ordering clinician must perform face-to-face within 1hr
+
+- Order cannot be written by an intern, must be junior/senior resident
+
+### Pharmacologic Management
+See A/P Template section above, as well as Rapid Reference chapter
+
+Psychiatry will determine an appropriately tailored pharmacologic agitation plan, but these guidelines are a good starting place if you don’t yet have a formal plan in place:
+
+#### Medication Recommendations - Moderate Agitation
+Parenteral medication orders for agitation may not be ordered PRN.  Place 1 time orders at the time the medication is needed.
+
+|     Parameter                                                                                                                                                                                                                                                                                                                                                                   |     Child (weighing 25-50 kg)                                                                      |     Adolescent (weighing > 50 kg)                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+|     Preferred Agent(s)                                                                                                                                                                                                                                                                                                                                                          |     Diphenhydramine or Lorazepam                                                                   |     Diphenhydramine or Lorazepam                                                                          |
+|     **Administration Route** <br> For escalating patients who refuse PO and for whom there is significant concern for imminent and serious risk of harm to self or others, please progress to severe agitation IM plan below. IM medications usually require physical holds or restraints and should only be involuntarily administered if there is significant risk of harm    |     PO                                                                                             |     PO                                                                                                    |
+|     Initial Dosing                                                                                                                                                                                                                                                                                                                                                              |     Diphenhydramine 25 mg <br>   or <br> Lorazepam 0.5 - 1 mg                                      |     Diphenhydramine 50 mg  <br> or <br>   Lorazepam 1- 2 mg                                               |
+|     Repeat dosing <br> (60 minutes after initial dose if ineffective)                                                                                                                                                                                                                                                                                                           |     Diphenhydramine 25 mg <br> or <br>   Lorazepam 0.5 - 1 mg                                      |     Diphenhydramine 25 mg <br>  or <br>  Lorazepam 1 – 2 mg                                               |
+|     Subsequent Frequency                                                                                                                                                                                                                                                                                                                                                        |     Q4 – 6 hours <br> Not to exceed 100 mg of diphenhydramine or 2 mg of lorazepam in 24 hours     |     Q4 – 6 hours <br> Not to exceed 150 mg of diphenhydramine or 4 mg of lorazepam in 24 hours            |
+
+PO’s should be ordered as PRNs, IM must be one-time in the moment and can only be ordered by PGY2 or higher
+Prescribers to use discretion and order lower or higher doses as appropriate.
+
+#### Medication Recommendations - Severe Agitation
+Parenteral medication orders for agitation may not be ordered PRN.  Place 1 time orders at the time the medication is needed.
+
+|     Parameter                                                               |     Child (weighing 25-50 kg)                                                                                                                                                            |     Adolescent (weighing > 50 kg)                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Preferred   Agent(s)                                                    |     Olanzapine* (ODT for PO) <br>   or  <br>                                            Haloperidol and Diphenhydramine** <br> or <br>  Lorazepam                                        |     Olanzapine* (ODT for PO) <br> or <br> Haloperidol and Diphenhydramine** <br> and/or <br> Lorazepam                                                                                                                                                          |
+|     Administration   Route                                                  |     PO or IM                                                                                                                                                                             |     PO or IM                                                                                                                                                                                                                                                    |
+|     Initial   Dosing                                                        |     Olanzapine 2.5  mg <br>  or  <br>                              Haloperidol 2 mg and Diphenhydramine 25 mg <br> or <br> Lorazepam 0.5-1 mg                                            |     Olanzapine 5 mg (can use 7.5mg for patients weighing > 70kg)  <br>  or <br> Haloperidol 5 mg and Diphenhydramine 50 mg <br> and/or <br> Lorazepam 1-2 mg <br> (can use Haloperidol, Diphenhydramine and Lorazepam combined for patients weighing > 70kg)    |
+|     Repeat   dosing (45 minutes   after initial dose if ineffective***)     |     Olanzapine 2.5 mg <br>  or <br>  Haloperidol 1 mg and Diphenhydramine 25 mg <br> or <br> Lorazepam 0.5-1 mg                                                                          |     Olanzapine 5 mg <br> or <br>  Haloperidol 2.5 mg and Diphenhydramine 25 mg <br>  and/or <br> Lorazepam 1-2 mg                                                                                                                                               |
+|     Subsequent   Frequency                                                  |     Q4hr <br> Do not exceed: <br>   Olanzapine 10 mg in 24 hours <br> Haloperidol 5 mg in 24 hours <br> Diphenhydramine 100 mg in 24 hours <br> Lorazepam 3 mg in 24 hours <br>          |     Q4hr <br> Do not exceed:<br>   Olanzapine 15 mg in 24 hours <br> Haloperidol 10 mg in 24 hours <br> Diphenhydramine 150 mg in 24 hours <br> Lorazepam 6 mg in 24 hours                                                                                      |
+
+* __Do NOT use IM olanzapine within 4 hours of IM/IV lorazepam due to risk of cardiopulmonary depression.__
+
+* ODT = orally disintegrating tablet.
+
+* Use of diphenhydramine with haloperidol is preferred to haloperidol alone to avoid risk of acute dystonic reactions.  The use of haloperidol in combination with Fluoxetine (Prozac) or Citalopram (Celexa) can significantly increase the risk of QT prolongation and should only be used if benefits outweigh the risks. Consult formulary for complete information. 
+
+* If pharmaceutical interventions are not effective, patients at risk for self-harm or harming others may require physical restraints, turning off the lights, and an urgent psychiatry evaluation.
+
+__The use of haloperidol in combination with Fluoxetine (Prozac) or Citalopram (Celexa) can significantly increase the risk of QT prolongation and should only be used if benefits outweigh the risks.  __
+
+## Medications That Cause Psychiatric Side Effects
+
+### Selected Meds
+
+Steroids: Aggressiveness/agitation, mania, depression, anxiety, psychosis
+
+Procainamide, quinidine: Confusion, delirium
+
+Albuterol: Anxiety, confusion
+
+Isoniazid: Psychosis
+
+Tetracycline: Depression
+
+Nifedipine, verapamil: Depression
+
+Cimetidine: Depression, confusion, psychosis
+
+### Psychosis
+Sympathomimetics, analgesics, antibiotics (e.g. isoniazid, antimalarials), anticholinergics, anticonvulsants, antihistamines, corticosteroids, antiparkinsonian agents.
+
+### Agitation/Confusion/Delirium
+Benzos, antipsychotics, anticholinergics, antihistamines, antidepressants, antiarrhythmics, antineoplastics, corticosteroids, NSAIDs, antiasthmatics, antibiotics, antihypertensives, antiparkinsonian agents, thyroid hormones
+
+### Depression
+Antihypertensives, antiparkinsonian agents, corticosteroids, calcium channel blockers, NSAIDs, antibiotics, peptic ulcer drugs.
+
+### Anxiety
+Sympathomimetics, antiasthmatics, antiparkinsonian agents, hypoglycemic agents, NSAIDs, thyroid hormones.
+
+### Sedation/Poor concentration
+Antianxiety agents/hypnotics, anticholinergics, antibiotics, antihistamines.
+
+## Capacity Assessment
+Capacity vs competency: Capacity is a one-time assessment by a clinician. Competency is a legal decision based on accumulated evidence that requires court hearing/proceeding.
+
+| Patient (18yo+)/family must...                | Assessment                                                                                                                                                                                                 |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Communicate a clear and stable choice         | Ask patient to indicate a choice.  Frequent reversals may indicate lack of capacity.                                                                                                                       |
+| Understand relevant information               | Ask patient to explain their understanding of the information given by physician (diagnosis, prognosis, proposed intervention, risks/benefits of intervention and alternatives, including no intervention) |
+| Appreciate the situation and its consequences |                                                                                                                                                                                                            |
+| Manage the information in a rational manner   | Does patient weigh risks/benefits logically?                                                                                                                                                               |
+| Is there true imminent risk?                  | EX: patient indicating they are suicidal but meet all 4 criteria above.                                                                                                                                    |
+
+## Depression & Anxiety
+
+### Diagnosis
+Major Depressive Episode: **2 wks of**: Depressed mood (or irritability, which is more common in children) OR anhedonia, PLUS 4+ of remaining SIGECAPs (**S**leep change, **I**nterest loss, **G**uilt/worthlessness, **E**nergy loss/fatigue, **C**ognition/concentration, **A**ppetite change, **P**sychomotor change, **S**I)
+- Ddx: Hypoactive type (wax/wane, acute-onset, possibly 2/2 underlying medical illness or iatrogenic), adjustment disorder (needs psychotherapy only), delirium
+
+### Management
+According to TADS and CAMS (2 large RCTs w/ govt oversight), combination therapy of SSRI + CBT is superior to monotherapy w/ either! CBT or SSRI is superior to placebo.
+No SSRI-associated suicidal events in either study, but when initiating SSRI it is important to monitor carefully (wks 1-4: weekly; wks 5-12: every other week) for any signs of ↑ suicidality
+- **NEVER** prescribe paroxetine (Paxil) to adolescents (black box warning for suicide)
+
+**SSRIs are 1st line**: Help ⅔ of pts in first trial over **4-8 wks**. ⅔ of nonresponders respond to 2nd trial.
+- **Sertraline (Zoloft)** and **Fluoxetine (Prozac)** are most commonly used, least SE (used in TADS, CAMS). 
+- Mild serotonergic side-effects (hyperhidrosis, nausea, headache, tremulousness, diarrhea) can happen w/ SSRI/SNRI initiation and/or uptitration, usually goes away in 2-3 days
+
+## Suicide
+- If you don’t directly ask about suicide, you won’t hear about it. NEVER assume! You don’t have to be depressed to be suicidal. 
+- ~4% of patients coming in to ED (for all complaints) are suicidal.
+- Adolescents more likely to kill selves by firearm; children by strangulation
+
+**ASQ: Adolescent Suicide Screening Tool**
+In the past few weeks, have you wished you were dead?
+In the past few weeks, have you felt that you or your family would be better off if you were dead?
+- Yes to 1 or 2 (passive SI): Counsel, supportive listening, referrals
+In the past week, have you been having thoughts about killing yourself?
+Have you ever tried to kill yourself?
+Are you having thoughts of killing yourself right now? 
+- Yes to 3 or 5 (active SI): Immediate consult from ER/floor/outpt mental health clinician 
+
+## Antidepressants
+
+### Selective Serotonin Reuptake Inhibitors (SSRIs)
+
+#### Mechanism of Action
+5-HT-specific reuptake inhibitor
+
+#### Use
+Depression, Gen. anxiety disorder, Panic disorder, OCD, bulimia, social anxiety disorder, PTSD, premature ejaculation, premenstrual dysphoric disorder
+- It normally takes **4–8 weeks** for antidepressants to have full effect. 
+**Fluoxetine** (Prozac), **Paroxetine** (Paxil), **Sertraline** (Zoloft), **Citalopram** (Celexa), **Escitalopram**         
+(_Fl_ ashbacks _par_ alyze _se_ nior _cit_ izens)
+Paroxetine → short half-life → discontinuation syndrome (flu-like sxs, dizzy, diaphoretic, “electric shock,” + depression). Do not use in adolescents due to black box warning for suicide.
+Fluoxetine → long half-life → no need to taper/good for poor compliance, P450 inhibitor, can ↑antipsychotics → ↑SEs
+Citalopram/Escitalopram → Dose dependent QTc prolongation (usually minimal)
+
+#### Side Effects
+GI distress, SIADH, sexual dysfunction (anorgasmia, ↓ libido), insomnia, anorexia, ↑ suicidality in adolescents , QTc prolongation, mildly ↓ Na (i.e. 128)
+
+Serotonin syndrome: 2 meds that ↑ serotonin (MAOis, SNRIs, TCAs, Opoids, Tramadol, Linezolid) → ↑↑ serotonin in brain. (ex: triptan/SSRIs)
+
+**3 A’s**: neuromuscular **A**ctivity (clonus, hyperreflexia, hypertonia, tremor, seizure), **A**utonomic stim (hyperthermia, diaphoresis, diarrhea), and **A**gitation. 
+Tx: cyproheptadine (5-HT2 receptor antagonist) or benzodiazepines 
+
+### Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)
+
+#### Mechanism of Action
+Inhibit 5-HT and NE reuptake 
+
+#### Use
+Depression, general anxiety disorder, diabetic neuropathy. 
+**Venlafaxine** → also indicated for social anxiety disorder, panic disorder, PTSD, OCD, menopausal depression (b/c of NE effects)
+**Duloxetine** → also used for neuropathy (vs. Amitriptyline is better in suicidal patient who might overdose)
+
+#### Examples
+Venlafaxine (Effexor), Duloxetine (Cymbalta), desvenlafaxine, levomilnacipran, milnacipran.
+
+#### Side Effects
+↑ BP most common; also stimulant effects, sedation, nausea
+
+### Tricyclic Antidepressants (TCAs)
+
+#### Mechanism of Action
+Block reuptake of NE and 5-HT. (-triptyline, -pramine –doxepin)
+
+#### Use
+Major depression, OCD (clomipramine), peripheral neuropathy, chronic pain, migraine prophylaxis.
+
+#### Examples
+3° amines: -Amitriptyline (pain/migraines), Imipramine (enuresis), clomipramine (OCD), doxepin 
+2° amines: -Nortriptyline, amoxapine, desipramine (ADHD)
+
+#### Side Effects
+Tri-C’s: CNS toxicity (Convulsions/Coma), Cardiotoxicity (arrhythmia -Na+ channel inhib, ↑QT int), antiCholinergic (urinary retention); 
+Sedation, α1-blocking effects (postural hypotension), anticholinergic SEs (tachycardia, urinary retention, dry mouth)
+3° TCAs (amitriptyline) have more anticholinergic effects than 2° TCAs (nortriptyline). 
+QRS duration >100 msec → assoc. w. ↑risk of arrhythmias and/or seizures =indication for Tx: NaHCO3-stabilizes myocardium, alkalinize urine
+Confusion/hallucinations in elderly due to anticholinergic side effects (use nortriptyline)
+
+### Monoamine Oxidase Inhibitors (MAOIs)
+Note: Rarely used anymore
+
+#### Mechanism of Action
+Nonselective MAO inhibition → ↑ levels of amine neurotransmitters (NE, 5-HT,dopamine)
+
+#### Use
+Atypical depression (hypersomnia, ↑ appetite, heavy extremities, ↑ sensitivity to interpersonal rejection)
+Anxiety
+ - Selegiline → only antidepressant that comes in dermal patch form (good for patient that cannot tolerate PO)
+
+#### Examples
+Phenelzine, Isocarboxazid, Tranylcypromine, (MAO Takes Pride In Shanghai), Selegiline (selective MAO-B inhibitor – Parkinson’s, Transdermal).
+
+#### Side Effects
+**Hypertensive crisis** (tyramine (cheese, wine)) → ↑↑ BP, HA, sweating, N/V, photophobia, autonomic instability, stroke/death Tx: Nitroprusside, Phentolamine
+**Serotonin Syndrome**: MAOIs are contraindicated in combo w/ SSRIs, TCAs, Tramadol, Linezolid, St. John’s wort, meperidine, dextromethorphan 
+- Wait 2 weeks after stopping MAO inhibitors before starting serotonergic drugs or stopping dietary restrictions.
+Linezolid is a weak MAOI, and warrants avoidance of norepi and serotonergic drugs (big problem in CF patients w/ depression), otherwise risk hypertensive urgency and/or serotonin syndrome, respectively
+
+### Norepinephrine-Dopamine Reuptake Inhibitors (NDRIs)
+
+#### Mechanism of Action
+↑ norepinephrine and Dopamine via unknown mechanism
+
+#### Use
+MDD w/ sexual side effects from SSRI’s, MDD w/ wt gain/hypersomnia (bupropion is PRO penis, not Bulemic). Smoking cessation. 
+
+#### Examples
+Bupropion (Wellbutrin)
+
+#### Side Effects
+Seizures (in anorexic/bulimic or hx seizures), stimulant effects (tachycardia, insomnia), headache
+No sexual side effects
+
+### Alpha2-Adrenergic Receptor Antagonists
+
+#### Mechanism of Action
+α2-antagonist (↑release of NE and 5-HT), potent 5-HT2 /5-HT3 receptor antagonist and H1 antagonist (sleepy/appetite effects)
+
+#### Use
+Major depression (especially in patient w/ weight loss and/or insomnia) → EX: cancer patient w/ N/V, ↓appetite, + MDD
+
+#### Examples
+Mirtazapine (Remeron)
+
+#### Side Effects
+Sedation (desirable in depressed patients w/ insomnia), ↑appetite, wt gain (may be desirable in elderly/anorexic), dry mouth.
+
+#### Notes
+Adrenergics like guanfacine and clonidine are very useful in hyperactive ADHD and sometimes PTSD/irritability in general. Mirtazapine/Remeron is a multi-receptor drug and most of its psychotropic effect is from 5-HT activity, actually.
+
+### Serotonin Receptor Antagonists and Agonists
+
+#### Mechanism of Action
+Primarily blocks 5-HT2, α1-adrenergic, and H1 receptors; also weakly inhibits 5-HT reuptake. 
+
+#### Use
+Insomnia (high doses are needed for antidepressant effects) 
+
+#### Examples
+Trazodone (Desyrel) and Nefazodone (Serzone)
+
+#### Side Effects
+Sedation, nausea, priapism, postural hypotension. Called traZZZoBONE → b/c sedative and male-specific side effects.
+
+### Nicotinic ACh Receptor Partial Agonist
+
+#### Use
+Smoking cessation
+
+#### Examples
+Varenicline (Chantix) 
+
+#### Side Effects
+Sleep disturbance, mood changes, suicidality, cardiovascular events
+
+## Antipsychotics
+
+### Typical Antipsychotics (1st Generation)
+
+#### Mechanism of Action
+Block D2 receptors (↑[cAMP]) → Low/High Potency can cause QT prolongation(450 = number you are looking for)
+
+#### Use
+Schizophrenia (helps positive sx, little effect on neg sx), psychosis, bipolar disorder, delirium, Tourette syndrome, Huntington disease, OCD
+
+#### Low Potency
+Chlorpromazine,(Corneal deposition), Thioridazine(reTinal deposition)  → **C**heating **T**hieves are **LOW**
+- Blocks HAM – Histamine (sedation), α1 (orthostatic hypoTN), Muscarinic (dry mouth, constipation)
+
+#### High Potency
+Trifluoperazine, Fluphenazine, Haloperidol → Try to Fly High
+- Libido, osteoporosis, amenorrhea, gynecomastia Tuberoinfundibular: block dopa → ↑ prolactin→ ↓GnRH → ↓ FSH/LH  
+- Extrapyramidal symptoms - Nigrostriatal: ACTH/dopamine in balance → block dopamine → ↑ACTH
+
+| ADAPT              | Time      | Extrapyramidal Symptoms                                    | Management                                                                                                  |
+|--------------------|-----------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Acute Dystonia     | Hrs-days  | Muscle spasm, torticollis, stiffness, oculogyric crisis    | IM: (1) Benztropine <br> (2) Diphenhydramine (antihistamine and anticholinergic effects) <br> (3) Lorazepam |
+| Akathisia          | Days -mos | Restlessness, ↑risk for suicide                            | Propranolol                                                                                                 |
+| Parkinsonism       | Days- mos | Bradykinesia, tremor, rigidity, mask-like facies,          | 1. Benztropine (NOT L-dopa b/c ↑ dopamine → ↑ psychosis) <br> 2. Trihexyphenidyl, maybe amantadine          |
+| Tardive dyskinesia | Mos-yrs   | Repetitive orofacial movements - dopamine hypersensitivity | 1. STOP antipsychotic (may worsen when first stop) <br> 2. START atypical -> Quetiapine or Clozapine        |
+
+Neuroleptic malignant syndrome: Fever (>103), Rigidity, ↑ CPK → rhabdo, AKI
+- Due to dopamine dysregulation. Caused by: typical/atypical antipsychotics, antiemetics, antiparkinson med withdrawal, infection, surgery
+- FEVER: Fever, Encephalopathy (AMS), Vitals unstable, ↑ Enzymes, Rigidity (lead pipe), leukocytosis
+- Compare to Serotonin Syndrome → NMS (↑↑Rigidity), SS (↑DTRs/clonus, GI sxs)
+- Tx; (1) STOP drug  (most important intervention) (2) Hydrate, cooling blankets
+If no response to stopping drug →(3) Dantrolene (inhibition of Ca2+ release)/ Bromocriptine/Amantadine (4) ECT 
+
+#### Notes
+IV and IM carry more risk of QTc and torsades than PO
+Our hospital has policy that only can get IV haloperidol while on telemetry (ICUs and 8E)
+
+### Atypical Antipsychotics (2nd Generation)
+
+#### Mechanism of Action
+Blocking D2 receptor AND serotonin 2A receptor blockade
+
+#### Use
+Schizophrenia (better neg sx coverage than typicals), bipolar disorder, OCD, anxiety disorder, depression, mania, Tourette syndrome
+
+#### Side Effects
+ALL SE’s: Metabolic side effects → sleepy and fat, → W/u: EKG, Lipids, BMI
+- Olanzapine → Obesity (metabolic syndrome)
+- Risperidone → ↑prolactin (↓dopamine activity in tuberoinfundibular pathway→ gynecomastia, galactorrhea, amenorrhea)
+- Quetiapine → best for movement disorders (ex: Parkinson’s)
+- Ziprasidone → starts w/ Z worst for the qTC, ↓metabolic effects
+- Aripiprazole → light and “ari” → doesn’t put you to sleep/lead to weight gain; partial agonist at D2
+- Clozapine → D4 blockade is primary effect, must watch closely → monitor WBC and ANC
+  -- 3 good: best efficacy (if nothing else working), ↓ risk of suicide in schizophrenia (lithium only other), good for Lewy Body Dementia
+  -- 6 bad  (1) Agranulocytosis (CBCd before/wkly for 1st 6 mo→ ANC <1500 → Tx: STOP. (2) Myocarditis (EKG, troponins, etc) (3) ↓ Seizure threshold (most common) (4) Wt gain (worse than olanzapine) (5) Sedation (6) Sialorrhea 
+Others in this class not already mentioned above: Asenapine, Iloperidone, Lurasidone, Paliperidone
+
+## Mood Stabilizers
+
+### Lithium
+
+#### Mechanism of Action
+Not established; possibly related to inhibition of phosphoinositol cascade → inositol = buzzword
+
+#### Use
+Mood stabilizer for bipolar disorder; blocks relapse and acute manic events.
+
+- Drug of choice in acute mania and as prophylaxis for both manic/depressive episodes in bipolar & schizoaffective disorders.
+
+- It is also used in cyclothymic disorder and unipolar depression
+
+- Excellent at low doses for anti-suicidality
+
+_Contraindications_: chronic kidney disease, heart disease, hyponatremia or diuretic use
+
+_Therapeutic range_: 0.8-1.2 mEq/L
+
+#### Side Effects
+Lithium SEs: Movement (tremor), Nephrogenic Diabetes Insipidus HypOthyroidism, Pregnancy problems (Ebstein anomaly) (LMNOP). Skin problems (acne, psoriasis).
+- Prior to starting: ECG, BUN, creatinine, Ca2+, u/s,, thyroid function tests, CBC, and a pregnancy test
+Almost exclusively excreted by kidneys; most is reabsorbed at PCT w/ Na+
+- ↑ Li+ levels: NSAIDs, Aspirin, Thiazides, ACEi/ARBs, Metronidazole, Dehydration, Salt depr, Sweating (salt loss), ↓renal fxn 
+- ↓ Li+ levels: K+ sparing diuretics, Theophylline, CCB/Furosemide may ↑/↓ 
+__Acute Lithium toxicity__: tremor, diarrhea, vomiting, weakness, polyuria, polydipsia, ataxia, cognitive impairment
+__Chronic Lithium toxicity__: nephrogenic diabetes insipidus, thyroid dysfunction, hyperparathyroidism 
+
+### Valproic Acid (Depakote)
+
+#### Mechanism of Action
+↑ Na+ channel inactivation, ↑ GABA concentration by inhibiting GABA transaminase
+
+#### Use
+Bipolar (acute mania, mixed features, rapid cycling), Migraine prophylaxis, Myoclonic seizures
+
+#### Side Effects
+Hepatotoxicity (measure LFTs)/↑ ammonia, Hemorrhagic Pancreatitis, ↓ plts, neural tube defects, tremor, wt gain/PCOS, hair loss
+
+### Carbamazepine (Tegretol)
+
+#### Mechanism of Action
+Blocks Na+ channels
+
+#### Use
+Bipolar (esp. mania w/ mixed features and rapid-cycling), Antiepileptic, Trigeminal neuralgia
+
+#### Side Effects
+cyt P-450 inducer (↓ Warfarin effects → bleed, ↓ OCP effects → pregnancy), blood dyscrasias (agranulocytosis (↓ ANC), aplastic anemia), liver toxicity, teratogenesis, SIADH, Stevens-Johnson syndrome, Diplopia, ataxia
+
+### Buspirone (BuSpar)
+
+#### Mechanism of Action
+Stimulates 5-HT1A receptors
+
+#### Use
+Generalized anxiety disorder
+
+#### Side Effects
+Does not cause sedation, addiction, or tolerance. 
+Takes 1–2 wks to take effect. Does not interact w/ alcohol (vs barbiturates, benzodiazepines)
+
+### Benzodiazepines
+
+#### Mechanism of Action
+Facilitate GABA-A action by ↑ freq of Cl− channel opening. ↓ REM sleep. 
+“Frenzodiazepines” ↑ frequency. Benzos, barbs, and alcohol all bind the GABA-A receptor, which is a ligand-gated Cl− channel.
+Most have long half-lives/active metabolites (except: Alprazolam, Triazolam, Oxazepam, Midazolam→ short acting, ↑ addictive potential)
+
+#### Use
+Anxiety, akathisia, spasticity, status epilepticus (Lorazepam, diazepam), eclampsia, detoxification (esp. alcohol withdrawal/DTs), night terrors, sleepwalking, general anesthetic (amnesia, muscle relaxation), hypnotic (insomnia)
+
+#### Examples
+Diazepam (Valium), Clonazepam (Klonopin), Lorazepam (Ativan), temazepam, oxazepam (safer for impaired liver), midazolam (Versed), triazolam, chlordiazepoxide (long-acting, used to treat EtOH withdrawal, but not in liver failure), Alprazolam (Xanex).
+
+#### Side Effects
+Dependence, Additive CNS depression effects w/ alcohol (drowsiness, impaired intellect, motor coordination, amnesia)
+- Less risk of respiratory depression and coma than in barbiturates.
+
+Overdose tx: Flumazenil (competitive antagonist at GABA benzodiazepine receptor)
+- Can precipitate seizures by causing acute benzodiazepine withdrawal → withdrawal can be life threatening
+
+### Barbiturates
+
+#### Mechanism of Action
+Facilitate GABA-A action by ↑ duration of Cl− channel opening → ↓ neuron firing (barbiturates → ↑ duration). 
+Contraindicated in porphyria.
+
+#### Use
+Sedative for anxiety, seizures, insomnia, induction of anesthesia (thiopental).
+
+#### Examples
+Phenobarbital, pentobarbital, thiopental, secobarbital
+
+#### Side Effects
+Respiratory/cardiovascular depression (can be fatal); CNS depression (exacerbated by alcohol use); dependence
+- Drug interactions (induces cytochrome P-450)
+
+Overdose Tx: supportive (assist respiration and maintain BP)
+
+### Non-Benzodiazepine Hypnotics
+
+#### Mechanism of Action
+Act via the BZ1 subtype of the GABA receptor. Effects reversed by flumazenil. 
+Sleep cycle less affected as compared w/ benzodiazepine hypnotics
+
+#### Use
+Insomnia. Should be used short-term (weeks-months), although ↓ risk of dependence compared to benzos as sleep aid.
+
+#### Examples
+Zolpidem (Ambien), Zaleplon (Sonata), esZopiclone (Lunesta). “All ZZZs put you to sleep.”
+
+#### Side Effects
+Sleep-walking, ataxia, headaches, confusion. Short duration because of rapid metabolism by liver enzymes.
+Unlike older sedative-hypnotics, cause only modest day-after psychomotor depression and few amnestic effects.
+
+## Other Psychotropic Medications
+
+### Stimulants
+
+#### Mechanism of Action
+↑ catecholamines in the synaptic cleft, especially norepinephrine and dopamine
+
+#### Use
+ADHD, narcolepsy (modafinil), appetite control
+
+#### Examples
+Methylphenidate (Ritalin, Concerta),  Dextroamphetamine (Adderall), methamphetamine, Modafinil (Provigil). Atomoxetine (Strattera) is not technically a stimulant, in its own class.
+
+#### Side Effects
+Hypertension, weight loss, insomnia, exacerbation of tics, ↓ seizure threshold
+
+### Acetylcholinesterase Inhibitors
+
+#### Mechanism of Action
+Inhibits AChE → ↑ ACh in synaptic cleft
+
+#### Use
+Mild-moderate dementias (neurocognitive disorders) → ex: Alzheimer’s (Donepezil/Rivastigmine)
+
+#### Examples
+Donepezil (Aricept), Galantamine (Razadyne), Rivastigmine (Exelon)
+
+### NMDA (Glutamate) Receptor Antagonist
+
+#### Mechanism of Action
+Antagonist at NMDA (glutamate) receptor
+
+#### Use
+ADHD, narcolepsy (modafinil), appetite control
+
+#### Examples
+Memantine (Nemenda)
+
+## Electroconvulsive Therapy (ECT)
+
+### Definition
+Small electric current to produce generalized seizure for 20-30 seconds under general anesthesia
+
+### Indications
+Used in: Unipolar/bipolar depression, catatonia, bipolar mania. For: Treatment resistance, psychotic features, emergent conditions (pregnancy, refusal to eat/drink, imminent risk for suicide), pharmacotherapy contraindicated due to comorbid illness/poor tolerability, hx of ECT response.
+
+### Safety
+No absolute contraindications 
+Increased risk: severe cardiovascular disease, recent MI, space-occupying brain lesion, recent stroke, unstable aneurysm
+
+### Side Effects
+Most common: amnesia (anterograde or retrograde; anterograde resolves rapidly, retrograde persists) --  rare w/ unilateral ECT and many experts think repeated general anesthesia may be major contributor
+
+## Psychotherapy
+
+|               Modality               |   Duration   |                                                                     Patient                                                                    |                                                                      Focus                                                                     |
+|:------------------------------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| Cognitive behavioral therapy (CBT)   | Time limited | Anxiety, mood, personality, somatic symptom, eating disorder <br> Maladaptive thoughts, avoidance behavior, ability to participate in homework | Combines cognitive/behavioral tech <br> Challenges maladaptive thoughts <br> Targets avoidance w/ behavioral techniques (relaxation, exposure) |
+| Dialectical behavioral therapy (DBT) | Varies       | Borderline personality disorder; self-injury                                                                                                   | Improves emotion regulation, mindful awareness, distress tolerance <br> Manages self-harm                                                      |
+| Interpersonal psychotherapy          | Time limited | Depressed w/ relationship conflicts                                                                                                            | Links current relationships conflicts to depressive symptoms                                                                                   |
+| Supportive psychotherapy             | Ongoing      | Lower functioning; in crisis, psychotic                                                                                                        | Therapist as guide <br> Reinforces coping skills / builds adaptive defenses                                                                    |
+| Motivational interviewing            | Varies       | Substance use disorder                                                                                                                         | Addresses ambivalence and enhances motivation to change <br> Nonjudgmental; acknowledge resistance                                             |
+| Biofeedback                          | Varies       | Prominent physical symptoms; pain disorders                                                                                                    | Improves awareness and control over physiological reactions <br> Lowers stress levels, integrates mind/body                                    |
+
+
+
+
+
+

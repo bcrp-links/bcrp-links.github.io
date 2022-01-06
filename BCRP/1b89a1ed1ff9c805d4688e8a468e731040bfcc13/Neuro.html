@@ -1,0 +1,103 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>Neurology</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <script src="js/jquery-1.8.2.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0.min.js"></script>
+  <script src="js/app.js"></script>
+</head> 
+<body> 
+
+<div data-role="page">
+<div data-role="header"><h1>Neurology</h1><a class="button slideup" id="infoButton" href="index.html">Back</a>
+	</div><!-- /header -->
+	
+	<p><em>This referral requires charity care.</em></p>
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+  <div data-role="navbar">
+	<ul>
+	  <li><a href="IThelp.html" data-icon="info">FAQ</a></li>
+	  <li><a href="phone.html" data-icon="phone" >Contact</a></li>
+	  <li><a href="index.html" data-icon="fahome">Home</a></li>
+	  <li><a href="Formulary.html" data-icon="faplus">Rx</a></li>
+	  <li><a href="documents.html" data-icon="file">Docs</a></li>
+	</ul>
+  </div><!-- /navbar -->
+</div>
+
+<div data-role="collapsible-set">
+
+<div data-role="collapsible"><h3><b>Senior Clinician</b></h3>  
+	<fieldset data-role="controlgroup">
+		<input type="checkbox" name="checkbox-1a" id="checkbox-1a" class="custom" data-mini="true" />
+		<label for="checkbox-1a">Place order for Neuro referral in EPIC.</label>
+		<input type="checkbox" name="checkbox-1b" id="checkbox-1b" class="custom" data-mini="true" />
+		<label for="checkbox-1b">Inform ACT about the referral and send the patient to ACT.</label>
+		<input type="checkbox" name="checkbox-1c" id="checkbox-1c" class="custom" data-mini="true" />
+		<label for="checkbox-1c">Signout referral to TS at end of clinic day.</label>
+	</fieldset>
+</div>
+
+
+<div data-role="collapsible"><h3><b> Teaching Senior</b></h3>
+<fieldset data-role="controlgroup">
+	<input type="checkbox" name="checkbox-2a" id="checkbox-2a" class="custom" data-mini="true" />
+	<label for="checkbox-2a">If curbside is sufficient, please reach out to Dr. Michelle Fabian (for non-epileptic problems), Dr. Lara Marcuse (for epilepsy), Dr. Madeleine Fields (for epilepsy), or Dr. Deborah Horowitz (for carotid dopplers).</label> 
+	<input type="checkbox" name="checkbox-2b" id="checkbox-2b" class="custom" data-mini="true" />
+	<label for="checkbox-2b">If a full neuro evaluation is necessary, email referral and its urgency to <a href="referrals@mssm.edu">referrals@mssm.edu</a> after clinic.</label> 
+</fieldset>
+</div>
+
+<div data-role="collapsible"><h3><b> Access to Care Team</b></h3>
+	<fieldset data-role="controlgroup">
+		<input type="checkbox" name="checkbox-3a" id="checkbox-3a" class="custom" data-mini="true" />
+		<label for="checkbox-3a">Ask the TS to see if a curbside would be sufficient or if a complete neuro evaluation is necessary.</label>
+		<input type="checkbox" name="checkbox-3b" id="checkbox-3b" class="custom" data-mini="true" />
+		<label for="checkbox-3b">If a curbside is sufficient, ask the TS to email <a href="mailto:michelle.fabian@mssm.edu">Dr. Fabian</a> to coordinate.</label>
+		<input type="checkbox" name="checkbox-3c" id="checkbox-3c" class="custom" data-mini="true" />
+		<label for="checkbox-3c">If a full neuro evaluation is necessary, ask the TS if the referrral is urgent, and make sure the patient has charity care.</label>
+		<input type="checkbox" name="checkbox-3d" id="checkbox-3d" class="custom" data-mini="true" />
+		<label for="checkbox-3d">If not, obtain charity care. If so, call to schedule an appointment with neurology.</label>
+		<input type="checkbox" name="checkbox-3e" id="checkbox-3e" class="custom" data-mini="true" />
+		<label for="checkbox-3e">If the referral is urgent, contact <a href="mailto:kristen.ng@mssm.edu">Kristen</a> after making the appointment.</label>  
+	</fieldset>
+	<!--<p>If a curbside is sufficient, coordinate with the TS to have Dr. Fabian see the patient.
+	</p>
+	<p>If a complete exam is necessary, call  to schedule an appointment with neurology.
+	</p>-->
+</div> 
+
+<div data-role="collapsible"><h3><b> Cost</b></h3>
+	<p>The cost of a curbside is free. 
+	The cost of an appointment for patients with charity care level 1 is $15.
+	</p>
+	<p>Appointment costs  by charity care level are as follows:
+	</p>
+	<ul>
+		<li>CCL1 - $15</li>
+		<li>CCL2 - $18</li>
+		<li>CCL3 - $36</li>
+		<li>CCL4 - $90</li>
+		<li>CCL5 - $108</li>
+		<li>CCL6 - $135</li>
+		<li>CCL7 - $180</li>
+	</ul>
+</div><!-- Cost -->
+
+<div data-role="collapsible"><h3><b>Wait time</b></h3>
+	<p>It takes about 6 weeks after a patient has received charity care for a neurology appointment to be scheduled. Urgent referrals can be expedited. Contact <a href="mailto:Kristen.ng@mssm.edu">Kristen Ng</a> if the referral is urgent and needs to be expedited.
+	</p>
+</div> <!-- Wait Time --> 
+
+<div data-role="collapsible"><h3><b>Contact Information</b></h3>
+	<p>IMA Neurology 17 East 102nd Street 8th floor. Tel: <a href="callto:212-659-8854">(212)-659-8554</a>
+	</p>
+</div> <!-- Contact Information --> 
+
+
+</body>
+</html>

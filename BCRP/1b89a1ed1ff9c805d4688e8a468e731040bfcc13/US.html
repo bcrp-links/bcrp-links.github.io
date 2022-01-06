@@ -1,0 +1,71 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>Ultrasounds</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <script src="js/jquery-1.8.2.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0.min.js"></script>
+  <script src="js/app.js"></script>
+<body> 
+
+<div data-role="page">
+<div data-role="header"><h1>Ultrasounds (exc. Breast and Carotid)</h1><a class="button slideup" id="infoButton" href="index.html">Back</a>
+	</div><!-- /header -->
+
+<p><em>This referral does <strong>not</strong> require charity care.</em></p>
+
+<p>For Breast Ultrasounds, click <a href="mammo.html">here.</a> For Carotid Ultrasounds click <a href="Cardiology.html"> here. </a></p>
+
+<div data-role="collapsible-set"> <div data-role="collapsible" ><h3><b> Senior Clinician</h3> </b> 
+    <fieldset data-role="controlgroup">
+		<input type="checkbox" name="checkbox-1a" id="checkbox-1a" class="custom" data-mini="true" />
+		<label for="checkbox-1a">Place order on Epic.</label>
+    	<input type="checkbox" name="checkbox-2" id="checkbox-2" class="custom" data-mini="true" />
+		<label for="checkbox-2">Tell TS about referral on signout.</label>
+	</fieldset>
+</div>
+
+<div data-role="collapsible"><h3><b> Teaching Senior</b></h3>
+<fieldset data-role="controlgroup"> 
+  <p>Someone from the referrals team will schedule the ultrasound for your patient and follow up with her.</p>
+</fieldset>
+</div>
+
+<div data-role="collapsible"><h3><b>Access to Care Team</b> </h3>
+  <fieldset data-role="controlgroup">
+    <input type="checkbox" id="checkbox-a" class="custom" data-mini="true" /><label for="checkbox-a">Make sure the order has been placed in EPIC.</label> 
+    <input type="checkbox" id="checkbox-b" class="custom" data-mini="true" /><label for="checkbox-b">Find out if patient would be comfortable making his or her own appointment.</label> 
+    <input type="checkbox" id="checkbox-c" class="custom" data-mini="true" /><label for="checkbox-c">If so, give the patient the Ultrasound Referral Form, which can be found in the EHHOP bin. Write the type of referral (e.g. abdominal, pelvic), the patient's name, and the patient's MRN on the form.</label>  
+    <input type="checkbox" id="checkbox-d" class="custom" data-mini="true" /><label for="checkbox-d">Direct patient to call IMA at 212.824.7700 to schedule their appointment.</label>
+    <input type="checkbox" id="checkbox-e" class="custom" data-mini="true" /><label for="checkbox-e">Instruct patient to bring Ultrasound Referral Form with them to the appointment.</label>
+    <input type="checkbox" id="checkbox-f" class="custom" data-mini="true" /><label for="checkbox-f">Inform patient that they can call EHHOP at 646.942.6519 if they would like someone to accompany them to appointment.</label>
+    <input type="checkbox" id="checkbox-g" class="custom" data-mini="true" /><label for="checkbox-g">The Radiology Referrals Manager will follow up at the end of the week to see if the appointment is made, first by checking in EPIC, and then by calling the patient.</label>
+    <input type="checkbox" id="checkbox-h" class="custom" data-mini="true" /><label for="checkbox-h">If the patient is not comfortable making his or her own appointment, call IMA at 212.824.7700 on behalf of the patient. Once the appointment is made, confirm the appointment with the patient, and notify the Radiology Referrals Manager with the date and time of the appointment.</label>
+  </fieldset>
+</div>
+ 
+<div data-role="collapsible"><h3><b>Cost</b></h3><p><b>Cost to EHHOP Patient:</b> Free.</p></div>
+
+<div data-role="collapsible"><h3><b>Wait time</b></h3><p>~2 weeks</p> </div> 
+
+<div data-role="collapsible"><h3><b>Location</b></h3>
+<p>IMA Radiology, 6th floor CAM building, 17 East 102nd St <a href="tel:2128247700">212-824-7700</a></p>
+<p>Appointment hours: Very flexible through the week.</p>
+<p>EHHOP Ultrasound Rep: <a href="mailto:Alex.Rosen@mssm.edu"> Alexander Rosen </a> </div> </div>
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+  <div data-role="navbar">
+    <ul>
+      <li><a href="IThelp.html" data-icon="info">FAQ</a></li>
+      <li><a href="phone.html" data-icon="phone" >Contact</a></li>
+      <li><a href="index.html" data-icon="fahome">Home</a></li>
+      <li><a href="Formulary.html" data-icon="faplus">Rx</a></li>
+      <li><a href="documents.html" data-icon="file">Docs</a></li>
+    </ul>
+  </div><!-- /navbar -->
+</div>
+
+</body>
+</html>

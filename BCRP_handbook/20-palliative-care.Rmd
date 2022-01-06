@@ -1,0 +1,245 @@
+# Pediatric Advanced Care Team (PACT) “CODE CARD”
+
+## Pediatric Palliative Care (PPC)
+Physical, psychosocial, and spiritual support for children with life-threatening illnesses and their families. PPC focuses on comfort and quality of life, *and may be provided alongside disease-directed treatment.*
+
+## Specialty PPC at BCH
+
+### PACT Teams
+- **Team A:** NICU, CCS, Neurology, Metabolism, Genetics
+
+- **Team B:** Oncology, Cardiology, Pulmonary, other solid organ transplant, Immunology
+
+- Both staffed by an NP, social worker, fellow, and attending who provide interdisciplinary care alongside the primary care team
+
+### Requesting a PACT Consult
+
+-Introduce the concept of PACT to the child and family (see below). If you are not sure how to best do this, ask PACT!
+
+-Page PACT clinician on call; provide **reason for and urgency** of the referral, and the requesting **attending physician.**
+
+### Introducing PACT to Families: Sample Language
+*”To best meet these goals that we have been discussing, we believe it would be helpful to have PACT visit with your family.  PACT is a team that works with us, and they specialize in optimizing your child’s quality of life by helping to manage symptoms and by providing additional layer of support to your child and your family.  They can also think with you about your child’s care, and how it can best align with your goals and what is most important to you. PACT would work with your child’s other teams to provide your child with the best care possible.”*
+
+## Primary PPC: Skills for All Clinicians
+
+### Promoting Child Wellbeing
+
+#### Quality of Life
+
+- Integrated Therapies: massage therapy, guided imagery, Reiki, yoga, meditation
+
+- Unit-based Child Life Specialists
+
+- Pet Therapy: Center for Families: (617-355-6279)
+
+- Make-A-Wish Foundation: (800)-722-WISH
+
+#### Symptoms: Non-Pharmacologic Approaches
+
+- Limit non-essential painful procedures
+
+- Address coincident depression and anxiety
+
+- Fatigue: consider contributing factors (anemia, depression, drug effects), address sleep hygiene, encourage gentle exercise
+
+- Dyspnea: consider suctioning, repositioning, loose clothing, a fan, limitation of IV fluids, breathing and relaxation exercises
+
+- For nausea/vomiting: consider dietary modifications (bland or soft foods, adjust timing or volume of feeds), aromatherapy (peppermint, lavender), acupuncture or acupressure
+
+#### Pain: Pharmacologic Approaches
+
+**WHO Pain Ladder**
+
+| Pain Level            | Drug Class                         | Specific Agent                                   |
+|-----------------------|------------------------------------|--------------------------------------------------|
+| Step 1: mild to mod   | Non-opioid +/- adjuvant            | Acetaminophen or NSAID                           |
+| Step 2: mod to severe | Opioid +/- non-opioid +/- adjuvant | Morphine (usually the starting agent of choice)  |
+
+**Standard Opioid Starting Doses and Intervals**
+
+| Opioid        | Enteral (PO)                    | Parenteral (IV)                                                      |
+|---------------|---------------------------------|----------------------------------------------------------------------|
+| Morphine      | 0.2-0.3 mg/kg  (10-15 mg) Q3-4h | 0.1 mg/kg (5 mg) Q2-4h or  0.03 mg/kg/h (1.5 mg/h)                   |
+| Oxycodone     | 0.1-0.2 mg/kg  (5-10 mg) Q3-4h  | n/a                                                                  |
+| Hydromorphone | 0.04-0.08 mg/kg  (2-4 mg) Q3-4h | 0.015-0.02 mg/kg (0.75-1 mg) Q2-4h or  0.0006 mg/kg/h (0.3 mg/h)     |
+| Fentanyl      | n/a                             | 0.5-1 mcg/kg (25-50 mcg) Q60 min, or  0.5-1 mcg/kg/h (25-100 mcg/hr) |
+
+
+**Doses in parenthesis are for children >50kg. For infants <6 mos, initial per-kg doses begins at 25% of the above per-kg doses. All doses approximate; adjust according to clinical circumstances.**
+
+#### KEY TIPS: Prescribing Opioids
+- Prescribe a bowel regimen that includes a stool softener AND laxative *(“mush and push!”)*
+- When speaking with patients and families, use the term “opioid”  (a medical term) rather than “narcotic” (a legal/regulatory term)
+- Reassure families that their child will not become a “drug addict” on the appropriate opioid regimen.  Educate them on the difference between addiction and dependence
+- Increase opioid dose based on clinical response; the “right dose” is the dose that best controls pain with the fewest side effects.
+- Dose increases are based on a percentage of the current dose:
+- 30% increase for mild pain
+- 50% increase for moderate pain
+- 75-100% increase for severe pain
+- If discharging a patient with opioids, consider prescribing naloxone in the event opioid is misused and overdose occurs
+
+#### KEY TIPS: Breakthrough Pain (BTP)
+- BTP is a transitory flare of moderate to severe pain that occurs on a background of otherwise adequately controlled pain. 
+- BTP is different from end-of-dose failure (EDF).  EDF is pain at the end of a dosing interval of an ATC analgesic.
+- For BTP: increase daily dose of opioid by 50-100% of the total amount of breakthrough medication given in past 24 hrs.
+- Each subsequent dose of the breakthrough opioid should equal 10-15% of the total daily opioid requirement.
+
+**Equianalgesic Conversions**
+
+| Opioid        | PO (mg) | IV/SQ (mg)    |
+|---------------|---------|---------------|
+| Morphine      | 30      | 10            |
+| Oxycodone     | 20      | n/a           |
+| Hydromorphone | 7.5     | 1.5           |
+| Fentanyl      | n/a     | 0.1 (100 mcg) |
+
+
+#### Sample Opioid Calculations
+
+***Same Opioid, Changing the Route:***
+
+***Ex:** 90 mg q12hr SR morphine PO -> morphine IV infusion*
+
+- Calculate 24 hr dose: 90 mg q12 * 2 = 180 mg PO/24 hrs
+
+- Use PO to IV equianalgesic ratio: 30 mg PO = 10 mg IV
+
+- Use ratios to calculate new dose: 180/x = 30/10; x= (180*10)/30 = 60 mg IV/24hr = 2.5 mg/hr IV infusion
+
+***Changing the Opioid (Equianalgesic Conversion)***
+
+***Ex:** 90 mg q12hr SR morphine PO ->  hydromorphone PO*
+
+- Calculate 24 hr dose: 90 mg q12 * 2 = 180 mg PO/24 hrs
+
+- Use equianalgesic ratio: 30 mg morphine PO = 7.5 mg hydromorphone PO
+
+- Use ratios to calculate dose of new opioid:  180/x = 30/7.5; x = (180*7.5)/30 = 45 mg hydromorphone PO/24 hr
+
+**Reduce dose by 25-30% to account for cross-tolerance:**
+
+45 * 0.3 = 13.5;  45 mg-13.5mg=32 mg/24 hr (or about 5 mg q4hr)
+
+#### Proper Use of Naloxone
+- Opioid antagonists can reverse opioid-induced respiratory depression; however, they also may reverse analgesic effects.
+- Naloxone should NOT be administered for a depressed RR but normal O2 saturation, or for a patient who is arousable. 
+- In either of those cases, simply reduce the opioid dose, provide physical stimulation, and continue to monitor the patient closely.
+- If naloxone is needed: dilute 0.4 mg (1 ml) in 9 ml of NS, and give IV in 1-2 ml increments at 2-3 min intervals until response
+- If administered, be prepared for analgesia to be reversed
+
+#### Adjuvant Agents:
+Primary purpose is typically not analgesic, yet they may relieve pain.
+
+| Adjuvants                                   | Comments                                                                                                                                                                                                                                         |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tricyclics:  *Nortriptyline*                | May cause anticholinergic effects (amitriptyline > nortriptyline) constipation, dry mouth, postural hypotension.  Can also prolong QT                                                                                                            |
+| Gabapentanoids:  *Gabapentin*  *Pregabalin* | Titrate up gradually to prevent dizziness or drowsiness                                                                                                                                                                                          |
+| α-agonist:  *Clonidine*                     | Acts as an opioid sensitizer, can reduce withdrawal symptoms. May have synergistic sedative and respiratory effects with opioids                                                                                                                 |
+| Antispasmodics:  *Baclofen*  *Diazepam*     | Baclofen may cause dizziness, drowsiness, constipation, confusion; rarely seizures or hallucinations  Diazepam can cause drowsiness;  relieves myoclonus (neurotoxicity) from opioids. synergistic sedative and respiratory effects with opioids |
+| NSAIDS: *Celecoxib*                         | Celecoxib is a selective COX-2 inhibitor with little platelet inhibition (= less bleeding risk) than other NSAIDs                                                                                                                                |
+
+### COMMUNICATING EFFECTIVELY
+
+#### KEY TIPS: Language
+
+| Instead of Saying:                                                            | Try Saying:                                                                                                         |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| “Our hypoplast” or “CF-er”                                                    | “The child with hypoplastic left heart disease”; “The young man living with CF”                                     |
+| “Your child failed the treatment plan”                                        | “Our treatments were not successful in curing your child”                                                           |
+| “I know how you feel”, or “I know how difficult this situation is for you”    | “I can only imagine how difficult this situation is for you”                                                        |
+| “Do you want us to do everything”?                                            | “What is your understanding of the decision to attempt life-sustaining interventions?”                              |
+| “Are you ready to sign the Do Not Resuscitate (DNR) orders?”                  | Do you agree with the medical recommendation for a “Do Not Attempt Resuscitation” (DNAR) order for your child?      |
+| “We are going to withdraw support” or “We will be pulling the ventilator now” | “We will stop mechanical ventilation, but will continue to provide maximal efforts to manage your child’s symptoms” |
+
+#### Managing Emotion (NURSE mnemonic)
+One of the most important skills in difficult conversations.  When emotion is running high, *before moving forward with the conversation*, do the following:
+
+* *N**ame the emotion (“It sounds like you’re really frustrated.”)
+* *U**nderstand the core message (“If I understand you correctly, you are worried that…”)
+* *R**espect: (“I’m really impressed that you’ve taken care of Steven at home for so long.”)
+* *S**upport: (I will do my best to be sure that you have what you need.”)
+* *E**xplore: (“Could you say more about what you mean when you say that…?”)
+
+#### Discussing Goals of Care
+- Goals of care are different for everyone.  The only way to understand a child/family’s goals of care is to ***ASK***.
+- Goals of care may include: physical and psychological comfort; attending prom, graduation, or other important events; speaking; eating favorite foods; sleeping in own bed at home.
+- **Important questions to ask:** *What do you expect in the future? What are the most important things that you are hoping for your child right now?  What are you most worried about?*
+
+#### Sharing Difficult News
+1. Establish a shared agenda
+2. Ask family about their current understanding of situation
+3. Provide *succinct* medical update
+4. Forecast the medical possibilities; consider presenting worst, best, and most likely scenarios
+5. As patient/family their goals and hopes in light of the information
+6. Offer a medical recommendation based on the medical situation and the goals of care of the patient and family
+7. Offer resources to help the family think through options (social worker, chaplaincy, Courageous Parents Network videos on the web).
+8. Lay out the plan, including a time to meet again.
+9.Document discussion.
+
+#### Discussing Life-Sustaining Therapies (LST)
+- Avoid mechanical descriptions of CPR, such as “starting the heart” or “putting on a breathing machine.”
+- Use neutral, non-judgmental language to describe options; for instance, avoid describing cardiac resuscitation in terms of broken ribs and painful electroshock. 
+- Avoid saying, “Do you want us to do everything?”
+ - Many families believe CPR WILL restore their child to their baseline.  It is helpful to describe it as an ATTEMPT to reverse death. Use of the word “die” also helps to clarify this.
+
+***Talking About the Role of LST: Sample Language***
+*We all share the hope that your child will live as long as possible.  But that is usually not the only goal.  We also want your child to live as well as he possibly can, and some of the treatments that we use to extend life may alter his quality of life in ways that may not be what you would wish for him.  If the time comes when critical decisions need to be made, you will have more control over the situation if we all understand and agree about what is most important for you and your child.  Talking about these possibilities does not mean that we are giving up – we think of this strategy as hoping for the best, but planning for the worst.  In case your child does not get better, what are you hoping for?*
+
+### CARING FOR A CHILD FACING END OF LIFE
+
+#### BEFORE the Child’s Death:
+- If there is a possibility that a child may die during your shift, introduce yourself to the child and family as soon as you arrive.
+- Familiarize yourself with the child’s history by speaking with the child’s nurse and/or other caregivers.
+- Involve chaplaincy, child life, and other supportive services based on family preferences.
+- Determine whether autopsy and organ donation have been discussed with the family.  If not, address these issues with the family.  If they agree, obtain informed consent. 
+
+#### KEY TIPS: Organ Donation
+- Donation is not limited to whole organs; families may choose to donate specific tissues, such as corneas, heart valves, pericardium, bone, veins, or skin. 
+- Call the New England Organ Bank (NEOB) at 1-800-446-6362 to determine eligibility and discuss procurement logistics before donation is offered to the family.
+
+#### AT the Time of Death:
+- If you did not know the child prior to death, familiarize yourself with the child’s history before speaking with the family. 
+- Consider asking the child’s nurse to introduce you to the family and provide additional support.
+***In the Room:***
+- Introduce yourself to the family, including your role and your relationship to the deceased child.
+- Express your sympathy, and allow the family to express their emotions before beginning.
+- Explain that you are going to examine their child. Reassure the family that they may stay if they wish.
+***Pronouncement:***
+- Identify the patient by his or her hospital ID band. 
+- Ensure that the patient does not rouse to verbal or tactile stimuli.  *Avoid painful and unnecessary stimuli.*
+- Listen and feel for the absence of heart sounds and of pulse. 
+- Look and listen for the absence of spontaneous respirations.
+- Note the position of the pupils and the absence of pupillary light reflex.
+
+#### AFTER the Child’s Death:
+- **Autopsy and Organ Donation** (If not discussed prior)
+- **Notify the New England Organ Bank (NEOB)**: Massachusetts mandates that the NEOB be notified for all hospital deaths.  Call **1-800-446-6362** within 1 hour of death to inform the NEOB of the family’s wishes regarding donation.
+- **Notify Massachusetts Medical Examiner (ME)**:  Call **1-617-267-6767**.  This is legally mandated for all deaths of children <18 years, including anticipated home deaths +/- hospice. 
+- Documentation:  Date/time of death; presence of family at time of death; physical exam findings; date/time of physical assessment of patient; family and attending physician notified; family accepts/declines autopsy and/or organ donation; New England Organ Bank notified; Medical Examiner notified.
+- **Notify the attending physician** and other relevant clinicians
+- **Report of Death:**  The physician who pronounced the patient must complete the “Report of Death” form and bring it to the Admitting Department (or the Emergency Dept during off-hours).
+- **Sign the Certificate:**  Provide your pager number, so that you may be reached later to sign the typed Death Certificate.
+
+#### Writing a Condolence Note
+- Name the deceased and acknowledge the loss. 
+- Express your sympathy, using words that remind the bereaved that they are not alone in their feelings of sadness and loss.
+- Avoid statements such as *I know how you feel*
+- Note those special qualities or characteristics that you appreciated about the person.
+- Recall a memory about the person, and capture what it was about the person in the story that you admired.  Humor is ok – funny stories are often appreciated.
+- Remind the bereaved of their personal strengths (patience, optimism, faith, resilience) that will help them to cope.
+- Offer help during this difficult time, and be specific about your offer. Never make an offer that you cannot fulfill.
+- End your letter with a phrase of sympathy: e.g. “You are in my thoughts”
+
+***Online PPC Resources***
+- PACT webpage on the BCH internal website
+- Fast Facts: https://www.mypcnow.org/fast-facts/
+- Vital Talk (communication): https://www.vitaltalk.org
+- For confirming opioid calculations and conversions:GlobalRPH.com has a helpful opioid calculator
+
+***Medical Disclaimer***
+The information contained on this reference card is provided as a supplemental resource and guide. This information is not a substitute for medical advice. Dana-Farber Cancer Institute, Inc. does not assume any liability or responsibility for damage or injury (including death) to any person or property arising from any use of or reliance upon any information, ideas, or instructions through use of this reference card.
+
+*Created by Erica Kaye MD & Christina Ullrich MD, MPH
+Copyright 2011 Dana-Farber Cancer Institute, Inc.
+Revised 30 April 2020 by Christina Ullrich, MD, MPH*

@@ -1,0 +1,210 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+  <title>PHQ-9</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <script src="js/jquery-1.8.2.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0.min.js"></script>
+  <script src="js/app.js"></script>
+</head>
+<body>
+  
+<div id="phq9" data-role="page">
+
+<div data-role="header" data-position="fixed">
+  <h1>PHQ-9 Score</h1>
+  <a class="button slideup" id="infoButton" href="index.html">Back</a>
+  <div class="ui-body ui-body-e totalSum">Current Score</div>
+  <div data-role="navbar">
+    <ul>
+      <li><a href="phq9.html" class="ui-btn-active ui-state-persist">English</a></li>
+      <li><a href="phq9Spanish.html">Spanish</a></li>
+    </ul>
+  </div><!-- /navbar -->
+</div>
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+  <div data-role="navbar">
+    <ul>
+      <li><a href="IThelp.html" data-icon="info">FAQ</a></li>
+      <li><a href="phone.html" data-icon="phone" >Contact</a></li>
+      <li><a href="index.html" data-icon="fahome">Home</a></li>
+      <li><a href="Formulary.html" data-icon="faplus">Rx</a></li>
+      <li><a href="documents.html" data-icon="file">Docs</a></li>
+    </ul>
+  </div><!-- /navbar -->
+</div>
+
+   <div data-role="fieldcontain">
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>1. Little interest or pleasure in doing things over the last 2 weeks:</legend>
+    <form name="form1" id="form1" runat="server">
+        
+        <ul><li><input id="rdo_1" type="radio" value="0" name="price">
+ <label for="rdo_1">Not at all.</label>
+        
+        <li><input id="rdo_2" type="radio" value="1" name="price">
+<label for="rdo_2">Several Days.</label>
+      <li>  <input id="rdo_3" type="radio" value="2" name="price">
+        
+<label for="rdo_3">More than half the days.</label>
+      <li>  <input id="rdo_4" type="radio" value="3" name="price">
+        
+<label for="rdo_4">Nearly every day</label>
+
+    </form></fieldset>
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>2. Feeling down, depressed or hopeless over the last 2 weeks:</legend>
+    <form name="form2" id="form2" runat="server">
+        
+        <ul><li><input id="rdo_1a" type="radio" value="0" name="price">
+ <label for="rdo_1a">Not at all.</label>
+        
+        <li><input id="rdo_2a" type="radio" value="1" name="price">
+<label for="rdo_2a">Several Days.</label>
+      <li>  <input id="rdo_3a" type="radio" value="2" name="price">
+        
+<label for="rdo_3a">More than half the days.</label>
+      <li>  <input id="rdo_4a" type="radio" value="3" name="price">
+        
+<label for="rdo_4a">Nearly every day</label>
+
+    </form></fieldset>
+
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>3. Trouble falling or staying asleep, or sleeping too much over the last weeks:<br></legend>
+    <form name="form3" id="form3" runat="server">
+        
+        <ul><li><input id="rdo_1b" type="radio" value="0" name="price">
+ <label for="rdo_1b">Not at all.</label>
+        
+        <li><input id="rdo_2b" type="radio" value="1" name="price">
+<label for="rdo_2b">Several Days.</label>
+      <li>  <input id="rdo_3b" type="radio" value="2" name="price">
+        
+<label for="rdo_3b">More than half the days.</label>
+      <li>  <input id="rdo_4b" type="radio" value="3" name="price">
+        
+<label for="rdo_4b">Nearly every day</label>
+
+    </form></fieldset>
+
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>4. Feeling tired or having little energy over the last 2 weeks:</legend>
+    <form name="form4" id="form4" runat="server">
+        
+        <ul><li><input id="rdo_1c" type="radio" value="0" name="price">
+ <label for="rdo_1c">Not at all.</label>
+        
+        <li><input id="rdo_2c" type="radio" value="1" name="price">
+<label for="rdo_2c">Several Days.</label>
+      <li>  <input id="rdo_3c" type="radio" value="2" name="price">
+        
+<label for="rdo_3c">More than half the days.</label>
+      <li>  <input id="rdo_4c" type="radio" value="3" name="price">
+        
+<label for="rdo_4c">Nearly every day</label>
+
+    </form></fieldset>
+
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>5. Poor appetite or overeating over the last 2 weeks:</legend>
+    <form name="form5" id="form5" runat="server">
+        
+        <ul><li><input id="rdo_1d" type="radio" value="0" name="price">
+ <label for="rdo_1d">Not at all.</label>
+        
+        <li><input id="rdo_2d" type="radio" value="1" name="price">
+<label for="rdo_2d">Several Days.</label>
+      <li>  <input id="rdo_3d" type="radio" value="2" name="price">
+        
+<label for="rdo_3d">More than half the days.</label>
+      <li>  <input id="rdo_4d" type="radio" value="3" name="price">
+        
+<label for="rdo_4d">Nearly every day</label>
+
+    </form></fieldset>
+
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>6. Feeling bad about self-or are a failure or have let self or family down over the last 2 weeks:</legend>
+    <form name="form6" id="form6" runat="server">
+        
+        <ul><li><input id="rdo_1e" type="radio" value="0" name="price">
+ <label for="rdo_1e">Not at all.</label>
+        
+        <li><input id="rdo_2e" type="radio" value="1" name="price">
+<label for="rdo_2e">Several Days.</label>
+      <li>  <input id="rdo_3e" type="radio" value="2" name="price">
+        
+<label for="rdo_3e">More than half the days.</label>
+      <li>  <input id="rdo_4e" type="radio" value="3" name="price">
+        
+<label for="rdo_4e">Nearly every day</label>
+
+    </form></fieldset>
+
+    <fieldset data-role="controlgroup" data-mini="true">
+ <legend>7. Trouble concentrating on things, such as reading the newspaper or watching television over the last 2 weeks:*</legend>
+    <form name="form7" id="form7" runat="server">
+        
+        <ul><li><input id="rdo_1f" type="radio" value="0" name="price">
+ <label for="rdo_1f">Not at all.</label>
+        
+        <li><input id="rdo_2f" type="radio" value="1" name="price">
+<label for="rdo_2f">Several Days.</label>
+      <li>  <input id="rdo_3f" type="radio" value="2" name="price">
+        
+<label for="rdo_3f">More than half the days.</label>
+      <li>  <input id="rdo_4f" type="radio" value="3" name="price">
+        
+<label for="rdo_4f">Nearly every day</label>
+
+    </form></fieldset>
+
+    <fieldset data-role="controlgroup"  data-mini="true">
+ <legend>8. Moving or speaking so slowly that other people have noticed. Or the opposite-being so fidgety or restless that has been moving around a lot more than usual over the last 2 weeks:*</legend>
+    <form name="form8" id="form8" runat="server">
+        
+        <ul><li><input id="rdo_1g" type="radio" value="0" name="price">
+ <label for="rdo_1g">Not at all.</label>
+        
+        <li><input id="rdo_2g" type="radio" value="1" name="price">
+<label for="rdo_2g">Several Days.</label>
+      <li>  <input id="rdo_3g" type="radio" value="2" name="price">
+        
+<label for="rdo_3g">More than half the days.</label>
+      <li>  <input id="rdo_4g" type="radio" value="3" name="price">
+        
+<label for="rdo_4g">Nearly every day</label>
+
+    </form></fieldset>
+
+ <fieldset data-role="controlgroup" data-mini="true">
+ <legend>9. Thoughts that would be better off dead or of hurting self in some way over the last 2 weeks:</legend>
+    <form name="form9" id="form9" runat="server">
+        
+        <ul><li><input id="rdo_1h" type="radio" value="0" name="price">
+ <label for="rdo_1h">Not at all.</label>
+        
+        <li><input id="rdo_2h" type="radio" value="1" name="price">
+<label for="rdo_2h">Several Days.</label>
+      <li>  <input id="rdo_3h" type="radio" value="2" name="price">
+        
+<label for="rdo_3h">More than half the days.</label>
+      <li>  <input id="rdo_4h" type="radio" value="3" name="price">
+        
+<label for="rdo_4h">Nearly every day</label>
+
+    </form></fieldset>
+
+</div>
+</div>
+
+</body>

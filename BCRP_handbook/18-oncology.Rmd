@@ -1,0 +1,728 @@
+# Oncology
+```{r}
+require(magrittr)
+```
+
+
+## Order Sets & PowerPlans
+*Use these whenever possible!*
+
+- Onc Admit Order Set
+- Onc New ALL Order Set (induction)
+- Onc Anti-Emetics
+- Onc Constipation Plan
+- Onc Sepsis (Fever & Neutropenia) Plan
+- Onc Tumor Lysis Syndrome - one for allopurinol, one for rasburicase
+- Onc Platelets Plan
+- Onc pRBC Plan
+- Onc PJP Prophylaxis
+- Onc CVL Occlusion Plan
+- Onc / ICU Intermittent Electrolyte Replacement Plan
+
+
+## Common Pediatric Cancers
+
+### Hematologic Cancers
+
+#### B-ALL
+
+##### Presentation
+Non-specific/constitutional, bone pain, fever, malaise, lymphadenopathy, HSM, cytopenias, unilateral testicular enlargement
+
+##### Epidemiology
+- Peak incidence 2-5 yrs, M>F, 70-80% ALL
+- Increased risk in Down syndrome (age >5 yr), NF 1, Bloom syndrome, and ataxia telangiectasia
+
+##### Key Early Diagnostics
+- BM Biopsy showing >25% lymphoblasts (note <25% + mediastinal mass = lymphoma)
+- Peripheral and BM Flow Cytometry (FC): determines type (B=CD19, CD20. T=CD2, CD3, CD5, CD7, CD4, CD8)
+- CNS Status via  LP: _CNS1_ no blasts after cytospin. _CNS2_ WBC 1-5 blasts on cytospin. _CNS3_ ≥5 blasts or other sx of CNS involvement. For CNS2&3, LP w IT done 2x/wk until blasts clear
+- FISH: ETV6/RUNX1, BCR/ABL1, KMT2A, intrachromosomal amplification of 21 (iAMP21)
+- Cytogenetics: assess for trisomies 4/10/17, hyperdiploid (favorable); hypodiploid (unfavorable)
+- Rapid Heme Panel: NGS sent on BM Bx. See below for favorable/adverse biology
+- ClonoSeq: NGS assay used to identify specific clone of leukemia cells. Will be used to assess Minimum Residual Disease (MRD) after Induction (can also be done by FC)
+
+##### Risk Stratification (DFCI 16-001)
+Age & presenting WBC count historically used as they are proxies for biology – as we learn more about specific biology of ALL, we will rely less on these imprecise measures.
+
+- **Initial Low risk:** WBC <50K/uL, age <15 + CNS-1 or CNS-2 + no adverse biology. Often ETV6-RUNX1 (aka TEL/AML1) or hyperdiploid (51-65 chromosomes)
+- **Initial High Risk:** WBC ≥50K/uL or age ≥15 or CNS3 or iAMP21 or adverse biology. Receive 4 drug induction (+doxorubicin). If BCR-ABL1+ (Ph+ ALL), get dasatinib/TKI
+- **Initial Very High Risk:** Adverse biology by day 10 = KMT2A/MLL (FISH or RHP), t(17,19) (FISH), ≤40 chromosomes (cytogenetics), IKZF1 deletion (RHP). → 4 drug induction
+- Risk group is re-stratified at Day 32. _Undetectable disease_ (MRD  <10-4) = best prognostic sign.
+
+##### Standard Treatment
+- Once reached MRD status, complete 2 more years of chemotherapy w/ oral dexamethasone, IV vincristine, 土 IV doxorubicin (HR or VHR), IV/IM asparaginase, oral 6-MP, IV methotrexate, IT MTX
+- Phases: steroid prophase → Induction → Consolidation → Continuation
+- Outcomes: Excellent 5 yr OS 92%, EFS 86% (DFCI 05-001)
+
+#### T-ALL
+
+##### Presentation
+Anterior mediastinal mass (airway compression, SVC syndrome), hyperleukocytosis, constitutional symptoms similar to B-ALL
+
+##### Epidemiology
+- Peak incidence 15-19 yrs ("T" = teens), M>F, ~15% ALL
+- T-ALL and T-cell lymphoblastic lymphoma (NHL) distinguished by BM involvement (Leukemia if >25% blasts in marrow)
+
+##### Diagnostics
+See details in B-ALL above
+
+##### Risk Stratification
+All T-ALL is _Initial High Risk_ 
+
+##### Treatment
+All T-ALL gets 4 drug induction, otherwise similar chemo as B-ALL
+
+##### Outcomes/Prognosis
+Slightly worse than B-ALL, 5 yr OS 89%, EFS 82% (DFCI 05-001)
+
+#### AML
+
+##### Presentation
+- Non-specific/constitutional symptoms, cytopenias. Hyperleukocytosis (tumor lysis syndrome, DIC).
+- **Extramedullary symptoms:** HA, lethargy, AMS, CN palsy, myeloid sarcomas/ chloromas
+
+##### Epidemiology
+- AML accounts for ~ 20% of all acute leukemias
+- **Down's Syndrome:** 150x risk of AML. 20% of Transient Abnormal Myelopoiesis of DS (presents peri-natally with megakaryoblasts that self-resolve, usually due GATA1 mutation) becomes ML-DS by age 4
+- **Therapy-related AML:** secondary malignancy, typically assoc. with alkylating agents and topoisomerase inhibitors
+
+##### Diagnostics
+BM Bx, LP, FC (common AML markers CD13, CD15, CD34, CD117, MPO), FISH, cytogenetics, Rapid Heme NGS
+
+##### Risk Stratification
+- **Favorable:** t(8;21)(q22;q22  = RUNX1-RUNX1T1, inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11, Mutated NPM1 without FLT3-ITD (normal karyotype), Mutated CEBPA (normal karyotype)
+	- t(15,17)/PML-RARA: APML subtype, high risk of DIC, treat with All-trans-retinoic acid (ATRA) and arsenic (ATO). Excellent outcomes (OS >95% Creutzig PBC 2017 and Spezza BJH 2020).
+- **Intermediate:** sub-stratified based on response to induction therapy (MRD by FC)
+- **Adverse:** t(6;9)(p23;q34); DEK-NUP214, Monosomy 5 or del(5q); Monosomy 7; Complex karyotype; High allelic ratio FLT3-ITD
+
+##### Treatment
+- **High intensity induction chemo:** ADE (cytarabine, daunorubicin, etoposide) - All done inpatient
+- **Consolidation** (cytarabine based) **OR HCT if intermediate/high risk**
+
+##### Outcomes/Prognosis
+Poor. 3 yr OS ~65%, EFS ~45% (AAML1031)
+
+#### Hodgkin’s Lymphoma
+
+##### Presentation
+Lymphadenopathy, constitutional B-symptoms, mediastinal mass effect, splenomegaly
+
+##### Epidemiology
+- **Bimodal:** Peak incidence late teenage years, most common childhood cancer in 15-19 yo; second peak in adults age >50
+- Association with EBV infection
+
+##### Risk Stratigication & Staging
+- Risk stratification based on Ann Arbor staging with Cotswolds modifications for HL:
+	- **Stage I**: involvement of single lymph node (LN) region
+	- **Stage II**: involvement of ≥2 LN regions on same side of diaphragm
+	- **Stage III**: involves LN regions on both sides of the diaphragm
+	- **Stage IV**: Diffuse or disseminated involvement of one or more extranodal organs or tissue beyond that designated E (contiguous extranodal disease), with or without associated lymph node involvement.
+	- All cases are subclassified to indicate the **absence (A) or presence (B) of “B symptoms”** (systemic symptoms of significant unexplained fever, night sweats, or unexplained weight loss exceeding 10% of body weight during the six months prior to diagnosis)
+- _**High Risk disease = IIIB and IVB**_. Poor prognosis associated with higher stage, presence of B symptoms, presence of bulky disease, extranodal extension
+
+##### Treatment
+Combination chemotherapy (many different regimens) +/- Involved Field Radiation Therapy
+
+##### Outcomes/Prognosis
+Excellent. Low risk disease 5 yr EFS >90%, high risk 5 yr EFS ~85%.
+
+#### Non-Hodgkin’s Lymphoma
+
+##### Presentation
+Varies by location and type. Lymphadenopathy, mediastinal mass, palpable mass, intussusception, cranial nerve palsy.
+
+##### Epidemiology
+- Median age: 10 yrs, increase incidence with age
+- Increased risk in congenital and acquired immunodeficiency syndromes
+- Association with EBV infection
+
+##### Notes about Grouping, Staging, or Potential Prognostic Features
+- **Risk stratification** based on Murphy (St. Jude’s) staging system
+- **More common subtypes** include: **Burkitt lymphoma, diffuse large B cell lymphoma, lymphoblastic lymphoma** and **anaplastic large cell lymphoma**
+- **Post-transplant lymphoproliferative disease** frequently resembles non-Hodgkin lymphoma in a recipient of a solid organ transplant or stem cell transplant, and is also typically staged using Murphy (St. Jude’s) staging system
+
+
+### Musculoskeletal Tumors
+
+#### Rhabdomyosarcoma
+
+##### Presentation
+Always on Ddx, can occur anywhere. Most common head/neck/GU.
+
+- **Head & neck:** Orbital tumors (proptosis, ophthalmoplegia, parameningeal lesions.
+- **GU** (botryoid RMS): Hematuria, urinary obstruction, pelvic mass, constipation
+- **Extremities:** Painful mass +/- overlying erythema
+
+##### Epidemiology
+- Most common soft tissue tumor in childhood, majority of cases <6 yrs, M>F
+- Associated with neurofibromatosis, Li-Fraumeni (anaplastic RMS), Beckwith-Wiedemann, and Costello syndromes
+
+##### Types & Outcomes/Prognosis
+Prognosis is based on histology, TNM stage, clinical group. Histologic subtypes:
+
+- **Embryonal:** Intermediate prognosis (5 yr EFS 77%)
+	- **Botryoid:** Rare variant of embryonal RMS occuring in infants, favorable prognosis
+- **Alveolar:** Poorer prognosis, most with PAX3- or PAX7-FOXO1 fusions (5 yr EFS 55-65%)
+- **Anaplastic:** Rare variant associated with Li-Fraumeni syndrome
+
+##### Treatment
+1. Surgical control of local disease
+2. Radiation therapy
+3. VAC Chemotherapy (Vincristine, actinomycin-d, cyclophosphamide)
+
+#### Osteosarcoma
+
+##### Presentation
+- Localized bone pain, tender mass, pathological fracture
+- Predilection for long bone metaphysis (femur, tibia, humerus)
+- Typically metastasizes to lung
+
+##### Epidemiology
+- Peak incidence 13-16 yrs, M>F. Most common primary bone malignancy.
+- Associated with Li-Fraumeni, Rothmund-Thomson, Bloom and Werner syndromes
+
+##### Risk Factors
+High risk factors: Metastatic; axial primary site; <90% tumor necrosis after initial chemotherapy
+
+##### Treatment
+"MAP" = MTX + anthracycline (doxo) + cisplatin → surgical resection. Not radiosensitive.
+
+##### Outcomes/Prognosis
+Localized ~60-70% 3 year EFS. Metastatic / unresectable poor (10-30% 2 yr OS).
+
+#### Ewing Sarcoma
+
+##### Presentation
+- Localized pain/swelling, tender soft tissue mass, pathological fractures
+- Predilection for axial skeleton, pelvis and diaphysis (midshaft) of long bones
+- Metastases to lung and bone/marrow
+
+##### Epidemiology
+- Peak incidence 10-15 yrs but wide age distribution, M>F, Caucasians>AA. 2nd most common primary bone malignancy.
+- Increased risk: Li-Fraumeni, MEN2. 95% have EWS fusion (most commonly EWS-FLI1 / t(11,22), detected by FISH).
+
+##### Treatment
+Induction chemo (VDC/IE) 4-6 cycles → surgery. RT for metastatic disease (radiosensitive) 
+
+##### Outcomes/Prognosis
+Localized 70-80% 5 year OS. Metastatic poor (~30% 5 year OS).
+
+
+### Nervous System Tumors, managed by Neuro-Oncologists
+
+#### Medulloblastoma
+
+##### Presentation
+Cerebellar mass, hydrocephalus, increased ICP. Midline tumors: gait ataxia or truncal instability; lateral cerebellar: limb discoordination. Dizziness, diplopia.
+
+##### Epidemiology
+- Peak incidence 5-9 yrs. Most common malignant brain tumor of childhood.
+- Associated with Gorlin syndrome, familial adenomatous polyposis
+
+##### Risk Stratification & Outcomes/Prognosis
+- **High-risk factors:** Age, extent of disease (modified Chang criteria), histopathologic subtype, and molecular subtype
+- Tumors with WNT signaling pathway mutations have the best prognosis (>95% 5-year OS); “group 3” (MYC mutations) have the worst
+
+#### Gliomas
+
+##### Presentation
+Depending on location, size and rate of growth: Seizures, hemiparesis, ataxia, increased ICP, cranial neuropathies
+
+##### Epidemiology
+Associated with NF1, Li-Fraumeni, Tuberous Sclerosis, von Hippel-Lindau, familial adenomatous polyposis
+
+##### Risk Stratification & Outcomes/Prognosis
+Several distinct entities based on histopathology:
+
+- Low grade (WHO I/II) glioma excellent outcomes (85-95% 5 y-yr OS)
+- Most common pilocytic astrocytoma
+- High grade (e.g. Diffuse intrinsic pontine glioma) very poor (median survival 10-12 months)
+
+
+### Nervous System Tumors, managed by Non-Neuro Oncologists
+
+#### Neuroblastoma
+
+##### Presentation
+All a function of location. Adrenal/abdominal; thoracic (respiratory distress, Horner’s syndrome, nerve root/spinal cord compression). Mets causing pain, proptosis/raccoon eyes. Paraneoplastic symptoms (catecholamine production).
+
+##### Epidemiology
+Median age of diagnosis 18 mos, increased incidence in Caucasian population
+
+##### Risk Stratification & Outcomes/Prognosis
+- **High-risk features:** Age (<1yo 5yr EFS = 95% vs >1yr = 65%), MYCN amplification, metastatic, crossing the midline
+	- **Exception:** “MS” (formerly 4S) disease (<1 yr, mets to skin, liver, <10% BM only), very favorable
+
+##### Diagnostics
+Urine VMA and HVA; CT/MRI, biopsy, MYCN amplification, 123I-MIBG or PET scan
+
+##### Treatment
+Varies based on stage (observation only vs very intense chemo) and new vs. relapsed: Chemotherapy induction, surgical resection, auto-HCT consolidation, dinutuximab, 131I-MIBG
+
+#### Retinoblastoma
+
+##### Presentation
+Leukocoria (54%), strabismus, nystagmus, red eye, decrease vision, iris heterochromia
+
+##### Epidemiology
+- Median age at diagnosis is 18 mos, later with unilateral disease. Majority present <5 yo
+- Germline mutations in RB1 (associated with sarcomas and melanoma)
+
+##### Risk Stratification & Outcomes/Prognosis
+Poor prognosis: Delay in diagnosis >6 mos, h/o intraocular surgery, cataract, use of external beam radiotherapy, invasion of local anatomy, tumor anaplasia
+
+
+### Kidney Tumors
+
+#### Wilm’s Tumor
+
+##### Presentation
+Abdominal mass, abd pain, hematuria, fever, HTN
+
+##### Epidemiology
+- Median age at diagnosis 4 yo, typically <15 yo
+- Bilateral disease 5-7%; if bilateral, more likely to have associated syndrome: WAGR syndrome, Beckwith-Wiedemann, Denys-Drash, and Bloom syndrome
+
+##### Risk Stratification & Outcomes/Prognosis
+- **High-risk features: **“Anaplastic” histology, bilateral disease, metastatic disease
+- National Wilms Tumor Study (NWTS) staging system (post-resection and pre-chemo) - prognosis based on anatomic extent of the tumor
+
+
+### Liver Tumors
+
+#### Hepatoblastoma
+
+##### Presentation
+Asymptomatic abdominal mass, hemihyperplasia, sexual precocity (synthesis of ectopic gonadotropins), anorexia
+
+##### Epidemiology
+- Children <3 yrs
+- Associated with: Low birth weight (<1000 g), Beckwith Wiedmann syndrome, trisomy 18, trisomy 21, Acardia syndrome, Li-Fraumeni syndrome, and familial adenomatous polyposis
+
+##### Risk Stratification & Outcomes/Prognosis
+Risk stratification based on: PRE-Treatment EXTent of disease (PRETEXT) group, histology, AFP level
+
+#### Hepatocellular Carcinoma
+
+##### Presentation
+Abdominal mass, anorexia, weight loss, jaundice
+
+##### Epidemiology
+- Peak incidence 15-19 yrs, rarely diagnosed <5 yrs
+- Increased risk in: Alagille syndrome, glycogen storage diseases, biliary atresia, infantile cholestasis, perinatally acquired HepB, tyrosinemia
+
+##### Risk Stratification & Outcomes/Prognisis
+Risk stratification based on staging: Location, resectability, and response to any pre-surgical therapy
+
+
+### Germ Cell Tumors
+
+#### Teratoma
+
+##### Presentation
+- **Sacrococcygeal:** Prenatal diagnosis via U/S, or caudal mass at birth.
+- **Ovarian:** Abd mass, abd pain, distension, emesis, obstructive symptoms
+- **Testicular:** Testicular mass, +/- pain
+
+##### Epidemiology
+- **Sacrococcygeal:** Congenital
+- **Ovarian:** Increase incidence with age, peak incidence 15-19 yrs, can be bilateral
+- **Testicular:** More common <5 yrs
+
+##### Risk Stratification & Outcomes/Prognosis
+Worse prognosis based on malignant transformation and anatomic extent of the tumor. Late presentation associated with worse prognosis (esp Sacrococcygeal)
+
+##### Diagnostics (shared among all GCTs)
+- **Biopsy**
+- **Imaging:** Primary site + Abdomen/Pelvis + chest for mets
+- **Tumor markers:** Establish baseline, use fall to monitor response to treatment
+	- AFP: See Onc internal page for age-adjusted normal values. T1/2 7-days.
+	- B-HCG: T1/2 3.5 days
+
+#### Yolk Sac Tumor
+
+##### Presentation
+- **Testis:** Painless testicular mass, torsion, elevated AFP
+- **Ovary:** Abd/pelvic mass, abd pain, torsion, ascites
+- **Intracranial:** See germinoma
+
+##### Epidemiology
+Prepubertal children, M=F, pure yolk sac tumors median age 1.5 yrs. Bimodal distribution in puberty.
+
+#### Germinoma (Neuro-Onc)
+
+##### Presentation
+Depends on location. Intracranial (increased ICP and cranial nerve compression); suprasellar regions (hypothalamic/pituitary dysfunctions, optic nerve compression), elevated B-HCG.
+
+##### Epidemiology
+Median age at diagnosis 10-12 yrs. Germinomas account for 60-65% of all pediatric intracranial GCTs.
+
+##### Risk Stratification & Outcomes/Prognosis
+Risk stratification based on histopathology
+
+
+## Common Chemotherapies
+
+```{r common_chemo}
+
+common_chemo <- readxl::read_excel("data/oncology.xlsx", 
+    sheet = "common_chemo")
+
+kableExtra::kable(common_chemo) %>%
+    kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%  kableExtra::scroll_box(width = "100%")
+```
+
+
+
+**Legend**:
+
+_Diseases_: 
+
+- ALL, acute lymphoblastic leukemia  
+
+- AML, acute myeloid leukemia  
+
+- BTs, brain tumors  
+
+- NBL, neuroblastoma  
+
+- WT, Wilms tumor
+
+_Side effects_: 
+
+- SIADH, syndrome of inappropriate ADH
+
+- N/V/D, nausea/vomiting, diarrhea
+
+_Genes_: 
+
+- DHFR, dihydrofolate reductase 
+
+- MGMT, O-6-methylguanine-DNA methyltransferase
+
+- UGT1A1, UDP glucuronosyltransferase 1
+
+- TPMT, thiopurine S-methyltransferase
+
+_Other_:  
+
+- IT, intratheca
+
+- PEG, polyethylene glycol
+
+
+## Common Targeted Therapies
+
+| Drug                      | Mechanism                                                | Used in                                     | Pharma/Metabolism/Excretion | Short-term side effects                                                           | Long-term side effects                                  | Notes                                                    |
+|---------------------------|----------------------------------------------------------|---------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| Imatinib                  |    Kinase inhibitor of BCR-ABL fusion, PDGFR and c-Kit   | Ph+ ALL GIST CML                            | Liver                       | Nausea Diarrhea Myalgias                                                          | Cardiac toxicity, delayed linear growth (pre-pubescent) | Genetic markers for use: -BCR-ABL fusion -PDGFR mutation |
+| Dasatinib                 | Kinase Inhibitor of ABL, Src, c-Kit                      | Ph+ ALL CML                                 | Liver                       | Myelosuppression Pleural effusion                                                 | Pulmonary hypertension                                  | BCR-ABL fusion                                           |
+| Sorafenib                 | Multi-kinase inhibitor (BRAF, VEGFR, PDGFR, FLT3         | FLT 3+ AML RCC Liver tumors                 | Liver                       | Hemorrhage Electrolyte wasting (low PO4, Ca, K) Myelosuppression Cardiac toxicity | -                                                       | FLT3 internal tandem duplication in AML                  |
+| Crizotinib                | Kinase Inhibitor of ALK, ROS1, and NTRK1                 | Lymphoma NBL Others                         | Liver                       | Nausea Vomiting Diarrhea                                                          | -                                                       | Mutation or fusion of ALK, ROS1, NTRK1                   |
+| Entrectinib/Iarotrectinib | Kinase inhibitor of NTRK1-3, Entrect. also ROS1 & ALK    | Infantile fibrosarcoma,  high grade gliomas | Liver                       | Parasthesias dizziness                                                            | Weight gain                                             | NTRK1, NTRK2, NTRk3, or ROS fusions                      |
+| Rituximab                 | Monoclonal antibody against CD20 (B-cell lineage marker) | ALL Lymphomas                               | -                           | Infusion reactions Pulmonary toxicity                                             | Reactivation of viruses                                 |                                                          |
+| Dinutuximab (ch14.18)     | Monoclonal antibody against GD2 glycolipid               | NBL                                         | -                           | Capillary leak syndrome Hypotension Neuropathic pain Hyper-sensitivity reactions  | -                                                       |                                                          |
+| blinatumomab              | Bispecific T-cell engager (anti-CD3 and anti-CD19)       | B-ALL (relapsed / HR)                       | -                           | Cytokine release syndrome                                                         | -                                                       | Requires continuous infusion                             |
+| Inotuzumab ozogomicin     | Antibody drug conjugate against CD-22                    | B-ALL (relapsed)                            | -                           | Hepatotoxicity, infection                                                         | Increased risk of SoS after HCT                         |                                                          |
+
+
+## Oncologic Emergencies
+
+### Tumor Lysis Syndrome (TLS)
+
+#### Definition
+- Massive tumor cell lysis and the release of large amounts of intracellular contents (PKU Phosphate, potassium and uric acid) into systemic circulation
+- Most often occurs after the initiation of cytotoxic therapy in patients with high-grade lymphomas (particularly the Burkitt subtype) and ALL
+- Can also occur spontaneously and with other tumor types that have a high proliferative rate, large tumor burden, or high sensitivity to cytotoxic therapy
+
+#### Pathogenesis
+- Rapid lysis of tumor cells → large amounts of intracellular contents (potassium, phosphate, and nucleic acids) → hyperkalemia, hyperphosphatemia, secondary hypocalcemia, hyperuricemia
+- Purines are metabolized to hypoxanthine and xanthine, and then to uric acid via xanthine oxidase. Uric acid is poorly soluble in water leading to crystal precipitation and deposition in the renal tubules and AKI.
+- **Allopurinol** competitively inhibits xanthine oxidase, blocking the metabolism of hypoxanthine and xanthine to uric acid. Xanthine is less soluble than uric acid so allopurinol can exacerbate AKI.
+- Cancer cells have ~4X higher Phos than normal cells. Hyperphosphatemia can lead to secondary hypocalcemia and renal calcium phosphate precipitation. Hypocalcemia may also cause cardiac arrhythmias.
+- Elevated uric acid and phosphate worsen the severity of AKI (increases precipitation of each other)
+
+#### Clinical Manifestation
+- **Hyperuricemia:** Lethargy, nausea, and vomiting
+- **Hyperphosphatemia and hypocalcemia:** Anorexia, cramping, vomiting, spasm, tetany, seizures, altered consciousness, cardiac arrest
+- **Hyperkalemia:** Widened QRS; peaked T waves
+- **Acute Renal Failure:** 2/2 Uric acid and calcium phosphate deposition
+
+#### Diagnostic Studies
+- CBC, Chem 10, LFT’s, LDH, Uric acid → Close attention to K, Ca, Phos, BUN/Cr and LDH
+- Obtain labs (chem 10, uric acid, LFTs) q4-8 hrs depending on severity
+- Urinalysis may show many uric acid crystals but can be normal due to lack of output from the obstructed nephrons
+- Monitor urine output closely
+
+#### Treatment
+- ***NOTE:*** Use Onc Tumor Lysis Syndrome Order Set in PowerChart (there is one for rasburicase and one for allopurinol)
+- **Hydration:** Goal of 3000 mL/m2/day, Consider D5W NS or D5W1/2NS, restrict potassium
+	- Benefits unclear for alkalinization of urine (pH 7-8); can consider if appropriate
+- **Hyperuricemia:**
+	- **1st line = Allopurinol:** *Prevents further UA formation*. Competitively inhibits xanthine oxidase, blocking metabolism of hypoxanthine and xanthine to uric acid, does not reduce the preexisting serum uric acid. Do not use if risk of AKI. 
+	- **Rasburicase:** *Rapidly reduces existing UA*. Recombinant version of urate oxidase; leads to degradation of uric acid to allantoin (excreted renally). Consider if Uric acid >5 or unable to hyperhydrate 
+		- *Test for G6PD first*. Contraindicated in patients with G6PD deficiency because hydrogen peroxide, a breakdown product, can cause methemoglobinemia and hemolytic anemia.
+		- Order “Uric acid, post-rasburicase” (in Order Set) to check levels 
+- **Hyperkalemia:** Calcium gluconate to reduce risk of dysrhythmia. Insulin plus glucose or beta-agonists for quick control. Kayexalate for excretion.
+- **Hyperphosphatemia:** Hyperhydration
+- **Hypocalcemia:** IV calcium, careful to not worse calcium phosphate deposition if phos still high.
+
+### Fever and Neutropenia
+
+#### Definition
+(Absolute neutrophil count (ANC) <500 cells/uL **OR** ANC expected to decrease to <500 cells/uL during the next 48 hours) **AND** fever > 38.5C once or > 38.0C twice (separated by ≥1 hour) in a 24 h period
+
+- **"Functional neutropenia"** refers to patients whose hematologic malignancy results in qualitative defects (impaired phagocytosis and killing of pathogens) of circulating neutrophils (e.g. prior to starting chemo)
+	- These patients should also be considered to be at increased risk for infection, despite a "normal" neutrophil count
+
+#### Risk Stratification
+- **“High Risk” Population:**
+	- Patient with prolonged and profound neutropenia (ANC <100/mm3 for >7-10 days)
+		- AML in all phases of therapy (except APML maintenance)
+		- ALL in all phases of therapy EXCEPT continuation
+	- Patients with Down Syndrome with ANY oncologic diagnosis
+	- Patients with clinical features of severe infection (i.e. septic shock, typhlitis)
+- **“Standard Risk” Population**
+	- Solid tumor patients (most)
+	- ALL: Continuation phase of therapy only
+	- Patients with an anticipated duration of profound neutropenia lasting ≤ 7 days    
+
+#### Pathogenesis
+Patients can have absolute or functional leukopenia (secondary to oncologic conditions and/or cytotoxic drugs). Impairs ability of host to defend against invasion by microorganisms.
+
+#### Microbiology
+- **Gram-positive infections predominate**
+	- Coagulase-negative staph, strep pneumo, staph aureus, strep viridans, B. Cereus
+	- Risk factor for S. Virdans bacteremia: high-dose IV cytarabine
+- **Gram-negative infections are also common**
+	- Pseudomonas aeruginosa, stenotrophomonas maltophilia, E. coli, Serratia, Klebsiella    
+
+#### Clinical Manifestations
+- **Fever:** Focal source of infection (skin/soft tissue/lungs/etc)
+- **Physical exam:** Thorough exam assessing for signs of infection including vitals, skin folds, line sites, oropharynx, perineum. Inflammation in neutropenic patients can be subtle.  
+	- *** **NO rectal exam or rectal temperatures** ***    
+- **Typhlitis (neutropenic enterocolitis):** Microbial infection leads to necrosis of layers of bowel wall. Cecum typically affected (possibly secondary to diminished vascularization), can also involve ascending color and terminal ileum.
+	- **Signs/symptoms:** Abdominal pain (often RLQ), distention, cramping, nausea/vomiting, watery/bloody diarrhea, hematochezia. If peritoneal signs and shock, consider bowel wall perforation.
+	- **Work-up:** Plain film to r/o free air, Contrast CT, blood and stool cultures, and C. diff assay
+	- **Diagnosis:** CT with contrast demonstrating bowel wall thickening, mesenteric stranding, bowel dilatation, pneumatosis + fever + abdominal pain
+
+#### Diagnostic Studies
+- **Labs:** CBCd. LFT’s, amylase and lipase if abdominal symptoms. Consider chemistries as clinically relevant (PN dependence, dehydration, etc).
+- **Cultures:**
+	- Anaerobic and aerobic blood cultures should be obtained from each lumen of any indwelling catheters, and a peripheral vein. Obtained q24h for temperature > 38.5C from one lumen thereafter. 
+	- Urinalysis and urine culture: Clean-catch urine or catheter specimen (if < 2 years, consider catheter specimen)
+	- Skin, sputum, throat swabs and cultures as indicated
+	- CSF usually not obtained for analysis or culture unless clinically warranted (seizure, change in mental status)
+**Imaging:** CXR in patients with respiratory symptoms. KUB with abdominal symptoms.
+
+#### Treatment
+- ***NOTE:*** Use Onc Sepsis/F&N Order Set
+- **Key Treatment Principles:**
+	- Empiric antibiotic regimen must provide reliable coverage against Pseudomonas
+	- Antipseudomonal coverage must remain active until ANC count recovery (even if a gram positive organism is isolated)
+	- Vancomycin rule-out for 48 hours to provide empiric coverage for B. Cereus
+- **Antibiotic Discontinuation Criteria**
+	- ALL, AML (except Continuation phase), Advanced stage Burkitt/B-cell lymphoma
+		- Blood cultures negative at 48 hrs
+		- Patient well-appearing
+		- ANC rising post-nadir: ANC > 200 x 2 days
+			- *Exception:* Febrile at time of new ALL dx, then cultures negative @48-72 hours and afebrile since, can switch to prophylaxis (see below) w/o count recovery per 16-001
+	- All other diagnoses:
+		- Blood culture negative at 48 hrs
+		- Afebrile x 24 hrs
+		- Patient well-appearing
+		- Counts rising post nadir and ANC > 200
+		- Discharge patient on oral Augmentin + Ciprofloxacin until ANC > 500. Use clindamycin for penicillin allergies.
+
+##### High-Risk Patient w/ Fever
+
+|Clinical Condition |Empiric Treatment |
+|-------------------|------------------|
+|Hemodynamically stable|Cefepime 50mg/kg/dose q8h (max 2000mg/dose) **AND** Vancomycin x48hrs<br>- If **cephalosporin allergy:** Aztreonam 30mg/kg/dose q6h **AND** Vancomyci  x48hrs|
+|+ Abd or perirectal pain|ADD metronidazole 7.5mg/kg/dose q6h|
+|Hemodynamically UNSTABLE|Meropenem 20mg/kg/dose q8h **AND** Vancomycin x48hrs|
+|Pts receiving cefepime prophylaxis at time of fever|Meropenem 20mg/kg/dose q8h **AND** Vancomycin x48hrs|
+|Carbapenem allergy or anaphylactic PCN allergy|Aztreonam 30mg/kg/dose q6h **AND** Vancomycin q8h x48hrs **AND** Tobramycin|
+|Fever lasting _>_ 5-7 days|Consider Micafungin 3mg/kg/dose q24h<br>- Obtain serum galactomannan & BD-glucan PRIOR to initiation|
+
+##### Standard-Risk Patient w/ Fever
+
+|Clinical Condition |Empiric Treatment |
+|-------------------|------------------|
+|Hemodynamically stable|Cefepime 50mg/kg/dose q8h<br>- If **cephalosporin allergy:** Aztreonam 30mg/kg/dose q6h **AND** Clindamycin 10mg/kg/dose|
+|+ Abd pain or perirectal pain|**ADD** Metronidazole 7.5mg/kg/dose q6h|
+|+ Skin/soft tissue infection/mucositis|**ADD** Vancomycin|
+|Hemodynamically UNSTABLE|Use High Risk Algorithm (above)|
+|Fever lasting _>_ 72 hrs|Discontinue clindamycin (if receiving) and **ADD** Vancomycin|
+|Fever lasting _>_ 5-7 days|Consider Micafungin 3mg/kg/dose q24h<br>- Obtain serum galactomannan & BD-glucan PRIOR to initiation|
+
+#### Prophylaxis
+
+##### Antimicrobial
+|                |ALL         |AML     |
+|----------------|------------|--------|
+|Agent of choice |Levofloxacin|Cefepime|
+|When to initiate |During induction in all afebrile pts|During induction 1 in all afebrile pts w/ ANC <1000 and falling
+|When to discontinue |ANC _>_ 200 post-nadir during induction|ANC >100 post-nadir and rising following each cycle of chemotherapy
+|Dosing |- 6mos to 5yrs: 10mg/kg/dose IV/PO q12h<br>- >5yrs: 10mg/kg/dose IV/PO q24h|50mg/kg/dose IV q12h (all ages)|
+
+##### Antifungal
+- **Patient population:**
+	- **AML:** All patients during all phase of therapy
+	- **ALL:** Patients receiving doxorubicin during induction per DF 16-001 + relapsed patients
+- **Agents:** Micafungin, voriconazole
+
+##### PJP Prophylaxis
+- **Patient population:** All oncology patients. For ALL, start when in CR.
+- **Agents:** Bactrim (preferred, dosed 3 days/wk 5mg/kg up to 160mg PO), atovaquone, pentamidine
+
+##### Antiviral
+- **Patient population:** Generally reserved for patients with a h/o HSV infection during prior cycles
+- **Agents:** Valacyclovir
+
+### Anterior Mediastinal Mass & Superior Vena Cava Syndrome
+
+#### Pathogenesis
+Compression of mediastinal structures by an anterior mediastinal mass leading to upper body venous congestion and airway obstruction
+
+#### Differential
+**For anterior mediastinal masses: “4 T’s”**
+
+- Thyroid mass
+- Thymoma
+- Teratoma (malignant)
+- (Terrible) lymphoma/ T-ALL
+
+#### Clinical Manifestations
+- Cough/dyspnea/wheezing (40-70% of pts). Arm, neck and/or facial swelling (>60%) from decreased blood return, also predisposes to venous clot formation. Plethoric/ruddy facies (13-23%).  Also, dysphagia, orthopnea, hoarseness. Symptoms exacerbated when lying supine or valsalva.
+- Headache, anxiety, and altered mental status (secondary to CO2 retention)
+- Increased ICP, can cause life-threatening cerebral edema
+- Pleural effusion present in ~40-60%
+- Shock if cardiopulmonary compromise; pericardial effusion possible
+
+#### Diagnostic Studies
+- **Imaging:** CXR, thoracic and abdominal CT, echoc (if suspicion for cardiac compromise) and chest ultrasound with Doppler (if suspicion for SVC thrombosis)
+- **Labs:** CBC, tumor lysis labs, consider tumor marker evaluation, BM aspirate if peripheral blasts present
+- Diagnosis by least invasive method possible to avoid sedation (peripheral lymph node biopsy, bone marrow, pleurocentesis, pericardiocentesis)
+
+#### Management
+- Anesthesia and ORL consult. Consider ICU transfer.
+- Immediate supportive care: O2, elevate HOB to 30 degrees
+- Empiric chemotherapy may be necessary based on specific circumstances
+- Therapy depends on most likely diagnosis, but radiation therapy, steroids, chemotherapy and diuretics are options to consider
+- Surgical resection of chemo/radio-resistant tumors (in rare cases)
+- Anticoagulation as appropriate if SVC syndrome is due to thrombus
+
+### Spinal Cord Compression
+
+#### Pathogenesis
+- Epidural compression can result from perivertebral tumors extending through intervertebral foramen as well as bulky metastatic disease in vertebral bodies
+- Most common etiologies: Sarcoma, neuroblastoma, germ cell tumors, lymphoma and CNS metastases
+- Compression of venous plexus leads to cord edema, hemorrhage, and ischemia
+- Prognosis is based on duration of symptoms and time to diagnosis and treatment; in general survival for patients with spinal cord compression is <1 year
+- May occur at any spinal level (15% cervical spine, 60% thoracic spine, 25% lumbosacral spine)
+
+#### Clinical Manifestations
+- **Focal back pain in a known oncology patient is considered spinal cord compression until proven otherwise!**
+- Back pain (80-90% of patients), weakness (35-75%), paresis, sensory abnormalities, paraplegia or quadriplegia, urinary and/or fecal incontinence, or constipation
+- Prolonged cord compression causes irreversible paralysis, sensory loss and sphincter incompetence
+
+#### Physical Exam
+- Complete neurologic evaluation including rectal tone, with attention to level of deficit and sensory abnormalities
+- Pain is often aggravated by movement, straight-leg raise, neck flexion, recumbency or Valsalva maneuver
+
+#### Diagnostic Studies
+- MRI w/ + w/o gadolinium. Obtain emergently if back pain is associated w/ focal neurologic deficits or refusal/inability to walk
+- Following MRI, consider LP with cytology studies
+- Spine radiographs are generally not helpful (positive in 1/3rd of cases)
+
+#### Treatment
+**Goal is rapid decompression of tumor**
+
+- Dexamethasone load 1-2 mg/kg, then 0.25– 0.5mg/kg IV q6hr (children) or 10mg IV bolus (adolescents/adults) followed by 6mg q6hr
+- Consult Neurosurgery to evaluate for surgical decompression and laminectomy
+- Consult Radiation Oncology to evaluate for emergent XRT
+- Chemotherapy may be helpful in select tumors if specific tumor type is known or highly suspected and is likely therapy-responsive (e.g. lymphoma, neuroblastoma)
+- Surgical resection may be best option if tumor type unknown or if mass persists despite radiotherapy, steroids, and/or chemotherapy
+
+### Hyperleukocytosis & Leukostasis
+
+#### Definition
+Definition varies by disease. Occurs more commonly with AML (10-20%) and very rarely in ALL.
+
+- AML: WBC >100,000
+- ALL: WBC >300,000
+- Chronic phase CML: WBC >600,000
+
+#### Pathogenesis
+- Increased blood viscosity as a direct complication of a large population of leukemic blasts that are less deformable than mature leukocytes
+- White blood cell plugs in the microvasculature causing symptoms of decreased tissue perfusion
+- This causes local hypoxia, and can lead to increased production of cytokines, resulting in endothelial damage
+
+#### Clinical Manifestations
+- **Neurological:**
+	- Visual changes, headache, dizziness, tinnitus, gait instability, confusion, somnolence, and, occasionally, coma
+	- Increased risk of intracranial hemorrhage (persists for at least a week after the reduction of white cell count)
+- **Pulmonary:**
+	- Dyspnea, hypoxia, possible diffuse interstitial or alveolar infiltrates on imaging studies
+	- Occasionally, patients develop dyspnea and worsening hypoxemia following the initiation of chemotherapy due to the lysis of leukemic cells trapped in the lungs (eg, acute lysis pneumopathy)
+	- Note: Measured arterial pO2 can be falsely decreased in patients with hyperleukocytosis, since the WBCs in the test tube utilize oxygen. Pulse oximetry provides a more accurate assessment of O2 saturation in this setting
+- **ID:** ~80% of patients with leukostasis are febrile, which may be due to inflammation associated with leukostasis or infection
+0 **Other:** Less common signs or symptoms include electrocardiographic signs of myocardial ischemia or right ventricular overload, worsening renal insufficiency, priapism, acute limb ischemia, or bowel infarction
+
+#### Physical Exam
+Careful neurologic exam including fundoscopic exam
+
+#### Diagnostic Studies
+- **Labs:** CBCd, tumor lysis labs (see above), coagulation panel
+	- Measured arterial pO2 can be falsely decreased because WBCs in the test tube utilize oxygen. Pulse oximetry will be more accurate.
+0 **Imaging:** CXR and/or non-contrast head CT/MRI for neurologic abnormalities
+
+#### Treatment
+- **Supportive care:** This is the most important initial treatment
+	- **Hyperhydration**
+	- Close monitoring for DIC (especially AML & APML patients)
+	- Maintain platelets >20K given bleeding risk
+	- Judicious use of pRBC transfusion as this increases viscosity
+- **Leukapheresis:** Variable implementation as a clear benefit for patient outcome is not established. Generally, may be considered as an option for WBC >100,000, more common in AML than ALL. 	- Contraindications may include hemodynamic instability (may be worsened by leukapheresis), patient unable to have central access, cardiovascular comorbidities
+- **Low dose-chemotherapy:** For cytoreduction purposes
+	- Generally “pre-induction” therapy with cytarabine or hydroxyurea
+	- May rapidly lower WBC count and cause tumor lysis syndrome
+
+### Increased ICP
+
+#### Definition
+Normal ICP values vary w/ age but are generally 5-10 mmHg in infants and 10-15 mmHg in adolescents/adults. Symptoms generally when ICP >20 mmHg, though this can vary with age.
+
+#### Pathogenesis
+Blockage of CSF flow, usually by compression of the third of fourth ventricle by an infratentorial tumor
+
+#### Clinical Manifestations
+- **Infants:** Oersonality/behavior changes, head holding or banging, vomiting, lethargy, loss of milestones, seizures, increased head circumference, bulging fontanelle, distension of scalp veins, strabismus
+- **Older children:** Headache (classically in the morning and occipital), vomiting (often without nausea), diplopia, ataxia, hemiparesis, dizziness, lethargy, speech disturbances, neck stiffness and coma
+
+#### Physical Exam
+- **Vital signs:** Classic Cushing’s triad hypertension (systolic with widened pulse pressure), irregular respirations and bradycardia (late sign of increased ICP)
+- **Physical eam:** Complete neurologic exam with attention to mental status and cranial nerves
+- **Classic herniation syndromes:**
+	- **Transtentorial:** Ipsilateral papillary dilation +/- contralateral hemiparesis
+	- **Foramen magnum:** Depressed LOC, Cushing’s triad
+
+#### Diagnostic Studies
+- **Labs:** None needed. Do not obtain LP given risk of herniation!
+- **Imaging:** Emergent CT or MRI
+
+#### Treatment
+- ***NOTE:*** *See Critical Care chapter for detailed management*
+- Goals are to maintain cerebral perfusion, control ICP and prevent herniation or seizures
+- Transfer to ICU; involve Neurosurgery
+- Neuroprotective measures: Elevate HOB 30 degrees, maintain normothermia & normoglycemia, keep patient calm
+- 3-5cc/kg bolus of 3% hypertonic saline
+- 0.5-1g/kg bolus of mannitol
+- Hyperventilation to reduce CO2 in severe cases
+- Intubation if concern for respiratory abnormalities
+
+\![onc card 1](./images/onc_card_1)
+
+\![onc_card_2](./images/onc_card_2)

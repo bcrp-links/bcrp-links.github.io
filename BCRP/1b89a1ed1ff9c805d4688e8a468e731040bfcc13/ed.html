@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>BCRP App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<link rel="apple-touch-icon-precomposed" href="images/bcrp.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" /> 
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="add2home.css">
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery.mobile-1.2.0.min.js"></script>
+	<script src="js/app.js"></script>
+	<script type="application/javascript" src="add2home.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="cacheMe" data-dom-cache="true">
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="cards.html" data-icon="info" data-prefetch>Pocket <br> Resources</a></li>
+            <li><a href="ebm.html" data-icon="file" data-prefetch> <br> EBM </a></li>
+            <li><a href="index.html" class="ui-state-persist ui-btn-active" data-icon="fahome" data-iconpos="notext"> <br> Handbook</a></li>
+            <li><a href="chalktalks.html" data-icon="faplus" data-prefetch>Chalk <br> Talks</a></li>
+            <li><a href="bchbmc.html" data-icon="phone" data-prefetch> <br> BCH/BMC</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div>
+
+<div data-role="content">
+    <ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="Search Handbook..."  data-theme="d">
+        <li data-role="list-divider">Emergency Department</li>
+        <li><a href="pdfs/handbook/acuteabdominalpain.pdf" target="_blank">Acute Abdominal Pain</a></li>
+        <li><a href="pdfs/handbook/acutechestpain.pdf" target="_blank">Acute Chest Pain</a></li>
+        <li><a href="pdfs/handbook/scrotalpain.pdf" target="_blank">Acute Scrotal Pain</a></li>
+        <li><a href="pdfs/handbook/limp.pdf" target="_blank">Atraumatic Limp</a></li>
+        <li><a href="pdfs/handbook/bites.pdf" target="_blank">Bites</a></li>
+        <li><a href="pdfs/handbook/brue.pdf" target="_blank">BRUE</a></li>
+        <li><a href="pdfs/handbook/burns.pdf" target="_blank">Burns</a></li>
+        <li><a href="pdfs/handbook/cervicalspine.pdf" target="_blank">Cervical Spine Injury</a></li>
+        <li><a href="pdfs/handbook/deepneck.pdf" target="_blank">Deep Neck Space Infections</a></li>
+        <li><a href="pdfs/handbook/dehydration.pdf" target="_blank">Dehydration</a></li>
+        <li><a href="pdfs/handbook/denal.pdf" target="_blank">Dental Emergencies</a></li>
+        <li><a href="pdfs/handbook/epistaxis.pdf" target="_blank">Epistaxis</a></li>
+        <li><a href="pdfs/handbook/febrileinfant.pdf" target="_blank">Febrile Infant</a></li>
+        <li><a href="pdfs/handbook/foreignbody.pdf" target="_blank">Foreign Body</a></li>
+        <li><a href="pdfs/handbook/lacrepair.pdf" target="_blank">Laceration Repair</a></li>
+        <li><a href="pdfs/handbook/tbi.pdf" target="_blank">Traumatic Brain Injury</a></li>
+        <li><a href="pdfs/handbook/sexualassault.pdf" target="_blank">Sexual Assault</a></li>
+        <li><a href="pdfs/handbook/chilabuse.pdf" target="_blank">Suspected Child Abuse</a></li>
+        <li><a href="pdfs/handbook/syncope.pdf" target="_blank">Syncope</a></li>
+        <li><a href="pdfs/handbook/trauma.pdf" target="_blank">Trauma</a></li>
+    </ul>
+</div><!-- /content -->
+</div><!-- /page -->
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+    <link href="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/css")" rel="stylesheet" type="text/css" />    
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/js")"></script>    
+</head>
+<body>
+    <section data-role="page" data-theme="d" id="@ViewBag.PageId">
+        <section data-role="header"data-theme="e"> 
+            <section id="header">
+                <a href="@Url.Action("Index", "Recipe")">
+                    <h2 class="header-text">
+                        <img src="~/Content/Images/logo.png" alt="YummyCake">Yummy Bakes</h2>
+                </a>
+            </section>
+        </section>
+        <section data-role="content">
+            @RenderBody()
+        </section>
+    </section>
+</body>
+</html>

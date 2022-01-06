@@ -1,0 +1,6762 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.8)  23 JUN 2021 18:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bcrp_handbook_bookdown.tex
+(./bcrp_handbook_bookdown.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/book
+.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10
+.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/a
+msmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/a
+mstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/a
+msgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/a
+msbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/a
+msopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count184
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count185
+\leftroot@=\count186
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count187
+\DOTSCASE@=\count188
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count189
+\c@MaxMatrixCols=\count190
+\dotsspace@=\muskip16
+\c@parentequation=\count191
+\dspbrk@lvl=\count192
+\tag@help=\toks16
+\row@=\count193
+\column@=\count194
+\maxfields@=\count195
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/
+amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/
+amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmoder
+n.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/i
+ftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-m
+ath/unicode-math.sty
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/
+expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend
+/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-02 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count196
+\l__color_backend_stack_int=\count197
+\g__color_backend_stack_int=\count198
+\g__graphics_track_int=\count199
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count266
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-m
+ath/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3package
+s/xparse/xparse.sty
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3package
+s/xparse/xparse-2020-10-01.sty
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3package
+s/xparse/xparse-generic.tex)))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3package
+s/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/
+fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/
+fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count269
+\l__fontspec_language_int=\count270
+\l__fontspec_strnum_int=\count271
+\l__fontspec_tmp_int=\count272
+\l__fontspec_tmpa_int=\count273
+\l__fontspec_tmpb_int=\count274
+\l__fontspec_tmpc_int=\count275
+\l__fontspec_em_int=\count276
+\l__fontspec_emdef_int=\count277
+\l__fontspec_strong_int=\count278
+\l__fontspec_strongdef_int=\count279
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/font
+enc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/
+fontspec.cfg)))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fix-
+cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1e
+nc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count280
+\g__um_fonts_used_int=\count281
+\l__um_primecount_int=\count282
+\g__um_primekern_muskip=\muskip17
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-m
+ath/unicode-math-table.tex)))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/upquote/u
+pquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/text
+comp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/microtype.sty
+Package: microtype 2021/02/25 v2.8b Micro-typographical refinements (RS)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/
+keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\MT@toks=\toks21
+\MT@count=\count283
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen151
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count284
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/microtype-xetex.def
+File: microtype-xetex.def 2021/02/25 v2.8b Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/microtype.cfg
+File: microtype.cfg 2021/02/25 v2.8b microtype main configuration file (RS)
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/parskip/p
+arskip.sty
+Package: parskip 2021-03-02 v2.0g non-zero parskip adjustments
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions
+/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds
+/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetke
+ys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/
+etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+))
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xc
+olor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-
+cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-
+def/xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexc
+mds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infware
+rr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefin
+ekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfesca
+pe/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/h
+ycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmac
+ro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/a
+uxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc
+/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmd
+s/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count288
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count289
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.s
+ty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen153
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/
+bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintc
+alc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count290
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbe
+gshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringe
+nc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box50
+\c@Hy@AnnotLevel=\count294
+\HyField@AnnotCount=\count295
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfile
+check/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atve
+ryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquec
+ounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/lon
+gtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count298
+\LTcapwidth=\dimen156
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count299
+\LT@rows=\count300
+\c@LT@tables=\count301
+\c@LT@chunks=\count302
+\LT@p@ftn=\toks22
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/
+booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen169
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/arr
+ay.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen170
+\ar@mcellbox=\box55
+\extrarowheight=\dimen171
+\NC@list=\toks23
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box56
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/cal
+c.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count307
+\calc@Bcount=\count308
+\calc@Adimen=\dimen172
+\calc@Bdimen=\dimen173
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count309
+\calc@Cskip=\skip61
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/
+footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box57
+\fn@width=\dimen174
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/
+graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/
+graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/
+trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-
+cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/multirow/
+multirow.sty
+Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count310
+\multirow@dima=\skip63
+\bigstrutjot=\dimen177
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/wrapfig/w
+rapfig.sty
+\wrapoverhang=\dimen178
+\WF@size=\dimen179
+\c@WF@wrappedlines=\count311
+\WF@box=\box58
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/flo
+at.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count312
+\float@exts=\toks25
+\float@box=\box59
+\@float@everytoks=\toks26
+\@floatcapt=\box60
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/colortbl/
+colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks27
+\minrowclearance=\skip64
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdflscape
+/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/
+lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tabu/tabu
+.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/varwidth/
+varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box61
+\sift@deathcycles=\count313
+\@vwid@loff=\dimen180
+\@vwid@roff=\dimen181
+)
+\c@taburow=\count314
+\tabu@nbcols=\count315
+\tabu@cnt=\count316
+\tabu@Xcol=\count317
+\tabu@alloc=\count318
+\tabu@nested=\count319
+\tabu@target=\dimen182
+\tabu@spreadtarget=\dimen183
+\tabu@naturalX=\dimen184
+\tabucolX=\dimen185
+\tabu@Xsum=\dimen186
+\extrarowdepth=\dimen187
+\abovetabulinesep=\dimen188
+\belowtabulinesep=\dimen189
+\tabustrutrule=\dimen190
+\tabu@thebody=\toks28
+\tabu@footnotes=\toks29
+\tabu@box=\box62
+\tabu@arstrutbox=\box63
+\tabu@hleads=\box64
+\tabu@vleads=\box65
+\tabu@cellskip=\skip65
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threepart
+table/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box66
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threepart
+tablex/threeparttablex.sty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/environ/e
+nviron.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/trimspace
+s/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip66
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ulem/ul
+em.sty
+\UL@box=\box67
+\UL@hyphenbox=\box68
+\UL@skip=\skip67
+\UL@hook=\toks30
+\UL@height=\dimen191
+\UL@pe=\count320
+\UL@pixel=\dimen192
+\ULC@box=\box69
+Package: ulem 2019/11/18
+\ULdepth=\dimen193
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/makecell/
+makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen194
+\c@nlinenum=\count321
+\TeXr@lab=\toks31
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/na
+tbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count322
+) (./bcrp_handbook_bookdown.aux)
+\openout1 = `bcrp_handbook_bookdown.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 95.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 95.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 95.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 95.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 95.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
+(fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
+(fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
+(fontspec)             \fontdimen 13\font =3.63pt\relax \fontdimen 14\font
+(fontspec)             =3.63pt\relax \fontdimen 15\font =2.89pt\relax
+(fontspec)             \fontdimen 16\font =2.47pt\relax \fontdimen 17\font
+(fontspec)             =2.47pt\relax \fontdimen 18\font =2.5pt\relax
+(fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
+(fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 95.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 95.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 95.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
+(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
+(fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 9
+5.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 95.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 95.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 95.
+LaTeX Info: Redefining \microtypecontext on input line 95.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+Package hyperref Info: Link coloring OFF on input line 95.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/
+nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/
+refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitl
+estring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count323
+)
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
+(./bcrp_handbook_bookdown.out) (./bcrp_handbook_bookdown.out)
+\@outlinefile=\write3
+\openout3 = `bcrp_handbook_bookdown.out'.
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 97.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
+7.
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm
+.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00073pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 97.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/
+umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+
+
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/
+umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:/Users/Mara and Boris/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype
+/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1
+
+
+] [2
+
+] (./bcrp_handbook_bookdown.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 3.
+[3] [4] [5] [6] [7] [8] [9] [10])
+\tf@toc=\write4
+\openout4 = `bcrp_handbook_bookdown.toc'.
+
+[11] [12
+
+]
+Chapter 1.
+File: ./images/handbook_cover_no_year.png Graphic file (type bmp)
+<./images/handbook_cover_no_year.png>
+
+Overfull \hbox (108.87552pt too wide) in paragraph at lines 105--105
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[13]
+Overfull \vbox (206.00464pt too high) has occurred while \output is active []
+
+[14]
+Overfull \hbox (312.13004pt too wide) in paragraph at lines 140--199
+ [][] 
+ []
+
+[15] [16]
+Chapter 2.
+File: ./images/bch-numbers.png Graphic file (type bmp)
+<./images/bch-numbers.png>
+File: ./images/bmc-numbers.png Graphic file (type bmp)
+<./images/bmc-numbers.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[17
+
+]
+File: ./images/rapid-reference_pals-vital-signs.png Graphic file (type bmp)
+<./images/rapid-reference_pals-vital-signs.png>
+File: ./images/rapid-reference_pals-color-coded-tape.png Graphic file (type bmp
+)
+<./images/rapid-reference_pals-color-coded-tape.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[18]
+File: ./images/rapid-reference_pals-systematic-approach.png Graphic file (type 
+bmp)
+<./images/rapid-reference_pals-systematic-approach.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19]
+File: ./images/rapid-reference_pals-bradycardia-pulse-poor-perfusion.png Graphi
+c file (type bmp)
+<./images/rapid-reference_pals-bradycardia-pulse-poor-perfusion.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[20]
+File: ./images/rapid-reference_pals-tachycardia-pulse-poor-perfusion.png Graphi
+c file (type bmp)
+<./images/rapid-reference_pals-tachycardia-pulse-poor-perfusion.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[21]
+File: ./images/rapid-reference_pals-cardiac-arrest-algorithm.png Graphic file (
+type bmp)
+<./images/rapid-reference_pals-cardiac-arrest-algorithm.png>
+File: ./images/rapid-reference_pals-cardiac-arrest-doses-details.png Graphic fi
+le (type bmp)
+<./images/rapid-reference_pals-cardiac-arrest-doses-details.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[23]
+File: ./images/rapid-reference_pals-post-rosc.png Graphic file (type bmp)
+<./images/rapid-reference_pals-post-rosc.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[24]
+File: ./images/rapid-reference_pals-drugs-1.png Graphic file (type bmp)
+<./images/rapid-reference_pals-drugs-1.png>
+File: ./images/rapid-reference_pals-drugs-2.png Graphic file (type bmp)
+<./images/rapid-reference_pals-drugs-2.png>
+
+Underfull \vbox (badness 6675) has occurred while \output is active []
+
+[25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[27]
+File: ./images/rapid-reference_shock-recognition.png Graphic file (type bmp)
+<./images/rapid-reference_shock-recognition.png>
+
+Overfull \hbox (101.23999pt too wide) in paragraph at lines 283--294
+ [][] 
+ []
+
+[28]
+Overfull \hbox (8.84917pt too wide) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 Type|  
+ []
+
+
+Overfull \hbox (40.378pt too wide) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 Preload(CVP, 
+ []
+
+
+Overfull \hbox (15.898pt too wide) in paragraph at lines 397--397
+\TU/lmr/m/n/10 PCWP)|  
+ []
+
+
+Overfull \hbox (52.97067pt too wide) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 Afterload(SVR)|  
+ []
+
+
+Overfull \hbox (42.04916pt too wide) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 CO(SV*HR)|  
+ []
+
+
+Overfull \hbox (8.118pt too wide) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 Mixed 
+ []
+
+
+Overfull \hbox (0.948pt too wide) in paragraph at lines 397--397
+\TU/lmr/m/n/10 nous 
+ []
+
+
+Overfull \hbox (16.668pt too wide) in paragraph at lines 397--397
+\TU/lmr/m/n/10 (MVO2)|  
+ []
+
+
+Overfull \hbox (2.73683pt too wide) in alignment at lines 395--399
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (46.75917pt too wide) in paragraph at lines 400--400
+[]|\TU/lmr/bx/n/10 Distributive|  
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (5.79916pt too wide) in paragraph at lines 400--400
+\TU/lmr/m/n/10 then 
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (51.39917pt too wide) in paragraph at lines 401--401
+[]|\TU/lmr/bx/n/10 Hypovolemic|  
+ []
+
+
+Overfull \hbox (46.02917pt too wide) in paragraph at lines 402--402
+[]|\TU/lmr/bx/n/10 Cardiogenic|  
+ []
+
+
+Overfull \hbox (45.30917pt too wide) in paragraph at lines 403--403
+[]|\TU/lmr/bx/n/10 Obstructive|  
+ []
+
+
+Overfull \hbox (2.73683pt too wide) in alignment at lines 399--405
+ [] [] [] [] [] [] [] 
+ []
+
+[29]
+File: ./images/rapid-reference_pals-resp-emergencies.png Graphic file (type bmp
+)
+<./images/rapid-reference_pals-resp-emergencies.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[30]
+File: ./images/rapid-reference_sepsis-huddle.png Graphic file (type bmp)
+<./images/rapid-reference_sepsis-huddle.png>
+[31]
+Overfull \hbox (4.46887pt too wide) in paragraph at lines 465--465
+[]|\TU/lmr/bx/n/10 Premature|  
+ []
+
+
+Overfull \hbox (13.13826pt too wide) in paragraph at lines 484--484
+[]|\TU/lmr/m/n/10 Diagnosis|  
+ []
+
+
+Overfull \hbox (5.50826pt too wide) in paragraph at lines 484--484
+[]|\TU/lmr/m/n/10 Glucose|  
+ []
+
+
+Overfull \hbox (6.75105pt too wide) in paragraph at lines 484--484
+[]|\TU/lmr/m/n/10 Protein|  
+ []
+
+
+Overfull \hbox (17.00792pt too wide) in paragraph at lines 484--484
+[]|\TU/lmr/m/n/10 Opening 
+ []
+
+
+Overfull \hbox (0.81792pt too wide) in paragraph at lines 484--484
+\TU/lmr/m/n/10 Pres- 
+ []
+
+
+Overfull \hbox (16.82826pt too wide) in paragraph at lines 487--487
+[]|\TU/lmr/bx/n/10 Bacterial 
+ []
+
+
+Overfull \hbox (6.14827pt too wide) in paragraph at lines 487--487
+\TU/lmr/bx/n/10 menin- 
+ []
+
+
+Overfull \hbox (6.14827pt too wide) in paragraph at lines 488--488
+\TU/lmr/bx/n/10 menin- 
+ []
+
+
+Overfull \hbox (4.02826pt too wide) in paragraph at lines 488--488
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 488--488
+[]|\TU/lmr/m/n/10 Normal 
+ []
+
+
+Overfull \hbox (5.71104pt too wide) in paragraph at lines 488--488
+\TU/lmr/m/n/10 slightly 
+ []
+
+
+Overfull \hbox (12.57791pt too wide) in paragraph at lines 488--488
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.14827pt too wide) in paragraph at lines 489--489
+\TU/lmr/bx/n/10 menin- 
+ []
+
+
+Overfull \hbox (16.19792pt too wide) in paragraph at lines 489--489
+[]|\TU/lmr/m/n/10 Variable|  
+ []
+
+
+Overfull \hbox (5.08826pt too wide) in paragraph at lines 490--490
+[]|\TU/lmr/bx/n/10 Fungal 
+ []
+
+
+Overfull \hbox (6.14827pt too wide) in paragraph at lines 490--490
+\TU/lmr/bx/n/10 menin- 
+ []
+
+
+Overfull \hbox (16.19792pt too wide) in paragraph at lines 490--490
+[]|\TU/lmr/m/n/10 Variable|  
+ []
+
+
+Overfull \hbox (4.02826pt too wide) in paragraph at lines 491--491
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (12.57791pt too wide) in paragraph at lines 491--491
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (4.02826pt too wide) in paragraph at lines 492--492
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (12.57791pt too wide) in paragraph at lines 492--492
+[]|\TU/lmr/m/n/10 Normal 
+ []
+
+[32] [33] [34]
+Underfull \hbox (badness 1565) in paragraph at lines 638--640
+[]\TU/lmr/m/n/10 0.4 - 0.8 → mixed NAGMA + High-AG Metabolic Acidosis
+ []
+
+
+Overfull \hbox (8.65079pt too wide) in paragraph at lines 671--671
+[]|\TU/lmr/m/n/10 Defect|  
+ []
+
+
+Overfull \hbox (3.20824pt too wide) in alignment at lines 669--673
+ [] [] [] 
+ []
+
+
+Overfull \hbox (1.60236pt too wide) in paragraph at lines 674--674
+[]|\TU/lmr/bx/n/10 Respiratory 
+ []
+
+
+Overfull \hbox (6.30078pt too wide) in paragraph at lines 674--674
+\TU/lmr/m/n/10 pCO2|  
+ []
+
+
+Overfull \hbox (1.60236pt too wide) in paragraph at lines 675--675
+[]|\TU/lmr/bx/n/10 Respiratory 
+ []
+
+
+Overfull \hbox (6.30078pt too wide) in paragraph at lines 675--675
+\TU/lmr/m/n/10 pCO2|  
+ []
+
+
+Overfull \hbox (8.24078pt too wide) in paragraph at lines 676--676
+\TU/lmr/m/n/10 HCO3|  
+ []
+
+
+Overfull \hbox (8.24078pt too wide) in paragraph at lines 677--677
+\TU/lmr/m/n/10 HCO3|  
+ []
+
+
+Overfull \hbox (3.20824pt too wide) in alignment at lines 673--679
+ [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[35]
+File: ./images/rapid-reference_gas-interpretation-ddx.png Graphic file (type bm
+p)
+<./images/rapid-reference_gas-interpretation-ddx.png>
+
+Overfull \hbox (8.84917pt too wide) in paragraph at lines 697--697
+[]|\TU/lmr/m/n/10 Type|  
+ []
+
+
+Overfull \hbox (17.16917pt too wide) in paragraph at lines 700--700
+[]|\TU/lmr/bx/n/10 “Blow 
+ []
+
+
+Overfull \hbox (6.30917pt too wide) in paragraph at lines 700--700
+\TU/lmr/bx/n/10 By” 
+ []
+
+
+Overfull \hbox (10.95917pt too wide) in paragraph at lines 700--700
+\TU/lmr/bx/n/10 Oxy- 
+ []
+
+
+Overfull \hbox (3.75917pt too wide) in paragraph at lines 700--700
+\TU/lmr/bx/n/10 gen 
+ []
+
+
+Overfull \hbox (26.03917pt too wide) in paragraph at lines 700--700
+\TU/lmr/bx/n/10 (BBO2)|  
+ []
+
+
+Overfull \hbox (1.92867pt too wide) in paragraph at lines 700--700
+\TU/lmr/m/n/10 10L/min 
+ []
+
+
+Overfull \hbox (7.00917pt too wide) in paragraph at lines 701--701
+[]|\TU/lmr/bx/n/10 Low 
+ []
+
+
+Overfull \hbox (10.51917pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 Flow 
+ []
+
+
+Overfull \hbox (14.25917pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 Nasal 
+ []
+
+
+Overfull \hbox (10.46916pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 Can- 
+ []
+
+
+Overfull \hbox (7.58917pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 nula 
+ []
+
+
+Overfull \hbox (26.75917pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 (LFNC)|  
+ []
+
+
+Overfull \hbox (2.08867pt too wide) in paragraph at lines 701--701
+\TU/lmr/bx/n/10 4L/min 
+ []
+
+
+Overfull \hbox (4.42867pt too wide) in paragraph at lines 701--701
+\TU/lmr/m/n/10 >2L/min 
+ []
+
+
+Overfull \hbox (27.16867pt too wide) in paragraph at lines 701--701
+\TU/lmr/m/n/10 borns/infants)|  
+ []
+
+
+Overfull \hbox (10.67917pt too wide) in paragraph at lines 702--702
+[]|\TU/lmr/bx/n/10 High 
+ []
+
+
+Overfull \hbox (10.51917pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 Flow 
+ []
+
+
+Overfull \hbox (14.25917pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 Nasal 
+ []
+
+
+Overfull \hbox (10.46916pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 Can- 
+ []
+
+
+Overfull \hbox (7.58917pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 nula 
+ []
+
+
+Overfull \hbox (28.83917pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 (HFNC)|  
+ []
+
+
+Overfull \hbox (2.08867pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 8L/min 
+ []
+
+
+Overfull \hbox (7.83867pt too wide) in paragraph at lines 702--702
+\TU/lmr/bx/n/10 60L/min 
+ []
+
+
+Overfull \hbox (15.71867pt too wide) in paragraph at lines 702--702
+\TU/lmr/m/n/10 dren/adults|  
+ []
+
+
+Overfull \hbox (20.35916pt too wide) in paragraph at lines 703--703
+[]|\TU/lmr/bx/n/10 Simple 
+ []
+
+
+Overfull \hbox (13.46916pt too wide) in paragraph at lines 703--703
+\TU/lmr/bx/n/10 Mask|  
+ []
+
+
+Overfull \hbox (7.83867pt too wide) in paragraph at lines 703--703
+\TU/lmr/bx/n/10 10L/min|  
+ []
+
+
+Overfull \hbox (20.65916pt too wide) in paragraph at lines 704--704
+[]|\TU/lmr/bx/n/10 Partial 
+ []
+
+
+Overfull \hbox (4.07916pt too wide) in paragraph at lines 704--704
+\TU/lmr/bx/n/10 Re- 
+ []
+
+
+Overfull \hbox (29.20917pt too wide) in paragraph at lines 704--704
+\TU/lmr/bx/n/10 breather|  
+ []
+
+
+Overfull \hbox (1.92867pt too wide) in paragraph at lines 704--704
+\TU/lmr/m/n/10 12L/min|  
+ []
+
+
+Overfull \hbox (11.31917pt too wide) in paragraph at lines 705--705
+[]|\TU/lmr/bx/n/10 Non- 
+ []
+
+
+Overfull \hbox (43.10916pt too wide) in paragraph at lines 705--705
+\TU/lmr/bx/n/10 Rebreather 
+ []
+
+
+Overfull \hbox (13.46916pt too wide) in paragraph at lines 705--705
+\TU/lmr/bx/n/10 Mask|  
+ []
+
+
+Overfull \hbox (7.83867pt too wide) in paragraph at lines 705--705
+\TU/lmr/bx/n/10 15L/min|  
+ []
+
+
+Overfull \hbox (58.67917pt too wide) in paragraph at lines 706--706
+[]|\TU/lmr/bx/n/10 CPAP/BiPAP|  
+ []
+
+
+Overfull \hbox (4.57018pt too wide) in paragraph at lines 706--706
+\TU/lmr/m/it/10 Care/ICP 
+ []
+
+[36] [37]
+Overfull \hbox (2290.92009pt too wide) in paragraph at lines 712--722
+ [][] 
+ []
+
+[38] [39] [40] [41] [42]
+Chapter 3.
+[43
+
+]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1117.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 14.4013pt on input line 1117.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 14.39845pt on input line 1117.
+[44]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+[45]
+Underfull \hbox (badness 1735) in paragraph at lines 1185--1187
+\TU/lmr/bx/n/10 or body shape such as dieting, vomiting or taking diet
+ []
+
+[46] [47]
+Overfull \hbox (3.19157pt too wide) in paragraph at lines 1348--1348
+\TU/lmr/m/n/10 (ulipristal 
+ []
+
+[48] [49] [50] [51]
+Underfull \hbox (badness 5446) in paragraph at lines 1399--1399
+[]\TU/lmr/bx/n/10 Tailor information and discussion to patient prefer-
+ []
+
+
+Underfull \vbox (badness 4859) has occurred while \output is active []
+
+[52]
+File: ./images/adolescent_tanner-staging.png Graphic file (type bmp)
+<./images/adolescent_tanner-staging.png>
+
+Overfull \hbox (95.02702pt too wide) in paragraph at lines 1463--1464
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[54]
+Overfull \vbox (58.62311pt too high) has occurred while \output is active []
+
+[55]
+Overfull \hbox (1.46849pt too wide) in paragraph at lines 1476--1476
+[]|\TU/lmr/m/n/10 Diagnosis|  
+ []
+
+
+Overfull \hbox (15.93849pt too wide) in paragraph at lines 1476--1477
+[]|\TU/lmr/m/n/10 Management|  
+ []
+
+
+Overfull \hbox (3.09302pt too wide) in alignment at lines 1474--1478
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (13.4285pt too wide) in paragraph at lines 1479--1480
+[]|\TU/lmr/m/n/10 Reassurance|  
+ []
+
+
+Overfull \hbox (16.52849pt too wide) in paragraph at lines 1483--1484
+\TU/lmr/m/n/10 azithromycin 
+ []
+
+
+Overfull \hbox (18.64848pt too wide) in paragraph at lines 1484--1485
+\TU/lmr/m/n/10 Azithromycin 
+ []
+
+
+Overfull \hbox (1.5985pt too wide) in paragraph at lines 1486--1487
+[]|\TU/lmr/m/n/10 Cessation 
+ []
+
+
+Overfull \hbox (3.09302pt too wide) in alignment at lines 1478--1488
+ [] [] [] [] 
+ []
+
+[56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
+Underfull \vbox (badness 3354) has occurred while \output is active []
+
+[69]
+File: ./images/adolescent_genderbread-person.png Graphic file (type bmp)
+<./images/adolescent_genderbread-person.png>
+
+Overfull \hbox (863.85602pt too wide) in paragraph at lines 1806--1807
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[71]
+Overfull \vbox (17.65169pt too high) has occurred while \output is active []
+
+[72] [73] [74]
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1959
+
+ []
+
+[75] [76
+
+]
+Chapter 4.
+[77] [78]
+Underfull \hbox (badness 1067) in paragraph at lines 2148--2149
+[]\TU/lmr/bx/n/10 Hives plus another system\TU/lmr/m/n/10 : acute onset illness
+ (mins-hrs) involving
+ []
+
+[79]
+File: ./images/Allergy_Immunology_flowsheet_1.png Graphic file (type bmp)
+<./images/Allergy_Immunology_flowsheet_1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[81]
+Overfull \vbox (19.87097pt too high) has occurred while \output is active []
+
+[82]
+File: ./images/allergy_immunology_flowsheet_2.png Graphic file (type bmp)
+<./images/allergy_immunology_flowsheet_2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[84]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[85]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[86]
+Overfull \hbox (19.64453pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.4.  INDICATIONS FOR A PRIMARY IMMUNODEFICIENCY EVALUATION \TU
+/lmr/m/n/10 87
+ []
+
+[87] [88] [89] [90]
+Overfull \hbox (6.50052pt too wide) in paragraph at lines 2666--2666
+[]|\TU/lmr/m/n/10 Presentation|  
+ []
+
+
+Overfull \hbox (5.69687pt too wide) in alignment at lines 2664--2668
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (20.78053pt too wide) in paragraph at lines 2669--2669
+\TU/lmr/m/n/10 Oculocutaneous 
+ []
+
+
+Overfull \hbox (23.83052pt too wide) in paragraph at lines 2669--2669
+\TU/lmr/m/n/10 atosplenomeglay, 
+ []
+
+
+Overfull \hbox (5.48053pt too wide) in paragraph at lines 2669--2670
+\TU/lmr/m/n/10 Neutropenia 
+ []
+
+
+Overfull \hbox (1.23053pt too wide) in paragraph at lines 2670--2670
+\TU/lmr/m/n/10 (gp91phox), 
+ []
+
+
+Overfull \hbox (4.21053pt too wide) in paragraph at lines 2670--2670
+\TU/lmr/m/n/10 Granulomas 
+ []
+
+
+Overfull \hbox (21.75052pt too wide) in paragraph at lines 2672--2673
+\TU/lmr/m/n/10 Reduced/absent 
+ []
+
+
+Overfull \hbox (12.77052pt too wide) in paragraph at lines 2673--2673
+\TU/lmr/m/n/10 Characteristic 
+ []
+
+
+Overfull \hbox (12.66052pt too wide) in paragraph at lines 2673--2674
+\TU/lmr/m/n/10 Hypocalcemia 
+ []
+
+
+Overfull \hbox (0.74052pt too wide) in paragraph at lines 2674--2674
+\TU/lmr/m/n/10 Progressive 
+ []
+
+
+Overfull \hbox (6.67052pt too wide) in paragraph at lines 2674--2674
+\TU/lmr/m/n/10 ished/absent 
+ []
+
+
+Overfull \hbox (3.43051pt too wide) in paragraph at lines 2675--2675
+\TU/lmr/m/n/10 Adolescence|  
+ []
+
+
+Overfull \hbox (5.09053pt too wide) in paragraph at lines 2675--2676
+\TU/lmr/m/n/10 Significantly 
+ []
+
+
+Overfull \hbox (17.99052pt too wide) in paragraph at lines 2676--2676
+\TU/lmr/m/n/10 Papulopustular 
+ []
+
+
+Overfull \hbox (27.46053pt too wide) in paragraph at lines 2676--2676
+\TU/lmr/m/n/10 Coarse/thickened 
+ []
+
+
+Overfull \hbox (5.10052pt too wide) in paragraph at lines 2676--2677
+\TU/lmr/m/n/10 Eosinophilia 
+ []
+
+
+Overfull \hbox (58.07053pt too wide) in paragraph at lines 2677--2677
+\TU/lmr/m/n/10 ovirus/CMV/EBV/RSV 
+ []
+
+
+Overfull \hbox (7.66052pt too wide) in paragraph at lines 2677--2677
+\TU/lmr/m/n/10 Immunologic 
+ []
+
+
+Overfull \hbox (5.69687pt too wide) in alignment at lines 2668--2679
+ [] [] [] [] [] [] 
+ []
+
+[91] [92] [93] [94] [95]
+Overfull \hbox (6.50052pt too wide) in paragraph at lines 2692--2692
+[]|\TU/lmr/m/n/10 Presentation|  
+ []
+
+
+Overfull \hbox (5.69687pt too wide) in alignment at lines 2690--2694
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.17052pt too wide) in paragraph at lines 2695--2695
+\TU/lmr/m/n/10 dia/sinusitis, 
+ []
+
+
+Overfull \hbox (34.29053pt too wide) in paragraph at lines 2695--2696
+\TU/lmr/m/n/10 Thrombocytopenia|  
+ []
+
+
+Overfull \hbox (2.81052pt too wide) in paragraph at lines 2696--2696
+[]|\TU/lmr/m/n/10 XLP/SH2D 
+ []
+
+
+Overfull \hbox (24.11052pt too wide) in paragraph at lines 2696--2696
+\TU/lmr/m/n/10 atosplenomegaly, 
+ []
+
+
+Overfull \hbox (2.66052pt too wide) in paragraph at lines 2696--2696
+\TU/lmr/m/n/10 hemophago- 
+ []
+
+
+Overfull \hbox (5.69687pt too wide) in alignment at lines 2694--2698
+ [] [] [] [] [] [] 
+ []
+
+[96]
+Overfull \hbox (8.63033pt too wide) in paragraph at lines 2713--2713
+[]|\TU/lmr/m/n/10 IgG|  
+ []
+
+
+Overfull \hbox (7.22841pt too wide) in paragraph at lines 2713--2713
+[]|\TU/lmr/m/n/10 Vaccine 
+ []
+
+
+Overfull \hbox (2.61841pt too wide) in paragraph at lines 2713--2713
+\TU/lmr/m/n/10 sponse|  
+ []
+
+
+Overfull \hbox (5.32921pt too wide) in paragraph at lines 2713--2714
+\TU/lmr/m/n/10 cells|  
+ []
+
+
+Overfull \hbox (2.61255pt too wide) in alignment at lines 2711--2715
+ [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.92032pt too wide) in paragraph at lines 2716--2716
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (0.6992pt too wide) in paragraph at lines 2716--2717
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (5.92032pt too wide) in paragraph at lines 2717--2717
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (8.37064pt too wide) in paragraph at lines 2717--2717
+[]|\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (0.6992pt too wide) in paragraph at lines 2717--2718
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (16.20032pt too wide) in paragraph at lines 2718--2718
+[]|\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (8.37064pt too wide) in paragraph at lines 2718--2718
+[]|\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (8.1881pt too wide) in paragraph at lines 2718--2718
+\TU/lmr/m/n/10 HIGH|  
+ []
+
+
+Overfull \hbox (0.6992pt too wide) in paragraph at lines 2718--2719
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (5.92032pt too wide) in paragraph at lines 2719--2719
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (0.6992pt too wide) in paragraph at lines 2719--2720
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (16.20032pt too wide) in paragraph at lines 2720--2720
+[]|\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (8.37064pt too wide) in paragraph at lines 2720--2720
+\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (5.75809pt too wide) in paragraph at lines 2720--2720
+\TU/lmr/m/n/10 LOW|  
+ []
+
+
+Overfull \hbox (0.6992pt too wide) in paragraph at lines 2720--2721
+[]|\TU/lmr/m/n/10 NL|  
+ []
+
+
+Overfull \hbox (2.61255pt too wide) in alignment at lines 2715--2722
+ [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[97]
+Underfull \hbox (badness 2591) in paragraph at lines 2754--2754
+[]\TU/lmr/bx/n/10 Treatment Bone marrow transplant or gene therapy
+ []
+
+[98] [99] [100
+
+]
+Chapter 5.
+[101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[102]
+File: ./images/cardiology_standardization-marker.png Graphic file (type bmp)
+<./images/cardiology_standardization-marker.png>
+[103] [104] [105] [106]
+File: ./images/cardiology_normal-ekg-values-by-age.png Graphic file (type bmp)
+<./images/cardiology_normal-ekg-values-by-age.png>
+
+Underfull \vbox (badness 2913) has occurred while \output is active []
+
+[107] [108]
+Underfull \hbox (badness 1270) in paragraph at lines 3407--3409
+[]\TU/lmr/m/n/10 Additional history, chem10, UA, fasting/non-fasting cholestero
+l (to-
+ []
+
+[109] [110] [111] [112]
+Underfull \vbox (badness 5189) has occurred while \output is active []
+
+[113]
+Overfull \hbox (3.39pt too wide) in paragraph at lines 3659--3660
+\TU/lmr/m/n/10 Episodes of paroxysmal supraventricular tachycardia or asymptoma
+tic/incidental
+ []
+
+[114] [115] [116]
+File: ./images/cardiology_asd.png Graphic file (type bmp)
+<./images/cardiology_asd.png>
+[117]
+File: ./images/cardiology_vsd.png Graphic file (type bmp)
+<./images/cardiology_vsd.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[118] [119]
+File: ./images/cardiology_pda.png Graphic file (type bmp)
+<./images/cardiology_pda.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[120] [121]
+File: ./images/cardiology_avcd.png Graphic file (type bmp)
+<./images/cardiology_avcd.png>
+[122]
+File: ./images/cardiology_corrected-tga.png Graphic file (type bmp)
+<./images/cardiology_corrected-tga.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[123] [124]
+File: ./images/cardiology_pulm-stenosis.png Graphic file (type bmp)
+<./images/cardiology_pulm-stenosis.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[125] [126]
+File: ./images/cardiology_aortic-stenosis.png Graphic file (type bmp)
+<./images/cardiology_aortic-stenosis.png>
+[127]
+File: ./images/cardiology_coarct.png Graphic file (type bmp)
+<./images/cardiology_coarct.png>
+[128]
+File: ./images/cardiology_tof.png Graphic file (type bmp)
+<./images/cardiology_tof.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[129] [130]
+Underfull \hbox (badness 1348) in paragraph at lines 4408--4410
+[]\TU/lmr/m/n/10 Pulmonary Atresia and Major Aorto-Pulmonary Collateral Arterie
+s
+ []
+
+File: ./images/cardiology_tga.png Graphic file (type bmp)
+<./images/cardiology_tga.png>
+[131]
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 4530--4530
+[]\TU/lmr/bx/n/12 Total Anomalous Pulmonary Venous Return
+ []
+
+File: ./images/cardiology_tapvr.png Graphic file (type bmp)
+<./images/cardiology_tapvr.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[133] [134]
+File: ./images/cardiology_tricuspid-atresia.png Graphic file (type bmp)
+<./images/cardiology_tricuspid-atresia.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[135] [136]
+File: ./images/cardiology_ebsteins-anomaly.png Graphic file (type bmp)
+<./images/cardiology_ebsteins-anomaly.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[137] [138]
+File: ./images/cardiology_hlhs.png Graphic file (type bmp)
+<./images/cardiology_hlhs.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[139] [140]
+File: ./images/cardiology_dorv.png Graphic file (type bmp)
+<./images/cardiology_dorv.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[141]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[142]
+File: ./images/cardiology_truncus-arteriosus.png Graphic file (type bmp)
+<./images/cardiology_truncus-arteriosus.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[143] [144]
+File: ./images/cardiology_pulm-atresia-ivs.png Graphic file (type bmp)
+<./images/cardiology_pulm-atresia-ivs.png>
+
+Underfull \vbox (badness 1354) has occurred while \output is active []
+
+[145] [146]
+File: ./images/cardiology_norwood.png Graphic file (type bmp)
+<./images/cardiology_norwood.png>
+[147]
+File: ./images/cardiology_bidirectional-glenn.png Graphic file (type bmp)
+<./images/cardiology_bidirectional-glenn.png>
+[148]
+File: ./images/cardiology_fontan.png Graphic file (type bmp)
+<./images/cardiology_fontan.png>
+[149]
+File: ./images/cardiology_arterial-switch1.png Graphic file (type bmp)
+<./images/cardiology_arterial-switch1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[150]
+File: ./images/cardiology_arterial-switch2.png Graphic file (type bmp)
+<./images/cardiology_arterial-switch2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[151]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[152]
+File: ./images/cardiology_post-cath-presssures-sats.png Graphic file (type bmp)
+
+<./images/cardiology_post-cath-presssures-sats.png>
+[153] [154] [155] [156] [157]
+File: ./images/cardiology_alcapa.png Graphic file (type bmp)
+<./images/cardiology_alcapa.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[158] [159]
+File: ./images/cardiology_aaoca.png Graphic file (type bmp)
+<./images/cardiology_aaoca.png>
+[160] [161]
+Underfull \hbox (badness 2318) in paragraph at lines 5619--5620
+\TU/lmr/m/n/10 Tachycardia, new murmur, splenomegaly, \TU/lmr/bx/n/10 Roth spot
+s \TU/lmr/m/n/10 (retinal lesion),
+ []
+
+[162] [163] [164]
+Chapter 6.
+
+Underfull \hbox (badness 3601) in paragraph at lines 5721--5722
+\TU/lmr/m/n/10 transplant associated thrombotic microangiopathy (TA-TMA), infec
+tion,
+ []
+
+[165
+
+] [166]
+Overfull \hbox (25.14499pt too wide) in paragraph at lines 5822--5823
+[]\TU/lmr/m/n/10 Common regimens: Fludarabine-Melphalan-Campath “Flu/Mel/Campat
+h” 
+ []
+
+[167] [168] [169] [170] [171] [172
+
+]
+Chapter 7.
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1552) in paragraph at lines 6222--6224
+[]\TU/lmr/m/n/10 Lower doses primarily cause inotropy & chronotropy (β1);
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 6222--6224
+\TU/lmr/m/n/10 DA-mediated splanchnic vasodilation of uncertain clinical
+ []
+
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+[173] [174] [175]
+File: ./images/critical-care_surviving-sepsis-initial-resuscitation-algorithm.p
+ng Graphic file (type bmp)
+<./images/critical-care_surviving-sepsis-initial-resuscitation-algorithm.png>
+File: ./images/critical-care_fluid-vasoactive-inotrope-management.png Graphic f
+ile (type bmp)
+<./images/critical-care_fluid-vasoactive-inotrope-management.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[177]
+Overfull \vbox (396.72643pt too high) has occurred while \output is active []
+
+[178] [179] [180]
+Missing character: There is no 🥗 in font [lmroman12-bold]:mapping=tex-text;!
+[181]
+Missing character: There is no 🍔 in font [lmroman12-bold]:mapping=tex-text;!
+[182]
+Missing character: There is no 🍰 in font [lmroman12-bold]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[183] [184] [185] [186]
+Missing character: There is no ∆ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ∆ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7598--7598
+[]\TU/lmr/bx/n/14.4 Extracorporeal Membrane Oxygenation
+ []
+
+
+Underfull \vbox (badness 4156) has occurred while \output is active []
+
+[187]
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+[188]
+Underfull \hbox (badness 10000) in paragraph at lines 7701--7701
+[]\TU/lmr/bx/n/14.4 Acute Respiratory Distress Syndrome
+ []
+
+[189] [190] [191] [192]
+Underfull \hbox (badness 3250) in paragraph at lines 8118--8120
+[]\TU/lmr/bx/n/10 HYPOPHOSPHATEMIA: \TU/lmr/m/n/10 Metabolic encephalopathy (ir
+ritability,
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 8118--8120
+\TU/lmr/m/n/10 paresthesias, confusion, seizure, coma), ileus, dysphagia, proxi
+mal
+ []
+
+[193] [194]
+Chapter 8.
+
+Overfull \hbox (12.13078pt too wide) in paragraph at lines 8186--8186
+[]|\TU/lmr/m/n/10 Macule|  
+ []
+
+File: ./images/derm_lesions-macule.png Graphic file (type bmp)
+<./images/derm_lesions-macule.png>
+
+Overfull \hbox (5.88078pt too wide) in paragraph at lines 8187--8187
+[]|\TU/lmr/m/n/10 Patch|  
+ []
+
+File: ./images/derm_lesions-patch.png Graphic file (type bmp)
+<./images/derm_lesions-patch.png>
+
+Overfull \hbox (10.61078pt too wide) in paragraph at lines 8188--8188
+[]|\TU/lmr/m/n/10 Papule|  
+ []
+
+File: ./images/derm_lesions-papule.png Graphic file (type bmp)
+<./images/derm_lesions-papule.png>
+
+Overfull \hbox (10.61078pt too wide) in paragraph at lines 8189--8189
+[]|\TU/lmr/m/n/10 Plaque|  
+ []
+
+File: ./images/derm_lesions-plaque.png Graphic file (type bmp)
+<./images/derm_lesions-plaque.png>
+
+Overfull \hbox (11.86078pt too wide) in paragraph at lines 8190--8190
+[]|\TU/lmr/m/n/10 Nodule|  
+ []
+
+File: ./images/derm_lesions-nodule.png Graphic file (type bmp)
+<./images/derm_lesions-nodule.png>
+
+Overfull \hbox (9.94078pt too wide) in paragraph at lines 8191--8191
+[]|\TU/lmr/m/n/10 Tumor|  
+ []
+
+File: ./images/derm_lesions-tumor.png Graphic file (type bmp)
+<./images/derm_lesions-tumor.png>
+
+Overfull \hbox (8.80078pt too wide) in paragraph at lines 8192--8192
+[]|\TU/lmr/m/n/10 Wheal|  
+ []
+
+File: ./images/derm_lesions-wheal.png Graphic file (type bmp)
+<./images/derm_lesions-wheal.png>
+
+Overfull \hbox (10.23079pt too wide) in paragraph at lines 8193--8193
+[]|\TU/lmr/m/n/10 Vesicle|  
+ []
+
+
+Overfull \hbox (3.94078pt too wide) in paragraph at lines 8194--8194
+[]|\TU/lmr/m/n/10 Bulla|  
+ []
+
+
+Overfull \hbox (13.72078pt too wide) in paragraph at lines 8195--8195
+[]|\TU/lmr/m/n/10 Pustule|  
+ []
+
+
+Overfull \hbox (42.18079pt too wide) in paragraph at lines 8196--8196
+[]|\TU/lmr/m/n/10 Telangiectasia|  
+ []
+
+
+Overfull \hbox (19.13078pt too wide) in paragraph at lines 8197--8197
+[]|\TU/lmr/m/n/10 Verrucae|  
+ []
+
+[195
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[196]
+File: ./images/derm_lesions-annular.png Graphic file (type bmp)
+<./images/derm_lesions-annular.png>
+File: ./images/derm_lesions-nummular.png Graphic file (type bmp)
+<./images/derm_lesions-nummular.png>
+File: ./images/derm_lesions-arcuate.png Graphic file (type bmp)
+<./images/derm_lesions-arcuate.png>
+[197]
+File: ./images/derm_lesions-linear.png Graphic file (type bmp)
+<./images/derm_lesions-linear.png>
+File: ./images/derm_lesions-serpiginous.png Graphic file (type bmp)
+<./images/derm_lesions-serpiginous.png>
+File: ./images/derm_lesions-figurate.png Graphic file (type bmp)
+<./images/derm_lesions-figurate.png>
+File: ./images/derm_lesions-figurate.png Graphic file (type bmp)
+<./images/derm_lesions-figurate.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 8273--8275
+[]\TU/lmr/bx/n/10 Retiform/reticulate: \TU/lmr/m/n/10 Web or net-like, followin
+g vasculature
+ []
+
+File: ./images/derm_lesions-targetoid.png Graphic file (type bmp)
+<./images/derm_lesions-targetoid.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[198]
+File: ./images/derm_sebaceous-hyperplasia.png Graphic file (type bmp)
+<./images/derm_sebaceous-hyperplasia.png>
+File: ./images/derm_milia.png Graphic file (type bmp)
+<./images/derm_milia.png>
+File: ./images/derm_neonatal-acne.png Graphic file (type bmp)
+<./images/derm_neonatal-acne.png>
+File: ./images/derm_sucking-blisters.png Graphic file (type bmp)
+<./images/derm_sucking-blisters.png>
+File: ./images/derm_cutis-marmorata.png Graphic file (type bmp)
+<./images/derm_cutis-marmorata.png>
+File: ./images/derm_harlequin-color-change.png Graphic file (type bmp)
+<./images/derm_harlequin-color-change.png>
+File: ./images/derm_nevus-simplex.png Graphic file (type bmp)
+<./images/derm_nevus-simplex.png>
+File: ./images/derm_etox.png Graphic file (type bmp)
+<./images/derm_etox.png>
+File: ./images/derm_tnpm.png Graphic file (type bmp)
+<./images/derm_tnpm.png>
+File: ./images/derm_seborrheic-dermatitis.png Graphic file (type bmp)
+<./images/derm_seborrheic-dermatitis.png>
+[199] [200]
+File: ./images/derm_congenital-melanocytic-nevus.png Graphic file (type bmp)
+<./images/derm_congenital-melanocytic-nevus.png>
+File: ./images/derm_nevus-sebaceous.png Graphic file (type bmp)
+<./images/derm_nevus-sebaceous.png>
+File: ./images/derm_aplastic-cutis-congenita.png Graphic file (type bmp)
+<./images/derm_aplastic-cutis-congenita.png>
+File: ./images/derm_congenital-dermal-melanocytosis.png Graphic file (type bmp)
+
+<./images/derm_congenital-dermal-melanocytosis.png>
+File: ./images/derm_pyogenic-granuloma.png Graphic file (type bmp)
+<./images/derm_pyogenic-granuloma.png>
+File: ./images/derm_nevus-flammeus.png Graphic file (type bmp)
+<./images/derm_nevus-flammeus.png>
+[201] [202] [203]
+Overfull \hbox (40.06079pt too wide) in paragraph at lines 8355--8355
+[]|\TU/lmr/m/n/10 Epidemiology|  
+ []
+
+
+Overfull \hbox (17.05078pt too wide) in paragraph at lines 8356--8356
+[]|\TU/lmr/m/n/10 Physical 
+ []
+
+
+Overfull \hbox (6.16078pt too wide) in paragraph at lines 8356--8356
+\TU/lmr/m/n/10 Exam|  
+ []
+
+File: ./images/derm_diaper-dermatitis.png Graphic file (type bmp)
+<./images/derm_diaper-dermatitis.png>
+File: ./images/derm_diaper-dermatitis-candida.png Graphic file (type bmp)
+<./images/derm_diaper-dermatitis-candida.png>
+
+Overfull \hbox (36.85078pt too wide) in paragraph at lines 8357--8357
+[]|\TU/lmr/m/n/10 Management|  
+ []
+
+[204] [205]
+File: ./images/derm_ten.png Graphic file (type bmp)
+<./images/derm_ten.png>
+
+Underfull \hbox (badness 1852) in paragraph at lines 8429--8429
+[]\TU/lmr/bx/n/12 Drug Reaction with Eosinophilis and Systemic
+ []
+
+[206]
+File: ./images/derm_dress.png Graphic file (type bmp)
+<./images/derm_dress.png>
+File: ./images/derm_ssss.png Graphic file (type bmp)
+<./images/derm_ssss.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[207] [208]
+Overfull \hbox (8.66039pt too wide) in paragraph at lines 8595--8597
+[]\TU/lmr/bx/n/10 Anti-Staph antibiotics \TU/lmr/m/n/10 (if bacterial infection
+): Cephalexin, Trimethoprim-
+ []
+
+[209]
+File: ./images/derm_erythema-multiforme.png Graphic file (type bmp)
+<./images/derm_erythema-multiforme.png>
+File: ./images/derm_impetigo-bullous.png Graphic file (type bmp)
+<./images/derm_impetigo-bullous.png>
+File: ./images/derm_impetigo-nonbullous.png Graphic file (type bmp)
+<./images/derm_impetigo-nonbullous.png>
+
+Overfull \hbox (90.87444pt too wide) in paragraph at lines 8656--8657
+[][] [] 
+ []
+
+[210]
+File: ./images/derm_erysipelas.png Graphic file (type bmp)
+<./images/derm_erysipelas.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[211]
+Underfull \hbox (badness 1515) in paragraph at lines 8694--8695
+[]\TU/lmr/bx/n/10 Extensive lesions: \TU/lmr/m/n/10 Cephalexin, dicloxacillin, 
+clindamycin or ery-
+ []
+
+File: ./images/derm_molluscum-contagiosum.png Graphic file (type bmp)
+<./images/derm_molluscum-contagiosum.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[212]
+File: ./images/derm_pityriasis-rosea.png Graphic file (type bmp)
+<./images/derm_pityriasis-rosea.png>
+[213]
+File: ./images/derm_scabies.png Graphic file (type bmp)
+<./images/derm_scabies.png>
+[214]
+File: ./images/derm_tinea-corporis.png Graphic file (type bmp)
+<./images/derm_tinea-corporis.png>
+File: ./images/derm_tinea-capitis.png Graphic file (type bmp)
+<./images/derm_tinea-capitis.png>
+[215] [216]
+File: ./images/derm_vehicles.png Graphic file (type bmp)
+<./images/derm_vehicles.png>
+File: ./images/derm_topicals-ftu.png Graphic file (type bmp)
+<./images/derm_topicals-ftu.png>
+
+Underfull \hbox (badness 2980) in paragraph at lines 8949--8951
+[]\TU/lmr/m/n/10 1 Finger Tip Unit (FTU) = 0.5 grams topical medication
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 8949--8951
+\TU/lmr/m/n/10 dispensed from a 5mm nozzle placed on pad of index fin-
+ []
+
+[217] [218] [219] [220]
+Chapter 9.
+[221
+
+] [222] [223] [224] [225] [226] [227] [228]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (21.71774pt too wide) in paragraph at lines 9586--9586
+[]|\TU/lmr/m/n/10 Condition|  
+ []
+
+
+Overfull \hbox (8.50076pt too wide) in paragraph at lines 9586--9586
+[]|\TU/lmr/m/n/10 Definition/Pathogenesis|  
+ []
+
+
+Overfull \hbox (21.30774pt too wide) in paragraph at lines 9589--9589
+[]|\TU/lmr/m/n/10 Testicular 
+ []
+
+
+Overfull \hbox (10.95773pt too wide) in paragraph at lines 9590--9590
+[]|\TU/lmr/m/n/10 Torsion 
+ []
+
+
+Overfull \hbox (14.20773pt too wide) in paragraph at lines 9590--9590
+\TU/lmr/m/n/10 pendage|  
+ []
+
+
+Overfull \hbox (34.41774pt too wide) in paragraph at lines 9591--9591
+[]|\TU/lmr/m/n/10 Epididymitis|  
+ []
+
+
+Overfull \hbox (13.17773pt too wide) in paragraph at lines 9592--9592
+[]|\TU/lmr/m/n/10 Orchitis|  
+ []
+
+
+Overfull \hbox (12.56773pt too wide) in paragraph at lines 9593--9593
+[]|\TU/lmr/m/n/10 Trauma|  
+ []
+
+
+Overfull \hbox (20.14774pt too wide) in paragraph at lines 9594--9594
+[]|\TU/lmr/m/n/10 Vasculitis|  
+ []
+
+
+Overfull \hbox (32.58774pt too wide) in paragraph at lines 9595--9595
+[]|\TU/lmr/m/n/10 Incarcerated 
+ []
+
+
+Overfull \hbox (5.04774pt too wide) in paragraph at lines 9595--9595
+\TU/lmr/m/n/10 guinal 
+ []
+
+[229] [230]
+File: ./images/ED_kocher_criteria.png Graphic file (type bmp)
+<./images/ED_kocher_criteria.png>
+
+Overfull \hbox (237.20021pt too wide) in paragraph at lines 9677--9678
+[][] 
+ []
+
+[231] [232] [233] [234] [235] [236]
+File: ./images/ED_modified_Lund_Browder_chart.png Graphic file (type bmp)
+<./images/ED_modified_Lund_Browder_chart.png>
+
+Overfull \hbox (306.13708pt too wide) in paragraph at lines 9986--9987
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[237]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[238] [239] [240] [241] [242]
+Overfull \hbox (4.36002pt too wide) in alignment at lines 10262--10266
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.36002pt too wide) in alignment at lines 10266--10278
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 10287--10289
+[]\TU/lmr/m/n/10 ↓ intake (gingivostomatitis, viral or bacterial pharyngitis, n
+au-
+ []
+
+[243] [244]
+File: ./images/ED_dental_image_1.jpg Graphic file (type bmp)
+<./images/ED_dental_image_1.jpg>
+
+Overfull \hbox (207.07799pt too wide) in paragraph at lines 10413--10414
+[] 
+ []
+
+
+Underfull \vbox (badness 3895) has occurred while \output is active []
+
+[245]
+File: ./images/ED_dental_image_2.jpg Graphic file (type bmp)
+<./images/ED_dental_image_2.jpg>
+
+Overfull \hbox (168.8795pt too wide) in paragraph at lines 10415--10416
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[246]
+File: ./images/ED_dental_image_3.png Graphic file (type bmp)
+<./images/ED_dental_image_3.png>
+
+Overfull \hbox (202.84543pt too wide) in paragraph at lines 10417--10418
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[247]
+File: ./images/ED_dental_image_4.jpg Graphic file (type bmp)
+<./images/ED_dental_image_4.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[248] [249] [250] [251] [252]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[253]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[254] [255] [256] [257]
+Underfull \hbox (badness 3333) in paragraph at lines 10909--10910
+\TU/lmr/bx/n/10 EMERGENT \TU/lmr/m/n/10 GI/ENT/surgery consult, urgent endoscop
+ic removal if
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 10914--10915
+\TU/lmr/m/n/10 GI/ENT/surgery consult if symptomatic, urgent endoscopic removal
+ if
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 10919--10920
+\TU/lmr/m/n/10 GI/ENT/surgery consult if symptomatic, urgent endoscopic removal
+ if
+ []
+
+[258] [259] [260]
+Underfull \hbox (badness 6063) in paragraph at lines 11062--11064
+[]\TU/lmr/m/n/10 Baseline testing (discuss with CPT): Urine NAAT for Gonor-
+ []
+
+[261]
+Overfull \hbox (54.6228pt too wide) in paragraph at lines 11124--11125
+[]\TU/lmr/m/n/10 STI testing (if patient consents): Urine NAAT for Gonorrhea/Ch
+lamydia/Trichomonas,
+ []
+
+[262] [263]
+Underfull \hbox (badness 3271) in paragraph at lines 11276--11278
+\TU/lmr/bx/n/10 PLE History\TU/lmr/m/n/10 : Allergies, Medications, PMHx/Pregna
+ncy, Last meal,
+ []
+
+[264] [265]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[266]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (30.17343pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 9.22.  MILD TRAUMATIC BRAIN INJURY (CONTUSION AND CONCUSSION) \
+TU/lmr/m/n/10 267
+ []
+
+[267]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[268]
+Overfull \hbox (3.0883pt too wide) in alignment at lines 11546--11550
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.47018pt too wide) in paragraph at lines 11554--11554
+[]|\TU/lmr/m/n/10 Noncontact 
+ []
+
+
+Overfull \hbox (3.0883pt too wide) in alignment at lines 11550--11558
+ [] [] [] [] 
+ []
+
+[269]
+Underfull \hbox (badness 1297) in paragraph at lines 11588--11590
+[]\TU/lmr/m/n/10 Predisposing conditions (Down syndrome, cervical arthritis, Eh
+lers-
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 11626--11627
+[]\TU/lmr/bx/n/10 Suture material\TU/lmr/m/n/10 : Nonabsorbable sutures (monofi
+lament nylon,
+ []
+
+[270]
+File: ./images/ED_suture_selection.png Graphic file (type bmp)
+<./images/ED_suture_selection.png>
+File: ./images/ED_suture_cartoon.png Graphic file (type bmp)
+<./images/ED_suture_cartoon.png>
+
+Overfull \hbox (124.75386pt too wide) in paragraph at lines 11642--11643
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[271] [272]
+File: ./images/ED_suture_removal_timing.png Graphic file (type bmp)
+<./images/ED_suture_removal_timing.png>
+
+Overfull \hbox (365.48518pt too wide) in paragraph at lines 11711--11712
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[273] [274]
+Chapter 10.
+
+Underfull \hbox (badness 1112) in paragraph at lines 11749--11750
+[]\TU/lmr/m/n/10 Other: Hypothalamic defects (tumor, radiotherapy), hypopitu-
+ []
+
+[275
+
+] [276] [277]
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[278] [279] [280] [281]
+Overfull \hbox (12.85826pt too wide) in paragraph at lines 12350--12350
+[]|\TU/lmr/bx/n/10 Calcium|  
+ []
+
+
+Overfull \hbox (7.27104pt too wide) in paragraph at lines 12350--12350
+\TU/lmr/m/n/10 OHD**|  
+ []
+
+
+Overfull \hbox (1.22983pt too wide) in paragraph at lines 12353--12353
+[]|\TU/lmr/bx/n/10 Hypoparathyroidism|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12353--12353
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (1.17982pt too wide) in paragraph at lines 12353--12353
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12354--12354
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (1.17982pt too wide) in paragraph at lines 12354--12354
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (25.07983pt too wide) in paragraph at lines 12355--12355
+[]|\TU/lmr/m/n/10 Normal/high|  
+ []
+
+
+Overfull \hbox (26.60104pt too wide) in paragraph at lines 12355--12356
+[]|\TU/lmr/m/n/10 Normal/low|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12356--12356
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (1.17982pt too wide) in paragraph at lines 12356--12356
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (26.60104pt too wide) in paragraph at lines 12356--12357
+[]|\TU/lmr/m/n/10 Normal/low|  
+ []
+
+
+Overfull \hbox (26.60104pt too wide) in paragraph at lines 12357--12357
+[]|\TU/lmr/m/n/10 Normal/low|  
+ []
+
+
+Overfull \hbox (25.07983pt too wide) in paragraph at lines 12357--12357
+[]|\TU/lmr/m/n/10 Normal/high|  
+ []
+
+
+Overfull \hbox (26.60104pt too wide) in paragraph at lines 12358--12358
+[]|\TU/lmr/m/n/10 Normal/low|  
+ []
+
+
+Overfull \hbox (1.17982pt too wide) in paragraph at lines 12358--12358
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12358--12359
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12359--12359
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (6.88104pt too wide) in paragraph at lines 12360--12360
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (1.17982pt too wide) in paragraph at lines 12360--12360
+[]|\TU/lmr/m/n/10 Normal|  
+ []
+
+
+Overfull \hbox (25.07983pt too wide) in paragraph at lines 12361--12361
+[]|\TU/lmr/m/n/10 Normal/high|  
+ []
+
+[282]
+Underfull \hbox (badness 5431) in paragraph at lines 12403--12404
+[]\TU/lmr/m/n/10 Kenny-Caffey Syndrome (dwarfism, cortical bone thickening,
+ []
+
+[283] [284] [285]
+Underfull \hbox (badness 1173) in paragraph at lines 12683--12685
+[]\TU/lmr/bx/n/10 Nervous system\TU/lmr/m/n/10 : headache, personality change, 
+proximal muscle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12683--12685
+
+ []
+
+[286] [287] [288
+
+]
+Chapter 11.
+File: ./images/gi_bristol-stool-chart.png Graphic file (type bmp)
+<./images/gi_bristol-stool-chart.png>
+[289]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 290 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[290]
+Underfull \hbox (badness 1867) in paragraph at lines 12887--12889
+[]\TU/lmr/bx/n/10 Start with osmotic: \TU/lmr/m/n/10 MiraLax (10-30kg: 8.5g/day
+, >30kg:
+ []
+
+[291]
+Underfull \hbox (badness 6775) in paragraph at lines 12962--12964
+[]\TU/lmr/bx/n/10 Toxic megacolon: \TU/lmr/m/n/10 Severe diarrhea + abdominal d
+isten-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12962--12964
+\TU/lmr/m/n/10 sion/peritonitis (+hx Shigellosis, pseudomembranous colitis,
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 292 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[292] [293]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 294 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[294] [295]
+Underfull \hbox (badness 2213) in paragraph at lines 13274--13276
+[]\TU/lmr/bx/n/10 Corticosteroids: \TU/lmr/m/n/10 Systemic, topical (enteric-co
+ated or rectal), or
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 13276--13278
+[]\TU/lmr/bx/n/10 Aminosalicylates (5-ASA): \TU/lmr/m/n/10 Poor/minimal respons
+e in CD. Anti-
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 13280--13282
+\TU/lmr/m/n/10 approved in adults. \TU/lmr/bx/n/10 Ustekinumab \TU/lmr/m/n/10 (
+nti-IL12/23) used mainly for
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 296 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[296]
+Overfull \hbox (8.85503pt too wide) in paragraph at lines 13351--13353
+[]\TU/lmr/bx/n/10 Biologics: Infliximab \TU/lmr/m/n/10 used for induction and m
+aintenance. \TU/lmr/bx/n/10 Vedolizumab
+ []
+
+[297]
+Underfull \hbox (badness 2310) in paragraph at lines 13376--13377
+\TU/lmr/m/n/10 Caused by: \TU/lmr/bx/n/10 Pancreatic insufficiency \TU/lmr/m/n/
+10 (e.g. CF) → inadequate amy-
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 298 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[298] [299]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 300 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[300]
+Overfull \hbox (5.34392pt too wide) in paragraph at lines 13583--13584
+[]\TU/lmr/bx/n/10 Imaging: \TU/lmr/m/n/10 Consider XR (r/o foreign body or bowe
+l obstruction/perforation)
+ []
+
+
+Overfull \hbox (12.541pt too wide) in paragraph at lines 13640--13642
+[]\TU/lmr/bx/n/10 Esophagus: \TU/lmr/m/n/10 Esophagitis (viral, candidal, caust
+ic, allergic/eosinophilic);
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 13642--13644
+[]\TU/lmr/bx/n/10 Stomach: \TU/lmr/m/n/10 Gastritis (Crohn’s, portal HTN, CMV);
+ ulcer
+ []
+
+[301]
+Underfull \vbox (badness 5696) has occurred while \output is active []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 302 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[302]
+Overfull \hbox (35.54866pt too wide) in paragraph at lines 13757--13757
+[]\TU/lmr/bx/n/14.4 Gastroesophageal Reflux Disease (GER/GERD) 
+ []
+
+[303]
+Underfull \hbox (badness 1668) in paragraph at lines 13854--13855
+\TU/lmr/bx/n/10 Epigastric abd pain \TU/lmr/m/n/10 w/ band-like pain to back, f
+ever, \TU/lmr/bx/n/10 N/V, \TU/lmr/m/n/10 ileus,
+ []
+
+
+Underfull \vbox (badness 2452) has occurred while \output is active []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 304 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[304]
+Underfull \hbox (badness 10000) in paragraph at lines 13901--13901
+[]\TU/lmr/bx/n/14.4 Functional Gastrointestinal Disorders
+ []
+
+[305]
+Overfull \hbox (102.925pt too wide) in paragraph at lines 13931--13932
+[]\TU/lmr/bx/n/10 Inpatient: \TU/lmr/m/n/10 Consider Magic Mouthwash (AIOH/diph
+enhydramine/lidocaine/MgOH/simethicone)
+ []
+
+
+Overfull \hbox (3.56003pt too wide) in paragraph at lines 13937--13938
+\TU/lmr/m/n/10 Subtype may be Constipation (\TU/lmr/bx/n/10 IBS-C\TU/lmr/m/n/10
+ ), Diarrhea (\TU/lmr/bx/n/10 IBS-D\TU/lmr/m/n/10 ), or mixed/alternating
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 306 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[306] [307]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 308 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[308]
+File: ./images/gi_malro-volvulus.png Graphic file (type bmp)
+<./images/gi_malro-volvulus.png>
+[309]
+Underfull \hbox (badness 2359) in paragraph at lines 14145--14147
+[]\TU/lmr/bx/n/10 Biliary Atresia Splenic Malformation \TU/lmr/m/n/10 (10% of c
+ases) is
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 310 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[310]
+File: ./images/gi_kasai.png Graphic file (type bmp)
+<./images/gi_kasai.png>
+
+Underfull \hbox (badness 1478) in paragraph at lines 14205--14207
+[]\TU/lmr/m/n/10 Necrotizing enterocolitis, bowel ischemia (pneumatosis, pneumo
+peri-
+ []
+
+[311]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 312 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[312] [313]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 314 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[314]
+File: ./images/gi_peg-tube.png Graphic file (type bmp)
+<./images/gi_peg-tube.png>
+[315]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 316 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[316] [317]
+Overfull \hbox (3.41118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 others)- 
+ []
+
+
+Overfull \hbox (27.05118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 Meds/toxins- 
+ []
+
+
+Overfull \hbox (10.61118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 hepatitis- 
+ []
+
+
+Overfull \hbox (0.55118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 Steato- 
+ []
+
+
+Overfull \hbox (15.27118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 elevation)- 
+ []
+
+
+Overfull \hbox (2.87119pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 disease- 
+ []
+
+
+Overfull \hbox (16.96118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 Hemochro- 
+ []
+
+
+Overfull \hbox (20.17117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 ritin/TIBC 
+ []
+
+
+Overfull \hbox (1.99118pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 >45%)- 
+ []
+
+
+Overfull \hbox (23.42117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 (AST>ALT, 
+ []
+
+
+Overfull \hbox (16.67117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 (AST:ALT 
+ []
+
+
+Overfull \hbox (4.17117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 hepatic: 
+ []
+
+
+Overfull \hbox (5.21117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 Adrenal 
+ []
+
+
+Overfull \hbox (8.67117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 opathies, 
+ []
+
+
+Overfull \hbox (8.67117pt too wide) in paragraph at lines 14620--14621
+\TU/lmr/m/n/10 opathies, 
+ []
+
+
+Overfull \hbox (52.32118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 tion/abnormalities 
+ []
+
+
+Overfull \hbox (38.93118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 (e.g. gallstones)- 
+ []
+
+
+Overfull \hbox (10.61118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 hepatitis- 
+ []
+
+
+Overfull \hbox (11.83118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 Cirrhosis- 
+ []
+
+
+Overfull \hbox (25.39117pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 Meds/toxins 
+ []
+
+
+Overfull \hbox (5.97118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 steroids, 
+ []
+
+
+Overfull \hbox (18.05118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 amox/clav, 
+ []
+
+
+Overfull \hbox (16.98117pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 thromycin, 
+ []
+
+
+Overfull \hbox (6.42117pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 bactrim, 
+ []
+
+
+Overfull \hbox (18.47118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 PBC/PSC- 
+ []
+
+
+Overfull \hbox (14.80118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 syndrome- 
+ []
+
+
+Overfull \hbox (23.10118pt too wide) in paragraph at lines 14621--14622
+\TU/lmr/m/n/10 metabolism- 
+ []
+
+
+Overfull \hbox (5.57118pt too wide) in paragraph at lines 14622--14623
+\TU/lmr/m/n/10 (e.g. sar- 
+ []
+
+
+Overfull \hbox (25.00117pt too wide) in paragraph at lines 14622--14623
+\TU/lmr/m/n/10 Amyloidosis- 
+ []
+
+
+Overfull \hbox (8.08118pt too wide) in paragraph at lines 14623--14624
+[]|\TU/lmr/m/n/10 Progress 
+ []
+
+
+Overfull \hbox (2.53117pt too wide) in paragraph at lines 14623--14624
+\TU/lmr/m/n/10 chronic 
+ []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 318 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[318] [319]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 320 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[320]
+Overfull \hbox (2.96837pt too wide) in alignment at lines 14635--14639
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (3.10802pt too wide) in paragraph at lines 14640--14640
+[]|\TU/lmr/bx/n/10 Transmission|  
+ []
+
+
+Overfull \hbox (5.70801pt too wide) in paragraph at lines 14641--14641
+[]|\TU/lmr/bx/n/10 Epidemiology|  
+ []
+
+
+Overfull \hbox (4.8209pt too wide) in paragraph at lines 14641--14641
+[]|\TU/lmr/m/n/10 Seroprevalence 
+ []
+
+
+Overfull \hbox (2.52802pt too wide) in paragraph at lines 14644--14644
+[]|\TU/lmr/bx/n/10 Management|  
+ []
+
+
+Overfull \hbox (17.51091pt too wide) in paragraph at lines 14644--14644
+\TU/lmr/m/n/10 pasvir/sofosbuvir, 
+ []
+
+
+Overfull \hbox (15.64091pt too wide) in paragraph at lines 14644--14644
+\TU/lmr/m/n/10 vir/Piprentasvir). 
+ []
+
+
+Overfull \hbox (5.64091pt too wide) in paragraph at lines 14645--14645
+\TU/lmr/m/n/10 (esp. neonates)- 
+ []
+
+
+Overfull \hbox (17.4909pt too wide) in paragraph at lines 14645--14645
+\TU/lmr/m/n/10 sis/hepatocellular 
+ []
+
+
+Overfull \hbox (2.96837pt too wide) in alignment at lines 14639--14647
+ [] [] [] [] [] 
+ []
+
+[321]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 322 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[322]
+File: ./images/gi_hep-b-serologies.png Graphic file (type bmp)
+<./images/gi_hep-b-serologies.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[323]
+Overfull \hbox (86.58003pt too wide) in alignment at lines 14674--14678
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (86.58003pt too wide) in alignment at lines 14678--14686
+ [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 324 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[324]
+Overfull \hbox (17.28949pt too wide) in paragraph at lines 14742--14742
+[]\TU/lmr/bx/n/14.4 Non-Alcoholic Fatty Liver Disease (NAFLD) 
+ []
+
+[325]
+Overfull \hbox (5.13892pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 326 \TU/lmr/m/sl/10 CHAPTER 11.  GASTROENTEROLOGY, HEPATOLOGY & 
+NUTRITION
+ []
+
+[326]
+Chapter 12.
+
+Underfull \hbox (badness 1629) in paragraph at lines 14786--14787
+\TU/lmr/m/n/10 Anemia is a reduction in hemoglobin concentration, hematocrit. T
+he
+ []
+
+
+Overfull \hbox (253.96005pt too wide) in alignment at lines 14790--14794
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (253.96005pt too wide) in alignment at lines 14794--14807
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (42.06227pt too wide) in paragraph at lines 14821--14821
+[]|\TU/lmr/bx/n/10 LOW\TU/lmr/m/n/10 (inappropriately 
+ []
+
+
+Overfull \hbox (7.78171pt too wide) in paragraph at lines 14823--14823
+\TU/lmr/m/n/10 Hemoglobinopathies|  
+ []
+
+[327
+
+]
+File: ./images/heme_approach-to-anemia-by-retic-vs-MCV_part1.jpg Graphic file (
+type bmp)
+<./images/heme_approach-to-anemia-by-retic-vs-MCV_part1.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[328]
+File: ./images/heme_approach-to-anemia-by-retic-vs-MCV_part2.png Graphic file (
+type bmp)
+<./images/heme_approach-to-anemia-by-retic-vs-MCV_part2.png>
+
+Overfull \hbox (9.84192pt too wide) in paragraph at lines 14845--14845
+[]|\TU/lmr/bx/n/10 Iron 
+ []
+
+
+Overfull \hbox (4.09192pt too wide) in paragraph at lines 14845--14845
+\TU/lmr/bx/n/10 de- 
+ []
+
+
+Overfull \hbox (19.74191pt too wide) in paragraph at lines 14845--14845
+\TU/lmr/bx/n/10 ciency 
+ []
+
+
+Overfull \hbox (9.68192pt too wide) in paragraph at lines 14845--14845
+\TU/lmr/bx/n/10 ane- 
+ []
+
+
+Overfull \hbox (6.96191pt too wide) in paragraph at lines 14845--14845
+\TU/lmr/bx/n/10 mia|  
+ []
+
+
+Overfull \hbox (30.97826pt too wide) in paragraph at lines 14845--14846
+[]|\TU/lmr/m/n/10 Hypochromic, 
+ []
+
+
+Overfull \hbox (27.31192pt too wide) in paragraph at lines 14846--14846
+[]|\TU/lmr/bx/n/10 Anemia 
+ []
+
+
+Overfull \hbox (24.96191pt too wide) in paragraph at lines 14846--14846
+\TU/lmr/bx/n/10 chronic 
+ []
+
+
+Overfull \hbox (6.55191pt too wide) in paragraph at lines 14846--14846
+\TU/lmr/bx/n/10 dis- 
+ []
+
+
+Overfull \hbox (81.13191pt too wide) in paragraph at lines 14846--14846
+\TU/lmr/bx/n/10 ease/inflammation|  
+ []
+
+
+Overfull \hbox (15.62173pt too wide) in paragraph at lines 14846--14846
+[]|\TU/lmr/m/n/10 Normal/High|  
+ []
+
+
+Overfull \hbox (30.97826pt too wide) in paragraph at lines 14846--14847
+[]|\TU/lmr/m/n/10 Hypochromic, 
+ []
+
+
+Overfull \hbox (12.77191pt too wide) in paragraph at lines 14847--14847
+[]|\TU/lmr/bx/n/10 Lead 
+ []
+
+
+Overfull \hbox (8.08191pt too wide) in paragraph at lines 14847--14847
+\TU/lmr/bx/n/10 poi- 
+ []
+
+
+Overfull \hbox (9.11191pt too wide) in paragraph at lines 14847--14847
+\TU/lmr/bx/n/10 son- 
+ []
+
+
+Overfull \hbox (3.93192pt too wide) in paragraph at lines 14847--14847
+\TU/lmr/bx/n/10 ing|  
+ []
+
+
+Overfull \hbox (5.1321pt too wide) in paragraph at lines 14847--14847
+[]|\TU/lmr/m/n/10 High/normal|  
+ []
+
+
+Overfull \hbox (28.13104pt too wide) in paragraph at lines 14847--14847
+[]|\TU/lmr/m/n/10 Low/normal|  
+ []
+
+
+Overfull \hbox (15.62173pt too wide) in paragraph at lines 14847--14847
+[]|\TU/lmr/m/n/10 High/Normal|  
+ []
+
+
+Overfull \hbox (9.01826pt too wide) in paragraph at lines 14847--14848
+[]|\TU/lmr/m/n/10 Stippled, 
+ []
+
+
+Overfull \hbox (52.81192pt too wide) in paragraph at lines 14848--14848
+[]|\TU/lmr/bx/n/10 Sideroblastic|  
+ []
+
+
+Overfull \hbox (2.19826pt too wide) in paragraph at lines 14848--14849
+[]|\TU/lmr/m/n/10 Ringed 
+ []
+
+
+Overfull \hbox (77.85191pt too wide) in paragraph at lines 14849--14849
+[]|\TU/lmr/bx/n/10 Hemochromatosis|  
+ []
+
+
+Overfull \hbox (48.11191pt too wide) in paragraph at lines 14850--14850
+[]|\TU/lmr/bx/n/10 Alpha/Beta 
+ []
+
+
+Overfull \hbox (12.41191pt too wide) in paragraph at lines 14850--14850
+\TU/lmr/bx/n/10 Tha- 
+ []
+
+
+Overfull \hbox (30.09192pt too wide) in paragraph at lines 14850--14850
+\TU/lmr/bx/n/10 lassemia|  
+ []
+
+
+Overfull \hbox (17.91826pt too wide) in paragraph at lines 14850--14851
+[]|\TU/lmr/m/n/10 Microcytic 
+ []
+
+
+Overfull \hbox (4.33826pt too wide) in paragraph at lines 14850--14851
+\TU/lmr/m/n/10 sophilic 
+ []
+
+[329]
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no δ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
+[330]
+Overfull \hbox (26.27896pt too wide) in paragraph at lines 14891--14891
+[]|\TU/lmr/m/n/10 Pathophysiology|  
+ []
+
+
+Overfull \hbox (4.81209pt too wide) in paragraph at lines 14891--14892
+[]|\TU/lmr/m/n/10 Management|  
+ []
+
+
+Overfull \hbox (8.94983pt too wide) in paragraph at lines 14894--14894
+\TU/lmr/bx/n/10 Induced|  
+ []
+
+
+Overfull \hbox (10.93088pt too wide) in paragraph at lines 14894--14894
+[]|\TU/lmr/m/n/10 Cephalosporins, 
+ []
+
+
+Overfull \hbox (33.70982pt too wide) in paragraph at lines 14895--14895
+[]|\TU/lmr/bx/n/10 Autoimmune 
+ []
+
+
+Overfull \hbox (20.27983pt too wide) in paragraph at lines 14895--14895
+\TU/lmr/bx/n/10 Hemolytic 
+ []
+
+
+Overfull \hbox (8.32983pt too wide) in paragraph at lines 14895--14895
+\TU/lmr/bx/n/10 (AIHA)|  
+ []
+
+
+Overfull \hbox (3.50896pt too wide) in paragraph at lines 14895--14895
+\TU/lmr/m/n/10 (HIV/EBV, 
+ []
+
+
+Overfull \hbox (68.84895pt too wide) in paragraph at lines 14895--14895
+\TU/lmr/m/n/10 ALPs/immunodeficiencies, 
+ []
+
+
+Overfull \hbox (24.70209pt too wide) in paragraph at lines 14895--14895
+[]|\TU/lmr/m/n/10 Microspherocytes|  
+ []
+
+
+Overfull \hbox (4.39087pt too wide) in paragraph at lines 14895--14895
+\TU/lmr/m/n/10 Splenomegaly- 
+ []
+
+
+Overfull \hbox (9.00209pt too wide) in paragraph at lines 14896--14896
+[]|\TU/lmr/m/n/10 Agglutination|  
+ []
+
+
+Overfull \hbox (15.59088pt too wide) in paragraph at lines 14896--14896
+\TU/lmr/m/n/10 (\TU/lmr/bx/n/10 intravascular\TU/lmr/m/n/10 )- 
+ []
+
+
+Overfull \hbox (1.3521pt too wide) in paragraph at lines 14896--14897
+\TU/lmr/m/n/10 IVF/blood)- 
+ []
+
+
+Overfull \hbox (12.73895pt too wide) in paragraph at lines 14897--14897
+[]|\TU/lmr/bx/n/10 Paroxysmal 
+ []
+
+
+Overfull \hbox (18.48895pt too wide) in paragraph at lines 14897--14897
+\TU/lmr/bx/n/10 Hemoglobin- 
+ []
+
+
+Overfull \hbox (5.53896pt too wide) in paragraph at lines 14897--14897
+\TU/lmr/m/n/10 Landsteiner 
+ []
+
+
+Overfull \hbox (1.01208pt too wide) in paragraph at lines 14897--14897
+[]|\TU/lmr/m/n/10 Spherocytes 
+ []
+
+
+Overfull \hbox (13.55896pt too wide) in paragraph at lines 14897--14897
+\TU/lmr/bx/n/10 Landsteiner 
+ []
+
+
+Overfull \hbox (47.48088pt too wide) in paragraph at lines 14897--14897
+\TU/lmr/m/n/10 (\TU/lmr/bx/n/10 extra/intravascular\TU/lmr/m/n/10 )- 
+ []
+
+
+Overfull \hbox (25.07983pt too wide) in paragraph at lines 14898--14898
+[]|\TU/lmr/bx/n/10 Mechanical|  
+ []
+
+
+Overfull \hbox (2.31895pt too wide) in paragraph at lines 14898--14898
+\TU/lmr/bx/n/10 Macroan- 
+ []
+
+
+Overfull \hbox (1.86209pt too wide) in paragraph at lines 14898--14898
+[]|\TU/lmr/m/n/10 Schistocytes|  
+ []
+
+
+Overfull \hbox (24.43088pt too wide) in paragraph at lines 14898--14898
+\TU/lmr/m/n/10 thrombocytopenia- 
+ []
+
+
+Overfull \hbox (33.05087pt too wide) in paragraph at lines 14898--14898
+\TU/lmr/m/n/10 PT/PTT/fibrinogen, 
+ []
+
+
+Overfull \hbox (16.8021pt too wide) in paragraph at lines 14898--14899
+\TU/lmr/m/n/10 Plasmapheresis- 
+ []
+
+
+Overfull \hbox (23.37982pt too wide) in paragraph at lines 14899--14899
+[]|\TU/lmr/bx/n/10 Hereditary 
+ []
+
+
+Overfull \hbox (2.67209pt too wide) in paragraph at lines 14899--14899
+\TU/lmr/m/n/10 Spherocytes- 
+ []
+
+
+Overfull \hbox (30.21088pt too wide) in paragraph at lines 14899--14899
+\TU/lmr/m/n/10 Jaundice/gallstones- 
+ []
+
+
+Overfull \hbox (23.37982pt too wide) in paragraph at lines 14900--14900
+[]|\TU/lmr/bx/n/10 Hereditary 
+ []
+
+
+Overfull \hbox (0.57208pt too wide) in paragraph at lines 14900--14900
+[]|\TU/lmr/m/n/10 Elliptocytes|  
+ []
+
+
+Overfull \hbox (14.46983pt too wide) in paragraph at lines 14902--14902
+[]|\TU/lmr/bx/n/10 Pyruvate 
+ []
+
+
+Overfull \hbox (0.7121pt too wide) in paragraph at lines 14902--14903
+\TU/lmr/m/n/10 Transfusion- 
+ []
+
+
+Overfull \hbox (26.98982pt too wide) in paragraph at lines 14903--14903
+[]|\TU/lmr/bx/n/10 Paroxysmal 
+ []
+
+
+Overfull \hbox (32.73982pt too wide) in paragraph at lines 14903--14903
+\TU/lmr/bx/n/10 Hemoglobin- 
+ []
+
+
+Overfull \hbox (11.32896pt too wide) in paragraph at lines 14903--14903
+[]|\TU/lmr/m/n/10 Complement- 
+ []
+
+
+Overfull \hbox (7.17088pt too wide) in paragraph at lines 14903--14903
+\TU/lmr/m/n/10 (abd/cerebral)- 
+ []
+
+
+Overfull \hbox (1.62209pt too wide) in paragraph at lines 14903--14904
+\TU/lmr/m/n/10 Eculizumab- 
+ []
+
+[331] [332] [333] [334]
+File: ./images/hemolytic_anemias_flowchart.png Graphic file (type bmp)
+<./images/hemolytic_anemias_flowchart.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[335]
+Overfull \hbox (12.15073pt too wide) in paragraph at lines 14922--14922
+[]|\TU/lmr/bx/n/10 CKD- 
+ []
+
+
+Overfull \hbox (17.10072pt too wide) in paragraph at lines 14922--14922
+\TU/lmr/bx/n/10 related 
+ []
+
+
+Overfull \hbox (3.26073pt too wide) in paragraph at lines 14922--14922
+\TU/lmr/bx/n/10 ane- 
+ []
+
+
+Overfull \hbox (0.54073pt too wide) in paragraph at lines 14922--14922
+\TU/lmr/bx/n/10 mia|  
+ []
+
+
+Overfull \hbox (26.99855pt too wide) in paragraph at lines 14922--14922
+[]|\TU/lmr/m/n/10 Normochromic, 
+ []
+
+
+Overfull \hbox (23.35072pt too wide) in paragraph at lines 14923--14923
+[]|\TU/lmr/bx/n/10 Aplastic 
+ []
+
+
+Overfull \hbox (3.26073pt too wide) in paragraph at lines 14923--14923
+\TU/lmr/bx/n/10 ane- 
+ []
+
+
+Overfull \hbox (0.54073pt too wide) in paragraph at lines 14923--14923
+\TU/lmr/bx/n/10 mia|  
+ []
+
+
+Overfull \hbox (20.70856pt too wide) in paragraph at lines 14923--14923
+[]|\TU/lmr/m/n/10 Pancytopenia|  
+ []
+
+
+Overfull \hbox (12.73073pt too wide) in paragraph at lines 14940--14940
+[]|\TU/lmr/bx/n/10 Folate 
+ []
+
+
+Overfull \hbox (13.32072pt too wide) in paragraph at lines 14940--14940
+\TU/lmr/bx/n/10 ciency|  
+ []
+
+
+Overfull \hbox (21.16855pt too wide) in paragraph at lines 14940--14940
+[]|\TU/lmr/m/n/10 Megaloblastic 
+ []
+
+
+Overfull \hbox (1.86073pt too wide) in paragraph at lines 14941--14941
+[]|\TU/lmr/bx/n/10 B12 
+ []
+
+
+Overfull \hbox (13.32072pt too wide) in paragraph at lines 14941--14941
+\TU/lmr/bx/n/10 ciency|  
+ []
+
+
+Overfull \hbox (21.16855pt too wide) in paragraph at lines 14941--14941
+\TU/lmr/m/n/10 Megaloblastic 
+ []
+
+
+Overfull \hbox (10.84856pt too wide) in paragraph at lines 14941--14941
+\TU/lmr/m/n/10 macrocytic- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[336]
+Overfull \hbox (20.89073pt too wide) in paragraph at lines 14958--14958
+[]|\TU/lmr/bx/n/10 Anemia 
+ []
+
+
+Overfull \hbox (2.41072pt too wide) in paragraph at lines 14958--14958
+\TU/lmr/bx/n/10 pre- 
+ []
+
+
+Overfull \hbox (1.18073pt too wide) in paragraph at lines 14958--14958
+\TU/lmr/bx/n/10 ma- 
+ []
+
+
+Overfull \hbox (25.73073pt too wide) in paragraph at lines 14959--14959
+[]|\TU/lmr/bx/n/10 Erythro- 
+ []
+
+
+Overfull \hbox (24.38072pt too wide) in paragraph at lines 14959--14959
+\TU/lmr/bx/n/10 blastosis|  
+ []
+
+
+Overfull \hbox (7.89pt too wide) in paragraph at lines 14959--14959
+[]|\TU/lmr/m/n/10 Jaundice/hyperbili 
+ []
+
+
+Overfull \hbox (20.88072pt too wide) in paragraph at lines 14960--14960
+[]|\TU/lmr/bx/n/10 Fanconi|  
+ []
+
+
+Overfull \hbox (22.09856pt too wide) in paragraph at lines 14960--14960
+[]|\TU/lmr/m/n/10 Pancytopenia, 
+ []
+
+
+Overfull \hbox (31.72073pt too wide) in paragraph at lines 14961--14961
+[]|\TU/lmr/bx/n/10 Diamond- 
+ []
+
+
+Overfull \hbox (25.49072pt too wide) in paragraph at lines 14961--14961
+\TU/lmr/bx/n/10 Blackfan|  
+ []
+
+
+Overfull \hbox (11.41855pt too wide) in paragraph at lines 14961--14961
+[]|\TU/lmr/m/n/10 Macrocytic, 
+ []
+
+
+Package hyperref Warning: Suppressing empty link on input line 14968.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[337] [338]
+Underfull \hbox (badness 3343) in paragraph at lines 15028--15029
+[]\TU/lmr/bx/n/10 Splenic sequestration crisis: \TU/lmr/m/n/10 Marked decrease 
+in hemoglobin
+ []
+
+File: ./images/heme_bmcvoecard_1.png Graphic file (type bmp)
+<./images/heme_bmcvoecard_1.png>
+File: ./images/heme_bmcvoecard_2.png Graphic file (type bmp)
+<./images/heme_bmcvoecard_2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[339]
+Underfull \hbox (badness 1158) in paragraph at lines 15103--15104
+\TU/lmr/m/n/10 hot packs, lidocaine patch, distraction, Child Life, relaxation,
+
+ []
+
+[340]
+Overfull \hbox (7.38152pt too wide) in paragraph at lines 15155--15155
+[]|\TU/lmr/m/n/10 MSContin 
+ []
+
+[341] [342]
+Overfull \hbox (8.7167pt too wide) in paragraph at lines 15214--15216
+[]\TU/lmr/m/n/10 Patients w/ SCD require increased IVF in cases of VOE or fever
+/dehydration.
+ []
+
+[343] [344] [345]
+Overfull \hbox (48.04073pt too wide) in paragraph at lines 15445--15445
+[]|\TU/lmr/bx/n/10 Anaphylactic|  
+ []
+
+
+Overfull \hbox (30.84073pt too wide) in paragraph at lines 15447--15447
+[]|\TU/lmr/bx/n/10 Urticarial|  
+ []
+
+
+Overfull \hbox (1.86145pt too wide) in paragraph at lines 15447--15447
+[]|\TU/lmr/m/n/10 Anytime|  
+ []
+
+
+Overfull \hbox (11.79073pt too wide) in paragraph at lines 15448--15448
+[]|\TU/lmr/bx/n/10 Acute 
+ []
+
+
+Overfull \hbox (33.81073pt too wide) in paragraph at lines 15448--15448
+\TU/lmr/bx/n/10 Hemolytic|  
+ []
+
+
+Overfull \hbox (16.51073pt too wide) in paragraph at lines 15449--15449
+[]|\TU/lmr/bx/n/10 Febrile 
+ []
+
+
+Overfull \hbox (4.54073pt too wide) in paragraph at lines 15449--15449
+\TU/lmr/bx/n/10 non- 
+ []
+
+
+Overfull \hbox (31.20073pt too wide) in paragraph at lines 15449--15449
+\TU/lmr/bx/n/10 hemolytic|  
+ []
+
+
+Overfull \hbox (22.14073pt too wide) in paragraph at lines 15450--15450
+[]|\TU/lmr/bx/n/10 Delayed 
+ []
+
+
+Overfull \hbox (31.20073pt too wide) in paragraph at lines 15450--15450
+\TU/lmr/bx/n/10 hemolytic|  
+ []
+
+
+Overfull \hbox (44.08073pt too wide) in paragraph at lines 15451--15451
+[]|\TU/lmr/bx/n/10 Transfusion- 
+ []
+
+
+Overfull \hbox (17.10072pt too wide) in paragraph at lines 15451--15451
+\TU/lmr/bx/n/10 related 
+ []
+
+
+Overfull \hbox (3.90073pt too wide) in paragraph at lines 15451--15451
+\TU/lmr/bx/n/10 lung 
+ []
+
+
+Overfull \hbox (2.89073pt too wide) in paragraph at lines 15451--15451
+\TU/lmr/bx/n/10 jury 
+ []
+
+
+Overfull \hbox (27.72073pt too wide) in paragraph at lines 15451--15451
+\TU/lmr/bx/n/10 (TRALI)|  
+ []
+
+
+Overfull \hbox (44.08073pt too wide) in paragraph at lines 15452--15452
+[]|\TU/lmr/bx/n/10 Transfusion- 
+ []
+
+
+Overfull \hbox (14.32072pt too wide) in paragraph at lines 15452--15452
+\TU/lmr/bx/n/10 Assoc. 
+ []
+
+
+Overfull \hbox (3.53073pt too wide) in paragraph at lines 15452--15452
+\TU/lmr/bx/n/10 Circ 
+ []
+
+
+Overfull \hbox (10.41072pt too wide) in paragraph at lines 15452--15452
+\TU/lmr/bx/n/10 Over- 
+ []
+
+
+Overfull \hbox (3.10072pt too wide) in paragraph at lines 15452--15452
+\TU/lmr/bx/n/10 load 
+ []
+
+
+Overfull \hbox (23.48073pt too wide) in paragraph at lines 15452--15452
+\TU/lmr/bx/n/10 (TACO)|  
+ []
+
+
+Overfull \hbox (27.51073pt too wide) in paragraph at lines 15453--15453
+[]|\TU/lmr/bx/n/10 Bacterial 
+ []
+
+
+Overfull \hbox (2.21072pt too wide) in paragraph at lines 15453--15453
+\TU/lmr/bx/n/10 sep- 
+ []
+
+[346]
+Overfull \hbox (10.66017pt too wide) in paragraph at lines 15481--15481
+[]|\TU/lmr/m/n/10 Component|  
+ []
+
+
+Overfull \hbox (1.88861pt too wide) in paragraph at lines 15481--15481
+[]|\TU/lmr/m/n/10 Contents|  
+ []
+
+
+Overfull \hbox (4.27826pt too wide) in paragraph at lines 15481--15481
+[]|\TU/lmr/m/n/10 Volume|  
+ []
+
+
+Overfull \hbox (6.35pt too wide) in paragraph at lines 15481--15481
+[]|\TU/lmr/m/n/10 Contraindications|  
+ []
+
+
+Overfull \hbox (4.73808pt too wide) in paragraph at lines 15481--15482
+[]|\TU/lmr/m/n/10 Considerations|  
+ []
+
+
+Overfull \hbox (21.58861pt too wide) in paragraph at lines 15484--15484
+[]|\TU/lmr/m/n/10 Concentrated 
+ []
+
+
+Overfull \hbox (9.61052pt too wide) in paragraph at lines 15484--15484
+[]|\TU/lmr/m/n/10 Symptomatic 
+ []
+
+
+Overfull \hbox (8.28001pt too wide) in paragraph at lines 15484--15484
+[]|\TU/lmr/m/n/10 Pharmacologically 
+ []
+
+
+Overfull \hbox (3.95018pt too wide) in paragraph at lines 15485--15485
+[]|\TU/lmr/bx/n/10 Platelets 
+ []
+
+
+Overfull \hbox (16.59862pt too wide) in paragraph at lines 15485--15485
+[]|\TU/lmr/m/n/10 >5.5×10^10 
+ []
+
+
+Overfull \hbox (11.42018pt too wide) in paragraph at lines 15486--15486
+[]|\TU/lmr/bx/n/10 Leukocyte 
+ []
+
+
+Overfull \hbox (2.5086pt too wide) in paragraph at lines 15486--15486
+\TU/lmr/m/n/10 <5×10^6|  
+ []
+
+
+Overfull \hbox (2.44826pt too wide) in paragraph at lines 15486--15486
+[]|\TU/lmr/m/n/10 Similar 
+ []
+
+
+Overfull \hbox (14.18018pt too wide) in paragraph at lines 15487--15487
+\TU/lmr/bx/n/10 precipitate 
+ []
+
+
+Overfull \hbox (2.10826pt too wide) in paragraph at lines 15487--15487
+\TU/lmr/m/n/10 plasma 
+ []
+
+[347] [348] [349]
+Underfull \hbox (badness 4792) in paragraph at lines 15529--15531
+\TU/lmr/m/n/10 plasia, EtOH, BMF syndromes/aplastic anemia, Vit B12/Folate
+ []
+
+
+Overfull \hbox (12.00594pt too wide) in paragraph at lines 15533--15534
+[]\TU/lmr/bx/n/10 Hypersplenism: \TU/lmr/m/n/10 Splenomegaly (cirrhosis, portal
+ HTN) -Dilutional/pooling:
+ []
+
+
+Overfull \hbox (3.0883pt too wide) in alignment at lines 15554--15558
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.7698pt too wide) in paragraph at lines 15559--15559
+\TU/lmr/bx/n/10 throm- 
+ []
+
+
+Overfull \hbox (2.89981pt too wide) in paragraph at lines 15559--15559
+\TU/lmr/bx/n/10 topenic 
+ []
+
+
+Overfull \hbox (12.2698pt too wide) in paragraph at lines 15560--15560
+\TU/lmr/bx/n/10 (heparin- 
+ []
+
+
+Overfull \hbox (5.13982pt too wide) in paragraph at lines 15560--15560
+\TU/lmr/bx/n/10 induced 
+ []
+
+
+Overfull \hbox (0.7698pt too wide) in paragraph at lines 15560--15560
+\TU/lmr/bx/n/10 throm- 
+ []
+
+
+Overfull \hbox (5.2398pt too wide) in paragraph at lines 15561--15561
+\TU/lmr/bx/n/10 (throm- 
+ []
+
+
+Overfull \hbox (0.7698pt too wide) in paragraph at lines 15561--15561
+\TU/lmr/bx/n/10 throm- 
+ []
+
+
+Overfull \hbox (2.89981pt too wide) in paragraph at lines 15561--15561
+\TU/lmr/bx/n/10 topenic 
+ []
+
+
+Overfull \hbox (19.49982pt too wide) in paragraph at lines 15562--15562
+\TU/lmr/bx/n/10 (hemolytic 
+ []
+
+
+Overfull \hbox (2.20981pt too wide) in paragraph at lines 15562--15562
+\TU/lmr/bx/n/10 drome)|  
+ []
+
+
+Overfull \hbox (11.13982pt too wide) in paragraph at lines 15563--15563
+[]|\TU/lmr/bx/n/10 Bernard- 
+ []
+
+
+Overfull \hbox (0.92981pt too wide) in paragraph at lines 15563--15563
+\TU/lmr/bx/n/10 Soulier|  
+ []
+
+
+Overfull \hbox (23.27982pt too wide) in paragraph at lines 15564--15564
+[]|\TU/lmr/bx/n/10 Glanzmann|  
+ []
+
+
+Overfull \hbox (52.37982pt too wide) in paragraph at lines 15565--15565
+[]|\TU/lmr/bx/n/10 Antiphospholipid 
+ []
+
+
+Overfull \hbox (4.80981pt too wide) in paragraph at lines 15565--15565
+\TU/lmr/bx/n/10 (APLS)|  
+ []
+
+
+Overfull \hbox (4.2698pt too wide) in paragraph at lines 15566--15566
+[]|\TU/lmr/bx/n/10 HELLP 
+ []
+
+
+Overfull \hbox (3.0883pt too wide) in alignment at lines 15558--15568
+ [] [] [] [] 
+ []
+
+[350] [351]
+Underfull \hbox (badness 10000) in paragraph at lines 15571--15571
+[]\TU/lmr/bx/n/14.4 Hematologic Disorders of the New-
+ []
+
+[352]
+Overfull \hbox (3.09302pt too wide) in alignment at lines 15651--15655
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (7.76773pt too wide) in paragraph at lines 15656--15656
+[]|\TU/lmr/bx/n/10 VWD 
+ []
+
+
+Overfull \hbox (0.72774pt too wide) in paragraph at lines 15656--15656
+\TU/lmr/bx/n/10 (von 
+ []
+
+
+Overfull \hbox (11.41774pt too wide) in paragraph at lines 15656--15656
+\TU/lmr/bx/n/10 nwille- 
+ []
+
+
+Overfull \hbox (7.86774pt too wide) in paragraph at lines 15656--15656
+\TU/lmr/bx/n/10 brand 
+ []
+
+
+Overfull \hbox (13.97774pt too wide) in paragraph at lines 15656--15656
+\TU/lmr/bx/n/10 ciency)|  
+ []
+
+
+Overfull \hbox (35.90775pt too wide) in paragraph at lines 15657--15657
+[]|\TU/lmr/bx/n/10 Hemophilia|  
+ []
+
+
+Overfull \hbox (19.46774pt too wide) in paragraph at lines 15658--15658
+[]|\TU/lmr/bx/n/10 Vitamin 
+ []
+
+
+Overfull \hbox (9.50774pt too wide) in paragraph at lines 15658--15658
+\TU/lmr/bx/n/10 ciency|  
+ []
+
+
+Overfull \hbox (0.78773pt too wide) in paragraph at lines 15659--15659
+\TU/lmr/bx/n/10 (dis- 
+ []
+
+
+Overfull \hbox (41.83774pt too wide) in paragraph at lines 15659--15659
+\TU/lmr/bx/n/10 seminnnated 
+ []
+
+
+Overfull \hbox (12.23773pt too wide) in paragraph at lines 15659--15659
+\TU/lmr/bx/n/10 travas- 
+ []
+
+
+Overfull \hbox (2.63774pt too wide) in paragraph at lines 15659--15659
+\TU/lmr/bx/n/10 tion)|  
+ []
+
+
+Overfull \hbox (24.83774pt too wide) in paragraph at lines 15660--15660
+[]|\TU/lmr/bx/n/10 Inherited 
+ []
+
+
+Overfull \hbox (7.24774pt too wide) in paragraph at lines 15660--15660
+\TU/lmr/bx/n/10 states|  
+ []
+
+
+Overfull \hbox (3.09302pt too wide) in alignment at lines 15655--15665
+ [] [] [] [] 
+ []
+
+[353] [354]
+File: ./images/bleeding_dx_coags.png Graphic file (type bmp)
+<./images/bleeding_dx_coags.png>
+
+Overfull \hbox (18.31812pt too wide) in paragraph at lines 15681--15681
+[]|\TU/lmr/m/n/10 Irreversibly 
+ []
+
+
+Overfull \hbox (2.77812pt too wide) in paragraph at lines 15682--15682
+[]|\TU/lmr/m/n/10 Inhibits 
+ []
+
+
+Overfull \hbox (18.20811pt too wide) in paragraph at lines 15682--15682
+\TU/lmr/m/n/10 GPIIb/IIIa 
+ []
+
+
+Overfull \hbox (3.54811pt too wide) in paragraph at lines 15683--15683
+\TU/lmr/m/n/10 IIb/IIIa 
+ []
+
+
+Overfull \hbox (2.77812pt too wide) in paragraph at lines 15684--15684
+[]|\TU/lmr/m/n/10 Inhibits 
+ []
+
+
+Overfull \hbox (1.60811pt too wide) in paragraph at lines 15684--15684
+\TU/lmr/m/n/10 platelet 
+ []
+
+
+Overfull \hbox (3.10811pt too wide) in paragraph at lines 15684--15684
+\TU/lmr/m/n/10 esterase 
+ []
+
+
+Overfull \hbox (18.73811pt too wide) in paragraph at lines 15684--15684
+\TU/lmr/m/n/10 sine/cAMP 
+ []
+
+
+Overfull \hbox (17.0283pt too wide) in paragraph at lines 15685--15685
+[]|\TU/lmr/bx/n/10 Heparin\TU/lmr/m/n/10 (continuous 
+ []
+
+
+Overfull \hbox (37.11812pt too wide) in paragraph at lines 15685--15685
+[]|\TU/lmr/m/n/10 Binds/activates 
+ []
+
+
+Overfull \hbox (4.12811pt too wide) in paragraph at lines 15685--15685
+\TU/lmr/m/n/10 tithrom- 
+ []
+
+
+Overfull \hbox (7.02812pt too wide) in paragraph at lines 15685--15685
+\TU/lmr/m/n/10 bin/FXa 
+ []
+
+
+Overfull \hbox (4.12811pt too wide) in paragraph at lines 15686--15686
+\TU/lmr/m/n/10 tithrom- 
+ []
+
+
+Overfull \hbox (23.3283pt too wide) in paragraph at lines 15687--15687
+[]|\TU/lmr/bx/n/10 Fondaparinux\TU/lmr/m/n/10 (direct 
+ []
+
+
+Overfull \hbox (4.12811pt too wide) in paragraph at lines 15687--15687
+\TU/lmr/m/n/10 tithrom- 
+ []
+
+
+Overfull \hbox (4.7283pt too wide) in paragraph at lines 15689--15689
+[]|\TU/lmr/bx/n/10 Dabigatran\TU/lmr/m/n/10 (PO)|  
+ []
+
+
+Overfull \hbox (20.6383pt too wide) in paragraph at lines 15690--15690
+\TU/lmr/bx/n/10 calirudin\TU/lmr/m/n/10 (continuous 
+ []
+
+
+Overfull \hbox (2.77812pt too wide) in paragraph at lines 15691--15691
+[]|\TU/lmr/m/n/10 Inhibits 
+ []
+
+
+Overfull \hbox (13.8381pt too wide) in paragraph at lines 15691--15691
+\TU/lmr/m/n/10 dependent 
+ []
+
+
+Overfull \hbox (3.57811pt too wide) in paragraph at lines 15691--15691
+\TU/lmr/m/n/10 2,7,9,10, 
+ []
+
+[355] [356] [357] [358] [359] [360
+
+]
+Chapter 13.
+
+Underfull \hbox (badness 2865) in paragraph at lines 15707--15707
+[][]\TU/lmr/bx/n/14.4 Antibiotic Susceptibilities[] for Common
+ []
+
+File: ./images/id_antibiogram-gn.png Graphic file (type bmp)
+<./images/id_antibiogram-gn.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[361]
+File: ./images/id_antibiogram-gp.png Graphic file (type bmp)
+<./images/id_antibiogram-gp.png>
+File: ./images/id_antibiogram-anaerobes.png Graphic file (type bmp)
+<./images/id_antibiogram-anaerobes.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[362]
+Overfull \hbox (119.16452pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 13.3.  []ANTIBIOTIC RECOMMENDATIONS[] (DOSING, DURATION) FOR CO
+MMON INFECTIONS \TU/lmr/m/n/10 363
+ []
+
+[363] [364] [365] [366] [367] [368] [369]
+Underfull \hbox (badness 1354) in paragraph at lines 16233--16235
+[]\TU/lmr/bx/n/10 Labs: \TU/lmr/m/n/10 CBCd, chem10, UA/UCx, BCx, HIV, LFTs, LD
+H, CPK,
+ []
+
+[370]
+Underfull \hbox (badness 3428) in paragraph at lines 16254--16254
+[]\TU/lmr/bx/n/14.4 Urinary Tract Infection (UTI), First
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[371] [372]
+File: ./images/id_covid-qr-code.png Graphic file (type bmp)
+<./images/id_covid-qr-code.png>
+[373] [374
+
+]
+Chapter 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16458--16459
+[]\TU/lmr/m/n/10 Acute Illness Protocols []$[][][][][] [] [] [] [][][][][][][][
+][][][][][][][][][][][][] [] [][][] [] [][][] [][]
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 16470--16471
+[]\TU/lmr/m/n/10 Info for families: []$[][][][][] [] [] [] [][][] [] [][][][][]
+[][][][][][][][][][][] [] [][][][][]$[], []$[][][][][] []
+ []
+
+[375]
+Underfull \hbox (badness 4454) in paragraph at lines 16515--16516
+\TU/lmr/m/n/10 Hyperammonemia, metabolic acidosis-hyperlactatemia or ketosis, h
+ypo-
+ []
+
+
+Overfull \hbox (35.142pt too wide) in paragraph at lines 16523--16525
+[]\TU/lmr/m/n/10 May be precipitated by high protein intake, catabolic state (f
+ever/illness/GIB/fast) 
+ []
+
+[376] [377]
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⇒ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⇒ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1412) in paragraph at lines 16608--16609
+\TU/lmr/m/n/10 Headaches, irritability, nausea/vomiting, Lethargy/delirium → co
+ma, sz,
+ []
+
+[378]
+File: ./images/metab_hyperamm_neonates.png Graphic file (type bmp)
+<./images/metab_hyperamm_neonates.png>
+File: ./images/metab_acidosis.png Graphic file (type bmp)
+<./images/metab_acidosis.png>
+
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+[379]
+Underfull \hbox (badness 1275) in paragraph at lines 16681--16683
+\TU/lmr/m/n/10 tremor, myoclonic jerks, pedaling, sustained paraspinal contract
+ion
+ []
+
+[380] [381]
+Underfull \hbox (badness 10000) in paragraph at lines 16765--16767
+
+ []
+
+[382] [383] [384] [385] [386]
+Underfull \hbox (badness 1540) in paragraph at lines 17073--17075
+[]\TU/lmr/bx/n/10 Psychiatric symptoms: \TU/lmr/m/n/10 UCD’s, porphyrias, homoc
+ystinuria,
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 17092--17093
+[]\TU/lmr/bx/n/10 Indolent: \TU/lmr/m/n/10 FTT, myopathies, neurological sequel
+ae (DD, ID, mi-
+ []
+
+[387]
+Overfull \hbox (22.67091pt too wide) in paragraph at lines 17158--17158
+[]|\TU/lmr/bx/n/10 Phenylketonuria|  
+ []
+
+
+Overfull \hbox (1.87091pt too wide) in paragraph at lines 17158--17158
+[]|\TU/lmr/m/n/10 Phenylalanine 
+ []
+
+
+Overfull \hbox (1.87091pt too wide) in paragraph at lines 17158--17158
+[]|\TU/lmr/m/n/10 Phenylalanine|  
+ []
+
+
+Overfull \hbox (20.36092pt too wide) in paragraph at lines 17160--17160
+[]|\TU/lmr/bx/n/10 Homocystinuria|  
+ []
+
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (1.50092pt too wide) in paragraph at lines 17160--17160
+[]|\TU/lmr/m/n/10 Cystathionine 
+ []
+
+
+Overfull \hbox (1.48091pt too wide) in paragraph at lines 17160--17160
+[]|\TU/lmr/m/n/10 Homocysteine 
+ []
+
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (2.59091pt too wide) in paragraph at lines 17161--17161
+[]|\TU/lmr/bx/n/10 Tyrosinemia|  
+ []
+
+[388] [389]
+Overfull \hbox (3.3809pt too wide) in paragraph at lines 17220--17220
+[]|\TU/lmr/m/n/10 Hepatomegaly, 
+ []
+
+
+Overfull \hbox (47.47092pt too wide) in paragraph at lines 17222--17223
+\TU/lmr/m/n/10 crose/fructose/galactose, 
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (28.16092pt too wide) in paragraph at lines 17223--17223
+\TU/lmr/m/n/10 (\TU/lmr/bx/n/10 cardiomyopathy\TU/lmr/m/n/10 ). 
+ []
+
+
+Overfull \hbox (0.95091pt too wide) in paragraph at lines 17225--17226
+[]|\TU/lmr/m/n/10 Carbohydrate 
+ []
+
+[390]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[391]
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (17.8209pt too wide) in paragraph at lines 17260--17260
+[]|\TU/lmr/m/n/10 LCHAD/VLCAD|  
+ []
+
+
+Overfull \hbox (14.3809pt too wide) in paragraph at lines 17260--17260
+[]|\TU/lmr/bx/n/10 LCHAD/TFP: 
+ []
+
+[392]
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (14.95091pt too wide) in paragraph at lines 17299--17299
+[]|\TU/lmr/m/n/10 Glucocerebroside|  
+ []
+
+
+Overfull \hbox (10.15091pt too wide) in paragraph at lines 17300--17300
+[]|\TU/lmr/m/n/10 Hexosaminidase 
+ []
+
+
+Overfull \hbox (17.61092pt too wide) in paragraph at lines 17301--17301
+[]|\TU/lmr/m/n/10 Sphingomyelinase|  
+ []
+
+
+Overfull \hbox (4.23091pt too wide) in paragraph at lines 17301--17301
+[]|\TU/lmr/m/n/10 Sphingomyelin|  
+ []
+
+
+Overfull \hbox (2.87091pt too wide) in paragraph at lines 17301--17301
+\TU/lmr/m/n/10 neuronopathic|  
+ []
+
+
+Overfull \hbox (32.22092pt too wide) in paragraph at lines 17302--17302
+[]|\TU/lmr/m/n/10 Galactocerebrosidase|  
+ []
+
+
+Overfull \hbox (23.28091pt too wide) in paragraph at lines 17302--17302
+[]|\TU/lmr/m/n/10 Galactocerebroside|  
+ []
+
+
+Overfull \hbox (16.4609pt too wide) in paragraph at lines 17303--17303
+[]|\TU/lmr/bx/n/10 Metachromatic 
+ []
+
+
+Overfull \hbox (5.2109pt too wide) in paragraph at lines 17303--17303
+\TU/lmr/m/n/10 DD/regression; 
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (1.3209pt too wide) in paragraph at lines 17304--17304
+[]|\TU/lmr/m/n/10 Globotriaosyl- 
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+[393] [394] [395]
+Underfull \hbox (badness 1895) in paragraph at lines 17318--17319
+[]\TU/lmr/m/n/10 Mitochondrial diseases don’t decompensate acutely like small
+ []
+
+[396]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (7.96562pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 14.8.  MITOCHONDRIAL DISORDERS / PRIMARY LACTIC ACIDEMIAS \TU/l
+mr/m/n/10 397
+ []
+
+[397]
+Overfull \hbox (15.39091pt too wide) in paragraph at lines 17402--17402
+[]|\TU/lmr/bx/n/10 Methylmalonic 
+ []
+
+
+Overfull \hbox (6.7109pt too wide) in paragraph at lines 17402--17402
+[]|\TU/lmr/m/n/10 methylmalonyl- 
+ []
+
+
+Overfull \hbox (1.1009pt too wide) in paragraph at lines 17405--17405
+[]|\TU/lmr/m/n/10 Macrocephaly 
+ []
+
+
+Overfull \hbox (68.61092pt too wide) in paragraph at lines 17405--17405
+\TU/lmr/m/n/10 sis/ketosis/hyperammonemia. 
+ []
+
+[398] [399] [400]
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (34.1009pt too wide) in paragraph at lines 17437--17437
+\TU/lmr/m/n/10 fat),chondrodysplasia 
+ []
+
+
+Overfull \hbox (7.3609pt too wide) in paragraph at lines 17438--17438
+\TU/lmr/m/n/10 cataracts/night 
+ []
+
+
+Overfull \hbox (39.0709pt too wide) in paragraph at lines 17439--17439
+[]|\TU/lmr/m/n/10 Adrenoleukodystrophy|  
+ []
+
+[401] [402]
+File: ./images/metab_urea_cycle.png Graphic file (type bmp)
+<./images/metab_urea_cycle.png>
+[403]
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (7.29091pt too wide) in paragraph at lines 17503--17503
+[]|\TU/lmr/bx/n/10 Citrullinemia|  
+ []
+
+
+Overfull \hbox (10.4109pt too wide) in paragraph at lines 17503--17503
+[]|\TU/lmr/m/n/10 Arginosuccinate 
+ []
+
+
+Overfull \hbox (14.14091pt too wide) in paragraph at lines 17504--17504
+[]|\TU/lmr/bx/n/10 Arginosuccinic 
+ []
+
+
+Overfull \hbox (10.4109pt too wide) in paragraph at lines 17504--17504
+[]|\TU/lmr/m/n/10 Arginosuccinate 
+ []
+
+[404] [405] [406]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1755
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1755
+8.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1755
+9.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1756
+0.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1756
+1.
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 17558--17562
+\TU/lmr/bx/n/10 Information for patients and families: \TU/lmr/m/n/10 newenglan
+dconsortium.org,
+ []
+
+
+Overfull \hbox (32.2717pt too wide) in paragraph at lines 17558--17562
+\TU/lmr/bx/n/10 Acute Illness Protocols: \TU/lmr/m/n/10 https://newenglandconso
+rtium.org/for-professionals/acute-
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 17558--17562
+\TU/lmr/bx/n/10 Newborn Screen Resources: \TU/lmr/m/n/10 https://www.acmg.net/A
+CMG/Medical-
+ []
+
+
+Overfull \hbox (3.51201pt too wide) in paragraph at lines 17558--17562
+\TU/lmr/m/n/10 Genetics-Practice-Resources/ACT_Sheets_and_Algorithms.aspx, http
+://genes-
+ []
+
+[407] [408
+
+]
+Chapter 15.
+[409]
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[410]
+Overfull \hbox (16.49075pt too wide) in paragraph at lines 17708--17708
+[]|\TU/lmr/m/n/10 Severity|  
+ []
+
+
+Overfull \hbox (5.15076pt too wide) in paragraph at lines 17711--17711
+[]|\TU/lmr/bx/n/10 Mild|  
+ []
+
+
+Overfull \hbox (30.18076pt too wide) in paragraph at lines 17712--17712
+[]|\TU/lmr/bx/n/10 Moderate|  
+ []
+
+
+Overfull \hbox (14.15076pt too wide) in paragraph at lines 17713--17713
+[]|\TU/lmr/bx/n/10 Severe|  
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[411]
+Underfull \hbox (badness 10000) in paragraph at lines 17730--17732
+
+ []
+
+
+Overfull \hbox (52.21pt too wide) in alignment at lines 17738--17742
+ [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (52.21pt too wide) in alignment at lines 17742--17752
+ [] [] [] [] [] [] [] [] 
+ []
+
+[412]
+Underfull \hbox (badness 10000) in paragraph at lines 17819--17821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17821--17823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17823--17825
+
+ []
+
+[413]
+Underfull \hbox (badness 10000) in paragraph at lines 17846--17848
+
+ []
+
+
+Overfull \hbox (1.54811pt too wide) in paragraph at lines 17885--17885
+[]|\TU/lmr/bx/n/10 Defect|  
+ []
+
+
+Overfull \hbox (20.68811pt too wide) in paragraph at lines 17886--17886
+[]|\TU/lmr/bx/n/10 Potassium|  
+ []
+
+
+Overfull \hbox (1.90811pt too wide) in paragraph at lines 17888--17888
+\TU/lmr/bx/n/10 Stones|  
+ []
+
+
+Overfull \hbox (7.25812pt too wide) in paragraph at lines 17889--17889
+[]|\TU/lmr/bx/n/10 Clinical 
+ []
+
+[414]
+Underfull \hbox (badness 10000) in paragraph at lines 17904--17905
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17917--17918
+
+ []
+
+[415]
+File: ./images/nephrology_hyponatremia-osmolality.jpg Graphic file (type bmp)
+<./images/nephrology_hyponatremia-osmolality.jpg>
+[416] [417]
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1502) in paragraph at lines 18044--18046
+[]\TU/lmr/m/n/10 For hypernatremic dehydration, calculate Free Water Deficit(L)
+ =
+ []
+
+[418]
+File: ./images/nephrology_EKG-hypokalemia.jpg Graphic file (type bmp)
+<./images/nephrology_EKG-hypokalemia.jpg>
+[419]
+File: ./images/nephrology_EKG-hyperkalemia.jpg Graphic file (type bmp)
+<./images/nephrology_EKG-hyperkalemia.jpg>
+[420]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[421]
+Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
+File: ./images/nephrology_proteinuria-workup.jpg Graphic file (type bmp)
+<./images/nephrology_proteinuria-workup.jpg>
+
+Underfull \hbox (badness 2057) in paragraph at lines 18255--18257
+[]\TU/lmr/bx/n/10 Extraglomerular: \TU/lmr/m/n/10 UTI, ureteral trauma, nephrol
+ithiasis, cystitis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18255--18257
+
+ []
+
+[422] [423]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[424]
+Missing character: There is no β in font [lmroman10-bold]:mapping=tex-text;!
+
+Underfull \hbox (badness 1596) in paragraph at lines 18433--18435
+[]\TU/lmr/bx/n/10 Membranoproliferative GN: \TU/lmr/m/n/10 can be idiopathic or
+ secondary to
+ []
+
+[425]
+Overfull \hbox (50.46pt too wide) in paragraph at lines 18439--18440
+\TU/lmr/m/n/10 eosinophilic granulomatosis with polyangiitis (asthma/neuropathy
+/lung/kidney/skin),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18467--18469
+
+ []
+
+[426]
+File: ./images/nephrology_AKI.jpg Graphic file (type bmp)
+<./images/nephrology_AKI.jpg>
+[427]
+Underfull \hbox (badness 3872) in paragraph at lines 18610--18612
+[]\TU/lmr/m/n/10 Correct associated electrolyte issues (hyperkalemia, hyponatre
+mia,
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 18637--18639
+[]\TU/lmr/bx/n/10 E\TU/lmr/m/n/10 lectrolyte anomalies refractory to medical ma
+nagement (hy-
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[428]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1087) in paragraph at lines 18685--18687
+[]\TU/lmr/m/n/10 Glomerular disease (FSGS, membranous nephropathy, MPGN, SLE
+ []
+
+[429]
+Underfull \hbox (badness 4168) in paragraph at lines 18764--18766
+[]\TU/lmr/m/n/10 Na+-restricted diet (2-3g/d) +/- diuretics (furosemide 0.5-2
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 18766--18768
+\TU/lmr/m/n/10 (sodium bicarb), hypocalcemia/hyperphosphatemia (Vitamin D,
+ []
+
+[430]
+Overfull \hbox (4.65157pt too wide) in paragraph at lines 18889--18889
+ []|\TU/lmr/bx/n/10 Elevated 
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[431]
+File: ./images/nephrology_BP-boys.jpg Graphic file (type bmp)
+<./images/nephrology_BP-boys.jpg>
+File: ./images/nephrology_BP-girls.jpg Graphic file (type bmp)
+<./images/nephrology_BP-girls.jpg>
+[432] [433] [434]
+Underfull \hbox (badness 2837) in paragraph at lines 18966--18968
+[]\TU/lmr/m/n/10 Catecholamine excess: pheochromocytoma, neuroblastoma,
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 18966--18968
+\TU/lmr/m/n/10 exogenous catecholamines (cold medications, cocaine, am-
+ []
+
+[435]
+Underfull \hbox (badness 2865) in paragraph at lines 19077--19079
+[]\TU/lmr/m/n/10 For renin-mediated hypertension (renal artery stenosis, renal
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-bold]:mapping=tex-text;!
+[436]
+Underfull \hbox (badness 1888) in paragraph at lines 19149--19150
+[]\TU/lmr/bx/n/10 Beyond newborn period: \TU/lmr/m/n/10 colonization of periure
+thral area by
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[437]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[438]
+Underfull \hbox (badness 1158) in paragraph at lines 19307--19309
+[]\TU/lmr/m/n/10 If diagnosed with UTI and not getting better with abx, conside
+r
+ []
+
+[439] [440
+
+]
+Chapter 16.
+[441]
+Underfull \hbox (badness 2689) in paragraph at lines 19419--19421
+[]\TU/lmr/m/n/10 Give Levetiracetam (60mg/kg IV) OR Fosphenytoin (20 mg
+ []
+
+[442]
+Underfull \hbox (badness 2126) in paragraph at lines 19472--19474
+[]\TU/lmr/m/n/10 Risk factors include trauma, vasculitis/vasculopathy, infectio
+n, tu-
+ []
+
+[443] [444] [445] [446] [447]
+Underfull \hbox (badness 2698) in paragraph at lines 19721--19722
+[]\TU/lmr/m/n/10 Immune therapies (glucocorticoids, IVIG, PLEX relatively contr
+a-
+ []
+
+[448] [449]
+Overfull \hbox (0.27092pt too wide) in paragraph at lines 19854--19855
+\TU/lmr/m/n/10 T lymphocytes attack oligodendrocytes, affecting myelin (autoimm
+une-mediated
+ []
+
+[450] [451]
+Underfull \hbox (badness 1024) in paragraph at lines 19976--19978
+[]\TU/lmr/bx/n/10 Non-inflammatory: \TU/lmr/m/n/10 Compressive myelopathy (neop
+lasm, vertebral
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 20001--20002
+[]\TU/lmr/m/n/10 Expect lymphocytic pleocytosis (children > adults with mean
+ []
+
+[452]
+Underfull \hbox (badness 4229) in paragraph at lines 20040--20041
+\TU/lmr/m/n/10 Acute (<3 mos) behavior and personality changes (including depre
+s-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 20040--20041
+\TU/lmr/m/n/10 sion/anxiety/psychosis), seizures, insomnia, stereotyped movemen
+ts and
+ []
+
+[453] [454]
+File: ./images/Hooversign.png Graphic file (type bmp)
+<./images/Hooversign.png>
+
+Overfull \hbox (118.27856pt too wide) in paragraph at lines 20141--20143
+\TU/lmr/m/n/10 leg flexes against resistance [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[455] [456]
+Underfull \hbox (badness 2591) in paragraph at lines 20246--20247
+\TU/lmr/m/n/10 MRI/MRV required in children w/ HA and papilledema to rule out
+ []
+
+[457] [458] [459] [460] [461]
+File: ./images/neuro_ref-card-1.png Graphic file (type bmp)
+<./images/neuro_ref-card-1.png>
+File: ./images/neuro_ref-card-2.png Graphic file (type bmp)
+<./images/neuro_ref-card-2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[462] [463] [464
+
+]
+Chapter 17.
+[465]
+Underfull \vbox (badness 1067) has occurred while \output is active []
+
+[466] [467]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[468] [469]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (25.47075pt too wide) in paragraph at lines 20791--20791
+[]|\TU/lmr/m/n/10 **Glucose 
+ []
+
+
+Overfull \hbox (14.74075pt too wide) in paragraph at lines 20791--20791
+\TU/lmr/m/n/10 (mg/dl)|  
+ []
+
+
+Overfull \hbox (11.86075pt too wide) in paragraph at lines 20794--20794
+[]|\TU/lmr/bx/n/10 Mgmt|  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[470]
+Underfull \hbox (badness 1448) in paragraph at lines 20842--20844
+[]\TU/lmr/bx/n/10 Withdrawal (inability to eat/sleep/console, autonomic sx):
+ []
+
+[471]
+Overfull \hbox (23.68765pt too wide) in paragraph at lines 20899--20899
+[]|\TU/lmr/bx/n/10 Maternal 
+ []
+
+
+Overfull \hbox (17.22765pt too wide) in paragraph at lines 20902--20902
+[]|\TU/lmr/bx/n/10 Positive|  
+ []
+
+
+Overfull \hbox (25.35765pt too wide) in paragraph at lines 20903--20903
+[]|\TU/lmr/bx/n/10 Unknown|  
+ []
+
+
+Overfull \hbox (21.81766pt too wide) in paragraph at lines 20904--20904
+[]|\TU/lmr/bx/n/10 Negative|  
+ []
+
+[472] [473] [474]
+Chapter 18.
+File: ./images/nicu_nrp-reference-chart.png Graphic file (type bmp)
+<./images/nicu_nrp-reference-chart.png>
+File: ./images/nicu_nrp-equipment-checklist.png Graphic file (type bmp)
+<./images/nicu_nrp-equipment-checklist.png>
+[475
+
+]
+Overfull \hbox (72.34003pt too wide) in alignment at lines 20960--20964
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (72.34003pt too wide) in alignment at lines 20964--20971
+ [] [] [] [] 
+ []
+
+[476]
+Overfull \hbox (55.86455pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 18.2.  NEONATAL RESPIRATORY DISORDERS & DELIVERY ROOM PATHOLOGY
+ \TU/lmr/m/n/10 477
+ []
+
+[477] [478]
+Overfull \hbox (55.86455pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 18.2.  NEONATAL RESPIRATORY DISORDERS & DELIVERY ROOM PATHOLOGY
+ \TU/lmr/m/n/10 479
+ []
+
+[479] [480] [481]
+Underfull \hbox (badness 2591) in paragraph at lines 21374--21376
+[]\TU/lmr/bx/n/10 Increased destruction/consumption: \TU/lmr/m/n/10 Autoimmune,
+ alloimmune
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21374--21376
+\TU/lmr/m/n/10 (NAIT), infection/DIC/NEC, drug-induced/toxicity, hypersplenism,
+
+ []
+
+[482] [483] [484] [485] [486] [487]
+Underfull \hbox (badness 6641) in paragraph at lines 21829--21830
+[]\TU/lmr/bx/n/10 Risk factors: \TU/lmr/m/n/10 Prematurity, IUGR, preinatal asp
+hyxia, PDA,
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 21829--21830
+\TU/lmr/m/n/10 shock/hypotension, umbilical arterial catheter (UAC), congenital
+
+ []
+
+[488] [489] [490]
+Chapter 19.
+
+Underfull \hbox (badness 3291) in paragraph at lines 22083--22084
+ \TU/lmr/bx/n/10 19.2.1.1.1 Presentation[] \TU/lmr/m/n/10 Non-specific/constitu
+tional, bone pain, fever,
+ []
+
+[491
+
+]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 土 in font [lmroman10-regular]:mapping=tex-text;!
+[492] [493]
+Underfull \hbox (badness 1325) in paragraph at lines 22251--22252
+ \TU/lmr/bx/n/10 19.2.1.3.6 Outcomes/Prognosis[] \TU/lmr/m/n/10 Poor. 3 yr OS ~
+65%, EFS ~45%
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[494]
+Underfull \hbox (badness 3312) in paragraph at lines 22370--22371
+[]\TU/lmr/m/n/10 Associated with neurofibromatosis, Li-Fraumeni (anaplastic RMS
+),
+ []
+
+[495]
+Underfull \hbox (badness 10000) in paragraph at lines 22448--22449
+ \TU/lmr/bx/n/10 19.2.2.2.5 Outcomes/Prognosis[] \TU/lmr/m/n/10 Localized ~60-7
+0% 3 year EFS.
+ []
+
+[496]
+Underfull \hbox (badness 1454) in paragraph at lines 22488--22488
+[]\TU/lmr/bx/n/12 Nervous System Tumors, managed by Neuro-
+ []
+
+[497] [498]
+Underfull \hbox (badness 1038) in paragraph at lines 22632--22633
+[]\TU/lmr/m/n/10 Bilateral disease 5-7%; if bilateral, more likely to have asso
+ciated
+ []
+
+[499] [500]
+Overfull \hbox (2487.63014pt too wide) in paragraph at lines 22799--22820
+ [][] 
+ []
+
+
+Overfull \hbox (5.259pt too wide) in paragraph at lines 22857--22857
+[]|\TU/lmr/m/n/10 Mechanism|  
+ []
+
+
+Overfull \hbox (116.0695pt too wide) in paragraph at lines 22857--22857
+[]|\TU/lmr/m/n/10 Pharma/Metabolism/Excretion|  
+ []
+
+
+Overfull \hbox (15.6695pt too wide) in paragraph at lines 22860--22860
+[]|\TU/lmr/m/n/10 Imatinib|  
+ []
+
+
+Overfull \hbox (0.5495pt too wide) in paragraph at lines 22860--22860
+[]|\TU/lmr/m/n/10 Liver|  
+ []
+
+
+Overfull \hbox (3.599pt too wide) in paragraph at lines 22860--22860
+\TU/lmr/m/n/10 pubescent)|  
+ []
+
+
+Overfull \hbox (20.30951pt too wide) in paragraph at lines 22861--22861
+[]|\TU/lmr/m/n/10 Dasatinib|  
+ []
+
+
+Overfull \hbox (0.5495pt too wide) in paragraph at lines 22861--22861
+[]|\TU/lmr/m/n/10 Liver|  
+ []
+
+
+Overfull \hbox (13.80116pt too wide) in paragraph at lines 22861--22861
+[]|\TU/lmr/m/n/10 Myelosuppression 
+ []
+
+
+Overfull \hbox (4.18901pt too wide) in paragraph at lines 22861--22861
+[]|\TU/lmr/m/n/10 Pulmonary 
+ []
+
+
+Overfull \hbox (19.0395pt too wide) in paragraph at lines 22862--22862
+[]|\TU/lmr/m/n/10 Sorafenib|  
+ []
+
+
+Overfull \hbox (0.5495pt too wide) in paragraph at lines 22862--22862
+[]|\TU/lmr/m/n/10 Liver|  
+ []
+
+
+Overfull \hbox (22.08951pt too wide) in paragraph at lines 22863--22863
+[]|\TU/lmr/m/n/10 Crizotinib|  
+ []
+
+
+Overfull \hbox (13.81866pt too wide) in paragraph at lines 22863--22863
+[]|\TU/lmr/m/n/10 Lymphoma 
+ []
+
+
+Overfull \hbox (0.5495pt too wide) in paragraph at lines 22863--22863
+[]|\TU/lmr/m/n/10 Liver|  
+ []
+
+
+Overfull \hbox (87.2995pt too wide) in paragraph at lines 22864--22864
+[]|\TU/lmr/m/n/10 Entrectinib/Iarotrectinib|  
+ []
+
+
+Overfull \hbox (0.90868pt too wide) in paragraph at lines 22864--22864
+[]|\TU/lmr/m/n/10 Infantile 
+ []
+
+
+Overfull \hbox (0.5495pt too wide) in paragraph at lines 22864--22864
+[]|\TU/lmr/m/n/10 Liver|  
+ []
+
+
+Overfull \hbox (24.69951pt too wide) in paragraph at lines 22865--22865
+[]|\TU/lmr/m/n/10 Rituximab|  
+ []
+
+
+Overfull \hbox (6.889pt too wide) in paragraph at lines 22865--22865
+[]|\TU/lmr/m/n/10 Monoclonal 
+ []
+
+
+Overfull \hbox (11.179pt too wide) in paragraph at lines 22865--22865
+[]|\TU/lmr/m/n/10 Reactivation 
+ []
+
+
+Overfull \hbox (35.8195pt too wide) in paragraph at lines 22866--22866
+[]|\TU/lmr/m/n/10 Dinutuximab 
+ []
+
+
+Overfull \hbox (17.2695pt too wide) in paragraph at lines 22866--22866
+\TU/lmr/m/n/10 (ch14.18)|  
+ []
+
+
+Overfull \hbox (6.889pt too wide) in paragraph at lines 22866--22866
+[]|\TU/lmr/m/n/10 Monoclonal 
+ []
+
+
+Overfull \hbox (41.5095pt too wide) in paragraph at lines 22867--22867
+[]|\TU/lmr/m/n/10 blinatumomab|  
+ []
+
+
+Overfull \hbox (30.6695pt too wide) in paragraph at lines 22868--22868
+[]|\TU/lmr/m/n/10 Inotuzumab 
+ []
+
+
+Overfull \hbox (12.0495pt too wide) in paragraph at lines 22868--22868
+\TU/lmr/m/n/10 gomicin|  
+ []
+
+
+Overfull \hbox (1.94118pt too wide) in paragraph at lines 22868--22868
+[]|\TU/lmr/m/n/10 Hepatotoxicity, 
+ []
+
+[501] [502]
+Underfull \hbox (badness 2126) in paragraph at lines 22901--22903
+[]\TU/lmr/bx/n/10 Allopurinol \TU/lmr/m/n/10 competitively inhibits xanthine ox
+idase, blocking the
+ []
+
+[503] [504]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[505]
+Underfull \hbox (badness 10000) in paragraph at lines 23081--23082
+
+ []
+
+[506]
+
+Package natbib Warning: Citation `48-72' on page 507 undefined on input line 23
+160.
+
+[507] [508] [509] [510] [511] [512] [513] [514]
+Chapter 20.
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+[515
+
+]
+Overfull \hbox (70.17601pt too wide) in paragraph at lines 23765--23766
+[]\TU/lmr/bx/n/10 PCA notation: \TU/lmr/m/n/10 e.g. morphine PCA for 15kg pt → 
+0.375mg/12min/0.225mg/hr/1.5mg/hr 
+ []
+
+[516] [517] [518]
+Chapter 21.
+[519
+
+]
+Overfull \vbox (2.59888pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (33.51341pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 520 \TU/lmr/m/sl/10 CHAPTER 21.  PEDIATRIC ADVANCED CARE TEAM (P
+ACT) “CODE CARD”
+ []
+
+[520]
+Overfull \hbox (6.88843pt too wide) in paragraph at lines 24018--24018
+[]|\TU/lmr/m/n/10 Oxycodone|  
+ []
+
+
+Overfull \hbox (28.89844pt too wide) in paragraph at lines 24019--24019
+[]|\TU/lmr/m/n/10 Hydromorphone|  
+ []
+
+[521]
+Overfull \hbox (18.80879pt too wide) in paragraph at lines 24143--24143
+[]|\TU/lmr/m/n/10 Gabapentanoids: 
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (16.32878pt too wide) in paragraph at lines 24145--24145
+[]|\TU/lmr/m/n/10 Antispasmodics: 
+ []
+
+
+Overfull \hbox (33.51341pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 522 \TU/lmr/m/sl/10 CHAPTER 21.  PEDIATRIC ADVANCED CARE TEAM (P
+ACT) “CODE CARD”
+ []
+
+[522]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[523]
+Overfull \hbox (33.51341pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 524 \TU/lmr/m/sl/10 CHAPTER 21.  PEDIATRIC ADVANCED CARE TEAM (P
+ACT) “CODE CARD”
+ []
+
+[524] [525]
+Overfull \hbox (33.51341pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 526 \TU/lmr/m/sl/10 CHAPTER 21.  PEDIATRIC ADVANCED CARE TEAM (P
+ACT) “CODE CARD”
+ []
+
+[526] [527]
+Overfull \hbox (33.51341pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 528 \TU/lmr/m/sl/10 CHAPTER 21.  PEDIATRIC ADVANCED CARE TEAM (P
+ACT) “CODE CARD”
+ []
+
+[528
+
+]
+Chapter 22.
+
+Overfull \hbox (14.84872pt too wide) in paragraph at lines 24378--24378
+[]|\TU/lmr/m/n/10 First 
+ []
+
+
+Overfull \hbox (14.56873pt too wide) in paragraph at lines 24378--24378
+\TU/lmr/m/n/10 Visit|  
+ []
+
+
+Overfull \hbox (7.38873pt too wide) in paragraph at lines 24379--24379
+[]|\TU/lmr/m/n/10 2m|  
+ []
+
+
+Overfull \hbox (7.38873pt too wide) in paragraph at lines 24380--24380
+[]|\TU/lmr/m/n/10 4m|  
+ []
+
+
+Overfull \hbox (7.38873pt too wide) in paragraph at lines 24381--24381
+[]|\TU/lmr/m/n/10 6m|  
+ []
+
+
+Overfull \hbox (7.38873pt too wide) in paragraph at lines 24382--24382
+[]|\TU/lmr/m/n/10 9m|  
+ []
+
+
+Overfull \hbox (12.38873pt too wide) in paragraph at lines 24383--24383
+[]|\TU/lmr/m/n/10 12m|  
+ []
+
+
+Overfull \hbox (12.38873pt too wide) in paragraph at lines 24384--24384
+[]|\TU/lmr/m/n/10 15m|  
+ []
+
+
+Overfull \hbox (12.38873pt too wide) in paragraph at lines 24385--24385
+[]|\TU/lmr/m/n/10 18m|  
+ []
+
+
+Overfull \hbox (4.33873pt too wide) in paragraph at lines 24386--24386
+[]|\TU/lmr/m/n/10 2y|  
+ []
+
+
+Overfull \hbox (4.33873pt too wide) in paragraph at lines 24387--24387
+[]|\TU/lmr/m/n/10 3y|  
+ []
+
+
+Overfull \hbox (4.33873pt too wide) in paragraph at lines 24388--24388
+[]|\TU/lmr/m/n/10 4y|  
+ []
+
+
+Overfull \hbox (19.61873pt too wide) in paragraph at lines 24389--24389
+[]|\TU/lmr/m/n/10 5y/6y|  
+ []
+
+[529] [530] [531] [532] [533]
+Underfull \hbox (badness 1852) in paragraph at lines 24543--24545
+[]\TU/lmr/m/n/10 When to call: jaundice, temperature >100.4F, decreased feeding
+,
+ []
+
+[534] [535] [536] [537] [538] [539] [540]
+Underfull \hbox (badness 2478) in paragraph at lines 24923--24925
+[]\TU/lmr/m/n/10 Development: Develop daily routine, focus on positive reinforc
+e-
+ []
+
+[541] [542] [543] [544] [545] [546] [547] [548] [549] [550] [551]
+File: ./images/vaccine_schedule.png Graphic file (type bmp)
+<./images/vaccine_schedule.png>
+File: ./images/CHPCC_vaccine_schedule.jpg Graphic file (type bmp)
+<./images/CHPCC_vaccine_schedule.jpg>
+File: ./images/CHPCC_screening_schedule.png Graphic file (type bmp)
+<./images/CHPCC_screening_schedule.png>
+[552] [553]
+Underfull \hbox (badness 5578) in paragraph at lines 25489--25489
+[]\TU/lmr/bx/n/14.4 BMC Clinic Screening Questionnaire
+ []
+
+File: ./images/Primary_care_BMC_clinic_screening.png Graphic file (type bmp)
+<./images/Primary_care_BMC_clinic_screening.png>
+
+Underfull \hbox (badness 1005) in paragraph at lines 25498--25498
+[]\TU/lmr/bx/n/14.4 Autism Management in Primary Care
+ []
+
+[554] [555] [556]
+Overfull \hbox (3.58075pt too wide) in paragraph at lines 25689--25689
+[]|\TU/lmr/m/n/10 Drug 
+ []
+
+
+Overfull \hbox (6.73076pt too wide) in paragraph at lines 25689--25689
+\TU/lmr/m/n/10 Name|  
+ []
+
+
+Overfull \hbox (20.81076pt too wide) in paragraph at lines 25689--25689
+[]|\TU/lmr/m/n/10 Duration 
+ []
+
+
+Overfull \hbox (11.61075pt too wide) in paragraph at lines 25692--25692
+[]|\TU/lmr/m/n/10 Ritalin|  
+ []
+
+
+Overfull \hbox (11.61075pt too wide) in paragraph at lines 25693--25693
+[]|\TU/lmr/m/n/10 Ritalin 
+ []
+
+
+Overfull \hbox (13.00076pt too wide) in paragraph at lines 25694--25694
+[]|\TU/lmr/m/n/10 Focalin|  
+ []
+
+
+Overfull \hbox (13.00076pt too wide) in paragraph at lines 25695--25695
+[]|\TU/lmr/m/n/10 Focalin 
+ []
+
+
+Overfull \hbox (20.93076pt too wide) in paragraph at lines 25696--25696
+[]|\TU/lmr/m/n/10 Concerta|  
+ []
+
+[557]
+Overfull \hbox (3.58075pt too wide) in paragraph at lines 25711--25711
+[]|\TU/lmr/m/n/10 Drug 
+ []
+
+
+Overfull \hbox (6.73076pt too wide) in paragraph at lines 25711--25711
+\TU/lmr/m/n/10 Name|  
+ []
+
+
+Overfull \hbox (11.54114pt too wide) in paragraph at lines 25711--25711
+[]|\TU/lmr/m/n/10 Duration 
+ []
+
+
+Overfull \hbox (18.72075pt too wide) in paragraph at lines 25714--25714
+[]|\TU/lmr/m/n/10 Adderall|  
+ []
+
+
+Overfull \hbox (18.72075pt too wide) in paragraph at lines 25715--25715
+[]|\TU/lmr/m/n/10 Adderall 
+ []
+
+
+Overfull \hbox (17.07076pt too wide) in paragraph at lines 25716--25716
+[]|\TU/lmr/m/n/10 Vyvanse|  
+ []
+
+[558]
+Overfull \hbox (0.54944pt too wide) in paragraph at lines 25736--25736
+\TU/lmr/m/n/10 Name|  
+ []
+
+
+Overfull \hbox (30.82944pt too wide) in paragraph at lines 25739--25739
+[]|\TU/lmr/m/n/10 Atomoxetine 
+ []
+
+
+Overfull \hbox (1.91943pt too wide) in paragraph at lines 25739--25739
+\TU/lmr/m/n/10 (Strat- 
+ []
+
+
+Overfull \hbox (11.54114pt too wide) in paragraph at lines 25754--25754
+[]|\TU/lmr/m/n/10 Duration 
+ []
+
+
+Overfull \hbox (7.68982pt too wide) in paragraph at lines 25757--25757
+[]|\TU/lmr/m/n/10 Clonidine 
+ []
+
+
+Overfull \hbox (15.25981pt too wide) in paragraph at lines 25758--25758
+[]|\TU/lmr/m/n/10 Guanfacine 
+ []
+
+[559] [560]
+Missing character: There is no ⅓ in font [lmroman10-regular]:mapping=tex-text;!
+[561]
+Overfull \hbox (3.20824pt too wide) in alignment at lines 25933--25937
+ [] [] [] 
+ []
+
+
+Overfull \hbox (11.04019pt too wide) in paragraph at lines 25939--25939
+[]|\TU/lmr/m/n/10 Fluvoxamine 
+ []
+
+
+Overfull \hbox (1.04019pt too wide) in paragraph at lines 25940--25940
+[]|\TU/lmr/m/n/10 Fluoxetine 
+ []
+
+
+Overfull \hbox (12.5102pt too wide) in paragraph at lines 25941--25941
+[]|\TU/lmr/m/n/10 Escitalopram 
+ []
+
+
+Overfull \hbox (4.54019pt too wide) in paragraph at lines 25942--25942
+[]|\TU/lmr/m/n/10 Citalopram 
+ []
+
+
+Overfull \hbox (3.20824pt too wide) in alignment at lines 25937--25944
+ [] [] [] 
+ []
+
+[562] [563]
+Overfull \hbox (4.88765pt too wide) in paragraph at lines 25956--25956
+[]|\TU/lmr/m/n/10 Range|  
+ []
+
+
+Overfull \hbox (6.08882pt too wide) in paragraph at lines 25960--25960
+[]|\TU/lmr/m/n/10 Escitalopram 
+ []
+
+[564] [565]
+Underfull \hbox (badness 3568) in paragraph at lines 26049--26049
+[]\TU/lmr/bx/n/14.4 BMC Pediatrics Specialty Outpatient
+ []
+
+[566] [567] [568] [569] [570]
+Chapter 23.
+[571
+
+] [572] [573]
+Overfull \hbox (23.12059pt too wide) in paragraph at lines 26439--26439
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+
+Overfull \hbox (16.69922pt too wide) in paragraph at lines 26439--26440
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+
+Overfull \hbox (23.12059pt too wide) in paragraph at lines 26441--26441
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+
+Overfull \hbox (16.69922pt too wide) in paragraph at lines 26441--26442
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+
+Overfull \hbox (23.12059pt too wide) in paragraph at lines 26442--26442
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+
+Overfull \hbox (16.69922pt too wide) in paragraph at lines 26442--26443
+[]|\TU/lmr/m/n/10 Diphenhydramine 
+ []
+
+[574]
+Overfull \hbox (18.06197pt too wide) in paragraph at lines 26464--26464
+[]|\TU/lmr/m/n/10 Administration 
+ []
+
+
+Overfull \hbox (1.09195pt too wide) in paragraph at lines 26467--26467
+[]|\TU/lmr/m/n/10 Subsequent 
+ []
+
+[575] [576]
+Underfull \hbox (badness 1024) in paragraph at lines 26522--26523
+\TU/lmr/m/n/10 Sympathomimetics, antiasthmatics, antiparkinsonian agents, hypog
+lycemic
+ []
+
+
+Overfull \hbox (2.9792pt too wide) in paragraph at lines 26538--26538
+\TU/lmr/m/n/10 (18yo+)/family 
+ []
+
+[577]
+Missing character: There is no ⅔ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⅔ in font [lmroman10-regular]:mapping=tex-text;!
+[578]
+Underfull \hbox (badness 10000) in paragraph at lines 26624--26624
+[]\TU/lmr/bx/n/12 Serotonin-Norepinephrine Reuptake Inhibitors
+ []
+
+[579]
+Overfull \hbox (4.59903pt too wide) in paragraph at lines 26664--26666
+\TU/lmr/m/n/10 3° amines: -Amitriptyline (pain/migraines), Imipramine (enuresis
+), clomipramine
+ []
+
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 3138) in paragraph at lines 26670--26675
+\TU/lmr/m/n/10 Tri-C’s: CNS toxicity (Convulsions/Coma), Cardiotoxicity (arrhyt
+hmia
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 26670--26675
+\TU/lmr/m/n/10 myocardium, alkalinize urine Confusion/hallucinations in elderly
+ due to
+ []
+
+[580]
+Underfull \hbox (badness 8056) in paragraph at lines 26707--26707
+[]\TU/lmr/bx/n/12 Norepinephrine-Dopamine Reuptake Inhibitors
+ []
+
+[581]
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+[582]
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 2538) in paragraph at lines 26818--26820
+\TU/lmr/m/n/10 Chlorpromazine,(Corneal deposition), Thioridazine(reTinal deposi
+tion) →
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 26818--26820
+\TU/lmr/bx/n/10 C\TU/lmr/m/n/10 heating \TU/lmr/bx/n/10 T\TU/lmr/m/n/10 hieves 
+are \TU/lmr/bx/n/10 LOW \TU/lmr/m/n/10 - Blocks HAM – Histamine (sedation), α1
+ []
+
+
+Overfull \hbox (5.48811pt too wide) in paragraph at lines 26834--26834
+[]|\TU/lmr/m/n/10 ADAPT|  
+ []
+
+
+Overfull \hbox (4.23076pt too wide) in paragraph at lines 26834--26834
+[]|\TU/lmr/m/n/10 Time|  
+ []
+
+
+Overfull \hbox (0.96075pt too wide) in paragraph at lines 26837--26837
+\TU/lmr/m/n/10 days|  
+ []
+
+
+Overfull \hbox (10.82811pt too wide) in paragraph at lines 26838--26838
+[]|\TU/lmr/m/n/10 Akathisia|  
+ []
+
+
+Overfull \hbox (3.04076pt too wide) in paragraph at lines 26838--26838
+[]|\TU/lmr/m/n/10 Days 
+ []
+
+
+Overfull \hbox (27.71811pt too wide) in paragraph at lines 26839--26839
+[]|\TU/lmr/m/n/10 Parkinsonism|  
+ []
+
+
+Overfull \hbox (4.70076pt too wide) in paragraph at lines 26839--26839
+[]|\TU/lmr/m/n/10 Days- 
+ []
+
+
+Overfull \hbox (2.18811pt too wide) in paragraph at lines 26840--26840
+[]|\TU/lmr/m/n/10 Tardive 
+ []
+
+
+Overfull \hbox (1.23076pt too wide) in paragraph at lines 26840--26840
+[]|\TU/lmr/m/n/10 Mos- 
+ []
+
+[583] [584]
+Overfull \hbox (2.16002pt too wide) in paragraph at lines 26902--26904
+[]\TU/lmr/m/n/10 Drug of choice in acute mania and as prophylaxis for both mani
+c/depressive
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 26916--26923
+\TU/lmr/bx/n/10 Lithium toxicity\TU/lmr/m/n/10 : nephrogenic diabetes insipidus
+, thyroid dysfunction,
+ []
+
+[585] [586]
+Underfull \hbox (badness 1424) in paragraph at lines 26985--26988
+\TU/lmr/m/n/10 half-lives/active metabolites (except: Alprazolam, Triazolam, Ox
+azepam,
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 26992--26993
+\TU/lmr/m/n/10 Anxiety, akathisia, spasticity, status epilepticus (Lorazepam, d
+iazepam),
+ []
+
+[587] [588]
+Underfull \hbox (badness 2042) in paragraph at lines 27097--27098
+\TU/lmr/m/n/10 Mild-moderate dementias (neurocognitive disorders) → ex: Alzheim
+er’s
+ []
+
+[589]
+Overfull \hbox (5.46982pt too wide) in paragraph at lines 27155--27155
+ []|\TU/lmr/m/n/10 Modality| 
+ []
+
+
+Overfull \hbox (26.99208pt too wide) in paragraph at lines 27155--27155
+ []|\TU/lmr/m/n/10 Duration| 
+ []
+
+
+Overfull \hbox (7.67981pt too wide) in paragraph at lines 27158--27158
+ []|\TU/lmr/m/n/10 Cognitive 
+ []
+
+
+Overfull \hbox (10.41208pt too wide) in paragraph at lines 27158--27158
+ []|\TU/lmr/m/n/10 Time 
+ []
+
+
+Overfull \hbox (3.19208pt too wide) in paragraph at lines 27158--27158
+ \TU/lmr/m/n/10 lim- 
+ []
+
+
+Overfull \hbox (4.31207pt too wide) in paragraph at lines 27158--27158
+ \TU/lmr/m/n/10 ited| 
+ []
+
+
+Overfull \hbox (11.97981pt too wide) in paragraph at lines 27159--27159
+ []|\TU/lmr/m/n/10 Dialectical 
+ []
+
+
+Overfull \hbox (14.39207pt too wide) in paragraph at lines 27159--27159
+ []|\TU/lmr/m/n/10 Varies| 
+ []
+
+
+Overfull \hbox (23.6298pt too wide) in paragraph at lines 27160--27160
+ []|\TU/lmr/m/n/10 Interpersonal 
+ []
+
+
+Overfull \hbox (10.41208pt too wide) in paragraph at lines 27160--27160
+ []|\TU/lmr/m/n/10 Time 
+ []
+
+
+Overfull \hbox (3.19208pt too wide) in paragraph at lines 27160--27160
+ \TU/lmr/m/n/10 lim- 
+ []
+
+
+Overfull \hbox (4.31207pt too wide) in paragraph at lines 27160--27160
+ \TU/lmr/m/n/10 ited| 
+ []
+
+
+Overfull \hbox (13.55981pt too wide) in paragraph at lines 27161--27161
+ []|\TU/lmr/m/n/10 Supportive 
+ []
+
+
+Overfull \hbox (24.32208pt too wide) in paragraph at lines 27161--27161
+ []|\TU/lmr/m/n/10 Ongoing| 
+ []
+
+
+Overfull \hbox (21.57982pt too wide) in paragraph at lines 27162--27162
+ []|\TU/lmr/m/n/10 Motivational 
+ []
+
+
+Overfull \hbox (14.39207pt too wide) in paragraph at lines 27162--27162
+ []|\TU/lmr/m/n/10 Varies| 
+ []
+
+
+Overfull \hbox (18.36981pt too wide) in paragraph at lines 27163--27163
+ []|\TU/lmr/m/n/10 Biofeedback| 
+ []
+
+
+Overfull \hbox (14.39207pt too wide) in paragraph at lines 27163--27163
+ []|\TU/lmr/m/n/10 Varies| 
+ []
+
+[590]
+Chapter 24.
+
+Overfull \hbox (3.39091pt too wide) in paragraph at lines 27192--27193
+\TU/lmr/m/n/10 Trigger → Production of IgE antibodies, overstimulation of mast 
+cells/eosinophils
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 27192--27193
+\TU/lmr/m/n/10 → hyper-responsiveness of airway, obstruction, air-trapping → ai
+rway
+ []
+
+[591
+
+] [592]
+Overfull \hbox (3.39091pt too wide) in paragraph at lines 27277--27278
+\TU/lmr/m/n/10 Trigger → Production of IgE antibodies, overstimulation of mast 
+cells/eosinophils
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 27277--27278
+\TU/lmr/m/n/10 → hyper-responsiveness of airway, obstruction, air-trapping → ai
+rway
+ []
+
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[593]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[594]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[595] [596]
+File: ./images/pulm_cough.png Graphic file (type bmp)
+<./images/pulm_cough.png>
+[597] [598]
+Underfull \hbox (badness 6204) in paragraph at lines 27551--27552
+[]\TU/lmr/m/n/10 Pseudomonas aeruginosa: aztreonam, cefepime, ceftazidime,
+ []
+
+
+Overfull \hbox (37.26599pt too wide) in paragraph at lines 27551--27552
+\TU/lmr/m/n/10 ciprofloxacin, colistimethate, meropenem/imipenem, piperacillin/
+tazobactam,
+ []
+
+
+Overfull \hbox (96.0pt too wide) in paragraph at lines 27588--27588
+[]|\TU/lmr/m/n/10 OtotoxicityNephrotoxicityPhototoxicity|  
+ []
+
+
+Overfull \hbox (96.0pt too wide) in paragraph at lines 27589--27589
+[]|\TU/lmr/m/n/10 OtotoxicityNephrotoxicityPhototoxicity|  
+ []
+
+
+Overfull \hbox (17.22pt too wide) in paragraph at lines 27590--27590
+[]|\TU/lmr/m/n/10 MeropenemImipenem|  
+ []
+
+
+Overfull \hbox (34.42pt too wide) in paragraph at lines 27596--27596
+[]|\TU/lmr/m/n/10 Tigecycline**Minocycline|  
+ []
+
+[599] [600] [601] [602] [603]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[604] [605] [606]
+File: ./images/pulm_obstructive.jpg Graphic file (type bmp)
+<./images/pulm_obstructive.jpg>
+File: ./images/pulm_restrictive.jpg Graphic file (type bmp)
+<./images/pulm_restrictive.jpg>
+[607]
+Underfull \hbox (badness 10000) in paragraph at lines 28059--28059
+[]\TU/lmr/bx/n/14.4 Bronchodilator/Bronchoprovocation
+ []
+
+[608]
+Overfull \hbox (19.99344pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 24.15.  EVALI (E-CIGARETTE AND VAPING ASSOCIATED LUNG INJURY) \
+TU/lmr/m/n/10 609
+ []
+
+[609] [610
+
+]
+Chapter 25.
+[611] [612] [613]
+Overfull \hbox (14.33092pt too wide) in paragraph at lines 28253--28253
+[]|\TU/lmr/m/n/10 Symptoms/Signs|  
+ []
+
+
+Overfull \hbox (4.23091pt too wide) in paragraph at lines 28257--28257
+[]|\TU/lmr/m/n/10 FemalesHigher 
+ []
+
+
+Overfull \hbox (7.7109pt too wide) in paragraph at lines 28257--28257
+[]|\TU/lmr/m/n/10 Granulomatous 
+ []
+
+
+Overfull \hbox (27.65091pt too wide) in paragraph at lines 28257--28258
+[]|\TU/lmr/m/n/10 SteroidsAntiplatelet 
+ []
+
+
+Overfull \hbox (3.03091pt too wide) in paragraph at lines 28259--28259
+[]|\TU/lmr/bx/n/10 Polyarteritis 
+ []
+
+
+Overfull \hbox (7.34091pt too wide) in paragraph at lines 28259--28259
+\TU/lmr/m/n/10 uria/hematuria|  
+ []
+
+
+Overfull \hbox (135.2409pt too wide) in paragraph at lines 28259--28260
+[]|\TU/lmr/m/n/10 SteroidsCyclophosphamide/azathioprineanti- 
+ []
+
+
+Overfull \hbox (30.3009pt too wide) in paragraph at lines 28260--28261
+[]|\TU/lmr/m/n/10 IVIGAspirinSteroids|  
+ []
+
+
+Overfull \hbox (67.01091pt too wide) in paragraph at lines 28262--28263
+[]|\TU/lmr/m/n/10 SteroidsCyclophosRituximab|  
+ []
+
+
+Overfull \hbox (19.03091pt too wide) in paragraph at lines 28263--28263
+[]|\TU/lmr/bx/n/10 Granulomatosis 
+ []
+
+
+Overfull \hbox (29.70091pt too wide) in paragraph at lines 28263--28263
+[]|\TU/lmr/m/n/10 Hemoptysis/alveolar 
+ []
+
+
+Overfull \hbox (19.6909pt too wide) in paragraph at lines 28263--28263
+\TU/lmr/m/n/10 ANCANecrotizing 
+ []
+
+
+Overfull \hbox (7.34091pt too wide) in paragraph at lines 28263--28263
+\TU/lmr/m/n/10 uria/hematuria 
+ []
+
+
+Overfull \hbox (83.6009pt too wide) in paragraph at lines 28263--28264
+[]|\TU/lmr/m/n/10 MTXSteroidsRTX/CYCPheresis 
+ []
+
+
+Overfull \hbox (1.2409pt too wide) in paragraph at lines 28264--28264
+[]|\TU/lmr/bx/n/10 Eosinophilic 
+ []
+
+
+Overfull \hbox (18.50092pt too wide) in paragraph at lines 28264--28264
+\TU/lmr/m/n/10 tis,sinusitisPeriph. 
+ []
+
+
+Overfull \hbox (83.2709pt too wide) in paragraph at lines 28264--28264
+\TU/lmr/m/n/10 ANCAEosinophiliaExtravascular 
+ []
+
+
+Overfull \hbox (79.37091pt too wide) in paragraph at lines 28264--28265
+[]|\TU/lmr/m/n/10 SteroidsCyclophosMepolizumab|  
+ []
+
+
+Overfull \hbox (51.3509pt too wide) in paragraph at lines 28265--28265
+\TU/lmr/m/n/10 tis/arthralgiasAbdominal 
+ []
+
+
+Overfull \hbox (103.48091pt too wide) in paragraph at lines 28265--28266
+[]|\TU/lmr/m/n/10 SupportiveNSAIDsHydrationSteroids|  
+ []
+
+
+Overfull \hbox (61.3509pt too wide) in paragraph at lines 28266--28267
+\TU/lmr/m/n/10 fate/GCs/infliximabUveitis: 
+ []
+
+
+Overfull \hbox (7.2709pt too wide) in paragraph at lines 28266--28267
+\TU/lmr/m/n/10 prine/GCsGCs, 
+ []
+
+[614]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[615]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[616]
+Underfull \hbox (badness 2469) in paragraph at lines 28383--28385
+[]\TU/lmr/m/n/10 Acute, self-limited systemic vasculitis of medium-sized arteri
+es in
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 5607) in paragraph at lines 28414--28416
+[]\TU/lmr/m/it/10 Conjunctivitis\TU/lmr/m/n/10 : Bilateral bulbar conjunctival 
+injection (non-
+ []
+
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+[617]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[618]
+Missing character: There is no ⅓ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1354) in paragraph at lines 28565--28567
+[]\TU/lmr/m/n/10 Skin: livedo reticularis, tender subcutaneous nodules, superfi
+-
+ []
+
+
+Overfull \hbox (2.69902pt too wide) in paragraph at lines 28608--28610
+[]\TU/lmr/m/n/10 Moderate to severe (ex: kidney involvement, proteinuria, neuro
+/cardiac/GI
+ []
+
+[619] [620] [621] [622]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[623]
+Underfull \hbox (badness 1527) in paragraph at lines 28938--28940
+[]\TU/lmr/m/n/10 Mild: No renal/organ involvement→hydroxychloroquine, NSAIDS -
+ []
+
+
+Overfull \hbox (18.00002pt too wide) in paragraph at lines 28944--28945
+[]\TU/lmr/m/n/10 Flares:Steroids + MMF, or cyclophosphamide if already on MMF/a
+zathioprine 
+ []
+
+
+Overfull \hbox (5.57pt too wide) in paragraph at lines 28959--28960
+[]|\TU/lmr/m/n/10 Inflam/neurodegen|  
+ []
+
+[624] [625]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (38.24017pt too wide) in paragraph at lines 29117--29117
+\TU/lmr/m/n/10 articular/Notable 
+ []
+
+
+Overfull \hbox (7.36017pt too wide) in paragraph at lines 29117--29118
+[]|\TU/lmr/m/n/10 Treatment|  
+ []
+
+
+Overfull \hbox (6.40016pt too wide) in paragraph at lines 29120--29120
+[]|\TU/lmr/bx/n/10 Systemic|  
+ []
+
+
+Overfull \hbox (18.18018pt too wide) in paragraph at lines 29120--29120
+[]|\TU/lmr/m/n/10 Polyarticular 
+ []
+
+
+Overfull \hbox (4.76016pt too wide) in paragraph at lines 29120--29120
+[]|\TU/lmr/m/n/10 Recurrent 
+ []
+
+
+Overfull \hbox (0.54018pt too wide) in paragraph at lines 29120--29121
+[]|\TU/lmr/m/n/10 NSAIDS, 
+ []
+
+
+Overfull \hbox (10.14017pt too wide) in paragraph at lines 29122--29122
+[]|\TU/lmr/m/n/10 Symmetric; 
+ []
+
+
+Overfull \hbox (23.76018pt too wide) in paragraph at lines 29122--29122
+\TU/lmr/m/n/10 (e.g. hands)>5 
+ []
+
+
+Overfull \hbox (10.14017pt too wide) in paragraph at lines 29123--29123
+[]|\TU/lmr/m/n/10 Symmetric; 
+ []
+
+
+Overfull \hbox (10.06017pt too wide) in paragraph at lines 29123--29123
+\TU/lmr/m/n/10 (e.g. hands) 
+ []
+
+
+Overfull \hbox (15.26016pt too wide) in paragraph at lines 29123--29123
+[]|\TU/lmr/m/n/10 Rheumatoid 
+ []
+
+
+Overfull \hbox (0.54018pt too wide) in paragraph at lines 29123--29124
+[]|\TU/lmr/m/n/10 NSAIDS, 
+ []
+
+
+Overfull \hbox (6.22017pt too wide) in paragraph at lines 29124--29124
+[]|\TU/lmr/bx/n/10 Psoriatic|  
+ []
+
+
+Overfull \hbox (1.74017pt too wide) in paragraph at lines 29124--29124
+\TU/lmr/m/n/10 “sausage”|  
+ []
+
+
+Overfull \hbox (15.30017pt too wide) in paragraph at lines 29125--29125
+[]|\TU/lmr/bx/n/10 Enthesitis- 
+ []
+
+
+Overfull \hbox (29.32018pt too wide) in paragraph at lines 29125--29125
+[]|\TU/lmr/m/n/10 Sacroiliac/axial|  
+ []
+
+
+Overfull \hbox (0.54018pt too wide) in paragraph at lines 29125--29126
+[]|\TU/lmr/m/n/10 NSAIDS, 
+ []
+
+
+Overfull \hbox (5.17017pt too wide) in paragraph at lines 29125--29126
+\TU/lmr/m/n/10 fasalazine, 
+ []
+
+[626] [627]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[628]
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[629]
+Overfull \hbox (5.69687pt too wide) in alignment at lines 29361--29365
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.55052pt too wide) in paragraph at lines 29367--29367
+[]|\TU/lmr/m/n/10 Mevalonate 
+ []
+
+
+Overfull \hbox (58.45053pt too wide) in paragraph at lines 29372--29372
+[]|\TU/lmr/m/n/10 SerositisPeritonitisRenal 
+ []
+
+
+Overfull \hbox (4.61052pt too wide) in paragraph at lines 29372--29372
+\TU/lmr/m/n/10 edema/pain, 
+ []
+
+
+Overfull \hbox (21.01053pt too wide) in paragraph at lines 29372--29372
+[]|\TU/lmr/m/n/10 LADAbdominal 
+ []
+
+
+Overfull \hbox (4.70053pt too wide) in paragraph at lines 29372--29372
+\TU/lmr/m/n/10 rheaArthral- 
+ []
+
+
+Overfull \hbox (10.01053pt too wide) in paragraph at lines 29372--29372
+[]|\TU/lmr/m/n/10 Sensorineural 
+ []
+
+
+Overfull \hbox (4.05052pt too wide) in paragraph at lines 29373--29373
+[]|\TU/lmr/bx/n/10 Treatment|  
+ []
+
+
+Overfull \hbox (7.79053pt too wide) in paragraph at lines 29373--29373
+[]|\TU/lmr/m/n/10 ColchicineIL- 
+ []
+
+
+Overfull \hbox (57.92053pt too wide) in paragraph at lines 29373--29373
+[]|\TU/lmr/m/n/10 SteroidsEtanerceptSome 
+ []
+
+
+Overfull \hbox (29.45053pt too wide) in paragraph at lines 29373--29373
+[]|\TU/lmr/m/n/10 NSAIDS/GCs/IL- 
+ []
+
+
+Overfull \hbox (46.97052pt too wide) in paragraph at lines 29373--29374
+[]|\TU/lmr/m/n/10 SteroidsTonsillectomy|  
+ []
+
+
+Overfull \hbox (5.69687pt too wide) in alignment at lines 29365--29375
+ [] [] [] [] [] [] 
+ []
+
+[630] [631]
+Underfull \hbox (badness 2277) in paragraph at lines 29378--29378
+[]\TU/lmr/bx/n/12 Autoinflammatory Disorders without Periodic
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 29392--29393
+[]\TU/lmr/m/n/10 Red flags for CRMO (vs. infectious OM) include: clavicular
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 29392--29393
+\TU/lmr/m/n/10 lesions, bilateral/symmetric lesions, concurrent spondylarthri-
+ []
+
+
+Overfull \hbox (0.79001pt too wide) in paragraph at lines 29416--29416
+[]|\TU/lmr/bx/n/10 Glucocorticoids|  
+ []
+
+
+Overfull \hbox (24.76001pt too wide) in paragraph at lines 29417--29417
+[]|\TU/lmr/bx/n/10 Hydroxychloroquine 
+ []
+
+
+Overfull \hbox (17.05pt too wide) in paragraph at lines 29421--29421
+[]|\TU/lmr/bx/n/10 Cyclophosphamide|  
+ []
+
+
+Overfull \hbox (4.43001pt too wide) in paragraph at lines 29423--29423
+\TU/lmr/m/n/10 death)Tocilizumab 
+ []
+
+
+Overfull \hbox (37.01001pt too wide) in paragraph at lines 29425--29425
+\TU/lmr/m/n/10 ies/cytokines/complement|  
+ []
+
+[632] [633] [634]
+Chapter 26.
+
+Underfull \vbox (badness 1048) has occurred while \output is active []
+
+[635
+
+]
+File: ./images/sports_salter-harris-type-i.png Graphic file (type bmp)
+<./images/sports_salter-harris-type-i.png>
+File: ./images/sports_salter-harris-type-ii.png Graphic file (type bmp)
+<./images/sports_salter-harris-type-ii.png>
+File: ./images/sports_salter-harris-type-iii.png Graphic file (type bmp)
+<./images/sports_salter-harris-type-iii.png>
+File: ./images/sports_salter-harris-type-iv.png Graphic file (type bmp)
+<./images/sports_salter-harris-type-iv.png>
+File: ./images/sports_salter-harris-type-v.png Graphic file (type bmp)
+<./images/sports_salter-harris-type-v.png>
+
+Overfull \hbox (6.53174pt too wide) in paragraph at lines 29524--29524
+[]|\TU/lmr/m/n/10 Metaphysis 
+ []
+
+
+Overfull \hbox (18.63861pt too wide) in paragraph at lines 29524--29525
+[]|\TU/lmr/m/n/10 Compression 
+ []
+
+
+Overfull \hbox (1.22174pt too wide) in paragraph at lines 29525--29525
+[]|\TU/lmr/m/n/10 Threatens 
+ []
+
+
+Overfull \hbox (3.85861pt too wide) in paragraph at lines 29526--29526
+\TU/lmr/m/n/10 vs. splint) 
+ []
+
+
+Overfull \hbox (23.09174pt too wide) in paragraph at lines 29526--29526
+[]|\TU/lmr/m/n/10 Immobilization 
+ []
+
+
+Overfull \hbox (5.66861pt too wide) in paragraph at lines 29526--29527
+\TU/lmr/m/n/10 (anatomic 
+ []
+
+[636] [637]
+File: ./images/sports_anatomy-elbow-forearm-wrist.png Graphic file (type bmp)
+<./images/sports_anatomy-elbow-forearm-wrist.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[638]
+Missing character: There is no 👌 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 👍 in font [lmroman10-regular]:mapping=tex-text;!
+[639]
+File: ./images/sports_nursemaids-elbow.png Graphic file (type bmp)
+<./images/sports_nursemaids-elbow.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[640]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[641] [642]
+File: ./images/sports_anatomy-shoulder.png Graphic file (type bmp)
+<./images/sports_anatomy-shoulder.png>
+File: ./images/sports_special-tests-shoulder.png Graphic file (type bmp)
+<./images/sports_special-tests-shoulder.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[643] [644] [645] [646]
+File: ./images/sports_anatomy-hip.png Graphic file (type bmp)
+<./images/sports_anatomy-hip.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[647]
+File: ./images/sports_special-tests-trendelenburg.png Graphic file (type bmp)
+<./images/sports_special-tests-trendelenburg.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[648]
+Underfull \vbox (badness 2334) has occurred while \output is active []
+
+[649]
+File: ./images/sports_scfe.png Graphic file (type bmp)
+<./images/sports_scfe.png>
+[650]
+File: ./images/sports_fai.png Graphic file (type bmp)
+<./images/sports_fai.png>
+
+Underfull \hbox (badness 2119) in paragraph at lines 30183--30185
+[]\TU/lmr/bx/n/10 Exam: \TU/lmr/m/n/10 Pain on hip flexion passively or against
+ resistance, im-
+ []
+
+[651]
+File: ./images/sports_anatomy-knee.png Graphic file (type bmp)
+<./images/sports_anatomy-knee.png>
+
+Underfull \hbox (badness 2452) in paragraph at lines 30219--30220
+[]\TU/lmr/bx/n/10 McMurray test: \TU/lmr/m/n/10 Pain/click w/ knee extension w/
+ tibia inter-
+ []
+
+File: ./images/sports_special-tests-knee.png Graphic file (type bmp)
+<./images/sports_special-tests-knee.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[652] [653] [654] [655]
+File: ./images/sports_anatomy-ankle.png Graphic file (type bmp)
+<./images/sports_anatomy-ankle.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[656] [657]
+File: ./images/sports_special-tests-ottawa-ankle-rules.png Graphic file (type b
+mp)
+<./images/sports_special-tests-ottawa-ankle-rules.png>
+File: ./images/sports_special-tests-ankle.png Graphic file (type bmp)
+<./images/sports_special-tests-ankle.png>
+[658]
+Missing character: There is no ⅓ in font [lmroman10-regular]:mapping=tex-text;!
+[659]
+File: ./images/sports_anatomy-spine.png Graphic file (type bmp)
+<./images/sports_anatomy-spine.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[660]
+File: ./images/sports_special-tests-straight-leg-raise.png Graphic file (type b
+mp)
+<./images/sports_special-tests-straight-leg-raise.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[661]
+File: ./images/sports_scoliosis.png Graphic file (type bmp)
+<./images/sports_scoliosis.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[662]
+File: ./images/sports_spondylolysis-spondylolisthesis.png Graphic file (type bm
+p)
+<./images/sports_spondylolysis-spondylolisthesis.png>
+
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+[663] [664] [665] [666
+
+]
+Chapter 27.
+[667]
+File: ./images/toxidromes_table.jpg Graphic file (type bmp)
+<./images/toxidromes_table.jpg>
+[668] [669] [670]
+Missing character: There is no ≥ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ in font [lmroman10-regular]:mapping=tex-text;!
+[671]
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+[672] [673] [674] [675] [676]
+Overfull \hbox (14.29163pt too wide) in paragraph at lines 31583--31587
+\TU/lmr/m/n/10 *Phase 
+ []
+
+
+Overfull \hbox (14.43163pt too wide) in paragraph at lines 31583--31587
+\TU/lmr/m/n/10 (30min 
+ []
+
+
+Overfull \hbox (14.29163pt too wide) in paragraph at lines 31597--31601
+\TU/lmr/m/n/10 *Phase 
+ []
+
+
+Overfull \hbox (12.74162pt too wide) in paragraph at lines 31597--31601
+\TU/lmr/m/n/10 24h)**  
+ []
+
+
+Overfull \hbox (14.29163pt too wide) in paragraph at lines 31607--31611
+\TU/lmr/m/n/10 *Phase 
+ []
+
+
+Overfull \hbox (11.37163pt too wide) in paragraph at lines 31607--31611
+\TU/lmr/m/n/10 ays)**  
+ []
+
+
+Overfull \hbox (14.29163pt too wide) in paragraph at lines 31620--31624
+\TU/lmr/m/n/10 *Phase 
+ []
+
+
+Overfull \hbox (13.51163pt too wide) in paragraph at lines 31620--31624
+\TU/lmr/m/n/10 wks)**  
+ []
+
+[677] [678] [679]
+Overfull \hbox (30.00003pt too wide) in paragraph at lines 31755--31755
+[]\TU/lmr/bx/n/12 Stimulants (Amphetamines, Cocaine, Ecstasy/MDMA,
+ []
+
+(./bcrp_handbook_bookdown.bbl [680]
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[681
+
+] (./bcrp_handbook_bookdown.aux)
+Package rerunfilecheck Info: File `bcrp_handbook_bookdown.out' has not changed.
+
+(rerunfilecheck)             Checksum: 0DC9CBF5D6E3ABD7B13AAAB87F3D32F2;59055.
+ ) 
+Here is how much of TeX's memory you used:
+ 22732 strings out of 478906
+ 428746 string characters out of 5863364
+ 1064685 words of memory out of 5000000
+ 42088 multiletter control sequences out of 15000+600000
+ 410996 words of font info for 93 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 98i,9n,122p,934b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on bcrp_handbook_bookdown.pdf (681 pages).

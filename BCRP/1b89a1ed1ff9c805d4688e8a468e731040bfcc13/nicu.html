@@ -1,0 +1,50 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>BCRP App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<link rel="apple-touch-icon-precomposed" href="images/bcrp.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" /> 
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="add2home.css">
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery.mobile-1.2.0.min.js"></script>
+	<script src="js/app.js"></script>
+	<script type="application/javascript" src="add2home.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="cacheMe" data-dom-cache="true">
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="cards.html" data-icon="info" data-prefetch>Pocket <br> Resources</a></li>
+            <li><a href="ebm.html" data-icon="file" data-prefetch> <br> EBM </a></li>
+            <li><a href="index.html" class="ui-state-persist ui-btn-active" data-icon="fahome" data-iconpos="notext"> <br> Handbook</a></li>
+            <li><a href="chalktalks.html" data-icon="faplus" data-prefetch>Chalk <br> Talks</a></li>
+            <li><a href="bchbmc.html" data-icon="phone" data-prefetch> <br> BCH/BMC</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div>
+
+<div data-role="content">
+    <ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="Search Handbook..."  data-theme="d">
+        <li data-role="list-divider">NICU</li>
+        <li><a href="pdfs/handbook/nrp.pdf" target="_blank">NRP</a></li>
+        <li><a href="pdfs/handbook/deliveryroom.pdf" target="_blank">Delivery Room Special Circumstances</a></li>
+        <li><a href="pdfs/handbook/nicurespiratory.pdf" target="_blank">NICU Respiratory Disorders</a></li>
+        <li><a href="pdfs/handbook/nicucards.pdf" target="_blank">NICU Cardiology</a></li>
+        <li><a href="pdfs/handbook/nicuheme.pdf" target="_blank">NICU Hematology</a></li>
+        <li><a href="pdfs/handbook/nicuneuro.pdf" target="_blank">NICU Neurology</a></li>
+        <li><a href="pdfs/handbook/nicuid.pdf" target="_blank">NICU Infectious Diseases</a></li>
+        <li><a href="pdfs/handbook/nicuendo.pdf" target="_blank">NICU Endocrinology</a></li>
+        <li><a href="pdfs/handbook/nicugi.pdf" target="_blank">NICU GI/Nutrition</a></li>
+    </ul>
+</div><!-- /content -->
+</div><!-- /page -->
+</body>
+
+</html>

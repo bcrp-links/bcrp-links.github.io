@@ -1,0 +1,25 @@
+---
+title: "testspace"
+author: "Mara Alexeev"
+date: "4/17/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+|**Acute APAP Toxicity** \| \| **Symptoms** \| **Labs** \|
+
+\|---------------------------\|-----------------------------------------------------------------------------------------------------------------------------------------------------------------\|-------------------------------------------------\|
+
+\| **Stage 1**: 0-24 hours \| N/V, diaphoresis, malaise May be asymptomatic \| Labs, PE generally normal \| \| **Stage 2**: 24-72 hours \| Initial symptoms resolve RUQ pain, liver enlargement/tenderness \| AST/ALT, ↑ PT/INR, renal dysfunction, ↑ amylase \| \| **Stage 3**: 72-96 hours \| N/V, diaphoresis return - Jaundice, hepatic encephalopathy, hyperammonemia, bleeding, hypoglycemia, lactic acidosis - Renal failure, multi organ failure, death \| LFTs peak \| \| **Stage 4**: 4-14 days \| Recovery phase Slow normalization of symptoms and lab values (Symptoms typically normalize well before transaminases do) \| Slow normalization \|
+
+| **Acute APAP Toxicity** | **Symptoms**                                  | **Labs**                  |
+|-------------------------|-----------------------------------------------|---------------------------|
+| **Stage 1**: 0-24 hours | N/V, diaphoresis, malaise May be asymptomatic | Labs, PE generally normal |
+|                         |                                               |                           |
+|                         |                                               |                           |
+|                         |                                               |                           |

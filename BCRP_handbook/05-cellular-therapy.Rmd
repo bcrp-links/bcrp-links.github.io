@@ -1,0 +1,207 @@
+# Cellular Therapy
+
+## Introduction
+Hematopoietic Cell Transplantation (HCT) is a powerful intervention that has the potential to cure numerous malignant and non-malignant disorders. For cancer, HCT allows high dose chemotherapy to be used +/- a graft-vs-leukemia effect (if allogeneic). For non-malignant disorders (hemoglobinopathy, immunodeficiency, primary HLH), the HCT can replace genetically defective cells with those that do not have the mutation.
+ 
+As you can imagine, whether you are treating a malignant or non-malignant disorder fundamentally affects how you approach a transplant. For malignant disease, it is more important to use myeloablative conditioning (MAC) to try to completely eliminate all cancer cells. By contrast, when treating a non-malignant disorder, a mixed chimerism may sometimes be sufficient to provide functional cure, and reduced intensity conditioning (RIC) is an option. It is less about eliminating all patient bone marrow cells and more about sneaking in enough that work (note: if too few sneak in, they might be kicked out by patient = “graft failure”).
+ 
+With MAC, there is higher potential for graft-vs-host disease (GvHD), given the high amounts of inflammation that occur, which is usually a precipitating factor for the GvH response. There are also more long-term sequelae of aggressive chemotherapy.
+ 
+RIC is theoretically gentler with regards to GvHD and chemotoxicity. However, as mentioned, it increases the risk of graft failure, which is a scenario where the patient rejects the graft and can lead to disease recurrence with autologous recovery (bad) or pancytopenia (also bad).
+ 
+The major risks of transplant are: chemotoxicity, veno-occlusive disease (VOD), transplant associated thrombotic microangiopathy (TA-TMA), infection, GvHD, and graft failure. We will try to outline the clinical and laboratory signs of these complications in the coming sections, along with the approximate time period after transplant one might expect them. Treatments shown reflect common practice at DFCI, but there is considerable variation across institutions.
+ 
+Overall, transplant outcomes have significantly improved over the past few decades. While we see the sickest patients in our ICU, there are many we don’t see that are now thriving at home.
+ 
+The cell therapy field is also witnessing some exciting innovations. Using gene editing, there are gene-corrected autologous HCTs being tested for a variety of monogenic disorders. Cytotoxic T lymphocyte therapies are being refined for viremia that is refractory to standard treatment. And, of course, how could we fail to mention CAR T?
+
+ 
+
+## Hematopoietic Cell Transplantation (HCT)
+
+### Graft
+
+- CD34+ cells: the hematopoietic stem cells (HSC) that help reconstitute blood cell lineages in a patient
+
+- T-cells: donor T-cells can recognize patient as foreign → GvHD (bad) or graft-vs-leukemia effect = GvL (good); meanwhile, residual host T cells can recognized donor as foreign → graft failure (bad)
+
+- Other mixed immune cells
+
+### Donor Types
+
+*Everyone has a donor; some are more ideal than others*
+ 
+Autologous Donor - self
+
+- To rescue a patient’s hemopoietic system after high-dose chemotherapy for solid tumors (not appropriate for other indications)
+ 
+Allogeneic – Related Donor
+
+- Matched Related Donor (MRD) - biological sibling 
+	- bone marrow aspirated from sibling shortly before planned transplant
+	- cord blood can be used if newly born sibling is known to be a match prior to birth
+	- best outcomes; preferable for HCT for non-malignant disorders to optimize risk:benefit ratio
+- Haplo-identical Donor – biological parent
+	- not first choice but option that is available for most patients
+	- may have pre- or post-transplant T-cell depletion to reduce risk of GvHD (see below)
+ 
+Allogeneic – Unrelated (Matched or Mismatched)
+
+- Sources: peripheral blood stem cells (PBSCs), bone marrow, cord blood  (marrow most common at DFCI)
+- Higher chance of GvHD and graft failure
+- Can T-cell deplete via positive or negative selection
+	- Positive selection – CD34+ HSCs isolated using magnetic beads and are used as product for transfusion (most common for PBSCs)
+	- Negative selection – giving patients serotherapy like anti-thymocyte globulin (ATG) or alemtuzumab (Campath™) to kill the T-cells in the graft
+
+### Conditioning Regimens
+
+- Myeloablative (MAC)
+	- Common regimens: busulfan-fludarabine “Bu/Flu” or Busulfan-Cyclophosphamide “Bu/Cy”
+
+- Reduced Intensity (RIC)
+	- Common regimens: Fludarabine-Melphalan-Campath “Flu/Mel/Campath”
+
+*Considerations based on disease indication and any baseline organ damage*
+
+### Timeline
+
+- Patients are admitted 1-2 weeks before stem cell infusion, during which they have central access placed and receive their conditioning regimen to deplete their hematopoietic cells (max effect delayed per below)
+
+- Stem cell infusion occurs on Day 0; the WBC nadir is usually Day +8-12
+
+- Engraftment (ANC >500 x3 days) generally occurs by Day +14-28 depending on the cell source and conditioning used
+
+- Criteria for discharge: neutrophil engraftment, no active infections, patient able to PO or tolerate NG (usually a 6-week admission at minimum)
+
+
+### Complications
+*All patients experience complications; some are inevitable (e.g. mucositis) and we work through them; others we try hard to avoid (e.g. graft failure)*
+ 
+BEFORE STEM CELL INFUSION
+
+- Anaphylactic/infusion reactions to agents (e.g. DMSO, ATG, Campath™)
+ 
+DURING STEM CELL INFUSION
+
+- Generally uneventful, but watch blood pressure
+ 
+AFTER STEM CELL INFUSION
+
+- Mucositis
+	- Chemotherapy kills the mucosal layer in the GI tract; extremely painful; patients can’t eat and require TPN for a period of time
+- Pancytopenia (before engraftment occurs)
+	- Infection, anemia, and bleeding risks
+	- Handle with transfusions and infection prophylaxis
+	- Aid neutrophil recovery by giving Filgrastim
+- Graft-vs-host Disease
+	- Risk factors: HLA mismatch, MAC, non-CD34 selected PBSC graft
+	- Acute GvHD usually onsets within the first 100 days
+		- Skin rash, diarrhea, liver toxicity (not necessarily all)
+	- Chronic GvHD onsets after Day +100
+		- More scleroderma like, lung disease (bronchiolitis obliterans), joint pain 
+	- Prophylaxis with: Calcineurin inhibitor (Cyclosporine >> tacrolimus) + methotrexate (MTX) or CellCept (MMF)
+	- Treatment with: steroids
+- Veno-occlusive Disease (a.k.a. SOS)
+	- Risk factors: MAC, busulfan, pre-existing liver dysfunction
+	- Usually onsets within first 28 days of transplant
+	- Warning signs: weight gain, ascites, painful hepatomegaly, rising LFTs, persistent thrombocytopenia
+	- May need PICU admission for hepatopulmonary or hepatorenal syndrome (respiratory failure, AKI)
+	- Prophylaxis with: ursodiol, Vit-E
+	- Treatment with: defibrotide
+- Transplant-associated Thrombotic Microangiopathy (TA-TMA)
+	- Systemic endothelial injury → Coombs negative hemolysis (schistocytes!), platelet aggregation with microvascular thrombi (possible organ damage), and subsequent thrombocytopenia
+	- Possible signs: *de novo* anemia and thrombocytopenia, schistocytes, new hypertension, elevated LDH, proteinuria, and terminal complement activation (sC5b-C9)
+	- Treatment: eculizumab (terminal complement inhibitor)
+- Graft Failure (GF)
+	- If patient never achieves engraftment or if it is subsequently lost
+	- Risk factors: RIC, HLA mismatch, certain conditioning agents
+	- May require stem cell boost or second transplant to overcome pancytopenia
+- CMV
+	- Highest risk when there is a mismatch between donor/recipient status prior to transplant; monitor with weekly PCR
+	- Viremia may take off when engraftment occurs
+	- Challenge is that effective agents like valganciclovir are myelosuppressive, which can damage the graft
+	- Symptoms: diarrhea, pneumonia, ocular disease
+- EBV
+	- B-cells infected with EBV proliferate but T-cells usually keep them in check
+	- With GvHD prophylaxis, T-cells are inhibited and patient can develop post-transplant lymphoproliferative disorder (PTLD)
+- Adenovirus, BK virus, HHV6, CLABSI
+
+- Posterior Reversible Encephalopathy Syndrome (PRES)
+	- Associated with use of calcineurin inhibitors (e.g. cyclosporine and tacrolimus) used for GvHD prophylaxis
+	- AMS/seizures; diagnosed on MRI
+- Late effects of chemotherapy
+	- Patients get echocardiogram, PFTs, LFTs, kidney function tests prior to transplant as baseline
+	- Women may be offered egg preservation
+	- Can develop endocrine and reproductive issues, lung damage
+
+## Cytotoxic T Lymphocytes (CTLs)
+
+### Concept
+
+- CMV, EBV, and ADV are common viruses that can have high morbidity/mortality in immunocompromised patients that are s/p HCT
+
+- Current antiviral therapies like cidofovir & valganciclovir may tackle viremia, but they do not address the root cause, which is the lack of virus-specific T cells; this is where CTLs can help
+- Steps to making a CTL therapy
+	- Matched donor or third party donor provides peripheral blood mononuclear cells (PBMCs)
+	- These are exposed to viral antigens in vitro
+	- Virally activated T-cells are isolated from the T-cell milieu, expanded, and infused into patient
+- Because T-cells are mostly specific to virus, there is less GvHD than with an unselected donor lymphocyte infusion
+- To increase efficiency of manufacturing, tri-valent CTLs (specific to CMV, EBV, & ADV) are under investigation
+
+
+## Chimeric Antigen Receptor (CAR) T-cells 
+
+### Concept
+
+- T-cells are genetically engineered to actively target cells that express tumor specific antigens
+
+- First FDA approvals came in 2017 with Kymriah™ and Yescarta™ for treatment of B-cell ALL and lymphoma (CD19-specific CAR)
+- Steps to making a CAR T therapy
+	- Autologous T-cells isolated from a patient
+	- T-cells are genetically modified to express CARs
+	- CAR T-cells are expanded in vitro
+	- Patient undergoes lymphodepleting chemotherapy
+	- CAR T therapy is infused
+- What is a CAR?
+	- Synthetic protein construct
+	- Extra-cellularly, there is a single-chain variable fragment (scFv) that recognizes tumor cell surface antigens
+	- Intracellularly, there is a co-stimulatory domain (e.g. CD28, 4-1BB, ICOS) that provides the necessary co-stimulation signal and a T-cell intracellular signaling domain (CD3z)
+	- The extra- and intra-cellular domains are connected by a transmembrane fragment
+- Who gets it?
+	- At DFCI, CAR T is used as a bridge to transplant; ideally a patient with leukemia will be “minimal-residual-disease” (MRD) negative and then get a HCT as consolidation therapy
+	- However, if they are MRD+, CAR T can be used to get them into full remission before HCT; other places may not proceed to HCT…it is so new that we are still getting the data for what recommendations should be
+
+
+### Complications
+- Cytokine Release Syndrome (CRS)
+	- CAR T-cells are engineered to be activated (intrinsic co-stimulation)
+	- Within days of administration, especially if high tumor burden, can have surge of pro-inflammatory cytokines
+	- At its worst, this can lead to multi-organ failure and death
+	- Prevention: lower disease burden, monitor closely
+	- Treatment: tocilizumab
+- Neurotoxicity
+	- Altered mental status, myoclonus, and seizures have been witnessed with CD19 CAR T
+	- Unknown pathophysiology; appears to be reversible
+
+## Emerging Cellular Therapies
+
+### Currently in Clinical Trials
+
+- Gene-edited autologous HCT
+	- For monogenic disorders (sickle cell, HLH, IPEX)
+	- Still have to improve conditioning regimen to be less toxic
+- Next Generation CAR T
+	- Extension to solid tumors and additional liquid tumors
+	- Built in safety mechanisms to prevent CRS (suicide genes)
+	- Built in features to prevent T-cell exhaustion and to assist with solid tumor penetration
+	- Multivalency to respond to combinations of antigens
+	- Linkage of CAR to T-reg to apply same principal to autoimmunity
+- Regulatory T-cells (T-reg) therapy
+	- For GvHD and autoimmune disease
+	- Working on preventing phenotype switching in vivo
+- Mesenchymal Stromal Cell therapy
+	- For GvHD and autoimmune disease
+	- Working on improving efficacy
+- Combined marrow and organ transplant
+	- For inducing tolerance to solid organ transplantation
+	- Most evidence for combined marrow and kidney transplantation, with some evidence for lung

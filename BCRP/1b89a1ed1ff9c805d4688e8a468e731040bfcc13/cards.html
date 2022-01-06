@@ -1,0 +1,63 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>BCRP App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<link rel="apple-touch-icon-precomposed" href="images/bcrp.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" /> 
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="add2home.css">
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery.mobile-1.2.0.min.js"></script>
+	<script src="js/app.js"></script>
+	<script type="application/javascript" src="add2home.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="cacheMe" data-dom-cache="true">
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="cards.html" class="ui-state-persist ui-btn-active" data-icon="info" data-prefetch>Pocket <br> Resources</a></li>
+            <li><a href="ebm.html" data-icon="file" data-prefetch> <br> EBM </a></li>
+            <li><a href="index.html" data-icon="fahome" data-iconpos="notext"> <br> Handbook</a></li>
+            <li><a href="chalktalks.html" data-icon="faplus" data-prefetch>Chalk <br> Talks</a></li>
+            <li><a href="bchbmc.html" data-icon="phone" data-prefetch> <br> BCH/BMC</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div>
+
+<div data-role="content">
+	<ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="Search Cards..."  data-theme="d">
+		<li data-role="list-divider">Cards</li>
+        <li><a href="pdfs/phonecard.pdf" target="_blank">BCRP Phone Card</a></li>
+        <li><a href="pdfs/dkacard.pdf" target="_blank">DKA Card</a></li>
+        <li><a href="pdfs/matcard.pdf" target="_blank">MAT Card</a></li>
+        <li><a href="pdfs/eddrugcard.pdf" target="_blank">ED Drug Card</a></li>
+        <li><a href="pdfs/onccard.pdf" target="_blank">Onc Card</a></li>
+        <li><a href="pdfs/card.pdf" target="_blank">DKA Card</a></li>
+        <li><a href="pdfs/bcrpcodecard.pdf" target="_blank">Code Card</a></li>
+        <li><a href="pdfs/sicklecellcard.pdf" target="_blank">Sickle Cell Card</a></li>
+        <li><a href="pdfs/neurologycard.pdf" target="_blank">Neurology Card</a></li>
+        <li><a href="pdfs/pactcard.pdf" target="_blank">PACT Card</a></li>
+        <li><a href="pdfs/nrpcard.pdf" target="_blank">NRP Card</a></li>
+        
+        <li data-role="list-divider">Antibiotics</li>
+        <li><a href="pdfs/antibiogram.pdf" target="_blank">Antibiogram</a></li>
+        <li><a href="pdfs/rickmalley.pdf" target="_blank">Rick Malley Antibiotic Chart</a></li>
+        
+        <li data-role="list-divider">Guide</li>
+        <li><a href="pdfs/lacrepair.pdf" target="_blank">Lac Repair Guide</a></li>
+        <li><a href="pdfs/pediatricformula.pdf" target="_blank">Pediatric Formula Guide</a></li>
+        <li><a href="pdfs/sepsistriggertool.pdf" target="_blank">Sepsis Trigger Tool</a></li>
+        <li><a href="pdfs/chpcc.pdf" target="_blank">CHPCC Vaccine and Screening</a></li>
+        
+	</ul>
+	</div><!-- /content -->
+</div><!-- /page -->
+</body>
+
+</html>

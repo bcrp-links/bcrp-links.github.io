@@ -1,0 +1,90 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>CT</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <script src="js/jquery-1.8.2.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0.min.js"></script>
+  <script src="js/app.js"></script>
+</head> 
+<body> 
+
+<div data-role="page">
+<div data-role="header"><h1>CT</h1><a class="button slideup" id="infoButton" href="index.html">Back</a>
+	</div><!-- /header -->
+
+<p><em>This referral requires charity care.</em></p>
+
+<div data-role="collapsible-set"> 
+
+<div data-role="collapsible"><h3><b> Senior Clinician</h3></b> 
+	<input type="checkbox" name="checkbox-2a" id="checkbox-2a" class="custom" data-mini="true" />
+	<label for="checkbox-2a">Please place an order for the referral in EPIC.</label>
+		<div data-role="collapsible"><h4>CT scans for patients over 65 or with renal disease, DM, liver disease, or other significant medical conditions</h4>
+			<input type="checkbox" id="checkbox-1" class="custom" data-mini="true" />
+			<label for="checkbox-1">Place an order for a BMP (BUN/Cr) test. One of these is required within 6 weeks prior to the CT scan.</label>
+			<input type="checkbox" id="checkbox-2" class="custom" data-mini="true" />
+			<label for="checkbox-2">Patients under the age of 65 without significant medical condtions do not need a BMP.</label>
+		</div>
+		<div data-role="collapsible"><h4>CT scans with IV contrast in patients with chronic kidney disease</h4>
+			<input type="checkbox" id="checkbox-3" class="custom" data-mini="true" />
+			<label for="checkbox-3">Orders for IV hydration (type of fluid, rate, total dose pre and post procedure) must be placed by the ordering physician and shoud be included in the "comments" field of the EPIC order.</label>
+			<input type="checkbox" id="checkbox-4" class="custom" data-mini="true" />
+			<label for="checkbox-4">To ensure proper protocol, it is recommended that an email be sent to Dr. Eric Wilck with the pateint's name and MRN to inform him that the patient has been referred for a CT scan with IV contrast and will require IVF peri-procedure.</label>  
+		</div>
+		<div data-role="collapsible"><h4>CT scans for women of reproductive age</h4>
+			<input type="checkbox" id="checkbox-5" class="custom" data-mini="true" />
+			<label for="checkbox-5">If patients say they are NOT pregnant, then there is NO urine pregnancy test required.</label>
+			<input type="checkbox" id="checkbox-6" class="custom" data-mini="true" />
+			<label for="checkbox-6">If patients are unsure or may be pregnant, they must be sent to E-level clinic for a urine POCT pregnancy test. The test can be done just before the CT exam.</label>
+			<input type="checkbox" id="checkbox-7" class="custom" data-mini="true" />
+			<label for="checkbox-7">Otherwise, a urine pregnancy test within 3 days is needed for these patients.</label>
+		</div>
+	<input type="checkbox" id="checkbox-a" class="custom" data-mini="true" />
+	<label for="checkbox-a">Send the patient to ACT to receive instructions for next steps. </label>
+	<input type="checkbox" id="checkbox-b" class="custom" data-mini="true" />
+	<label for="checkbox-b">Communicate the urgency and necessity of the referral to the Teaching Senior.</label>
+</div>
+
+
+<div data-role="collapsible"><h3><b> Teaching Senior</b></h3>
+	<fieldset data-role="controlgroup">
+	   <input type="checkbox" name="checkbox-1b" id="checkbox-1b" class="custom" data-mini="true" />
+	   <label for="checkbox-1b">Please review the guidelines in the Senior Clinician tab regarding special instructions for certain types of patients, and make sure all appropriate orders have been placed (some types of CT scans require additional tests).</label>
+	   <input type="checkbox" name="checkbox-3a" id="checkbox-3a" class="custom" data-mini="true" />
+	   <label for="checkbox-3a">Communicate the necessity and urgency in the referrals@mssm.edu email.</label>
+ 	</fieldset>
+ </div>
+
+<div data-role="collapsible"><h3><b>Access to Care Team</b></h3>
+<fieldset data-role="controlgroup">
+	<input type="checkbox" id="checkbox-a" class="custom" data-mini="true" />
+	<label for="checkbox-a">If the patient does not have charity care, follow the necessary steps to obtain charity care.</label>
+	<input type="checkbox" id="checkbox-b" class="custom" data-mini="true" />
+	<label for="checkbox-b">Once the patient has charity care, call to make the appointment. Once the appointment is made, confirm the appointment with the patient, and notify the Radiology Referrals Manager with the date and time of the appointment.</label>
+</fieldset>
+	</div>
+  
+<div data-role="collapsible"><h3> <b>Cost</b></h3><p> <b>Cost to EHHOP Patient:</b> For patients with Charity Care Level 1, the CT scan will cost <b> $20 per body part </b> regardless of whether contrast is used, and which body part is scanned. To find out the costs for patients who are not Level 1, please contact the <a href="mailto:Chiaki.Nakata@mssm.edu">Radiology Referrals Manager</a>.</p> <p><b>Cost to Society:</b> CT scans w/o contrast cost ~$500 in new york out of pocket.</p></div>
+
+<div data-role="collapsible"><h3><b>Wait time</b></h3><p>Once the patient has obtained charity care, it takes about a week to schedule a CT scan.</p> </div> 
+
+<div data-role="collapsible"><h3><b>Location</b></h3><p> Radiology Associates. <br /> 1176 5th Avenue, Annenberg Building, MC level (the basement of Annenberg).  <br />Monday - Friday: 8:30 am - 3:30 pm  <!--<a href="callto:212-241-8333"> 212-241-8333</a>-->  </p> 
+<p><b>EHHOP Radiology Referrals Manager:</b><a href="mailto:Chiaki.Nakata@mssm.edu"> Chiaki Nakata</a></div></div>
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+  <div data-role="navbar">
+    <ul>
+      <li><a href="IThelp.html" data-icon="info">FAQ</a></li>
+      <li><a href="phone.html" data-icon="phone" >Contact</a></li>
+      <li><a href="index.html" data-icon="fahome">Home</a></li>
+      <li><a href="Formulary.html" data-icon="faplus">Rx</a></li>
+      <li><a href="documents.html" data-icon="file">Docs</a></li>
+    </ul>
+  </div><!-- /navbar -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+application: ehhop0
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /(.*\.(gif|png|jpg|ico|js|css|ttf|woff|svg|eot|otf))
+  static_files: \1
+  upload: (.*\.(gif|png|jpg|ico|js|css|ttf|woff|svg|eot|otf))
+
+- url: .*
+  script: main.app

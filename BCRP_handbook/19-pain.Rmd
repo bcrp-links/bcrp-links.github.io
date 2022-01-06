@@ -1,0 +1,111 @@
+# Pain
+
+
+## Chronic Pain
+
+### Complex Regional Pain Syndrome (CRPS)
+
+#### Management
+Aggressive physical therapy (desensitization is the mainstay, but can use a block to facilitate physical therapy), avoiding immobilization at all cost, cognitive behavioral therapy (CBT), medications (see below adjuncts)
+
+### Sickle Cell Disease
+
+#### Management
+Can have **ACUTE** (acute chest, vaso occlusive episodes) and **CHRONIC** components
+
+- Management of **ACUTE** episodes is **opiate** driven. See section below for common dosing strategies and delivery methods.
+	- For opiate sparing in acute episodes, can add **ketamine** infusions and **regional blocks**
+		- Max dose ketamine infusion is 6 mcg/kg/min, typically starts at 3 mcg/kg/min
+		- Side effects of ketamine infusions can be hallucinations at high doses
+- Management of **CHRONIC** episodes is driven by CBT, PT, avoidance of triggers of further acute episodes, and neuropathic pain medications to manage neuropathic pain components (such as gabapentin, duloxetine)
+
+### Adjunct Pain Medications Often Used in Chronic Pain
+
+- Duloxetine (SSNRI directed towards neuropathic pain symptoms)
+- Magnesium
+- Lidocaine patches
+- Voltaren gel (NSAID gel to be used topically on area of pain)
+- Ketorolac
+- Gabapentin (neuropathic pain)
+- Clonidine
+- Baclofen (muscle relaxant)
+- Tizanidine (muscle relaxant)
+
+
+## Acute Pain
+
+### Post-Surgical Pain
+
+- Opiates in form of PCA or rescue doses
+- Nerve blocks w/ catheters, typically for extremity surgeries:
+	- Differentiate between **compressible** and **non-compressible** nerve blocks:
+		- **Compressible:** Interscalene, TAP, intercostal, femoral, adductor canal, sciatic, popliteal fossa
+		- **Non-compressible:** Supraclavicular, retroclavicular, infraclavicular, paravertebral, lumbar plexus
+
+### Acute Infectious Pain
+
+- **Abdominal sources** (e.g. appendicitis, acute cholecystitis): Pain is typically managed w/ combo of non-opiates (NSAIDs, acetaminophen) and opiates
+	- Be wary of NSAID-induced **gastritis** and opiate-induced **constipation**
+- **Soft tissue sources** (e.g. necrotizing fasciitis, burns, cellulitis)
+
+### Acute Sickle Cell Pain
+
+See above under Chronic Pain section
+
+
+## Cancer Pain Management
+
+### Patient-Controlled Analgesia (PCA)
+
+NOTE: Use order sets!
+
+#### PCA Notation
+- **PCA notation:** e.g. morphine PCA for 15kg pt → 0.375mg/12min/0.225mg/hr/1.5mg/hr
+	- This means **bolus dose** is 0.375mg, the patient or nurse can deliver it every 12 minutes maximum (**lock-out**), and the **continuous rate** is 0.225mg/hr, with a **max hourly rate** of 1.5mg/hr
+
+#### PCA Dosing
+- **Morphine PCA**
+	- Standard bolus dose 0.025mg/kg (usual max 1.8mg)
+	- Usual lock-out of 7-12 minutes
+	- Usual continuous 0.015mg/kg/hr
+	- Max dose 1mg/hr (you don’t need to have a continuous rate)
+	- Max hourly dose rate calculated as 0.1mg/kg
+- **Hydromorphone PCA**
+	- Standard bolus dosing 0.005mg/kg, usual max of 0.3mg
+	- Usual lock out 7-12 minutes
+	- Continuous 0.003mg/kg/hr (usual max 0.2mg/hr)
+	- Hourly dose limit 0.02mg/kg
+- **Fentanyl PCA**
+	- 0.25mcg/kg (usual max 18mcg)
+	- Lock out 7-12 minutes
+	- Continuous dose 0.15mcg/kg/hr
+	- Hourly dose limit 1mcg/kg.   
+
+### Neuraxial Catheters with Pump
+
+#### **Intrathecal** vs. **epidural** catheters:
+- **Intrathecal catheter:** The catheter sits beyond the pia mater, inside the same area as the spinal cord. Typically only used for end-of-life pain, often will cause a dense motor block.  Narrow therapeutic index.
+- **Epidural catheter:** The catheter sits in the epidural space right above the dura mater. Used for post-operative pain (lumbar epidural for lower abdominal or pelvic procedures, thoracic epidural for thoracic or large abdominal procedures), as well as for cancer pain. Often able to achieve a strictly sensory block, though motor block common w/ lumbar epidurals.
+
+#### How to check a level
+- **Ice:** Place ice on areas of different dermatomes below the block site; when the patient feels that the sensation is less cold compared to an area above the block or on the arm, you have the area of your block. Check bilaterally, as one-sided blocks can be common with epidurals.
+	- Checking a level w/ ice will show you the earliest onset of a block, as temperature is blocked before pain.
+- **Pinprick:** Using cocktail sword, blunt needle, or twisted up alcohol wipe wrapper, poke areas of different dermatomes below the level of the suspected block. Ask for any difference in sensation to a poke above the level of the block or on an arm.
+
+#### Notation for patient- or nurse-controlled epidural anesthesia
+- e.g. Bupivacaine 0.125% running at 6/2/20/12
+	- This means that the epidural is infusing 0.125% bupivacaine at a **rate** of 6cc/hr, with a 2cc **bolus** that the patient can give themselves every 20min (also called a 20min **lock-out**), for a **total hourly dose max** of 12cc
+
+#### Common neuraxial questions from nursing
+- **Hypotension**
+	- Due to blocked sympathetic activity causing vasodilation; or, if intrathecal catheter and level too high, due to inhibition of cardiac accelerator fibers and bradycardia paired with vasoplegia
+	- More common w/ intrathecal than epidural catheters, and more common w/ thoracic than lumbar epidurals
+	- **Steps to interrogate:** Pause the pump, check a level. If too high, keep the pump off. If appropriate, consider fluid bolus or decreasing rate of local anesthetic or concentration of local anesthetic.
+- **Motor block**
+	- Occurs more commonly w/ intrathecal catheters, or lumbar vs. thoracic epidurals
+	- If occurring and not desired, call the Pain Service
+- **Fluid under tegaderm covering catheter site**
+	- Possibly due to catheter migration, can also be due to sweat
+	- **Steps to interrogate:** Check numbers on catheter to see if matches the procedure note; if the catheter has been displaced, contact the Pain Service. Also check to see if the patient still has a level, indicating a likely functioning block.
+- **Catheter inadvertent removal**
+	- Call post-operative Pain Service. Make note of whether patient is on anticoagulation and timing of last dose if so, they will want to know!

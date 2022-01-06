@@ -1,0 +1,467 @@
+# Endocrinology {#endocrine_chapter}
+
+## Adrenal Insufficiency
+
+### PowerPlan/Order sets
+
+MICU adrenal stim testing, Endo AMB adrenal disorders
+
+### Definition
+
+Impaired secretion of the adrenal glucocorticoid +/- mineralocorticoid hormones
+
+- **Primary**:  Failure to produce or secrete adrenal cortical hormones
+	 - Most common causes: impaired adrenal steroidogenesis (CAH), adrenal destruction (autoimmune or infectious), adrenal dysgenesis
+	 - Aldosterone deficiency leads to hypotension, hyponatremia, hyperkalemia
+- **Central**: Impaired pituitary secretion of ACTH or hypothalamic secretion of CRH
+	 - Most common cause: Exogenous corticosteroid administration
+	 - Other: Hypothalamic defects (tumor, radiotherapy), hypopituitarism (surgery, infiltration)
+
+### Presentation
+
+N/V, abdominal pain, orthostatic hypotension, lethargy, hypoglycemia
+
+**ONLY IN PRIMARY**:
+
+- Hyperpigmentation (↑ ACTH→ ↑ POMC→↑ melanocortin)
+- Hyperkalemia (↓ Aldosterone) 
+
+### Diagnostic Studies
+
+- Suggestive: ↓ Na, ↑ K, ↓ Glu, metabolic acidosis
+- Confirmatory: AM cortisol & ACTH levels
+	 - **Primary**: ↓ cortisol,  ↑ ACTH
+	 - **Central**: ↓ cortisol, normal or ↓ ACTH
+- If not definitive: ACTH stimulation test
+
+### Acute Treatment
+
+**Adrenal Crisis**:
+
+- 20mL/kg NS bolus followed by 1.5-2x D5NS maintenance IVF
+- Hydrocortisone 50-100 mg/m2
+	 - *Hydrocortisone also has some mineralocorticoid effect, so fludrocortisone is not required while a patient is on stress dose hydrocortisone*
+- Monitor electrolytes & fluid balance
+
+**Stress Dose Steroids**:
+
+- Minor (mild URI, T <38): None required
+- Major (T >38, major surgery, vomiting): hydrocortisone 50 mg/m2 divided q6h
+
+### Maintenance Therapy
+
+-  Hydrocortisone  8-20 mg/m2/day divided into 3 doses (higher doses required for infants with CAH)
+-  **Primary**:  Fludrocortisone 0.1-0.2 mg daily
+- +/- salt supplementation in infants
+
+
+## Diabetic Ketoacidosis
+
+### PowerPlan/Order sets
+
+DKA ICP order set, MICU DKA order set, NODM CPG order set
+
+### Definition
+
+- Hyperglycemia: Blood glucose> 200 mg/dL
+- Metabolic Acidosis: pH<7.3 ***OR*** HCO3<15 mmol/L
+- Ketosis: + Ketones in blood or urine
+
+### Pathophysiology
+
+- ↓ Insulin→ Hyperglycemia → Osmotic diuresis → Dehydration
+- ↓ Insulin→ ↑ lipolysis→ ↑ FFA → Ketoacidosis 
+- ↓ Insulin → Impaired K entry into cells → Total K deficit ***even if plasma K is normal***
+
+### Presentation
+
+- Hyperglycemia, vomiting, abd pain, dehydration, AMS
+- Hx: Wt loss, polyuria, polydipsia
+
+### Diagnostic Studies
+
+- D-sticks q1h
+- Chem 10, beta-hydroxybutyrate, VBG q2h
+- Urine ketones
+- HbA1c
+- EKG
+- Consider pancreatic autoantibodies (refer to CPG for recommendations)
+
+### Treatment
+
+**Please reference DKA card for detailed protocol**
+
+**1) FLUIDS**:
+
+- **NS Bolus**:  Initially give **10-20 mL/kg NS bolus**; may repeat if persistent hypotension
+- **Fluid Selection**: Fluids at **1.5-2x maintenance if corrected serum Na<135 mEq/L**; slow rate if signs of cerebral edema
+- Use **2-Bag Method Calculator** (in reference text of DKA PowerPlans):  Bag 1 NS plus electrolytes; Bag 2: D12.5 0.45% NS plus electrolytes, hung together w/ insulin on a trifuse.  Rates of each fluid are titrated to the **goal dextrose concentration**:
+
+| **Plasma K (mEq/L)** | **IV fluid K (mEq/L)** | 
+|----------------------|------------------------|
+| <= 4.5               | 40                   |
+| >4.5                 | 0                    |
+
+- **Potassium Content**: Goal K = 3.5-4.5. Use K acetate and K phosphate, NOT KCl because of risk of hyperchloremia and non-gap metabolic acidosis. Max K that can be given is 80 mEq/L
+- DO NOT give HCO3 as increases the risk of cerebral edema
+
+**2) INSULIN**:
+
+- **DO NOT** bolus insulin
+- After 1 hr of NS IVF, start infusion of regular insulin 0.05-0.1 units/kg/hr
+- Continue insulin infusion until anion gap is closed and patient is ready to eat
+- **Transitioning from IV to subQ**: Make sure patient has **meal in front of them before turning off drip**, give Humalog & long-acting insulin 15 mins before meal, turn off insulin infusion and IV fluids 30 minutes after subQ injections
+
+**Important Formulas**
+
+- Corrected Na: `serum Na + (1.6*[plasma glucose – 100]/100)`
+- Anion Gap: `serum Na – (Cl + HCO3)` (Note: use serum Na, NOT corrected Na)
+- Effective Osmolarity: `2[measured Na + glucose/18]`
+
+### Subcutaneous Insulin Regimen
+
+**How to order subcutaneous insulin at BCH**
+
+1. Either type insulin into search tab (or get to this via the NODM admit plan) 
+2. If not going through NODM, click “insulin .SC injection regimen orderset”  
+	 a. You will first be required to select frequency of POCT checks, parameters for RN to notify MD about glucose levels. Now for the insulin…
+3. You will most likely order scheduled glargine (Lantus). You will then most likely order lispro (Humalog) for the correction factors and carbohydrate ratios. **These are nested ordersets and can be confusing**
+	 a. Scroll down to correction factor and select box “insulin lispro 100 unit/mL correction factor Orderset”. Then scroll down to insulin: carbohydrate ratio and select box “insulin lispro 100 unit/mL carbohydrate ratio orderset” 
+	 b. **make sure to click both before clicking “OK” in bottom right**
+4. You will then be directed to the nested orderset where you can type in the times of day and doses that you want to give the correction factor and carb ratio 
+	 a. For correction factor you will have to decide if same CF for all times of day versus different times (ex, different for daytime meals vs at night). Click OK and then you will be prompted to carb ratio orderset 
+	 b. Again you will have to decide if same CR for all times of day versus different times
+
+## Hypoglycemia
+
+### PowerPlan/Order sets
+ED hypoglycemia critical labs plan, ICP hypoglycemia fasting plan, NICU hypoglycemia plan, Metabolism hypoglycemia admit plan
+
+### Definition
+Plasma glucose ≤ 60 mg/dL
+
+### Etiology
+
+**Decreased Production of Glucose**
+
+- Decreased release of glucose from liver: glycogen storage diseases, liver failure
+- Impaired gluconeogenesis: fructose 1,6 diphosphatase deficiency, pyruvate carboxylase deficiency, maple syrup urine disease
+- Galactosemia, hereditary fructose intolerance 
+- Disorders of fatty acid oxidation (↓FAO → ↓ATP and glycerol production → ↓gluconeogenesis)
+
+**Increased Utilization/Impaired Conservation of Glucose**
+
+- Disorders of fatty acid oxidation
+- Ketotic hypoglycemia (accelerated starvation)
+- Starvation
+
+**Decreased Production and Increased Utilization of Glucose**
+
+- Hyperinsulinemia
+	 - Endogenous: congenital (transient or permanent), insulinoma
+	 - Exogenous insulin
+	 - Sulfonylureas
+	 - Dumping syndrome, withdrawal of continuous enteral/parenteral nutrition
+- Counter-regulatory hormone deficiency: growth hormone, cortisol/ACTH
+- Beta Blockers
+
+### Presentation
+
+- Early manifestations (blood sugar 40-70): sweating, tachycardia, tremor, hunger
+- Later manifestations (blood sugar <40): lethargy, irritability, confusion, seizure, coma
+- Ask about any medications in home (sulfonylureas, beta blockers, insulin)
+- Ask about temporal relationship to feeds
+
+### Diagnostic Approach
+
+### Diagnostic Studies
+Critical Labs: **Must be obtained when BG <50**
+
+- Plasma glucose
+- Beta-hydroxyburyrate (BOHB)
+- CMP
+- Insulin
+- C-peptide
+- Acylcarnitine profile
+- UA for ketones
+- Free Fatty Acids
+- Lactate
+- Ammonia
+- Cortisol
+- Growth Hormone
+- Free & total carnitines
+
+### Treatment
+
+- **Conscious**: 15 g of rapid-acting carbs by mouth (4oz juice = 1 tube glucose gel = 4 glucose tablets)
+- **Altered Mental Status**:  
+	 - 2mL/kg D10 IVF bolus---> D10 IVF  at GIR 4-6 (infants) or GIR 2-3 (older kids) 
+		 - Higher dextrose infusions NOT recommended: ↑ Insulin→ Worsening Hypoglycemia 
+	 - If no IV access: Glucagon 1mg IM 
+		 - ***ONLY effective in insulin-mediated hypoglycemia*** 
+- **Monitoring**: q15-20 mins until BG >70, space to q1hr once stable
+
+## Diabetes Insipidus
+
+### PowerPlan/Order sets
+MICU DI orderset, Endo AMB DI Plan
+
+### Definition
+Failure to produce or respond to antidiuretic hormone (ADH), leading to excessive free water loss and subsequent hypernatremia
+
+### Etiology
+
+- **Central**: Failure of posterior pituitary to secrete ADH
+	 - AVP mutation, hypothalamic/pituitary defect, trauma, neoplasm, infectious, infiltrative, 
+- **Nephrogenic**: Failure of kidney to respond to ADH
+	 - Electrolyte disturbance (↑Ca, ↓K), congenital, medication-induced, tubulopathy
+
+### Presentation
+Polyuria, nocturia, increased thirst, polydipsia
+
+### Diagnostic Studies
+
+- Chem 10, serum osmolality
+- UA, urine SG, urine osm
+- Lab criteria
+	 - Serum osmolarity > 300 mosm/kg
+	 - Urine osmolarity < 300 mosm/kg
+- Urine output > 4 ml/kg/hr
+- Water deprivation test id diagnosis is uncertain 
+- Vasopressin test to distinguish central vs nephrogenic DI
+
+### Treatment
+
+- **Central Diabetes Insipidus**: vasopressin IV vs PO/intranasal/SC ddAVP
+	 - Low solute diet to reduce urinary excretion
+	 - PO/intranasal/SC ddAVP q8-12 hrs
+		 - Oral preferred to intranasal due to fewer side effects
+		 - SC used in infants due to more accurate dosing 
+	 - Consider addition of thiazide diuretic ( induces volume depletion→ decreased UOP)
+ - **Nephrogenic DI**:
+	 - Low solute diet 
+	 - Thiazide diuretics +/- indomethacin to reduce urine output
+
+## Syndrome of Inappropriate ADH (SIADH)
+
+### Definition
+Inappropriate antidiuretic hormone release → Hyponatremia, hypoosmolality, and inappropriately concentrated urine with no evidence of renal, hepatic, adrenal, or thyroid dysfunction
+
+### Etiology
+
+- **CNS disease**: Meningitis/encephalitis, tumors, trauma, hydrocephalus, CVA, subdural hematoma, post-op
+- **Pulmonary disease**: PPV, bronchiolitis, pneumonia, asthma, CF 
+- **Neoplastic**:  Lymphoma, Ewing sarcoma, lung carcinoma 
+- **Drugs**: carbamazepine, cyclophosphamide, desmopressin, SSRI’s, etc 
+- **Acute**: Stress, nausea, pain, general anesthesia
+
+### Pathophysiology
+
+- ADH binds to V2R receptors in collecting tubules→ Insertion of aquaporin channels in apical membrane→ Increased water reabsorption→  Reduced urine output & increased urine concentration→ Increased total body water→ Hyponatremia
+
+### Presentation
+
+- Decreased UOP, hyponatremia, low serum osm and high urine osm
+- Patients typically have euvolemic hyponatremia and so do ***NOT*** have peripheral edema/ascites
+- Headache, nausea, vomiting, muscle cramps, lethargy, confusion, seizures
+
+### Diagnostic Studies
+
+Diagnostic Criteria: 
+- Plasma Osm <280
+- Plasma Na <135 
+- Urine Osm > 100 
+- Urine Na > 20
+
+### Treatment
+
+**Maintenance Therapy**: 
+
+- Fluid restriction +/- salt supplementation
+- If ineffective: Consider addition of loop diuretics to impair urinary concentration 
+
+**If symptomatic** (seizure, AMS):
+
+- Rapid initial correction: 3-5mL/kg of 3% saline over 10-15 mins
+- Rate of Correction:  Increase Na by **no more than 8-9 mEq/L in 24 hrs**
+- **Risk of central pontine myelinolysis with rapid correction**
+
+## Calcium Homeostasis
+
+|                                                | **Calcium** | *Serum PTH**                    | *25-OHD**  | **Alk Phos** | **Phos**   |
+|------------------------------------------------|-------------|---------------------------------|------------|--------------|------------|
+| **Hypoparathyroidism**                         | Low         | Low                             | Normal     | Normal       | High       |
+| **PTH Resistance**                             | Low         | High                            | Normal     | Normal       | High       |
+| **Vit D Deficiency**                           | Low         | High                            | Low        | Normal/high  | Normal/low |
+| **Vit D Resistance**                           | Low         | High                            | Normal     | Normal       | Normal/low |
+| **Renal Disease**                              | Low         | High                            | Normal/low | Normal/high  | High       |
+| **Hypomagnesemia**                             | Low         | Normal                          | Normal/low | Normal       | Normal     |
+| **Metastatic Disease**                         | High        | Low PTH High PTHrP              | Normal     | High         | High       |
+| **Familial Hypocalciuric Hypercalcemia (FHH)** | High        | Normal/High                     | Normal     | Normal       | Low        |
+| **Primary Hyperparathyroidism**                | High        | High or  inappropriately normal | Low        | Normal/high  | Low        |
+
+## Hypocalcemia
+
+### Definition
+
+- Normal values are age specific and vary between labs
+- Hypoalbuminemia will lower the serum calcium concentration by 0.8 mg/dL for every 1.0 g/dL reduction in serum albumin (below 4 g/dL)
+
+### Etiology
+
+#### Low PTH (Hypoparathyroidism)
+
+**Congenital**
+
+- Genetic Syndromes
+	 - DiGeorge Syndrome
+	 - Mitochondrial disorders (MELAS, etc.)
+	 - HDR (hypoparathyroidism, deafness, renal anomaly)
+	 - Sanjad-Sakati Syndrome (IUGR, hypocalcemia, dysmorphia)
+	 - Kenny-Caffey Syndrome (dwarfism, cortical bone thickening, hypocalcemia)
+- Mutations in production of PTH
+- CaSR activating mutations (autosomal dominant hypocalcemia)
+- Parathyroid aplasia/dysplasia
+
+**Acquired**
+
+- Hypomagnesemia or hypermagnesemia
+- Autoimmune (APS1 or isolated)
+- Infiltrative disease (copper/iron deposition)
+- Acquired post-surgery
+
+#### High PTH
+
+**Renal Failure**
+
+- 1a-hydroxylase deficiency iso renal failure
+- Pseudohypoparathyroidism (end organ resistance to PTH) 
+- Excess phosphate intake
+
+**Low Vitamin D**
+
+- Deficient vitamin D intake, intestinal absorption, or dermal synthesis
+- Hereditary resistance to vitamin D (vit D-dependent rickets type 2)
+- Defects in vit D metabolism: liver failure, renal failure, drugs that increase CYP450 activity 
+- Genetic disorders:
+	 - 25-hydroxylase deficiency
+	 - 1a-hydroxylase deficiency
+	 - Increased catabolism of vit D mutations
+
+#### Other Causes
+
+**Neonatal Hypocalcemia**
+
+- **Early (0-3 DOL)**
+	 - Exaggeration of normal decline in calcium concentration after birth 
+	 - Asymptomatic, requires nutritional support alone 
+- **Late (4-10 DOL)**
+	 - Presents as severe neuromuscular irritability or seizure
+	 - Most commonly from excess phosphate intake in cow’s milk; mechanism unknown, thought that high phos may antagonize PTH secretion
+- **Maternal Risk Factors**: Diabetes, Vit D deficiency, AED use, hyperparathyroidism, or eclampsia
+- **Neonatal Factors**: low birth weight, prematurity, IUR, perinatal asphyxia
+- **Hypocalcemia in setting of other illness**: sepsis, RDS, hyperbilirubinemia, renal failure
+
+**Miscellaneous**
+
+- **Hungry Bone Syndrome**: Avid bone mineralization after recovery from severe mineralization defect (e.g., vitamin D deficiency)
+- **Osteopetrosis**: loss of osteoclast function
+- **Citrate or Lactate administration** (e.g., from blood transfusion)
+- **Hypomagnesemia**
+- **Sepsis**/severe acute illness
+- **Pancreatitis**: complex formation w/ fatty acids 
+- **Drugs**: bisphosphonates, cinacalcet, foscarnet, chemotherapy
+
+### Clinical Manifestations
+
+- Acute hypocalcemia
+	 - Tremor, muscle spasms, paraesthesias, tetany (Chvostek, Trousseau signs)
+	 - Seizures
+	 - QT prolongation, impaired contractility
+	 - Psychiatric symptoms (anxiety, agitation, hallucinations)
+- Vitamin D deficiency: rickets, muscle weakness, hypotonia, growth retardation; in severe rickets, may see bowed legs or knocked-knees
+
+### Diagnostic Studies
+
+- Albumin and/or ionized calcium to determine if true hypocalcemia
+- If hypocalcemia confirmed send PTH, magnesium, phosphate, BUN, creatinine, 25OH-vitamin D
+- XR for rickets: shows osteopenia, widening of the metaphysis, cupping/splaying of growth plate, formation of cortical spurs, fractures
+
+### Treatment
+
+- Calcium salts PO for chronic hypocalcemia
+- Calcium salts IV for acute hypocalcemia
+	 - Ca gluconate 100 mg/kg ( = 1mL/kg of 10% solution)
+	 - CaCl 20 mg/kg ( = 0.2 mL/kg of 10% solution) for emergencies only (irritant, causes necrosis if extravasates)
+- Replenish magnesium stores or give vitamin D as appropriate
+	 - If initiating treatment for vitamin D deficiency, always give calcium along vitamin D to prevent hypocalcemia from hungry bone syndrome
+- In hypoparathyroidism, give 1,25 vitamin D (calcitriol) rather than ergocalciferol/cholecalciferol  because of decreased 1a-hydroxylation in the kidney
+- If hyperphosphatemic, avoid [Ca+] X [PO4] >55 because of risk of metastatic calcification
+
+## Hypercalcemia
+
+### Definition
+Normal values are age specific and vary between labs
+
+### Etiology
+
+#### Parathyroid Related
+
+- Primary hyperparathyroidism (adenoma or hyperplasia)
+- Secondary hyperparathyroidism 
+- Tertiary hyperparathyroidism (only in chronic renal failure with chronic secondary hyperpara autonomous overproduction of PTH develops iso parathyroid hyperplasia) 
+- Familial hypocalciuric hypercalcemia (loss of function CaSR)
+
+#### Increased Bone Reabsorption
+
+- Malignancy (metastatic or PTHrP secretion)
+- Hypervitaminosis D
+- Hypervitaminosis A
+- Immobilization
+
+#### Increased 1,25 OHD Production
+
+- Granulomatous disease (sarcoid, tuberculosis)
+- Subcutaneous fat necrosis in neonates
+
+#### Metabolic Disorders
+
+- Hypophosphatasia (defective alk phos)
+- Blue diaper syndrome (defect in tryptophan metabolism)
+- Congenital lactase deficiency
+
+#### Medications
+
+- Thiazide diuretics 
+- Lithium
+
+#### Other
+
+Adrenal insufficiency, Williams syndrome, thyrotoxicosis, milk alkali syndrome, excess calcium intake, ECMO (mechanism not well understood but thought to be secondary to incr PTH)
+
+### Clinical Manifestations
+**“Stones, bones, moans, psychiatric overtones”**
+
+- **Renal symptoms**: polyuria, renal stones, nephrocalcinosis
+- **Musculoskeletal system**: Bone pain, joint aches 
+- **GI system**: paralytic ileus, abdominal cramping, constipation, anorexia, vomiting
+- **Nervous system**: headache, personality change, proximal muscle weakness    
+- In infants, failure to thrive
+- In severe hypercalcemia (>14 mg/dL) can have lethargy and coma
+
+### Diagnostic Algorithm
+
+*subcutaneous fat necrosis often (not always) has incr 1,25 OHD
+
+### Treatment
+
+- For mild/moderate hypercalcemia, if asymptomatic can monitor without immediate intervention
+- For severe hypercalcemia (>12 mg/dL) and/or symptomatic:
+	 - **Increase calcium excretion**: IV hydration w/ NS is first line; after hydration, may add, furosemide, 
+	 - **Decrease bone resorption**: 
+		 - Calcitonin: inhibits osteoclast bone resorption, promotes Ca and phos excretion.
+			 - Initial dose IM/subq 2-4 units/kg every 12 hours, may increase to 8 units/kg every 12 hours to a max of every 6 hours. Most patients develop tachyphylaxis w/i 48 hours
+		 - Bisphosphonates: inhibit osteoclast activity. Watch for hypocalcemia; also for hypophos and hypomag. 
+			 - Pamidronate dose 0.5-1 mg/kg in children
+- Note: HD should be considered in patients who have serum Ca conc in range of 18-20 mg/dL and neurologic symptoms 
+- Primary hyperparathyroidism - parathyroidectomy

@@ -1,0 +1,88 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>BCRP App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<link rel="apple-touch-icon-precomposed" href="images/bcrp.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" /> 
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="add2home.css">
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery.mobile-1.2.0.min.js"></script>
+	<script src="js/app.js"></script>
+	<script type="application/javascript" src="add2home.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="cacheMe" data-dom-cache="true">
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="cards.html" data-icon="info" data-prefetch>Pocket <br> Resources</a></li>
+            <li><a href="ebm.html" class="ui-state-persist ui-btn-active" data-icon="file" data-prefetch> <br> EBM </a></li>
+            <li><a href="index.html" data-icon="fahome" data-iconpos="notext"> <br> Handbook</a></li>
+            <li><a href="chalktalks.html" data-icon="faplus" data-prefetch>Chalk <br> Talks</a></li>
+            <li><a href="bchbmc.html" data-icon="phone" data-prefetch> <br> BCH/BMC</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div>
+
+<div data-role="content">
+	<ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="Search EBM..."  data-theme="d">
+		<li data-role="list-divider">Allergy/Immunology</li>
+        <li><a href="pdfs/ebm/biphasic.pdf" target="_blank">Biphasic Anaphylactic Reaction Risk Factors</a></li>
+        <li data-role="list-divider">Cardiology</li>
+        <li><a href="pdfs/ebm/ivig.pdf" target="_blank">Why IVIg for Kawasaki</a></li>
+        <li><a href="pdfs/ebm/KD_review.pdf" target="_blank">Kawasaki Review Paper</a></li>
+        <li data-role="list-divider">Emergency Medicine</li>
+        <li><a href="pdfs/ebm/biphasic.pdf" target="_blank">Biphasic Anaphylactic Reactions Risk Factors</a></li>
+        <li><a href="pdfs/ebm/cxr_bronchiolitis.pdf" target="_blank">CXR for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/ipratropium_asthma.pdf" target="_blank">Why Ipratropium for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/lp_febrileseizure.pdf" target="_blank">LP for First Febrile Seizure?</a></li>
+        <li><a href="pdfs/ebm/magnesium_asthma.pdf" target="_blank">Why Magnesium for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/sbi_rsv.pdf" target="_blank">Risk of SBI with RSV?</a></li>
+        <li><a href="pdfs/ebm/steroids_asthma.pdf" target="_blank">Why Steroids for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/steroids_bronchiolitis.pdf" target="_blank">Why Not Steroids for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/steroids_croup.pdf" target="_blank">Why Steroids for Croup?</a></li>
+        <li><a href="pdfs/ebm/steroids_viralwheeze.pdf" target="_blank">Steroids with Viral-Induced Wheezing?</a></li>
+        <li data-role="list-divider">Endocrine</li>
+        <li><a href="pdfs/ebm/cerebraledema_dka.pdf" target="_blank">Cerebral Edema Risk Factors in DKA?</a></li>
+        <li data-role="list-divider">GI</li>
+        <li data-role="list-divider">Hematology</li>
+        <li><a href="pdfs/ebm/pcn_scd.pdf" target="_blank">Why Penicillin ppx in SCD?</a></li>
+        <li data-role="list-divider">Infectious Disease</li>
+        <li><a href="pdfs/ebm/ort_gastro.pdf" target="_blank">Does Oral Rehydration Tx Work in Gastro?</a></li>
+        <li><a href="pdfs/ebm/zofran_gastro.pdf" target="_blank">Does Zofran Work in Gastro?</a></li>
+        <li><a href="pdfs/ebm/oralabx_osteo.pdf" target="_blank">Does Oral Abx Work in Osteo?</a></li>
+        <li><a href="pdfs/ebm/abx_hus.pdf" target="_blank">Does Abx Increase Risk of HUS?</a></li>
+        <li><a href="pdfs/ebm/cxr_bronchiolitis.pdf" target="_blank">CXR for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/ipratropium_asthma.pdf" target="_blank">Why Ipratropium for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/lp_febrileseizure.pdf" target="_blank">LP for First Febrile Seizure?</a></li>
+        <li><a href="pdfs/ebm/sbi_rsv.pdf" target="_blank">Risk of SBI with RSV?</a></li>
+        <li><a href="pdfs/ebm/steroids_asthma.pdf" target="_blank">Why Steroids for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/steroids_bronchiolitis.pdf" target="_blank">Why Not Steroids for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/steroids_croup.pdf" target="_blank">Why Steroids for Croup?</a></li>
+        <li><a href="pdfs/ebm/steroids_viralwheeze.pdf" target="_blank">Steroids with Viral-Induced Wheezing?</a></li>
+        <li data-role="list-divider">Neurology</li>
+        <li><a href="pdfs/ebm/lp_febrileseizure.pdf" target="_blank">LP for First Febrile Seizure?</a></li>
+        <li data-role="list-divider">Pulmonary</li>
+        <li><a href="pdfs/ebm/cxr_bronchiolitis.pdf" target="_blank">CXR for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/ipratropium_asthma.pdf" target="_blank">Why Ipratropium for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/magnesium_asthma.pdf" target="_blank">Why Magnesium for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/steroids_asthma.pdf" target="_blank">Why Steroids for Asthma Exacerbation?</a></li>
+        <li><a href="pdfs/ebm/steroids_bronchiolitis.pdf" target="_blank">Why Not Steroids for Bronchiolitis?</a></li>
+        <li><a href="pdfs/ebm/steroids_croup.pdf" target="_blank">Why Steroids for Croup?</a></li>
+        <li><a href="pdfs/ebm/steroids_viralwheeze.pdf" target="_blank">Steroids with Viral-Induced Wheezing?</a></li>
+        <li data-role="list-divider">Rheumatology</li>
+        <li><a href="pdfs/ebm/ivig.pdf" target="_blank">Why IVIg for Kawasaki</a></li>
+        <li><a href="pdfs/ebm/KD_review.pdf" target="_blank">Kawasaki Review Paper</a></li>
+        
+	</ul>
+	</div><!-- /content -->
+</div><!-- /page -->
+</body>
+
+</html>

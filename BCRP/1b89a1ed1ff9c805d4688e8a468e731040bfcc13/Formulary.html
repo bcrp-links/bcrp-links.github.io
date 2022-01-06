@@ -1,0 +1,462 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<title>EHHapp - Formulary</title> 
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+		<link rel="stylesheet" href="css/app.css" />
+		<script src="js/jquery-1.8.2.min.js"></script>
+		<script src="js/jquery.mobile-1.2.0.min.js"></script>
+		<script src="js/app.js"></script>
+	</head>
+	<body>
+		<div data-role="page" id="formulary" data-dom-cache="true">
+			<div data-role="content">
+				<ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="My patient needs..." data-theme="d">
+					<li data-role="list-divider">ANALGESICS</li>
+					<li>Acetaminophen<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (325mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Aspirin <br />
+						<span class="drugmeta"><span class="prices"> $0.01 (81mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Ibuprofen<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (400mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Naproxen <br />
+						<span class="drugmeta"><span class="prices"> $0.06 (250mg), $0.04 (500mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Codeine / Acetaminophen 30mg/300mg (Tylenol 3)<br />
+						<span class="drugmeta"><span class="prices"> $0.04 </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Oxycodone/Acetaminophen 5mg/325mg (Percocet)<br />
+						<span class="drugmeta"><span class="prices"> $0.08 </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Morphine Extended Release <br />
+						<span class="drugmeta"><span class="prices">  $0.21 (15mg), $0.66 (30mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Morphine SR <br />
+						<span class="drugmeta"><span class="prices">  $0.42 (30mg), $2.42 (60mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Hydromorphone<br />
+						<span class="drugmeta"><span class="prices">  $0.09 (2mg) , $0.11 (4mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Oxycodone<br />
+						<span class="drugmeta"><span class="prices"> $0.10 (5mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Gabapentin (Neurontin)<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (100mg), $0.08 (300mg), $0.11 (400mg), $0.58 (600mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li>Amitriptyline<br />
+						<span class="drugmeta"><span class="prices">  $0.02 (10mg) , $0.02 (25mg) , $0.02 (50mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li data-theme = "a">Pregabalin (Lyrica)- DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices"> $2.88 (25mg, 50mg), $3.16 (75mg, 100mg) </span><span class="category"> ANALGESICS</span></span></li>
+					<li data-theme = "a">Duloxetine - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANALGESICS</span></span></li>
+					<li data-theme = "a">Fentanyl Patches - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANALGESICS</span></span></li>
+					<li data-theme = "a">Liquid Morphine (roxanol) - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="category"> ANALGESICS</span></span></li>
+					<li data-role="list-divider">VITAMINS</li>
+					<li>Calcium Carbonate<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (648mg), $0.05 (1250mg) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Cyanocobalamin tablets and injections (B12)<br />
+						<span class="drugmeta"><span class="prices special"> Metropolitan </span><span class="category"> VITAMINS</span></span></li>
+					<li>Folate<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (1mg) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Iron Sulfate (Ferrous sulfate)<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (325mg) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Ferrous gluconate 325mg<br />
+						<span class="drugmeta"><span class="prices special"> - </span><span class="category"> VITAMINS</span></span></li>
+					<li>Multivitamin<br />
+						<span class="drugmeta"><span class="prices"> $0.01 </span><span class="category"> VITAMINS</span></span></li>
+					<li>Potassium Chloride<br />
+						<span class="drugmeta"><span class="prices"> $0.09 (10meq), $0.08 (20meq) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Pyridoxine B6<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (50mg) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Thiamine B1<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (50mg) </span><span class="category"> VITAMINS</span></span></li>
+					<li>Vitamin D 400IU TAB<br />
+						<span class="drugmeta"><span class="prices"> $0.01 </span><span class="category"> VITAMINS</span></span></li>
+					<li>Vitamin D2 Ergocalciferol 50,000 U<br />
+						<span class="drugmeta"><span class="prices"> $1.14 </span><span class="category"> VITAMINS</span></span></li>
+					<li data-role="list-divider">ANTIMICROBIALS</li>
+					<li>Clotrimazole topical cream<br />
+						<span class="drugmeta"><span class="prices"> $1.06 (15g tube) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical</span></span></li>
+					<li>Bacitracin 0.5% Topical Ointment 1oz<br />
+						<span class="drugmeta"><span class="prices"> $3.21 </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical</span></span></li>
+					<li>Econazole nit 1% cream 15g<br />
+						<span class="drugmeta"><span class="prices"> $4.28 </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical</span></span></li>
+					<li>Erythromycin 0.5% ophthalmic ointment<br />
+						<span class="drugmeta"><span class="prices"> $5.90 (1g) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical</span></span></li>
+					<li>Ketoconazole 2% cream 30g<br />
+						<span class="drugmeta"><span class="prices"> $4.79 </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical</span></span></li>
+					<li data-theme = "a">Econazole nitrate (Spectrazole) - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical </span></span></li>
+					<li data-theme = "a">Metrogel - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Topical </span></span></li>
+					<li data-theme = "a">Tears Artificial Oph Soln 15mL - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Eye Drops </span></span></li>
+					<li data-theme = "a">Patanol - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Eye Drops </span></span></li>
+					<li data-role="list-divider">ANTIMICROBIALS</li>
+					<li>Penicillin V<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (250mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Amoxicillin<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (500mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Amoxicillin / Clavulanate <br />
+						<span class="drugmeta"><span class="prices"> $0.80 (875mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Cephalexin<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (250mg), $0.10 (500mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Clindamycin<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (150mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Ciprofloxacin<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (250mg), $0.05 (500mg), $0.28 (750mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Levaquin (levofloxacin)<br />
+						<span class="drugmeta"><span class="prices"> $0.24 (250mg), $0.26 (500mg), $0.47 (740mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Erythromycin<br />
+						<span class="drugmeta"><span class="prices"> $2.68 (250mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Azithromycin<br />
+						<span class="drugmeta"><span class="prices"> $1.11 (250mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Fluconazole<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (50mg), $0.53 (100mg), $0.37 (150mg), $0.20 (200mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Itraconazole<br />
+						<span class="drugmeta"><span class="prices special"> - </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Ketoconazole<br />
+						<span class="drugmeta"><span class="prices"> $0.16 (200mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Metronidazole<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (250mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Isoniazid<br />
+						<span class="drugmeta"><span class="prices"> $0.05 (300mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Rifampin<br />
+						<span class="drugmeta"><span class="prices"> $0.54 (400mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>RIPE THERAPY - SEE TS/PHARM CHAIR<br />
+						<span class="drugmeta"><span class="prices special"> SEE TS OR PHARM CHAIR </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Terbinafine<br />
+						<span class="drugmeta"><span class="prices"> $0.12 (250mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>TMP/SMX<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (DS tab 160mg/800mg), $0.12 (SS tab 80mg/400mg) - DS is scored </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Valacyclovir (valtrex)<br />
+						<span class="drugmeta"><span class="prices"> $2.00 (1g), $0.78 (500mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Famciclovir<br />
+						<span class="drugmeta"><span class="prices"> $1.76 (500mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Acyclovir<br />
+						<span class="drugmeta"><span class="prices"> $0.05 (200mg) </span><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium</span></span></li>
+					<li>Ganciclovir - RESTRICTED USE. See TS.<br />
+						<span class="drugmeta"><span class="category"> ANTIMICROBIALS </span><span class="subcategory"> Oral antibiotics / antifungals / antivirals / anti-mycobacterium </span></span></li>
+					<li data-role="list-divider">ANTI-HYPERTENSIVES</li>
+					<li>Lisinopril<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (10mg), $0.03 (20mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ACE inhibitors</span></span></li>
+					<li>Enalapril<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (20mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ACE inhibitors</span></span></li>
+					<li>Losartan (Cozaar)<br />
+						<span class="drugmeta"><span class="prices"> $0.05 (25mg), $0.08 (50mg), $0.08 (100mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ARBs</span></span></li>
+					<li data-theme = "a">Valsartan - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ARBs </span></span></li>
+					<li>Furosemide (Lasix)<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (20mg), $0.02 (40mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ARBs</span></span></li>
+					<li>Chlorthalidone<br />
+						<span class="drugmeta"><span class="prices"> $0.10 (25mg), $0.18 (50mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ARBs</span></span></li>
+					<li>Hydrochlorothiazide<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (25mg, 50mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> ARBs</span></span></li>
+					<li>Metoprolol Tartrate (NOT metoprolol succinate)<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (50mg), $0.03 (100mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Beta-blockers</span></span></li>
+					<li>Propranolol<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (10mg), $0.02 (40mg), $0.04 (80mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Beta-blockers</span></span></li>
+					<li>Atenolol<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (25mg), $0.02 (50mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Beta-blockers</span></span></li>
+					<li>Nifedipine (XL)<br />
+						<span class="drugmeta"><span class="prices"> $0.46 (30mg), $0.81 (60mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Amlodipine<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (2.5mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Diltiazem<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (30mg), $0.04 (60mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Diltiazem (CD)<br />
+						<span class="drugmeta"><span class="prices"> $0.41 (120mg), $0.49 (180mg), $0.69 (240mg), $0.86 (300mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Verapamil<br />
+						<span class="drugmeta"><span class="prices"> $0.05 (80mg), $0.05 (120mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Verapamil (SR)<br />
+						<span class="drugmeta"><span class="prices"> $0.22 (120mg), $0.17 (180mg), $0.16 (240mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Calcium Channel Blockers</span></span></li>
+					<li>Nitroglycerin 0.4mg tab 25pack<br />
+						<span class="drugmeta"><span class="prices"> $0.33 </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Nitrate</span></span></li>
+					<li>Isosorbide mononitrate<br />
+						<span class="drugmeta"><span class="prices"> $0.18 (30mg), $0.20 (60mg) </span><span class="category"> ANTI-HYPERTENSIVES </span><span class="subcategory"> Nitrate</span></span></li>
+					<li>Digoxin<br />
+						<span class="drugmeta"><span class="prices"> $0.26 (0.125mg), $0.26 (0.25mg) </span><span class="category"> Other Cardiac</span></span></li>
+					<li>Terazosin<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (1mg) </span><span class="category"> Alpha-1 Blocker</span></span></li>
+					<li>Clonidine<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (0.1mg), $0.03 (0.2mg) </span><span class="category"> Alpha-2 Blocker</span></span></li>
+					<li data-role="list-divider">ANTI-HYPERLIPIDEMICS</li>
+					<li>Simvastatin (Zocor)<br />
+						<span class="drugmeta"><span class="prices"> $0.04 (10mg) , $0.04 (20mg) , $0.05 (40mg) </span><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins</span></span></li>
+					<li>Rosuvastatin (Crestor)<br />
+						<span class="drugmeta"><span class="prices"> $0.87 (10mg), $0.82 (20mg, 40mg, 5mg) </span><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins</span></span></li>
+					<li>Pravastatin (Pravachol)<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (10mg), $0.18 (20mg), $0.07 (40mg), $0.16 (80mg) </span><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins</span></span></li>
+					<li>Red yeast rice<br />
+						<span class="drugmeta"><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins </span></span></li>
+					<li>Niacin (Vit B6)<br />
+						<span class="drugmeta"><span class="prices"> $0.2 (500mg) </span><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins</span></span></li>
+					<li>Gemfibrozil (Lopid)<br />
+						<span class="drugmeta"><span class="prices">  $0.15 (600mg) </span><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins</span></span></li>
+					<li data-theme = "a">Fenofibrate (Tricor, Triglide) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ANTI-HYPERLIPIDEMICS </span><span class="subcategory"> Statins </span></span></li>
+					<li>Aspirin<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (81mg) </span><span class="category"> ANTI-PLT/ANTI-COAGULATION</span></span></li>
+					<li>Warfarin (coumadin)<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (1mg), $0.04 (2mg, 2.5mg, 3mg, 4mg, 5mg), $0.05 (5mg, 7.5mg, 10mg) </span><span class="category"> ANTI-PLT/ANTI-COAGULATION</span></span></li>
+					<li>Clopidogrel (Plavix)<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (75mg) </span><span class="category"> ANTI-PLT/ANTI-COAGULATION</span></span></li>
+					<li data-role="list-divider">DIABETES</li>
+					<li>Lifestyle Modification<br />
+						<span class="drugmeta"><span class="prices"> $0.00 </span><span class="category"> DIABETES</span></span></li>
+					<li>Metformin (note 1000mg is not available)<br />
+						<span class="drugmeta"><span class="prices">  $0.10 (500mg) , $0.03 (850mg) </span><span class="category"> DIABETES </span><span class="subcategory"> Orals</span></span></li>
+					<li>Glimeperide - PREFERRED SULFONYLUREA<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (1mg), $0.04 (2mg), $0.26 (4mg) </span><span class="category"> DIABETES </span><span class="subcategory"> Orals</span></span></li>
+					<li>Glipizide XL formulations only (Glucotrol XL)<br />
+						<span class="drugmeta"><span class="prices"> $0.14 (5mg), $0.27 (10mg), $0.22 (2.5mg) </span><span class="category"> DIABETES </span><span class="subcategory"> Orals</span></span></li>
+					<li>Glucometer lancets<br />
+						<span class="drugmeta"><span class="prices special"> Metropolitan Pharmacy </span><span class="category"> DIABETES</span></span></li>
+					<li>Glucometer test strips<br />
+						<span class="drugmeta"><span class="prices special"> Metropolitan Pharmacy </span><span class="category"> DIABETES</span></span></li>
+					<li>Glucometers<br />
+						<span class="drugmeta"><span class="prices special"> EHHOP storage (we have many) or Metropolitan </span><span class="category"> DIABETES</span></span></li>
+					<li>Insulin - 70/30 (NPH/Regular, humulin), 10mL<br />
+						<span class="drugmeta"><span class="prices"> $20 </span><span class="category"> DIABETES </span><span class="subcategory"> Insulin</span></span></li>
+					<li>INSULIN HUMAN NPH  100 UNITS/ML 10ML<br />
+						<span class="drugmeta"><span class="prices"> $19.86 </span><span class="category"> DIABETES </span><span class="subcategory"> Insulin</span></span></li>
+					<li>INSULIN HUMAN REG  100 UNITS/ML 10ML<br />
+						<span class="drugmeta"><span class="prices"> $11.6 </span><span class="category"> DIABETES </span><span class="subcategory"> Insulin</span></span></li>
+					<li data-theme = "a">Insulin LANTUS - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="prices"> $116.27 (10mL) </span><span class="category"> DIABETES </span><span class="subcategory"> Insulin</span></span></li>
+					<li>Insulin syringes<br />
+						<span class="drugmeta"><span class="prices special"> Metropolitan Pharmacy (we have a bunch in EHHOP storage too) </span><span class="category"> DIABETES </span><span class="subcategory"> Insulin</span></span></li>
+					<li data-theme = "a">Pioglitazone (Actos) - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="category"> DIABETES </span><span class="subcategory"> Other orals </span></span></li>
+					<li data-theme = "a">Rosiglitazone (Avandia) - DO NOT PRESCRIBE. See TS for PDAP..<br />
+						<span class="drugmeta"><span class="prices">  $0.91 (4mg) </span><span class="category"> DIABETES </span><span class="subcategory"> Other orals</span></span></li>
+					<li data-theme = "a">Januvia - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> DIABETES </span><span class="subcategory"> Other orals </span></span></li>
+					<li data-role="list-divider">GI DRUGS</li>
+					<li>Tums (Calcium Carbonate)<br />
+						<span class="drugmeta"><span class="prices special"> - </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Maalox (Calcium Carbonate)<br />
+						<span class="drugmeta"><span class="prices special"> - </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Omeprazole<br />
+						<span class="drugmeta"><span class="prices"> $0.18 (40mg), $0.47 (20mg OTC tab) </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Esomeprazole (Nexium)<br />
+						<span class="drugmeta"><span class="prices"> $0.38 (20mg), $0.35 (40mg) </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Famotidine (Pepcid)<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (20mg), $0.05 (40mg) </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Ranitidine (Zantac) - PREFERRED H2RA<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (150mg) </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Pantoprazole (Protonix) - PREFERRED PPI<br />
+						<span class="drugmeta"><span class="prices"> $0.09 (20mg), $0.08 (40mg) </span><span class="category"> GI DRUGS</span></span></li>
+					<li>Misoprostol<br />
+						<span class="drugmeta"><span class="prices"> $0.35 (100mg), $0.45 (50mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Mucosal protection</span></span></li>
+					<li>Docusate sodium (Colace)<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (100mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Laxatives and stool softeners</span></span></li>
+					<li>Senna<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (8.6mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Laxatives and stool softeners</span></span></li>
+					<li>Bisacodyl (Dulcolax)<br />
+						<span class="drugmeta"><span class="prices"> $0.12 (10mg), $0.01 (5mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Laxatives and stool softeners</span></span></li>
+					<li>Miralax (polyethylene glycol)<br />
+						<span class="drugmeta"><span class="prices special"> 17g (powder packet) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Laxatives and stool softeners</span></span></li>
+					<li>MoviPrep (polyethylene glycol in 2L, colonoscopy prep)<br />
+						<span class="drugmeta"><span class="category"> GI DRUGS </span><span class="subcategory"> Laxatives and stool softeners </span></span></li>
+					<li>Erythromycin<br />
+						<span class="drugmeta"><span class="prices"> $2.68 (250mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Pro-motility</span></span></li>
+					<li>Meclizine<br />
+						<span class="drugmeta"><span class="prices"> $0.30 (25mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Anti-emetic</span></span></li>
+					<li>Metoclopramide<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (10mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Anti-emetic</span></span></li>
+					<li>Simethicone<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (80mg) </span><span class="category"> GI DRUGS </span><span class="subcategory"> Other</span></span></li>
+					<li data-role="list-divider">PSYCHOTROPICS</li>
+					<li>Fluoxetine (Prozac)<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (10mg), $0.03 (20mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antidepressants/SSRIs</span></span></li>
+					<li>Citalopram (Celexa)<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (10mg), $0.05 (20mg), $0.12 (40mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antidepressants/SSRIs</span></span></li>
+					<li>Paroxetine (Paxil)<br />
+						<span class="drugmeta"><span class="prices"> $0.09 (20mg), $0.11 (30mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antidepressants/SSRIs</span></span></li>
+					<li>Sertraline (Zoloft)<br />
+						<span class="drugmeta"><span class="prices"> $0.05 (25mg), $0.23 (50mg), $0.08 (100mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antidepressants/SSRIs</span></span></li>
+					<li>Buproprion (Wellbutrin) - MULTIPLE DOSES SEE PHARM CHAIR FOR OTHERS IF NECESSARY<br />
+						<span class="drugmeta"><span class="prices"> $0.25 (75mg), $0.34 (100mg), $0.24 (150mg SR), $0.65 (200mg SR) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antidepressants/SNRIs</span></span></li>
+					<li>Nortryptiline<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (10mg), $0.11 (25mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Tricyclic Antidepressants</span></span></li>
+					<li>Amitriptyline<br />
+						<span class="drugmeta"><span class="prices">  $0.02 (10mg) , $0.02 (25mg) , $0.02 (50mg) </span><span class="category"> PSYCHOTROPICS</span></span></li>
+					<li>Lithium<br />
+						<span class="drugmeta"><span class="prices"> $0.02 for cap, $0.16 for tab (300mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antipsychotics</span></span></li>
+					<li>Haloperidol (Haldol)<br />
+						<span class="drugmeta"><span class="prices"> $0.40-0.59 (0.5mg, 1mg, 2mg, 5mg, 10mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antipsychotics: Typical</span></span></li>
+					<li>Risperidone (Risperadol)<br />
+						<span class="drugmeta"><span class="prices"> $0.19 (0.25mg), $0.26 (1mg), $0.28 (2mg), $0.28 (3mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antipsychotics: Atypicals</span></span></li>
+					<li>Quetiapine (Seroquel)<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (25mg, 100mg, 200mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antipsychotics: Atypicals</span></span></li>
+					<li data-theme = "a">Aripiprazole (Abilify): : DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices"> $12.20-$22.01 (2mg, 5mg, 10mg, 15mg, 20mg, 30mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Antipsychotics: Atypicals</span></span></li>
+					<li>Alprazolam (Xanax)<br />
+						<span class="drugmeta"><span class="prices">  $0.03 (0.25mg, 0.5mg, 1mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Benzodiazepenes</span></span></li>
+					<li>Lorazepam (Ativan)<br />
+						<span class="drugmeta"><span class="prices">  $0.02 (0.5mg), $0.03 (1mg), $0.05 (2mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Benzodiazepenes</span></span></li>
+					<li>Clonazepam (Klonopin)<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (0.5mg), $0.03 (1mg), $0.04 (2mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Benzodiazepenes</span></span></li>
+					<li>Cyclobenzaprine (Flexeril)<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (10mg), $0.04 (5mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Muscle relaxant</span></span></li>
+					<li>Zolpidem (Ambien)<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (5mg), $0.04 (10mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-insomnia/non-BZD</span></span></li>
+					<li>Trazodone<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (50mg), $0.04 (100mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-insomnia/non-BZD</span></span></li>
+					<li>Topamax (Topiramate)<br />
+						<span class="drugmeta"><span class="prices"> $0.04 (25mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li>Valproate/Valproic acid (Depakote)<br />
+						<span class="drugmeta"><span class="prices"> $0.07-$0.13 (125mg, 250mg, 500mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li>Lamotrigine (Lamictal)<br />
+						<span class="drugmeta"><span class="prices"> $0.06-$0.09 (25mg, 100mg, 150mg, 200mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li>Carbamazepine<br />
+						<span class="drugmeta"><span class="prices">  $0.67 (200mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li>Gabapentin (Neurontin)<br />
+						<span class="drugmeta"><span class="prices"> $0.08 (100mg), $0.09 (300mg), $0.42 (600mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li data-theme = "a">Pregabalin (Lyrica)- DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices"> $2.88 (25mg, 50mg), $3.16 (75mg, 100mg) </span><span class="category"> PSYCHOTROPICS </span><span class="subcategory"> Anti-convulsants</span></span></li>
+					<li data-role="list-divider">ASTHMA/COPD</li>
+					<li>Prednisone<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (5mg), $0.03 (10mg), $0.05 (1mg), $0.04 (20mg), $0.16 (50mg) </span><span class="category"> ASTHMA/COPD </span><span class="subcategory"> Systemic corticosteroids</span></span></li>
+					<li>Albuterol HFA Inhaler (18mcg 200-metered sprays)<br />
+						<span class="drugmeta"><span class="prices"> $37.25 </span><span class="category"> ASTHMA/COPD </span><span class="subcategory"> Bronchodilators</span></span></li>
+					<li data-theme = "a">Fluticasone inhaler (Flovent) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices"> $217.08 </span><span class="category"> ASTHMA/COPD </span><span class="subcategory"> Inhaled corticosteroids</span></span></li>
+					<li data-theme = "a">Montelukast (Singulair) -DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ASTHMA/COPD </span><span class="subcategory"> LTRA </span></span></li>
+					<li data-theme = "a">Fluticasone/salmeterol (Advair) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices"> $182.52 **Consider giving one month supply while awaiting PDAP </span><span class="category"> ASTHMA/COPD </span><span class="subcategory"> ICS/LABA</span></span></li>
+					<li data-theme = "a">Ipratroprium/Salmeterol (Atrovent) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ASTHMA/COPD </span><span class="subcategory"> ICS/LABA </span></span></li>
+					<li data-theme = "a">Budesonide/formeterol (Symbicort) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ASTHMA/COPD </span><span class="subcategory"> ICS/LABA </span></span></li>
+					<li>Asthma medication spacer<br />
+						<span class="drugmeta"><span class="prices special"> Available in clinic. See TS/Dr. Meah </span><span class="category"> ASTHMA/COPD </span><span class="subcategory"> Other</span></span></li>
+					<li data-role="list-divider">ALLERGIES</li>
+					<li>Diphenhydramine (Benadryl)<br />
+						<span class="drugmeta"><span class="prices"> $0.01 (25mg), $0.02 (50mg) </span><span class="category"> ALLERGIES </span><span class="subcategory"> First generation anti-histamine</span></span></li>
+					<li>Loratadine (Claritin)<br />
+						<span class="drugmeta"><span class="prices"> $0.12 (10mg) </span><span class="category"> ALLERGIES </span><span class="subcategory"> Second generation anti-histamine</span></span></li>
+					<li>Cetirizine (Zyrtec)<br />
+						<span class="drugmeta"><span class="prices"> $0.06 (5mg), $0.05 (10mg) </span><span class="category"> ALLERGIES </span><span class="subcategory"> Second generation anti-histamine</span></span></li>
+					<li>Isotonic saline spray 0.65% 45mL<br />
+						<span class="drugmeta"><span class="prices"> $0.59 </span><span class="category"> ALLERGIES </span><span class="subcategory"> Sprays</span></span></li>
+					<li data-theme = "a">beclomethasone nasal (Beconase AQ) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="prices special"> --- </span><span class="category"> ALLERGIES </span><span class="subcategory"> Sprays</span></span></li>
+					<li>fluticasone nasal spray (Flonase) - MUST SEE TS/DR. MEAH BEFORE PRESCRIBING<br />
+						<span class="drugmeta"><span class="prices"> $17.76 </span><span class="category"> ALLERGIES </span><span class="subcategory"> Sprays</span></span></li>
+					<li>Hydroxyzine<br />
+						<span class="drugmeta"><span class="prices"> $0.12 (10mg), $0.09 (25mg), $0.15 (50mg) </span><span class="category"> ALLERGIES </span><span class="subcategory"> Sprays</span></span></li>
+					<li>Ursodiol<br />
+						<span class="drugmeta"><span class="prices"> $0.22 (300mg) </span><span class="category"> ALLERGIES </span><span class="subcategory"> Sprays</span></span></li>
+					<li data-role="list-divider">DERM</li>
+					<li>See antibiotic section above<br />
+						<span class="drugmeta"><span class="prices special"> --- </span><span class="category"> DERM </span><span class="subcategory"> Topical Antibiotic</span></span></li>
+					<li>**Ask TS about corticosteroid potency chart**<br />
+						<span class="drugmeta"><span class="category"> DERM </span><span class="subcategory"> Topical Steroids (in order of potency) </span></span></li>
+					<li>Hydrocortisone 1% cream<br />
+						<span class="drugmeta"><span class="prices"> $1.14 (30g) </span><span class="category"> DERM </span><span class="subcategory"> Mild potency</span></span></li>
+					<li>Hydrocortisone 0.5% ointment<br />
+						<span class="drugmeta"><span class="prices"> $2.76 (30g) </span><span class="category"> DERM </span><span class="subcategory"> Mild potency</span></span></li>
+					<li>Hydrocortisone 1% ointment<br />
+						<span class="drugmeta"><span class="prices"> $0.76 (30g) </span><span class="category"> DERM </span><span class="subcategory"> Mild potency</span></span></li>
+					<li>Triamcinolone acetonide 0.1% cream (TAC)<br />
+						<span class="drugmeta"><span class="prices"> $5.45 (15g), $5.63 (30g) </span><span class="category"> DERM </span><span class="subcategory"> Moderate potency</span></span></li>
+					<li>Mometasone furoate 0.1% cream 45gm<br />
+						<span class="drugmeta"><span class="prices"> $7.25 </span><span class="category"> DERM </span><span class="subcategory"> Moderate potency</span></span></li>
+					<li>Betamethasone 0.1%<br />
+						<span class="drugmeta"><span class="prices"> $2.74 (15g) </span><span class="category"> DERM </span><span class="subcategory"> Moderate potency</span></span></li>
+					<li>Clobetasol 0.05% 45g cream<br />
+						<span class="drugmeta"><span class="prices"> $9.21 </span><span class="category"> DERM </span><span class="subcategory"> High potency</span></span></li>
+					<li data-role="list-divider">MALE GU</li>
+					<li>Terazosin<br />
+						<span class="drugmeta"><span class="prices"> $0.07 (1mg, 2mg, 5mg) </span><span class="category"> MALE GU </span><span class="subcategory"> BPH</span></span></li>
+					<li>Finasteride<br />
+						<span class="drugmeta"><span class="prices"> $0.23 (5mg) </span><span class="category"> MALE GU </span><span class="subcategory"> BPH</span></span></li>
+					<li data-theme = "a">tamsulosin (Flomax) - DO NOT PRESCRIBE<br />
+						<span class="drugmeta"><span class="category"> MALE GU </span><span class="subcategory"> BPH </span></span></li>
+					<li data-theme = "a">Sildenafil (Viagra) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ED</span></span></li>
+					<li data-theme = "a">Caverject (alprostadil) - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> ED</span></span></li>
+					<li data-role="list-divider">BIRTH CONTROL</li>
+					<li>Condoms<br />
+						<span class="drugmeta"><span class="prices special"> FREE - see front desk </span><span class="category"> BIRTH CONTROL</span></span></li>
+					<li>Ethinyl estradiol w/ Norgestimate (Ortho-Tricyclen)<br />
+						<span class="drugmeta"><span class="prices"> $0.36 </span><span class="category"> BIRTH CONTROL</span></span></li>
+					<li>Depo-Provera Injections - Metropolitan - see TS<br />
+						<span class="drugmeta"><span class="prices"> $45 </span><span class="category"> BIRTH CONTROL</span></span></li>
+					<li data-theme = "a">Conjugated Estrogens Vaginal Cream - DO NOT PRESCRIBE. See TS for PDAP.<br />
+						<span class="drugmeta"><span class="category"> MENOPAUSE</span></span></li>
+					<li data-role="list-divider">IMMUNE/METABOLIC/ENDOCRINE</li>
+					<li>Prednisone<br />
+						<span class="drugmeta"><span class="prices"> $0.02 (5mg), $0.03 (10mg), $0.05 (1mg), $0.04 (20mg), $0.16 (50mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Immune Modulators</span></span></li>
+					<li>Methotrexate<br />
+						<span class="drugmeta"><span class="prices"> $0.14 (2.5mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Immune Modulators</span></span></li>
+					<li>Hydroxychloroquine (Plaquenil)<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (200mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Immune Modulators</span></span></li>
+					<li>Azathioprine<br />
+						<span class="drugmeta"><span class="prices"> $0.12 (50mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Immune Modulators</span></span></li>
+					<li>Sulfasalazine<br />
+						<span class="drugmeta"><span class="prices"> $0.11 (500mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Immune Modulators</span></span></li>
+					<li>Levothyroxine<br />
+						<span class="drugmeta"><span class="prices">  $0.12 (75mcg), $0.20 (175mcg),  $0.66 (200mcg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Hypothyroid</span></span></li>
+					<li>Methimazole<br />
+						<span class="drugmeta"><span class="prices"> $0.18 (10mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Hyperthyroid</span></span></li>
+					<li>Propylthiouracil<br />
+						<span class="drugmeta"><span class="prices"> $0.35 (50mg) </span><span class="category"> IMMUNE/METABOLIC/ENDOCRINE </span><span class="subcategory"> Hyperthyroid</span></span></li>
+					<li>Alendronate (Flosamax)<br />
+						<span class="drugmeta"><span class="prices"> $.0.60 (70mg) </span><span class="category"> OSTEOPOROSIS</span></span></li>
+					<li data-role="list-divider">SMOKING CESSATION</li>
+					<li>Nicotine Patches - call 1-800-NY-QUITS<br />
+						<span class="drugmeta"><span class="prices special"> 1-800-NY-QUITS </span><span class="category"> SMOKING CESSATION</span></span></li>
+					<li>Buproprion<br />
+						<span class="drugmeta"><span class="prices special"> see anti-depressants </span><span class="category"> SMOKING CESSATION</span></span></li>
+					<li>Topiramate<br />
+						<span class="drugmeta"><span class="prices"> $0.03 (25mg) </span><span class="category"> SMOKING CESSATION</span></span></li>
+					<li data-role="list-divider">VACCINES: All Vaccines in IMA cabinet.</li>
+					<li>Hepatitis A<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Hepatitis B<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Pneumovax<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Tetanus toxoid<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Diptheria and Tetanus<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Diptheria, Pertussis and Tetanus<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>MMR<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Polio<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Meningococcal<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Zoster Vax<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Gardasil<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Gardasil<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Meningococcal<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Zoster Vax<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+					<li>Gardasil (HBV)<br />
+						<span class="drugmeta"><span class="category"> VACCINES: All Vaccines in IMA cabinet. </span></span></li>
+				</ul>
+			</div>
+			<div data-role="footer" data-id="nav" data-position="fixed">
+				<div data-role="navbar">
+					<ul>
+						<li><a href="IThelp.html" data-icon="info" data-prefetch>FAQ</a></li>
+						<li><a href="phone.html" data-icon="phone" data-prefetch>Contact</a></li>
+						<li><a href="index.html" data-icon="fahome" data-iconpos="notext">Home</a></li>
+						<li><a href="Formulary.html" class="ui-btn-active ui-state-persist" data-icon="faplus" data-prefetch>Rx</a></li>
+						<li><a href="documents.html" data-icon="file" data-prefetch>Docs</a></li>
+					</ul>
+				</div><!-- /navbar -->
+			</div><!-- /footer -->
+		</div><!-- /page -->
+	</body>
+</html>

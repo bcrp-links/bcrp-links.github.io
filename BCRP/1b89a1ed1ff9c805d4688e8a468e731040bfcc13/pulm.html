@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>BCRP App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<link rel="apple-touch-icon-precomposed" href="images/bcrp.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" /> 
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" href="css/app.css" />
+	<link rel="stylesheet" href="add2home.css">
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery.mobile-1.2.0.min.js"></script>
+	<script src="js/app.js"></script>
+	<script type="application/javascript" src="add2home.js"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="cacheMe" data-dom-cache="true">
+
+<div data-role="footer" data-id="nav" data-position="fixed">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="cards.html" data-icon="info" data-prefetch>Pocket <br> Resources</a></li>
+            <li><a href="ebm.html" data-icon="file" data-prefetch> <br> EBM </a></li>
+            <li><a href="index.html" class="ui-state-persist ui-btn-active" data-icon="fahome" data-iconpos="notext"> <br> Handbook</a></li>
+            <li><a href="chalktalks.html" data-icon="faplus" data-prefetch>Chalk <br> Talks</a></li>
+            <li><a href="bchbmc.html" data-icon="phone" data-prefetch> <br> BCH/BMC</a></li>
+        </ul>
+    </div><!-- /navbar -->
+</div>
+
+<div data-role="content">
+    <ul data-role="listview" data-inset="false" data-filter="true" data-filter-placeholder="Search Handbook..."  data-theme="d">
+        <li data-role="list-divider">Pulmonology</li>
+        <li><a href="pdfs/handbook/asthma.pdf" target="_blank">Asthma</a></li>
+        <li><a href="pdfs/handbook/bronchiolitis.pdf" target="_blank">Bronchiolitis</a></li>
+        <li><a href="pdfs/handbook/cough.pdf" target="_blank">Cough</a></li>
+        <li><a href="pdfs/handbook/croup.pdf" target="_blank">Croup</a></li>
+        <li><a href="pdfs/handbook/cf.pdf" target="_blank">Cystic Fibrosis</a></li>
+        <li><a href="pdfs/handbook/hemoptysis.pdf" target="_blank">Hemoptysis</a></li>
+        <li><a href="pdfs/handbook/pneumothorax.pdf" target="_blank">Pneumothorax</a></li>
+        <li><a href="pdfs/handbook/pneumonia.pdf" target="_blank">Pneumonia</a></li>
+        <li><a href="pdfs/handbook/pleuraleffusion.pdf" target="_blank">Pleural Effusions</a></li>
+        <li><a href="pdfs/handbook/osa.pdf" target="_blank">Obstructive Sleep Apnea</a></li>
+        <li><a href="pdfs/handbook/tb.pdf" target="_blank">Tuberculosis</a></li>
+        <li><a href="pdfs/handbook/pft.pdf" target="_blank">Pulmonary Function Tests</a></li>
+        <li><a href="pdfs/handbook/obstructiverestrictive.pdf" target="_blank">Obstructive vs Restrictive Lung Disease</a></li>
+        <li><a href="pdfs/handbook/bronchoprovocation.pdf" target="_blank">Bronchoprovocation Testing</a></li>
+    </ul>
+</div><!-- /content -->
+</div><!-- /page -->
+</body>
+
+</html>

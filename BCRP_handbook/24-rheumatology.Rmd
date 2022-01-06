@@ -1,0 +1,590 @@
+# Rheumatology 
+
+## Pediatric approach to rheumatic disease
+* Rheumatology is a field of many unknowns, however, it occurs when chronic inflammation affects the MSK system, blood vessels, and other tissues, presenting with periods of exacerbation and remission
+* History is essential: constitutional sx, joint/muscle sx (limp, stiffness, regressing milestones, problems walking/with stairs/dressing), pain, rashes, ulcers, chest pain 
+* Physical exam: focus on eyes, skin, muscle, joints 
+	* For arthritides see below
+* Vaccinations: A few guidelines, but contact Rheumatology for guidance 
+	* Varicella, live virus/bacteria vaccines: contraindicated in children taking high dose steroids and biologics 
+	* IVIG: children should wait anywhere from 8-11 months after the last dose for immunizations. 
+PPSV23 and PCV13 should be given to children on immunosuppressants 
+	* Most importantly, consider the whole picture when arriving at a diagnosis. Presentation, personal/family history, labs must all be taken into account. Autoantibody testing is helpful, however, it is not always diagnostic. 
+
+## Inflammatory markers and autoantibodies
+| Marker   | Description| 
+|---|---|
+| **CRP** |-Acute phase reactant, produced by liver in response to pathogens/inflammation/tissue damage. <br> -Level rises ~ 4-6 hours after injury/infection, peak at ~24-72 hours, then falls after appropriate treatment <br> -CRP can be normal in SLE, JDM/PM, scleroderma, and Sjorgen’s|
+|**ESR**| -Acute phase reactant, non-specific marker of inflammation <br> -Rate at which RBCs settle through plasma to form sediment at the bottom of a tube <br>-Slower rise and slower fall compared to CRP <br> -May be elevated due to anemia or hypergammaglobulinemia <br> -May fall quickly in DIC or other conditions that consume or decrease production of fibrinogen|
+|**ANA**| -Autoantibodies directed against antigens predominantly found in the nucleus <br> -Conditions associated w/ (+) ANA: <br>---_Autoimmune_: SLE, MCTD, Sjogren’s, Juvenile Ssc, JIA, JDM, autoimmune hepatitis, Graves’, Hashimoto’s <br> ---_ID_: EBV, HIV, TB, SBE <br> ---_Systemic inflam._: lymphoproliferative disorders, interstitial pulmonary fibrosis, asbestosis <br>-Medications associated w/ (+) ANA and drug-induced lupus (+anti-histone Ab): <br> ---Procainamide (90%), Hydralazine (65%), Anti-TNF agents (especially infliximab), INH, Quinidine, Phenytoin, Sulfasalazine, Minocycline, Lithium, chlorpromazine <br> -Titers do not correlate w/ disease severity <br> -Can be found in 10-15% of healthy children, most of whom do not develop autoimmune disease 
+|**ANCA**| -Ab targeting antigens in cytoplasmic granules of neutrophils; highly sensitive for vasculitides that have predominant pulmonary and renal involvement <br>-Not used on its own for screening patients, as they can be found in non-vasculitides <br> -**Cytoplasmic (c-ANCA)**: antibody to proteinase-3 & positive in about 90% of patients w/ Granulomatosis w/ Polyangiitis (formerly Wegener's granulomatosis) <br> -**Perinuclear (p-ANCA)**: antibody to myeloperoxidase & associated w/ microscopic polyangiitis, Churg-Strauss, Ulcerative colitis <br>-Titers often do not correlate w/ disease severity
+|**RF**| -IgM autoantibody that reacts to Fc portion of IgG antibodies<br>-Present in 2-7% of children w/ JIA <br>-Useful for predicting erosive disease in polyarticular JIA <br>-Higher titers can be seen in Sjogren's Syndrome, MCTD, GPA<br>-Also seen in infections: Chagas, SBE, Hep C, EBV <br>-Circulating immune complexes may give false positive RF results
+|**dsDNA**| -IgG, directed toward ds-DNA <br>-High specificity for SLE <br>-Rising levels associated with flares 
+|**SSA/Ro SSB/LA**| -Sjogren’s syndrome<br>-Cutaneous lupus <br>-Neonatal lupus/congenital heart block<br>-La less common and usually not found w/o Ro 
+|**CCP (ACPA)**|-High specificity, low sensitivity for JIA<br>-Adults: 70-80% of RA, predicts erosive disease 
+|**Sm (Smith)**|-High specificity, 30% of juvenile SLE, 60% of adult SLE<br>-Remains positive when SLE in remission
+|**RNP**|->95% MCTD<br>-SLE
+|**Scl-70**|-Systemic sclerosis<br>-Assoc. w/ pulmonary fibrosis
+|**Jo-1**|-20% of DM/PM<br>-Associated w/ ILD<br>-Mechanic hands<br>-Most frequent Ab in antisynthetase syndrome
+
+## Childhood Vasculitides
+|*Most Common| Age| Symptoms/Signs|Biopsy/Labs|Treatment|
+|---|---|---|---|---|
+|_**Large Vessel**_|
+|**Takayasu’s arteritis**|Females<br>Higher in Asian pop <br>Adol.|Pulseless Disease<br>Blood pressure dif >10 between limbs<br>Bruit over aorta, carotids|Granulomatous inflammation of the aorta<br>elevated ESR/CRP|Steroids<br>Antiplatelet drugs<br>Surgery|
+|_**Medium Vessel**_|
+|**Polyarteritis nodosa***|Middle childhood|Livedo reticularis, skin nodules, myalgia, HTN, renal involvement|Transmural fibrinoid necrosis<br>Urinalysis: proteinuria/hematuria|Steroids<br>Cyclophosphamide/azathioprine<br>anti-TNF biologics|
+|**Kawasaki Disease***|Young children (higher in Asian pop.)|CRASH: Conjunctivitis, Rash, Adenitis, Strawberry tongue, Hand/foot swelling<br>Coronary artery aneurysms|Complete:  clinical <br>Incomplete: clinical + labs (see below)<br>Cardiac echo|IVIG<br>Aspirin<br>Steroids|
+|_**Small Vessel**_|
+|**Microscopic polyangiitis**|9-12 yo|HTN, hematuria<br>Hemoptysis<br>Purpura, ulcers|p-ANCA<br>No granulomas<br>Necrotizing glomerulonephritis|Steroids<br>Cyclophos<br>Rituximab|
+|**Granulomatosis w/ Polyangiitis (Wegener’s)**|Young adults (20s)<br>F>M|Hemoptysis/alveolar hemorrhage<br>Chronic sinusitis, otitis, mastoiditis|c-ANCA<br>Necrotizing granulomas in upper/lower airway, focal segmental necrotizing GN<br>Urinalysis: proteinuria/hematuria <br>CXR: nodules|MTX<br>Steroids<br>RTX/CYC<br>Pheresis (severe)|
+|**Eosinophilic granulomatosis w/ polyangiitis (Churg-Strauss)**|12yo<br>F>M|Asthma, allergic rhinitis,sinusitis<br>Periph. Neuropathy<br>Cardiomyopathy|p-ANCA<br>Eosinophilia<br>Extravascular necrotizing granulomas|Steroids<br>Cyclophos<br>Mepolizumab|
+|**Henoch-Schonlein Purpura (HSP)***|Most common vasculitis in children<br>3-15yo<br>M>F|Palpable purpura<br>Arthritis/arthralgias<br>Abdominal pain<br>Renal disease (IgA nephro)|IgA mediated<br>Urinalysis<br>Renal/skin biopsy<br>Abd U/S: intussusception|Supportive<br>NSAIDs<br>Hydration<br>Steroids|
+|**Behcet disease**|Age of onset varies|Aphthous stomatitis<br>Genital ulceration<br>Uveitis, erythema nodosum, purpura, acneiform lesions, pathergy<br>DVT, arterial aneurysm|Associated with HLA-B51<br>Involves arterial and venous system, occlusive vasculitis<br>Elevated ESR/CRP|Ulcers: sucralfate/GCs/infliximab<br>Uveitis: azathioprine/GCs<br>GCs, DMARDs, Biologics|
+
+## Henoch-Schonlein Purpura (IgA vasculitis)
+
+**Etiology**:
+
+* No clear etiology
+* Frequently preceded by upper respiratory infections (esp streptococcus, staphylococcus, and parainfluenza) or immunizations
+
+**Pathophysiology**:
+
+* Deposition of IgA-containing immune complexes in vessel walls of affected organs and in kidney mesangium activates alternative complement pathway (w/ deposition of C3)
+* HSP nephritis and IgA nephropathy are histologically identical
+
+
+**Clinical Manifestations**:
+
+* Palpable purpura: symmetric, lower limb predominance
+	* Present in all cases, but may not be presenting symptom
+* Arthralgias/arthritis: oligoarticular, large lower extremity joints (knees, hips, ankles)
+	* Occurs in ¾ of cases
+* Abdominal pain: diffuse pain, colicky, worse after meals, often w/ nausea or vomiting
+	* Occurs in 2/3 of cases
+	* 3-4% of HSP patients develop intussusception
+* Renal disease: hematuria is most common, but proteinuria/hypertension may be seen
+	* Occurs is 20-50% of cases
+	* Usually delayed 1-2 weeks after onset
+	* <15% children have long-term kidney damage, <1% develop renal failure
+
+**Diagnosis**:
+
+* Palpable purpura (w/o thrombocytopenia or coagulopathy), and ≥1 of the following:
+	* Abdominal pain
+	* Arthritis/arthralgias
+	* Biopsy w/ leukocytoclastic vasculitis (skin) or glomerulonephritis w/ IgA deposition (renal)
+* Urinalysis (screen for renal involvement), CBC (Plt normal to elevated), IgA level (NOT helpful)
+* Abdominal ultrasound if c/f intussusception
+
+
+**Treatment**:
+
+* Self-limited, supportive care
+* Mild/moderate pain: naproxen
+* F/u with PCP for weekly/biweekly urinalysis and BP checks for 1-2months
+* Severe pain: steroids reduce sx but do not change clinical course, requires taper (4-8wks)
+* Severe renal involvement: proteinuria/hematuria, requires closer follow-up and steroids
+
+## Kawasaki Disease
+
+**Epidemiology**:
+
+* Acute, self-limited systemic vasculitis of medium-sized arteries in infants/children
+* Average age of onset ~ 2 years w/ 80% occurring in those < 4 years old
+* Incidence in US: 17-18/100,000, M:F = 1.6:1 
+* Incidence doubled for Asian Americans, highest incidence in Japan
+* Increased rates in winter & spring
+
+**Pathophysiology**:
+
+* May be related to infectious triggers
+* Vasculitis begins as a neutrophilic infiltrate; plasma cells producing IgA in vessel walls
+
+**Clinical Manifestations**:
+
+* Classical criteria = fever ≥ 5 days w/ ≥ 4/5 classical criteria, w/o alternative diagnosis
+	* *Conjunctivitis*: Bilateral bulbar conjunctival injection (non-exudative & limb sparing)
+	* *Rash*: Polymorphous rash (maculopapular, diffuse erythroderma, or erythema multiforme-like)
+	* *Adenopathy*: Cervical lymphadenopathy (≥1 lymph node, > 1.5 cm in diameter), usually unilateral
+	* *Serositis*:  Injected/fissured lips, injected pharynx, or strawberry tongue.
+	* *Hand/Feet*: Erythema of palms/soles, edema of hands/feet (acute), periungual desquamation (convalescent)
+
+#### **Complete KD**:
+* Fever ≥ 5 days and ≥ 4 principal clinical features OR fever ≥ 4 days and 5 clinical features
+
+
+#### **Incomplete (Atypical) KD**:
+* 2 possible diagnostic criteria:
+	* a) 0 or 1 clinical criteria in a child <6 months old and fever >7 days PLUS positive echo
+	* b) Fever ≥ 4 days + 2-3 clinical criteria  +  elevated ESR/CRP +  ≥ 3 supplemental labs OR positive echo
+	* Supplemental labs:
+		* Anemia for age
+		* ALT > 50 units/L
+		* Platelet count > 450,000 after 7th day of fever
+		* WBC > 15,000/mm3
+		* UA w/ > 10 WBC per hpf (sterile pyuria)
+		* Albumin < 3.0 g/dL
+
+
+**Other clinical findings**
+
+* Neuro: Irritability, hearing loss, facial nerve palsy
+* Cardiac: Coronary artery aneurysms, depressed myocardial function, pericardial effusion, prolonged PR interval. 
+	* _Risk factors for CA aneurysms include_: male, <1 y/o, prolonged fever, elevated CRP, low platelets, low albumin levels on diagnosis
+* GI: Pain, vomiting/diarrhea, hepatitis, acute acalculous distention of the gallbladder
+* MSK: Arthritis, arthralgias (pleocytosis of synovial fluid)
+* GU: Urethritis/meatitis, hydrocele 
+
+**Studies**
+
+* Echocardiogram w/i 24 hours (abnormal echo= coronary artery Z score ≥ 2.5)
+
+**Treatments**
+
+* IVIG (2g/kg) infused over 12 hours→ repeat, if febrile, 36 hours after first infusion.
+* Aspirin: medium dose (30-50 mg/kg/d divided QID) until afebrile x 48 hours. Then low dose (3-5 mg/kg/d). (consider starting w/ low dose for age ≤ 6 mo)
+* Corticosteroids: trials indicate that steroids may be effective as primary/rescue therapy.
+* Repeat echo post-treatment, either before or after discharge, to observe improvement
+* Patients w/ severe CA dilation may need long-term anticoagulation therapy
+* Under study: infliximab, cyclosporine, other immunomodulatory agents
+
+
+## Polyarteritis Nodosa
+
+**Etiology**:
+
+* Focal, segmental, fibrinoid necrosis of walls of medium/small arteries leading to aneurysms
+* Rarely caused by loss-of-function mutation in adenosine deaminase 2
+
+**Cutaneous PAN**:
+
+* Nodular, painful, non-purpuric lesions, +/- livedo reticularis, w/o systemic involvement (as in sPAN)
+* Ass. w/ fever, elevated acute phase reactants, myalgia, arthralgia, non-erosive arthritis
+* Biopsy: necrotizing non-granulomatous vasculitis
+* Labs: ANCA neg, may see + ASO (up to ⅓ of cases are triggered by a strep infection)
+
+**Systemic PAN**:
+
+* EULAR/PRINTO/PRES Criteria: biopsy for histopathology (necrotizing vasculitis) OR angiography (aneurysms, stenosis, occlusions), AND ≥ 1 of:
+	* Skin: livedo reticularis, tender subcutaneous nodules, superficial/deep skin infarctions
+	* Rheum: Myalgia or muscle tenderness
+	* Cardio: HTN
+	* Neuro: Peripheral neuropathy, sensory or motor mononeuritis multiplex
+	* Renal: proteinuria, hematuria, RBC casts, GFR <50% normal for age
+* Labs: ANCA negative
+
+**Laboratory Studies**:
+
+* ANCA, ANA, C3/4, CRP, ESR
+* Urinalysis, Cr
+* Consider other causes: infectious, thrombotic, other autoimmune diseases
+
+**Complications**:
+
+* Acute: organ failure (cardiac, pulmonary, renal), thrombi, hemorrhage, infection
+* Chronic: HTN, ischemic cardiomyopathy, CKD, mesenteric arteritis, hearing loss, orchitis
+
+**Treatment**:
+
+* Mild (normal renal function, no significant/life-threatening complications): Steroids, may add Azathioprine or MTX
+* Moderate to severe (ex: kidney involvement, proteinuria, neuro/cardiac/GI complications): Steroids + Cyclophosphamide, with eventual switch from Cyclophosphamide to Azathioprine or MTX, TNF inhibitors useful as well, especially in cutaneous PAN and DADA2
+* Pheresis considered in organ threatening disease
+* HTN: ACE Inhibitor
+
+
+## Connective Tissue Disorders
+### _SLE_
+
+**Clinical**: 
+
+* Rash (malar, discoid), photosensitivity, serositis, nephritis, oral/nasal ulcers, seizure, psychosis, arthritis
+
+**Lab markers**: 
+
+* Cytopenias (+) 
+* anti-RNP (30%)
+* +anti-dsDNA (40-60%, assoc w SLE activity and lupus nephritis)
+* +anti-Smith (30%, w/ high specificity, remains + in remission)
+* +anti-SS-A (Ro, 40%)
+* +anti-SS-B (La, 10-15%, more specific than Ro)
+* Low C3/C4
+
+### _Juvenile Polymyositis_
+**Clinical**:
+ 
+* Proximal muscle weakness (symmetric) +/- tenderness
+* Makes up 3-6% of childhood idiopathic inflammatory myopathies 
+
+**Lab markers**:
+
+* CK
+* Aldolase
+* LDH
+* AST and ALT (rarely nl unless “burnt out”)
+* (+)anti-Jo-1 (20%, a/w ILD, mechanic hands)
+* (+)anti-mi2 (5-7%, a/w acute onset, shawl sign, good prognosis)
+
+
+### _Juvenile Dermatomyositis_
+**Clinical**:
+
+* Proximal muscle weakness (symmetric) +/- tenderness
+* Rash (heliotrope on upper eyelids, shawl sign on back, V-sign on chest)
+* Nailfold capillary changes (dilation, tortuosity) 
+* Gottron’s papules or scaly eruption over extensor surfaces such as knuckles (pathognomonic)
+* Skin ulcerations - indicate worse prognosis
+* Most common idiopathic inflammatory myopathy of childhood (85% of all such myopathies)
+
+**Other**:
+
+* ILD in 10%, upper esophageal involvement (dysphagia) in 25%; may cause life-threatening aspiration
+
+**Lab markers**:
+
+* (+)anti-Jo-1 (20%, a/w ILD, mechanic hands)
+* (+)anti-Mi2 (5-7%, a/w acute onset, shawl sign, good prognosis)
+* (+)anti-MDA5 (ILD, poor prognosis)
+
+
+### _Sjogren’s_
+**Clinical**:
+
+* Sicca sx (dry mouth/eyes)
+* Vasculitis
+* Interstitial nephritis
+* Neuropathy; 5% lifetime risk of NHL
+
+**Lab markers**:
+
+* (+)ANA
+* (+)anti-SS-A (Ro, 70%)
+* (+)anti-SS-B (La, 50-70%, more specific)
+* (+)RF
+
+
+### _Scleroderma_
+**Clinical**:
+
+* Skin tightening & thickening prox to forearms
+* Nail fold capillary dilatation & dropout
+* ILD & later stages PAH
+* GI dysmotility
+* Renal crisis (tx w/ ACE-I)
+
+**Lab markers**:
+
+* (+)anti-Scl 70 (30%)
+* (+)anti-centromere (15%)
+
+
+### _CREST_
+**Clinical**:
+
+* Calcinosis
+* Raynaud’s phenomenon
+* Esophageal dysmotility
+* Sclerodactyly
+* Telangiectasias
+
+**Lab markers**:
+
+* (+)anti-centromere (60%), associated with PAH
+* (+)anti-Scl 70 (15%)
+
+
+### _Mixed Connective Tissue Disease_
+**Clinical**:
+
+* Overlapping features of SLE
+* Polymyositis
+* Systemic sclerosis
+* Raynaud phenomenon
+* Swollen fingers
+* Arthritis
+* Inflam myopathy
+* Pleuritic
+* Pulm fibrosis, etc.
+
+**Lab markers**:
+
+* Anti-U1-RNP (Ribonucleoprotein) should be positive
+
+**Treatment**:
+
+* NSAIDs
+* Corticosteroids
+* ACE-I
+* Supportive measures
+
+## Systemic Lupus Erythematosus
+**Definition**:
+
+* Multiorgan system autoimmune disorder with markedly variable presentations/course
+
+**Epidemiology**:
+
+* F>M
+* Most often after age 8 yo
+* Median age of onset for juvenile SLE 12-13 yo
+* More common in people of Asian, African, and Hispanic race/ethnicity vs Caucasian  
+
+**Other presenting symptoms**:
+
+* Constitutional: Fever, Weight loss, Anorexia
+* Physical exam: Raynaud’s, LAD, HSM, HTN   
+
+**Neonatal Lupus Erythematosus (NLE)**:
+
+* 1-2% of Infants born to mothers w/ anti-Ro and/or anti-La antibodies (transplacental) 
+* Auto-Ab interfere w/ development of cardiac conduction system →  permanent AV block  <br>-Flat/erythematous, annular, photosensitive rash that spontaneously resolves ~6 mo of age (as maternal Abs dissipate)
+* No increased risk of autoimmune diseases later in life  
+
+|SLICC Criteria (Not validated in children/adolescents)|4+ criteria, including 1+ clinical and 1+ immunologic (serial or simultaneously), w/o alternative explanation OR SLE nephritis with +ANA/+dsDNA|
+|---|---|
+|**Acute cutaneous lupus**| Malar rash, bullous, TEN variant, photosensitive rash|  
+|**Chronic cutaneous lupus**|Discoid, hypertrophic/verrucous, panniculitis, mucosal, chilblains, erythema timidus|  
+|**Non-scarring alopecia**| Diffuse thinning or hair fragility with visible broken hairs |  
+| **Oral/Nasal Ulcers** |Palate, buccal, tongue, or nasal   
+| **Joint Disease** | Synovitis in 2+ joints (swelling/effusion) OR 2+ joint tenderness + >30m AM stiffness |   
+| **Serositis** |Pleurisy or pericardial pain ≥1d, pleural or pericardial effusion, pleural or pericardial rub, pericarditis on TTE |
+| **Renal** |≥ 500 mg protein/day or RBC casts |   
+| **Neuro** |Seizures, psychosis, mononeuritis multiplex, myelitis, peripheral/cranial neuropathy |  
+| **Hemolytic anemia** |Autoimmune (direct Coombs+), thrombotic MAHA (TTP, HUS) |
+| **Leuko/lymphopenia** |Leukopenia <4000/mm^3, lymphopenia <1000/mm^3 |  
+| **Thrombocytopenia** | <100,000/mm^3, including ITP, TTP   
+| **Immuno** | ANA (+) , Anti-dsDNA (+) or >twofold reference range on ELISA
+| **Low complement** |Low C3, C4, or CH50 |  
+| **Direct Coombs test** |Positive in absence of hemolytic anemia|
+| **Antiphospholipid** | Lupus anticoagulant, RPR (false positive), anticardiolipin Ab, or beta 2-glycoprotein I |   
+
+
+**Treatment**:
+
+* Initial: Hydroxychloroquine (< max 5 mh/kg/d, need regular ophtho evals for visual field testing and color vision) + glucocorticoids (IV or PO depending on severity) 
+* Mild: No renal/organ involvement→hydroxychloroquine, NSAIDS - arthralgia, Dapsone - derm, MT - arthritis. Can use LD prednisone (<0.35 mg/kg/d), but if needs >3 mo consider  second-line agent (ex: MMF) 
+* Mod: Renal/organ involvement → consider MMF, azathioprine, rituximab, systemic steroids
+* Severe: Substantial renal/neuro disease → cyclophosphamide
+* Flares:Steroids + MMF, or cyclophosphamide if already on MMF/azathioprine
+
+
+## Inflammatory Myopathies
+||Polymyositis|Dermatomyositis|Inclusion Body Myositis|
+|---|---|---|---|
+|**Path**|CD8+ T cells|CD4+ T Cells|Inflam/neurodegen|
+|**Clinical**|Symmetric proximal muscle weakness (shoulders)|Symmetric proximal muscle weaknessGottron papules, heliotrope (periorbital) rash,“shawl+face 'rash,“mechanics hands”|Distal >> Proximal muscle weakness (Extremely rare in children)|
+|**Labs**|Increased CK, ANA (+)|Increased CK, ANA (+)|Increased CK, ANA (+)|
+||Anti-MI-2/MJ|Anti-Jo-1 (Anti-tRNA-synthetase)|Anti-cN1A|
+||Bx: Endomysial inflam|Bx: Perimysial inflam/atrophy (myopathic), Von Willebrand Factor Ag|Bx: Basophilic rimmed vacuoles, ragged-red fibers|
+|**Assoc.**|Autoimmune (Crohn’s, Vasculitis, Sarcoidosis, MG)|Lipodystrophy, Calcinosis, ILD, GI bleed<br>Juvenile DM NOT assoc. w/ malignancy like adults|-|
+|**Treatment**|Steroids (prednisone) followed by long-term immunosuppression (MTX, cyclosporine)|Steroids (prednisone) followed by long-term immunosuppression (MTX, cyclosporine)|Not steroid responsive|
+
+## Sjogren Syndrome
+**Pathophysiology**:
+
+* Inflammatory autoimmune disorder of exocrine glands (salivary/lacrimal glands)
+
+**Exocrine features**:
+
+* Keratoconjunctivitis sicca → dry mouth, salivary hypertrophy, Xerosis of skin
+* Xerophthalmia (dry eyes, conjunctivitis, sensation of sand in eyes)
+* Xerostomia (dry mouth, dysphagia, enlarged parotid glands, dental caries)
+
+**Extraglandular features**:
+
+* Arthritis/arthralgias, Raynaud phenomenon, Cutaneous vasculitis, ILD
+
+**Lab tests**:
+
+* Anti-SSA (Anti-Ro) Abs and Anti-SSB (Anti-La) Abs
+* Schirmer Test – objective signs of decreased lacrimation
+* Salivary gland biopsy w/ focal lymphocytic sialadenitis
+
+
+**Treatment**:
+
+* Dry eyes: Artificial tears, cyclosporine drops 
+* Dry mouth: Muscarinic agonists – pilocarpine, cevimeline
+* Arthritis: Hydroxychloroquine or methotrexate
+
+## Pediatric arthritides: Approach to Joint Disease
+
+**Questions to consider**:
+
+* Which joint(s) is/are affected?
+* For how long? Persistent vs. intermittent?
+* Is there morning stiffness? 
+* Has the distribution changed over time?
+* Does anything make joint pain better or worse (e.g. movement or prolonged inactivity)?
+* What are associated symptoms (fever, rash, weight loss, etc.)?
+* Family history of arthritis or autoimmune disease?
+* Any exposures (camping, sexual activity, viral illness, etc.)?
+
+**Differential for joint pain**
+
+* ***Trauma/Overuse***: LCP, SCFE, patellar tendonitis, patellofemoral syndrome (sports med!)
+* ***Infection***:
+	* Septic arthritis (red, hot, angry, WBC >50K on joint tap)
+	* Lyme Disease (may or may not have seen tick or noticed other Lyme symptoms)
+	* Endocarditis (persistent fever and positive cultures)
+	* Rheumatic Fever (h/o strep throat)
+	* Transient Synovitis (h/o recent URI)
+* ***Inflammatory/Autoimmune***:
+	* Lupus
+	* JIA
+	* sJIA
+
+## Juvenile Idiopathic Arthritis 
+* International League Against Rheumatism (ILAR) →  6 sub-categories+ “undifferentiated” category (not shown)
+* Controversy as to whether  juvenile and adult inflammatory arthritides should be considered distinct from each other based on genetic and clinical parallels
+
+**Definitions**:
+
+* ***JIA***: Clinical diagnosis based on having objective signs of arthritis in ≥1 joint for ≥ 6 weeks in a child < 16 after other types of childhood arthritis have been excluded
+* ***Oligoarticular***: up to 4 joints affected in first 6 months after diagnosis. Can be “persistent” or “extended”, based on whether stays limited past the 6 month mark
+* ***Polyarticular***: affects more than 5 joints in first
+
+
+|Subtype|Age|F: M|% JIA|Pattern|Extra-articular/Notable Features|Treatment|
+|---|---|---|---|---|---|---|
+|**Systemic**|1-5|1:1|5-15|Polyarticular (U/L ext, neck, hips)|Recurrent fever and evanescent rash; organ dysfxn; MAS, *note uveitis rare in this population|NSAIDS, MTX, IL-1 inhibitor, IL-6 inhibitor|
+|**Oligo**|2-4|5:1|30-50|Knee, ankle, wrist, elbow|<5 joints|Uveitis|NSAIDs, intra-articular steroids, methotrexate (MTX), anti-TNF|
+|**Poly RF(-)**|2-4|8-12|3:1|10-30|Symmetric; small joints (e.g. hands)<br>>5 joints |Uveitis|NSAIDS, MTX, anti-TNF|
+|**Poly RF(+)**|9-12|3:1|<10|Symmetric; small joints (e.g. hands)<br> >5 joints|Rheumatoid nodules, *note uveitis rare in this population|NSAIDS, MTX, anti-TNF|
+|**Psoriatic**|2-4 |9-11|2:1|5-10|Knees, ankles, tenosynovitis of digits “sausage”|Uveitis, Psoriasis or FmHx, Dactylitis, Nail Changes|NSAIDS, steroids, MTX, anti-TNF|
+|**Enthesitis-related**|9-12|1:3|5-10|Sacroiliac/axial|IBD, HLA-B27 positivity|NSAIDS, steroids, sulfasalazine, anti-TNF
+
+## Systemic JIA (Still’s disease)
+
+* Complex pathogenesis:  autoimmune (genetic risk factor in MHC complex) vs. autoinflammatory (F=M, cyclic fevers, response to IL1 inhibitors) 
+	* Fever and rash may precede chronic arthritis 
+	* Early disease is mediated by inflammatory cytokines IL-1, IL-6 etc
+	* Macrophage activation syndrome is a complication associated with sJIA 
+	* ILAR classification: Arthritis in ≥1 joint with or preceded by fever for ≥2 weeks that manifests as a daily or “quotidian” in timing for at least 3 days + one or more of the following:
+		* Evanescent erythematous rash (i.e. comes and goes, often worse with fever)
+		* Lymphadenopathy
+		* Hepato/splenomegaly
+		* Serositis
+
+**Treatment**:
+
+* Cytokine inhibitors can attenuate disease progression (ie.anakinra and canakinumab)
+* For patients that develop chronic arthritis, co-stimulatory blockade of T-cells has anecdotally provided benefit (e.g. abatacept)
+
+## Macrophage Activation Syndrome (MAS)
+
+* A secondary form of hemophagocytic lymphohistiocytosis (HLH)
+* Dysregulation of the immune system with ineffective cytotoxic T and NK cell response leading to cytokine storm and over activation of macrophages 
+* Can occur with most systemic/rheumatic disorders (ie KD, SLE) OR in the setting of viral illnesses such as EBV 
+* Incidence is much higher in sJIA (~10-20%)
+* PRINTO diagnostic criteria for MAS in SJIA:
+	* Fever and serum ferritin > 684ng/mL + any two of the following:
+		* Platelet count ≤ 181*109/L
+		*  AST (>48U/L)
+		* Triglycerides > 156mg/dl
+		* Fibrinogen ≤ 360 mg/dl
+
+**Workup and Treatment**
+
+* BCH EBG available → Page 1 = workup (not shown); Page 2 = Treatment (below)
+* Multidisciplinary treatment of patient including Rheum and Immunology
+ \![MAS](MAS.png)
+
+## Fever of Unknown Origin 
+* Age >3 months 
+* Parent report of fever measured at >38 C daily for >=7 days 
+* No source identified during prior workup 
+* BCH EBG available 
+
+**Initial Workup**:
+
+* Chem 10, LFTs, Ferritin 
+* IgG level 
+* LDH, Uric acid 
+* UA, Urine culture 
+* Blood culture 
+* EBV, CMV
+* Viral respiratory testing, CXR 
+* Additional possible testing on individual basis: HIV, PPD/T-spot, Bartonella IgG and IgM, peripheral blood smear, echocardiogram
+
+**Consults**:
+
+* Infectious Disease 
+* Rheumatology (if >=1 met):
+	* Age <12 months with ESR >=40 mm/hr or CRP >3 mg/kL 
+	* Ferritin >=500
+	* IgG level >=2000 mg/dL
+	* Joint symptoms 
+	* Rash (especially malar, heliotrope, or livedo reticularis) 
+	* Serositis 
+	* Inflammatory eye disease
+	* 1st degree relative with rheumatologic disease 
+* GI
+	* Poor growth 
+	* Prominent GI symptoms 
+	* Anemia 
+	* Elevated inflammatory markers 
+* Immunology 
+	* Recurrent and/or opportunistic infections 
+	* Failure to thrive 
+* Oncology
+	* Abnormal CBC (cytopenias, blasts) 
+	* Elevated LDH and/or uric acid 
+
+	
+## Autoinflammatory Diseases
+**Autoimmune vs. Autoinflammatory**
+
+* In broad strokes, autoinflammatory conditions are thought to be due to disruptions in innate immunity, whereas autoimmune conditions are due to disruptions in immune tolerance/adaptive immunity
+* Autoinflammatory conditions often have mutations in genes related to the inflammatory cascade leading to uncontrolled inflammation with high levels of pro-inflammatory cytokines, fevers + rashes, and a similar incidence in males and females; biologics that block IL-1 and IL-6 can be helpful
+* Autoimmune conditions may have auto-antigens and auto-reactive T-cells and B-cells; fever is not a core feature, although may be present; usually F>M; drugs that inhibit T-cells and B-cells are more useful (e.g. calcineurin inhibitors, MTX, rituximab)
+* These divisions are not black and white, and most diseases are thought to lie on the spectrum and/or develop in immune pathophysiology over time (see sJIA)
+
+
+**Diagnosis**
+
+* Careful H&P (r/o malignancy, infection, cyclic neutropenia) → may confirm w/targeted genetic testing
+
+
+**Categories**
+
+* Includes both periodic fever syndromes as well as non-periodic fever syndromes
+
+### Periodic Fever Syndromes
+
+||FMF <br> (Familial Mediterranean Fever)|TRAPS <br> (TNF Rec.-associated Periodic Syndrome)| HIDS <br>(Hyper IgD Syndrome a.k.a. Mevalonate kinase deficiency (MDK))|MWS <br> (Muckle Wells Syndrome)| PFAPA <br> (Periodic Fever, Aphthous stomatitis, Pharyngitis, cervical adenitis)|
+|---|---|---|---|---|---|
+|**Inherit**.|AR|AD|AR|AD|Sporadic|
+|**Protein Defect**|Pyrin|TNF receptor|Mevalonate kinase|Cryopryrin| Unknown|
+|**Ethnicity**|Jewish, Turkish, Italian, Arab| Any|Dutch, French|Northern European|Any|
+|**Flare Duration**|1-3 days|>7-14 days|3-7 days|2-3 days|3-4 days|
+|**Interval Between Events**|Variable|Variable (days- wks)|Fixed (4-8 wks)|Variable <br>URI trigger|Fixed (2-8 wks)|
+|**Age of Onset**|School age|School age|Infancy|School age| Early childhood|
+|**Clinical**|Serositis<br>Peritonitis<br>Renal amyloidosis (if untreated)|Eye stuff (periorbital edema/pain, conjunctivitis)<br>Limb pain<br>Abdominal pain<br>Amyloidosis<br>Rash|LAD<br>Abdominal pain<br>Diarrhea<br>Arthralgias<br>Vomiting<br>Oral Ulcers<br>Developmental Delay (with complete enzyme deficiency)|Sensorineural hearing loss<br>Recurrent hives<br>Amyloidosis|Multiple fever spikes per a day<br>Sore throat<br>Mouth sores<br>Cervical LAD|
+|**Treatment**|Colchicine<br>IL-1 inhibitor (if resistant to colchicine)|Steroids<br>Etanercept<br>Some evidence for IL-1 inhibitors|NSAIDS/GCs/IL-1 inhibitor during attacks<br>IL-1 blockade or etanercept for maintenance|IL-1 Inhibitor|Steroids<br>Tonsillectomy|
+
+### Autoinflammatory Disorders without Periodic Fever
+* Chronic recurrent multifocal osteomyelitis (CRMO)
+	* Multifocal, non-infectious osteomyelitis, diagnosed with whole body MRI
+	* Pts may only be symptomatic in one location, making dx difficult 
+	* Red flags for CRMO (vs. infectious OM) include: clavicular lesions, bilateral/symmetric lesions, concurrent spondylarthritis/IBD/psoriasis/palmoplantar pustulosis, or OM that never had positive cultures and is persistently unresponsive to antibiotics
+* Deficiency of the interleukin-1 receptor antagonist (DIRA)
+* Pyogenic arthritis, pyoderma gangrenosum, and acne (PAPA)
+* Juvenile systemic granulomatosis (Blau Syndrome)
+* Chronic atypical neutrophilic dermatitis w/ lipodystrophy and elevated temperature (CANDLE)
+
+## Common Rheumatology Medications
+
+|Medication|Indication|MOA|Side Effects|
+|---|---|---|---|
+|**Glucocorticoids**|JIA, JRA, SLE, vasculitides| Activate the glucocorticoid receptor, decrease chemo/cytokine production, multiple genomic and nongenomic mechanisms|Cushing syndrome, growth suppression, osteoporosis, avascular necrosis, lymphopenia, psychosis, cataracts, myopathy, diabetes<br>IV methylprednisolone: hyper or hypotension, bradycardia, hyperglycemia, acute psychosis|
+|**Hydroxychloroquine** (Disease modifying antirheumatic drug/DMARD)|JDM, SLE, Sjogren’s|Alters pH of lysosomes, decreasing immune recognition of autoantigens|Retinopathy, N/V, hemolytic anemia in G6PD deficiency|
+|**Methotrexate** (DMARD)|JIA, RA,JDM, vasculitis, SLE|Dihydrofolate reductase inhibitor, give with folic acid|Hepatotoxicity, Pancytopenias, GI discomfort, Stomatitis|
+|**Sulfasalazine** (DMARD)|JIA, RA, IBD|Interferes with enzymes that produce leukotrienes, prostaglandins|Maculopapular rash on sun exposed area, Stomatitis, SJS, not given in G6PD def|
+|**Leflunomide** (DMARD)|JIA, RA, Psor. arthritis|Pyrimidine synthesis inhibitor|Hepatotoxicity, GI upset|
+|**Cyclophosphamide**|Vasculitis, scleroderma, lupus nephritis|Alkylating agent|Cytopenia, Hemorrhagic cystitis, Pulmonary fibrosis, Skin/bladder cancer (adults)|
+|**Azathioprine**|DM/PM, SLE, vasculitis|Antimetabolite|GI upset, myelotoxicity 
+|**Abatacept, Rituximab, Tocilizumab** (Biologics)|JIA, uveitis, RA|Non-TNF inhibitors<br>Abatacept (hIgG1+CTLR4, prevents APCs from activating T-cells)<br>Rituximab (anti-CD20,promotes B cell death)<br>Tocilizumab (anti-IL6)|Infection (TB), infusion reaction, GI upset/perforation|
+|**Adalimumab, Etanercept, Infliximab** (Biologics)|JIA, RA, Psoriatic arthritis, AS psoriasis, IBD, vasculitis (TA, DADA2)|TNF inhibitors|Infection (TB, fungal), lymphoma, MS|
+|**IVIG** (biologic)|KD |Prepared from pooled human plasma, neutralize autoantibodies/cytokines/complement|Anaphylactoid reaction, thromboembolism, aseptic meningitis, renal failure, hemolysis, do not give to IgA deficient pts|
