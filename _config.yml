@@ -2,8 +2,6 @@ theme: jekyll-theme-minimal
 title: BCRP Links
 description: Formerly mohsinali.ca but still in perennial development...
 
-
-
 #Blog Posts
 plugins:
 - jekyll-paginate
@@ -16,7 +14,6 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "Podcast" # The post list page content
-    
     
 defaults:
   -
