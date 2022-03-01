@@ -6,5 +6,4 @@ description: Formerly mohsinali.ca but still in perennial development...
 collections:
   posts:
     title: Posts # Needed for Siteleaf
-    output: true
     description: "Podcast" # The post list page content
