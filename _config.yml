@@ -2,7 +2,12 @@ theme: jekyll-theme-minimal
 title: BCRP Links
 description: Formerly mohsinali.ca but still in perennial development...
 
+
+
 #Blog Posts
+paginate: 2
+paginate_path: "/blog/page:num/"
+
 collections:
   posts:
     title: Posts # Needed for Siteleaf
