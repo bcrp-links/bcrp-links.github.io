@@ -83,4 +83,7 @@ VPNs:
 - [New England Consortium (Metabolic Crises Resource)](https://newenglandconsortium.org/for-professionals)
 - [Rick Malley's antibiotic charts](https://static1.squarespace.com/static/55c666c9e4b08b99adb9cf05/t/59242fadbe6594d8a0b3825c/1495543725984/Antibiotic+Coverage+Charts.pdf)
 
+### Podcast:
+- [BCRPod] (blog/index.html)
+
 Thank you for visiting!
