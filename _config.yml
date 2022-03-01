@@ -5,6 +5,9 @@ description: Formerly mohsinali.ca but still in perennial development...
 
 
 #Blog Posts
+plugins:
+- jekyll-paginate
+
 paginate: 2
 paginate_path: "/blog/page:num/"
 
