@@ -4,7 +4,7 @@
 
 [BCRP Handbook - 2019 pdf](files/bcrp-handbook-2019.pdf)
 
-[BCH, what's for lunch? 🍔](https://docs.google.com/spreadsheets/d/1Mx2bvaAADLV-5KPglnapgfTnoKmagDnbf0alMfsj1wA/)
+[BCH, what's for lunch? 🍔](https://docs.google.com/spreadsheets/d/1r9goxDdTpG5rM5ddT1uUa-SH9wUrIkHzuTSwKC_QDxw/edit#gid=0)
 
 [BCRP Noon Conference](https://bostonchildrens.zoom.us/j/95976278771?pwd=VWZRYmhQeUJRdERGbmxXVVNmYW9Ydz09)
 
