@@ -11,4 +11,25 @@ paginate_path: "/blog/page:num/"
 collections:
   posts:
     title: Posts # Needed for Siteleaf
+    output: true
     description: "Podcast" # The post list page content
+    
+    
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
