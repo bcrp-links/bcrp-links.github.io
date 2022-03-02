@@ -2,7 +2,7 @@
 title: BCRPod
 ---
 
-![BCRPod](./blog/BCRPod Logo.jpeg)
+![BCRPod](./blog/BCRPod_Logo.jpeg)
 
 BCRPod
 
