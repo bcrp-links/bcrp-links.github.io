@@ -2,5 +2,8 @@
 title: BCRPod
 ---
 
-BCRPod: Pilot Episode
-[BCRPod](./blog/BCRPod_Pilot_2.mp3)
+![BCRPod](./blog/BCRPod Logo.jpeg)
+
+BCRPod
+
+[Pilot Episode](./blog/BCRPod_Pilot_2.mp3)
