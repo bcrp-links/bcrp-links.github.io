@@ -4,7 +4,8 @@ title: BCRPod
 
 Episode 2: Pilot
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="./blog/BCRPod_Pliot_2.m4a" frameborder="0" allow="autoplay; encrypted-media">
-</div>
+<audio controls>
+  <source src="./BCRPod_Pilot_2.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
 
