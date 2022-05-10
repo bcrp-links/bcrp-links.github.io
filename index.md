@@ -82,6 +82,7 @@ VPNs:
 - [Lac Repair Guide](files/laceration-repair-guide.pdf)
 - [New England Consortium (Metabolic Crises Resource)](https://newenglandconsortium.org/for-professionals)
 - [Rick Malley's antibiotic charts](https://static1.squarespace.com/static/55c666c9e4b08b99adb9cf05/t/59242fadbe6594d8a0b3825c/1495543725984/Antibiotic+Coverage+Charts.pdf)
+- [Board Studying Materials](https://drive.google.com/drive/folders/1zlT04TwttbaB2C2MKOrPrw7CS_Sns8FT?usp=sharing)
 
 ### [BCRPod](./bcrpod.md)
 
