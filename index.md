@@ -86,4 +86,6 @@ VPNs:
 
 ### [BCRPod](./bcrpod.md)
 
+### [Financial Literacy Resources](https://drive.google.com/drive/folders/1h4mqeOOYy6D52pZikoVrU8_HTQXpF5d2?usp=sharing)
+
 Thank you for visiting!
