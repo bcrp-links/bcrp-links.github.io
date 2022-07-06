@@ -4,17 +4,16 @@
 
 [BCRP Handbook - 2019 pdf](files/bcrp-handbook-2019.pdf)
 
-[BCH, what's for lunch? 🍔](https://docs.google.com/spreadsheets/d/1r9goxDdTpG5rM5ddT1uUa-SH9wUrIkHzuTSwKC_QDxw/edit#gid=0)
-
-[BCRP Noon Conference](https://bostonchildrens.zoom.us/j/95976278771?pwd=VWZRYmhQeUJRdERGbmxXVVNmYW9Ydz09)
+[BCRP Noon Conference Zoom](https://bostonchildrens.zoom.us/j/99881114271?pwd=alYrUWF6QTU4UmNrUDJ6b0h4eGoxZz09)
+[BCRP Noon Conjerence Schedule](https://docs.google.com/spreadsheets/d/1S0arO5ojWyGS5NU7oEMJVeSgyVdNuGAZALgr3H9FG2U/edit#gid=1884716835)
 
 ### Phone Directories
 
 - [BCRP Phone Card](files/bcrp-phone-card-20-21.pdf)
 
-- [***NEW*** BCH Phone Directory (searchable)](phone/BCHPhone.html)
+- [BCH Phone Directory (searchable)](phone/BCHPhone.html)
 
-- [***NEW*** BMC Phone Directory (searchable)](phone/BMCPhone.html)
+- [BMC Phone Directory (searchable)](phone/BMCPhone.html)
 
 ### Virtual rounding resources
 
@@ -60,8 +59,8 @@ Paging:
 - [BMC On Call](http://oncall.bmc.org/)
 
 SERS---file 'em at 
-[BCH](http://sersmsprod.chboston.org/RL6_Prod/Homecenter/Client/Login.aspx?ReturnUrl=%2fRL6_PROD%2f) or 
-[BMC](https://rl.bmc.org/RL_BMC_Prod/)
+- [BCH](http://sersmsprod.chboston.org/RL6_Prod/Homecenter/Client/Login.aspx?ReturnUrl=%2fRL6_PROD%2f) or 
+- [BMC](https://rl.bmc.org/RL_BMC_Prod/)
 
 VPNs:
 - [BCH Remote Access](https://myapps.childrens.harvard.edu/vpn/index.html)
@@ -75,7 +74,6 @@ VPNs:
 - [BMC Clinic Resources](https://docs.google.com/document/d/1fKMJqRPYKDcch9WPT2txDJf1stmheE13dhnxrd0CMlY/edit?usp=sharing)
 - [ExTrip Toxicology Overdose Recommendations](https://www.extrip-workgroup.org/)
 - [BMC NB Board](files/bmc-ward-board.jpeg)
-- [CHPCC Vaccines & Screening Board](files/chpcc-clinic-board.jpg)
 - [DKA 2-bag Method Calculator](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/pcmref/pcmref/ref_pharm_DKA_rate_calculator.xlsx)
 - [Jia's Quick Hits](https://www.dropbox.com/sh/0ch5lfyelxu2v8r/AAAs4bK_pqlr0FpEw8LoC4dCa?dl=0&lst=)
 - [Ladd or Gross?](files/ladd-gross.jpeg)
