@@ -49,9 +49,10 @@
 - [Connect Messenger](https://communication.careawareconnect.com)
 
 Emails:
-- [BCH](https://email.tch.harvard.edu/)
+- [BCH](http://outlook.com/owa/chboston.org)
 - [BMC](https://mail.bmc.org)
 - [Lightning Bolt](https://s2.lightning-bolt.com)
+- [Change BCH Password](https://accessmanager.chboston.org/AccessOptions/HTML/LandingPages/RemoteAccessManager.asp)
 
 Paging:
 - [BCH](https://chpage.tch.harvard.edu/webxchange)
@@ -59,7 +60,7 @@ Paging:
 - [BMC On Call](http://oncall.bmc.org/)
 
 SERS---file 'em at 
-- [BCH](http://sersmsprod.chboston.org/RL6_Prod/Homecenter/Client/Login.aspx?ReturnUrl=%2fRL6_PROD%2f) or 
+- [BCH](http://sersmsprod.chboston.org/RL6_Prod/Homecenter/Client/Login.aspx?ReturnUrl=%2fRL6_PROD%2f)
 - [BMC](https://rl.bmc.org/RL_BMC_Prod/)
 
 VPNs:
