@@ -5,7 +5,8 @@
 [BCRP Handbook - 2019 pdf](files/bcrp-handbook-2019.pdf)
 
 [BCRP Noon Conference Zoom](https://bostonchildrens.zoom.us/j/99881114271?pwd=alYrUWF6QTU4UmNrUDJ6b0h4eGoxZz09)
-[BCRP Noon Conjerence Schedule](https://docs.google.com/spreadsheets/d/1S0arO5ojWyGS5NU7oEMJVeSgyVdNuGAZALgr3H9FG2U/edit#gid=1884716835)
+
+[BCRP Noon Conference Schedule](https://docs.google.com/spreadsheets/d/1S0arO5ojWyGS5NU7oEMJVeSgyVdNuGAZALgr3H9FG2U/edit#gid=1884716835)
 
 ### Phone Directories
 
