@@ -48,6 +48,7 @@
 - [BCH Clinical Pathways](https://bchfit.tch.harvard.edu/clinical-pathways/www/index.html#/home)
 - [BCH Isolation Precautions by Disease](http://chbshare.chboston.org/elibrary/ptsvc/tools/ref/refipc/refipc/ref_ic_prec_by_disease.doc)
 - [Connect Messenger](https://communication.careawareconnect.com)
+- [Institutional Messenger Code Website](http://web2.tch.harvard.edu/connect/mainpageS3165P6.html)
 
 Emails:
 - [BCH](http://outlook.com/owa/chboston.org)
