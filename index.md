@@ -70,6 +70,7 @@ VPNs:
 - [BCH Citrix](https://ctxaccess.mybmc.org)
 - [BMC](https://ctxaccess.mybmc.org/)
 - [BWH](https://workspace.partners.org/vpn/index.html)
+- [Pubmed Access](https://pubmed.ncbi.nlm.nih.gov/?otool=machhlib,hulib)
 
 ### Resources:
 
