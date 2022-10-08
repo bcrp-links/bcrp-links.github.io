@@ -1,6 +1,8 @@
 [Got a suggestion for this site? Drop a comment!](https://forms.gle/cCPaitdskAdVLr1P8)
 
-[BCRP Handbook - 2020 ebook ***new!***](https://bcrplinks.ca/BCRP_handbook/book/)
+[BCRP Rapid Reference](files/BCRP_Rapid_Reference.pdf)
+
+[BCRP Handbook - 2020 ebook](https://bcrplinks.ca/BCRP_handbook/book/)
 
 [BCRP Handbook - 2019 pdf](files/bcrp-handbook-2019.pdf)
 
