@@ -35,7 +35,7 @@
 - [ED & Urgent Care](https://bit.ly/bcrpedurgent)
 - [WCC](https://bit.ly/bcrpwcc)
 
-### Calculators/programs
+### Calculators/Programs
 
 *Please verify the math*
 
@@ -43,6 +43,7 @@
 - [Meds list formatter](calcs/meds.html)
 - [PCA bolus frequency](calcs/pca.html)
 - [QTc by boxes](calcs/qtc.html)
+- [BCRP Swap Calculator](calcs/swap_calc.html)
 
 ### Links
 
